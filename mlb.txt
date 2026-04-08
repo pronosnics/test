@@ -1,0 +1,230 @@
+import re
+import time
+import json
+import os
+import random
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from urllib.parse import urljoin
+
+# ------------------ CONFIG ------------------
+HEADLESS = True 
+OUTPUT_JSON = "/var/www/html/mlb/stats_mlb_2025.json" 
+SAVE_EVERY_N_MATCHES = 2 # Salviamo spesso perché facciamo due chiamate a partita
+MAX_MATCHES = 500
+CLICKS_TO_EXPAND = 5
+# --------------------------------------------
+
+# --- CONFIGURAZIONE VPS ---
+options = Options()
+options.add_argument("--headless=new")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--window-size=1920,1080")
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.115 Safari/537.36")
+
+DRIVER_PATH = '/usr/local/bin/chromedriver'
+try:
+    service = Service(DRIVER_PATH)
+    driver = webdriver.Chrome(service=service, options=options)
+except:
+    driver = webdriver.Chrome(options=options)
+
+wait = WebDriverWait(driver, 10)
+
+# --- FUNZIONI UTILI ---
+
+def extract_player_id(url):
+    if not url: return None
+    parts = url.strip('/').split('/')
+    return parts[-1] if parts and len(parts) > 1 else None
+
+def humanize_team(slug):
+    parts = slug.split("-")
+    if len(parts) > 1 and len(parts[-1]) >= 6 and re.search(r"[A-Za-z]", parts[-1]):
+        parts = parts[:-1]
+    return " ".join(p.title() if len(p) > 2 else p.upper() for p in parts)
+
+def extract_teams(url):
+    m = re.search(r"/partita/baseball/([^/]+)/([^/]+)", url)
+    if not m: return "Home", "Away"
+    return humanize_team(m.group(1)), humanize_team(m.group(2))
+
+def wait_for_mlb_table():
+    """Attesa con scroll per attivare il caricamento della tabella"""
+    driver.execute_script("window.scrollTo(0, 400);")
+    time.sleep(1.5)
+    try:
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.playerStatsTable")))
+        return True
+    except:
+        return False
+
+def scrape_team_table(team_name):
+    """Estrae i dati dei giocatori presenti nella pagina corrente (Casa o Trasferta)"""
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    tables = soup.find_all("div", class_="ui-table playerStatsTable")
+    players_found = []
+
+    for table in tables:
+        # Identifica ruolo (Pitcher vs Battitore)
+        header = table.get_text().lower()
+        is_pitcher = "pitcher" in header or "lanciatori" in header
+        role = "Pitcher" if is_pitcher else "Batter"
+
+        rows = table.find_all("div", class_="ui-table__row")
+        for row in rows:
+            try:
+                name_cell = row.find("div", class_="playerStatsTable__participantNameCell")
+                if not name_cell: continue
+                
+                name = name_cell.get_text(strip=True)
+                link = row.find("a")
+                p_id = extract_player_id(link["href"]) if link else None
+                
+                cells = row.find_all("div", class_="playerStatsTable__cell")
+                values = [c.get_text(strip=True) for c in cells]
+                # values[0] è di solito l'abbreviazione team, le stats partono da values[1]
+
+                if is_pitcher:
+                    # Pitcher: BB, SO, IP, HA, ER, HR, ERA
+                    stats = {
+                        "BB": values[1] if len(values)>1 else "-",
+                        "SO": values[2] if len(values)>2 else "-",
+                        "IP": values[3] if len(values)>3 else "-",
+                        "HA": values[4] if len(values)>4 else "-",
+                        "ER": values[5] if len(values)>5 else "-",
+                        "HR": values[6] if len(values)>6 else "-",
+                        "ERA": values[7] if len(values)>7 else "-"
+                    }
+                else:
+                    # Batter: AB, H, RBI, BB, SO, LOB, BA
+                    stats = {
+                        "AB": values[1] if len(values)>1 else "-",
+                        "H": values[2] if len(values)>2 else "-",
+                        "RBI": values[3] if len(values)>3 else "-",
+                        "BB": values[4] if len(values)>4 else "-",
+                        "SO": values[5] if len(values)>5 else "-",
+                        "LOB": values[6] if len(values)>6 else "-",
+                        "BA": values[7] if len(values)>7 else "-"
+                    }
+
+                players_found.append({
+                    "player_name": name,
+                    "team_name": team_name,
+                    "role": role,
+                    "player_id": p_id,
+                    "stats": stats
+                })
+            except: continue
+    return players_found
+
+# --- MAIN ---
+
+try:
+    driver.get("https://www.flashscore.it/baseball/usa/mlb/risultati/")
+    time.sleep(4)
+
+    # Chiudi cookie
+    try:
+        btn = wait.until(EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler")))
+        driver.execute_script("arguments[0].click();", btn)
+    except: pass
+
+    # Espandi risultati
+    for i in range(CLICKS_TO_EXPAND):
+        try:
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)
+            show_more = wait.until(EC.presence_of_element_located((By.XPATH, "//a[.//span[contains(text(), 'Mostra più incontri')]]")))
+            driver.execute_script("arguments[0].click();", show_more)
+            time.sleep(3)
+        except: break
+
+    # Lista match
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    match_elements = soup.select("div.event__match")
+    matches = []
+    for el in match_elements:
+        link = el.find("a", class_="eventRowLink")
+        if not link: continue
+        m_url = urljoin("https://www.flashscore.it", link["href"]).split("#")[0]
+        m_date = el.find("div", class_="event__time").get_text(strip=True) if el.find("div", class_="event__time") else ""
+        matches.append({"url": m_url, "date": m_date})
+
+    # Rimuovi duplicati e limita
+    seen_urls = set()
+    unique_matches = []
+    for m in matches:
+        if m["url"] not in seen_urls:
+            unique_matches.append(m)
+            seen_urls.add(m["url"])
+    
+    matches_to_process = unique_matches[:MAX_MATCHES]
+    print(f"Partite trovate: {len(matches_to_process)}")
+
+    all_data = {}
+    if os.path.exists(OUTPUT_JSON):
+        try:
+            with open(OUTPUT_JSON, "r", encoding="utf-8") as f:
+                all_data = json.load(f).get("matches", {})
+        except: pass
+
+    count_saved = 0
+    for i, m_obj in enumerate(matches_to_process):
+        m_url = m_obj["url"]
+        m_id = m_url.split("/")[-1] if not m_url.endswith("/") else m_url.split("/")[-2]
+        if "-" in m_id: m_id = m_id.split("-")[-1]
+
+        if m_id in all_data: continue
+
+        home_name, away_name = extract_teams(m_url)
+        print(f"\n[{i+1}/{len(matches_to_process)}] Analisi: {home_name} vs {away_name}")
+
+        match_players = []
+
+        # 1. SCRAPE CASA
+        casa_url = m_url + "riassunto/statistiche-giocatore/casa/"
+        driver.get(casa_url)
+        if wait_for_mlb_table():
+            match_players.extend(scrape_team_table(home_name))
+            print(f"    - Casa: {home_name} OK")
+        
+        time.sleep(random.uniform(1, 2))
+
+        # 2. SCRAPE TRASFERTA
+        trasferta_url = m_url + "riassunto/statistiche-giocatore/trasferta/"
+        driver.get(trasferta_url)
+        if wait_for_mlb_table():
+            match_players.extend(scrape_team_table(away_name))
+            print(f"    - Trasferta: {away_name} OK")
+
+        if match_players:
+            all_data[m_id] = {
+                "match_id": m_id,
+                "date": m_obj["date"],
+                "home": home_name,
+                "away": away_name,
+                "players": match_players
+            }
+            count_saved += 1
+
+        if count_saved > 0 and count_saved % SAVE_EVERY_N_MATCHES == 0:
+            with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+                json.dump({"matches": all_data}, f, ensure_ascii=False, indent=2)
+            print("    [Sistema] Dati salvati su file.")
+
+        time.sleep(random.uniform(2, 4))
+
+    # Salvataggio finale
+    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+        json.dump({"matches": all_data}, f, ensure_ascii=False, indent=2)
+
+finally:
+    driver.quit()
+    print("\nScraping concluso.")
