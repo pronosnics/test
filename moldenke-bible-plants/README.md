@@ -3,8 +3,10 @@ Traduzione italiana editabile del volume *Bible Plants* (Moldenke), preparatoria
 
 ## Stato e materiali
 - [Registro dei progressi](./Moldenke_PROGRESSI.md) — fonte di verità per pagine concluse, parziali e mancanti.
-- [Testo italiano cumulativo 1–127](./Moldenke_traduzione_italiana_01-127_PARZIALE_EDITABILE.md) — bozza di traduzione, non ancora sottoposta a revisione filologica finale.
-- Prossimo blocco da elaborare: **pagine stampate 128–137**.
+- [**Master cumulativo sempre aggiornato**](./TRADUZIONE_EDITABILE.md) — testo italiano editabile, ancora da revisionare filologicamente.
+- [Versione iniziale 1–127](./Moldenke_traduzione_italiana_01-127_PARZIALE_EDITABILE.md) — snapshot conservata per confronto.
+- [Task GitHub generale](../../issues/1) — avanzamento fino all'ultima pagina.
+- **Automazione attiva ogni 4 ore**; al momento la pagina **128** è stata aggiunta al master e le prossime da lavorare sono **129–137**.
 - Lacune note: **82–83**, **106–107**; pagina **111** parziale.
 
 ## Convenzioni di lavoro
