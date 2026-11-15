@@ -4,13 +4,17 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–225**: **220 pagine stampate complete di testo**, quattro assenti e una parziale entro la 225. Le tavole originali sono preservate nel PDF; i file immagine separati della nuova fase sono ancora da caricare su GitHub.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–227**: **222 pagine stampate con testo/didascalie tradotti**, quattro assenti e una parziale entro pagina 227. **Attenzione:** la figura 30 della pagina 226 è stata estratta dal PDF ma non ancora archiviata in formato immagine su GitHub; per la conservazione illustrativa del blocco resta un'operazione pendente.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 221 pagine stampate esaminate (220 con testo completo + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **226–328**.
-**Prossimo intervallo:** **226–227**, includendo tavola 30 e didascalia; poi 228–237.
+**Copertura di lavoro:** 223 pagine stampate esaminate (222 con testo completo + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **228–328**.
+**Prossimo intervallo:** **228–237**; poi 238–247 e così via fino alla 328.
 
-## Blocco 218–227 in corso (15 novembre 2026)
+## Blocco 218–227: testo e didascalie completi; archivio figura 30 pendente (15 novembre 2026)
+
+- **Pagina 226 (PDF 222):** tavola originale della **Figura 30**, tamerici presso Wady es Sheikh nel Sinai; didascalia italiana integrale nel master. Il file PNG della figura è stato estratto fedelmente nel container ma **non ancora caricato sul repository**: serve il successivo trasferimento di `Moldenke_Figura_30_originale.png` in `figure/`. Non considerare questo compito grafico completato.
+- **Pagina 227 (PDF 223):** testo integrale delle tre specie di `Tamarix`, passi biblici e note 148–149. File individuale creato; testo di lavoro prosegue alla 228.
+- **Blocco `TRADUZIONE_218-227.md`** creato, con le dieci pagine stampate nella corretta sequenza; la conservazione del file originale della figura 30 è ancora pendente.
 
 - **Pagine 224–225** tradotte sulle scansioni **PDF 220–221**: voci *Styrax benzoin* e *Styrax officinalis*, onice/stacte, nota 147 e disegno originale «STACTE». L'immagine del disegno è stata estratta fedelmente dal PDF come file PNG locale, ma **non è ancora caricata nel repository**: questa operazione resta necessaria per la conservazione autonoma in GitHub. Prossime 226–227.
 
@@ -37,7 +41,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **225**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **227**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
