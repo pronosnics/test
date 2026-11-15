@@ -282,3 +282,20 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Lacune permanenti da conservare:** **82–83 e 106–107 mancanti** nel PDF originale; **111 parziale**. Non segnate come tradotte integralmente.
 - **Avanzamento:** **172 pagine stampate complete** fino a 177, quattro pagine mancanti e una parziale; il totale non coincide con le 324 pagine digitalizzate.
 - **Stato editoriale:** traduzione di lavoro, non revisione filologica definitiva; nessuna pubblicazione WordPress.
+
+## Blocco 168–177 completato — 15 novembre 2026
+
+- **Pagine stampate 168–177** tradotte integralmente in prima stesura di lavoro sulla base del PDF originale, con controllo di testi e scansioni; corrispondono alle pagine **164–173 del PDF digitalizzato**.
+- **168:** conclusione della trattazione storico-medica di *Pasteurella pestis*; nota originale **93**.
+- **169–172:** *Phoenix dactylifera* (palma da datteri): tutti i passi biblici riportati dagli autori, descrizioni botaniche, coltivazione, usi, toponimi, tradizioni e nota originale **94**; si conclude la voce e inizia *Phragmites communis* a pagina 172, nota originale **95**.
+- **173:** conclusione di *Phragmites communis*, canne da scrittura, rotoli e materiali scrittori; inizio di *Pinus brutia* con versetti.
+- **174–175:** *Pinus brutia*: identificazione dei coniferi nei diversi testi biblici, morfologia, interpretazioni degli autori e note originali **96–98**. A pagina 175 inizia *Pinus halepensis*.
+- **176–177:** *Pinus halepensis*, discussione del lessico e delle traduzioni, nota originale **99**. A pagina 177 inizia *Pistacia lentiscus*, con Genesi 43:11 e Susanna 54, descrizione del mastice e nota originale **100**.
+- **Illustrazioni nel blocco:** nessuna nuova tavola a piena pagina; presenti rimandi alle **figure 9, 28, 70, 92, 73 e 74**, da conservare nella futura impaginazione.
+- **Consegna del blocco:** [TRADUZIONE_168-177.md](TRADUZIONE_168-177.md) e corrispondenti singole pagine `TRADUZIONE_168.md`–`TRADUZIONE_177.md`, tutte integrate senza duplicazioni in `TRADUZIONE_EDITABILE.md`.
+- **Verifica automatica del master:** una sola intestazione per ciascuna pagina stampata 168–177. Entro la pagina stampata 177, le sole pagine senza intestazione sono **82–83** e **106–107**, lacune del PDF sorgente.
+- **Lacune permanenti:** **82–83 e 106–107 MANCANTI**, **111 PARZIALE/illeggibile**. Nessuna nuova lacuna riscontrata tra 168 e 177.
+- **Contabilità corretta:** fino alla pagina stampata **177**, risultano **172 pagine complete**, **4 mancanti** e **1 parziale**. Sono **324 le pagine digitalizzate del PDF**, non le pagine stampate tradotte.
+- **Stato editoriale:** traduzione di lavoro modificabile; la revisione filologica definitiva e una verifica puntuale della grafia di alcuni termini greci restano da svolgere. Le attribuzioni botaniche e mediche storiche degli autori non sono state aggiornate silenziosamente.
+- **Word cumulativo:** non rigenerato in questa esecuzione; il master Markdown sul repository è la fonte aggiornata e modificabile.
+- **Prossimo blocco:** pagine stampate **178–187**. Nessun aggiornamento automatico su WordPress.
