@@ -4,13 +4,13 @@ Traduzione italiana editabile del volume *Bible Plants* di H. N. e A. L. Moldenk
 
 ## Stato corrente
 
-- [Master cumulativo](TRADUZIONE_EDITABILE.md): traduzione di lavoro aggiornata fino alla pagina stampata **210**.
+- [Master cumulativo](TRADUZIONE_EDITABILE.md): traduzione di lavoro aggiornata fino alla pagina stampata **211**.
 - [Registro dei progressi](Moldenke_PROGRESSI.md): riepilogo aggiornato e cronologia dei blocchi.
 - [Blocco 178–187](TRADUZIONE_178-187.md) e [blocco 188–197](TRADUZIONE_188-197.md), anche in file individuali.
-- **Blocco 208–217 in corso: pagine 208–210 completate; prossime 211–217**. Prosecuzione automatica già attiva ogni ora fino alla pagina stampata **328**, comprese bibliografia, appendici e indice.
-- **205 pagine stampate complete** entro la 208; **82–83 e 106–107 mancanti**, **111 parziale**.
+- **Blocco 208–217 in corso: pagine 208–211 completate; prossime 212–217**. Prosecuzione automatica già attiva ogni ora fino alla pagina stampata **328**, comprese bibliografia, appendici e indice.
+- **206 pagine stampate complete** entro la 211; **82–83 e 106–107 mancanti**, **111 parziale**.
 - Il PDF originale contiene **324 scansioni** e arriva al numero stampato **328**: i due conteggi sono distinti.
-- [Pagina 208](TRADUZIONE_208.md), verificata sulla scansione PDF 204; [pagina 209](TRADUZIONE_209.md), verificata sulla scansione PDF 205; [pagina 210](TRADUZIONE_210.md), verificata sulla scansione PDF 206.
+- [Pagina 208](TRADUZIONE_208.md), verificata sulla scansione PDF 204; [pagina 209](TRADUZIONE_209.md), verificata sulla scansione PDF 205; [pagina 210](TRADUZIONE_210.md), verificata sulla scansione PDF 206; [pagina 211](TRADUZIONE_211.md), verificata sulla scansione PDF 207.
 - [Blocco 198–207](TRADUZIONE_198-207.md), con figura 29, disegno del melograno e spiegazione dell'ordine invertito delle scansioni 196–197 nel registro.
 - [Figura 28 originale](figure/Moldenke_Figura_28_originale.png), con didascalia italiana nel master alla pagina 192.
 
