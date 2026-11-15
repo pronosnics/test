@@ -4,13 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–242**: **237 pagine stampate con testo/didascalie tradotti**; quattro assenti e 111 parziale. Conservazione dei PNG delle figure originali estratti ancora da completare in GitHub.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–244**: **239 pagine con testo e didascalie tradotti**; quattro assenti, 111 parziale. Illustrazioni da trasferire su GitHub.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 238 pagine stampate esaminate (237 testo completo + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **243–328**.
-**Prossimo intervallo:** **243–247** per concludere il blocco 238–247.
+**Copertura di lavoro:** 240 pagine stampate esaminate (239 testo completo + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **245–328**.
+**Prossimo intervallo:** **245–247**, poi 248–257.
 
 ## Blocco 238–247 in corso (15 novembre 2026)
+
+- **Pagine 243–244** tradotte sulle scansioni PDF **239–240**, conclusa la voce *Vitis vinifera*, conservando discussione storica, terminologia ebraica e nota 157. Restano 245–247; p246 contiene tavola ruotata con figure 33 e 34.
 
 - **Pagine 241–242** tradotte sulle scansioni PDF **237–238**. Tutti i versetti citati sulla vite e l'inizio della trattazione storica di *Vitis vinifera* sono nel master; prossime 243–247.
 
@@ -58,7 +60,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **242**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **244**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
