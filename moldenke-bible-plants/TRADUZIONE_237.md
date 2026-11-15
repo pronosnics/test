@@ -1,0 +1,18 @@
+## Pagina originale 237
+
+### 221. *Urtica caudata* Vahl — 222. *Urtica dioica* L.
+### 223. *Urtica pilulifera* L. — 224. *Urtica urens* L.
+
+**Isaia 34:13** — E nei suoi palazzi spunteranno spine, ortiche e rovi nelle sue fortezze; sarà una dimora per draghi e un cortile per gufi.
+
+**Osea 9:6** — ... i luoghi piacevoli per il loro argento saranno occupati dalle ortiche; le spine cresceranno nei loro tabernacoli.
+
+Poiché nell'ebraico vengono impiegate due parole diverse per ciò che la versione King James traduce «ortiche», vi è qualche dubbio sull'identità delle piante in questione. La parola «chârûl» (greco, φρύγανα ἄγρια, secondo il dizionario «un bastone secco selvatico o ruvido») ricorre in Giobbe 30:7, Proverbi 24:31 e Sofonia 2:9, mentre «kimmôsh» (greco, ἄκανθα, «pianta spinosa», e ὄλεθρος, «rovina o distruzione») è la parola adoperata in Isaia 34:13 e Osea 9:6.
+
+Le «ortiche» di Giobbe e Sofonia furono identificate con *Acanthus* da Tristram, e noi concordiamo con questa identificazione. *A. syriacus* (si veda la relativa voce) è una pianta perenne vigorosa, dalle foglie spinose, ed è un'erbaccia comune e fastidiosa nelle pianure della Palestina. Seguiamo anche Royle nel ritenere che le «ortiche» dei Proverbi fossero senape selvatica, *Sinapis arvensis* (si veda la relativa voce), che invade e infesta rapidamente i campi dell'agricoltore pigro, rendendoli assai variopinti con i suoi fiori gialli. Pratt (268) era colpito dal fatto evidente che né uomini né animali si sarebbero volontariamente sdraiati in mezzo a vere ortiche e pertanto propose la senape selvatica anche per le «ortiche» di Giobbe. Le «ortiche» di Isaia, tuttavia, sono state considerate da vari autori camomilla, cardo, spino, cappero e, da Pratt, vere ortiche (268). Shaw riteneva che tutti i riferimenti alle «ortiche» in Giobbe, Proverbi, Isaia, Osea e Sofonia si riferissero a *Urtica* (293). John Smith, d'altra parte, sembra credere che soltanto quelli di Osea, Isaia e Proverbi fossero vere ortiche (299). R. Levi, Martin Lutero e le versioni svedese e antico-danese ritenevano tutti che la parola ebraica «mallûach» di Giobbe 30:4 si riferisse alle ortiche. Noi consideriamo quel passo riferito a specie di *Atriplex* (si veda la relativa voce).
+
+Le quattro specie di vere ortiche presenti in Palestina sono l'ortica comune o grande, *Urtica dioica*; l'ortica romana, *U. pilulifera*; l'ortica piccola, *U. urens*; e l'affine *U. caudata*¹⁵⁵. Alcune di queste piante raggiungono spesso 5 o 6 piedi d'altezza. Sono tutte comuni piante infestanti dei luoghi incolti e dei campi. È piuttosto consueto vederle occupare terreni un tempo coltivati ma poi trascurati, e anche i terreni attorno agli edifici in rovina, proprio come descritto da Isaia e Osea. Si dice che la puntura dell'ortica romana sia molto più irritante di quella di qualunque specie americana (178). Moffatt e le versioni Douay e Goodspeed continuano a considerare le «ortiche» di Isaia e Osea come *Urtica*.
+
+Le ortiche erano un tempo utilizzate in medicina fra le popolazioni rurali come stufato per curare quasi ogni malanno (125, 126). I giovani germogli vengono ancora spesso mangiati (126). Si afferma che l'ortica romana sia stata introdotta in Gran Bretagna e forse in altre parti dell'Europa settentrionale dai soldati di Cesare, «che, non avendo calzoni abbastanza spessi per permettere loro di resistere al clima, soffrivano molto nelle nebbie fredde e umide; così, quando avevano le gambe intorpidite, coglievano ortiche e si sfregavano tanto quelle membra che bruciavano e pizzicavano magnificamente per il resto della giornata» (298).
+
+¹⁵⁵ Chiamata anche *Urtica membranacea* Poir.

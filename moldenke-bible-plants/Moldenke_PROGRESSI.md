@@ -4,13 +4,16 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–234**: **229 pagine con testo e didascalie tradotti**; quattro assenti, 111 parziale. Figura 30 da archiviare nel repository come immagine autonoma.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–237**: **232 pagine con testo e didascalie tradotti**, quattro assenti e una parziale. **Illustrazioni estratte ma non ancora caricate come file indipendenti su GitHub:** figura 30, disegno «STACTE» p225 e disegno p236.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 230 pagine stampate esaminate (229 testo completo + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **235–328**.
-**Prossimo intervallo:** **235–237**, poi 238–247.
+**Copertura di lavoro:** 233 pagine stampate esaminate (232 con testo completo + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **238–328**.
+**Prossimo intervallo:** **238–247**, poi successivi fino alla pagina 328.
 
-## Blocco 228–237 in corso (15 novembre 2026)
+## Blocco 228–237: testo e didascalie completi; disegno p236 da archiviare (15 novembre 2026)
+
+- **Pagine 235–237** tradotte sulle scansioni **PDF 231–233**: *Tulipa montana*, *Tulipa sharonensis*, *Typha angustata*, quattro *Urtica*, e nota originale 155. Il disegno senza didascalia della p236 è stato estratto fedelmente dal PDF in `Moldenke_Disegno_p236_originale.png` nel container ma **non ancora caricato in `figure/` su GitHub**.
+- **Blocco `TRADUZIONE_228-237.md`** creato con dieci pagine in ordine crescente, testo e didascalie completi. Il file del disegno di p236 deve ancora essere archiviato in GitHub.
 
 - **Pagine 232–234** completate, scansioni **PDF 228–230**: lavorazione del grano, terminologia ebraica, spelta, inizio delle voci *Tulipa* e note 154, 154a e 154b. Documenti individuali e master aggiornati; restano 235–237.
 
@@ -49,7 +52,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **234**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **237**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
