@@ -4,11 +4,11 @@ Traduzione italiana editabile del volume *Bible Plants* di H. N. e A. L. Moldenk
 
 ## Stato corrente
 
-- [Master cumulativo](TRADUZIONE_EDITABILE.md): traduzione di lavoro aggiornata fino alla pagina stampata **237**.
+- [Master cumulativo](TRADUZIONE_EDITABILE.md): traduzione di lavoro aggiornata fino alla pagina stampata **240**.
 - [Registro dei progressi](Moldenke_PROGRESSI.md): riepilogo aggiornato e cronologia dei blocchi.
 - [Blocco 178–187](TRADUZIONE_178-187.md) e [blocco 188–197](TRADUZIONE_188-197.md), anche in file individuali.
 - **Blocco 208–217 **completato**; prossimo 218–227**. Prosecuzione automatica già attiva ogni ora fino alla pagina stampata **328**, comprese bibliografia, appendici e indice.
-- **232 pagine stampate con testo e didascalie tradotti** entro la 237; **82–83 e 106–107 mancanti**, **111 parziale**.
+- **235 pagine stampate con testo e didascalie tradotti** entro la 240; **82–83 e 106–107 mancanti**, **111 parziale**.
 - Il PDF originale contiene **324 scansioni** e arriva al numero stampato **328**: i due conteggi sono distinti.
 - [Pagina 208](TRADUZIONE_208.md), verificata sulla scansione PDF 204; [pagina 209](TRADUZIONE_209.md), verificata sulla scansione PDF 205; [pagina 210](TRADUZIONE_210.md), verificata sulla scansione PDF 206; [pagina 211](TRADUZIONE_211.md), verificata sulla scansione PDF 207; [pagine 212–213](TRADUZIONE_212.md), [213](TRADUZIONE_213.md) (PDF 208–209).
 - [Blocco 198–207](TRADUZIONE_198-207.md), con figura 29, disegno del melograno e spiegazione dell'ordine invertito delle scansioni 196–197 nel registro.
@@ -34,6 +34,8 @@ Traduzione italiana editabile del volume *Bible Plants* di H. N. e A. L. Moldenk
 - [Pagine 232](TRADUZIONE_232.md), [233](TRADUZIONE_233.md) e [234](TRADUZIONE_234.md): testo completo, scansioni PDF 228–230.
 
 - [Blocco 228–237](TRADUZIONE_228-237.md): testo e didascalie integrali; **disegno originale p236 ancora da trasferire in `figure/`**.
+
+- **Blocco 238–247 avviato** con [pagina 238](TRADUZIONE_238.md), [239](TRADUZIONE_239.md) e [240](TRADUZIONE_240.md); la tavola originale della vite 238 è estratta ma non ancora archiviata su GitHub.
 
 ## Convenzioni di lavoro
 

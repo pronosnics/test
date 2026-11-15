@@ -5486,3 +5486,103 @@ Le quattro specie di vere ortiche presenti in Palestina sono l'ortica comune o g
 Le ortiche erano un tempo utilizzate in medicina fra le popolazioni rurali come stufato per curare quasi ogni malanno (125, 126). I giovani germogli vengono ancora spesso mangiati (126). Si afferma che l'ortica romana sia stata introdotta in Gran Bretagna e forse in altre parti dell'Europa settentrionale dai soldati di Cesare, «che, non avendo calzoni abbastanza spessi per permettere loro di resistere al clima, soffrivano molto nelle nebbie fredde e umide; così, quando avevano le gambe intorpidite, coglievano ortiche e si sfregavano tanto quelle membra che bruciavano e pizzicavano magnificamente per il resto della giornata» (298).
 
 ¹⁵⁵ Chiamata anche *Urtica membranacea* Poir.
+
+## Pagina originale 238
+
+### Figure 31a, 31b e 32 — *Vitis vinifera*
+
+La vite comune del Vecchio Mondo, utilizzata come marchio tipografico in numerose pubblicazioni dei Plantin (in alto a sinistra) e raffigurata (in alto a destra) da un calligrafo moderno (R. Koch, con F. Kredel, *Christliche Symbole*, Kassel, circa 1935). Molte Bibbie manoscritte e stampate antiche, in varie lingue, erano splendidamente miniate o illustrate con pagine del titolo, frontespizi, iniziali figurate, fregi iniziali e decorazioni marginali, spesso dipinti a mano. Come osservato precedentemente (p. xiv), le piante raffigurate in queste illustrazioni erano spesso piante bibliche presunte, anziché effettive. Nei casi qui presentati la pianta è evidentemente la vite comune del Vecchio Mondo e il riferimento riguarda il suo impiego da parte di Gesù nella famosa Ultima Cena, prototipo della Comunione cristiana.
+
+Mosè mandò degli esploratori nella terra di Canaan affinché riferissero sulle sue condizioni; presso il torrente Escol trovarono grappoli d'uva tanto grandi da dover essere trasportati su una pertica fra due uomini, come mostrato in basso in un disegno realizzato per la Bibbia svedese (1927, cfr. sotto la figura 9; si veda anche la figura 71). Le viti della Palestina sono sempre state rinomate per il rigoglio della loro crescita e per le grandi dimensioni dei grappoli che producono, ma la concezione dell'artista è qui evidentemente un'esagerazione simbolica.
+
+**Scritte presenti nelle immagini originali:** «VITIS / VERA / CHRISTVS» (latino: «Cristo, la vera vite»); «Ich bin der Weinstock, ihr seid die Reben» (tedesco: «Io sono la vite, voi siete i tralci»).
+
+**Tavola originale:** tre xilografie riprodotte integralmente nella scansione PDF **234**, corrispondente alla pagina stampata **238**. Immagini estratte dal PDF nel container come `Moldenke_Figure_31a_31b_32_p238_originali.png`, ancora da caricare nella cartella `figure/` del repository GitHub; non sostituire con ricostruzioni.
+
+## Pagina originale 239
+
+### 225. *Vitis orientalis* (Lam.) Boiss.
+
+**Isaia 5:2–4** — Egli la recintò, ne tolse le pietre e vi piantò una vite scelta; costruì una torre nel mezzo e vi scavò anche un torchio; poi attese che producesse uva, ma produsse uva selvatica ... Che cosa si sarebbe potuto fare di più per la mia vigna, che io non abbia fatto? Perché, quando attendevo che producesse uva, essa ha prodotto uva selvatica?
+
+**Geremia 2:21** — Eppure io ti avevo piantata come una vite nobile, tutta di seme genuino: come ti sei dunque trasformata per me in un tralcio degenerato di vite straniera?
+
+**Ezechiele 15:2–6** — ... In che cosa il legno della vite vale più di qualsiasi altro legno, o di un ramo che si trovi fra gli alberi del bosco? Si prenderà forse legno da esso per farne qualche oggetto? O se ne ricaverà un piolo al quale appendere un recipiente? Ecco, viene gettato nel fuoco come combustibile; il fuoco ne divora entrambe le estremità e il centro è bruciato. È adatto a qualche lavoro? Ecco, quando era intero non serviva a nulla: quanto meno potrà servire a qualcosa quando il fuoco lo ha divorato e bruciato? ... Come il legno della vite fra gli alberi del bosco, che io ho dato al fuoco come combustibile ...
+
+La parola ebraica impiegata nei primi due passi è «boser» o «beooshim». Poiché il singolare di questa parola è reso «gittaione» dalla versione di re Giacomo in Giobbe 31:40, si è discusso se qui si intendano davvero uve selvatiche. Alcuni hanno supposto che la solanacea lanuginosa della Palestina, *Solanum incanum* L., potesse corrispondere sia al riferimento al «gittaione» in Giobbe sia a quelli alle «uve selvatiche» e alla «vite straniera» (ebraico «gefen nachriyah») qui riportati. Questa solanacea è un'erbaccia comune lungo le strade e nei luoghi incolti della Palestina e dell'Egitto; le sue bacche somigliano nella forma ai chicchi d'uva (267), benché siano narcotiche e velenose. Per ulteriori informazioni su questa pianta si veda *Agrostemma githago*.
+
+Dal contesto dei versetti citati all'inizio di questo capitolo, nei quali il popolo ribelle d'Israele è paragonato a «uve selvatiche» e a un «tralcio degenerato di vite straniera», ci sembra evidente che si potesse intendere soltanto una pianta strettamente affine alla vite (306). Tristram supponeva che la pianta in questione fosse la vite orientale, *Vitis orientalis*¹⁵⁶. Essa è stata descritta come «l'uva volpina selvatica indigena della Palestina e della Siria» (184, 233, 299). La traduzione di Leeser offre un ulteriore eccellente sostegno a questa interpretazione, poiché parla di «frutto senza valore» proveniente da una «vite ignobile». Quest'uva selvatica produce bacche piccole, nere, molto acide, grandi all'incirca come una bacca di ribes, e con pochissimo succo (266). Presenta foglie bipennate con 7–11 foglioline, mentre quelle superiori sono talvolta trifogliate. Le foglioline sono ovato-oblunghe, arrotondate o cuneate alla base e grossolanamente seghettate o incise. Non vi sono viticci e i fiori verdastri sono riuniti in infiorescenze cimose dicotome. La pianta cresce spontanea in luoghi rocciosi e nelle siepi della regione mediterranea (299). Post la segnala dalla Siria e dall'Hauran, ma non dalla Palestina. Anche Evenari dubita che fosse presente allora in Palestina, poiché ora non vi si trova, essendo presente soltanto nella Siria settentrionale. Le versioni Jastrow e King James forniscono entrambe la medesima traduzione dei versetti.
+
+John Smith avanza la teoria (299) che la pianta dei primi due riferimenti potesse essere soltanto una razza inferiore o «selvatica» della comune vite, *Vitis vinifera* (si veda la relativa voce). In effetti, il contesto dei passi sembrerebbe richiedere una pianta che non si potesse distinguere dalla vite ordinaria per portamento e fogliame, e che dunque venisse coltivata per alcuni anni nella speranza che alla fine producesse il frutto desiderato. Una pianta anche così strettamente affine come la vite orientale non sarebbe certamente stata scambiata in questo modo dal proprietario della vigna, poiché le sue foglie e il suo portamento sono del tutto differenti.
+
+Evidentemente quest'«uva selvatica» di Isaia e questa «vite straniera» di Geremia non hanno [continua alla pagina 240].
+
+¹⁵⁶ Chiamata anche *Cissus orientalis* Lam. e *C. pinnata* Russ.
+
+## Pagina originale 240
+
+[Continuazione dalla pagina 239] nulla a che fare con la «vite selvatica» di Eliseo (2 Re 4:39), che noi trattiamo sotto *Citrullus colocynthis*.
+
+### 226. *Vitis vinifera* L.
+
+*(Figure 31, 32 e 71)*
+
+**Genesi 9:20–21 e 24** — E Noè cominciò a coltivare la terra e piantò una vigna; bevve del vino e si ubriacò ... E Noè si risvegliò dal suo vino ...
+
+**Genesi 14:18** — E Melchisedec, re di Salem, portò pane e vino ...
+
+**Genesi 40:9–11** — ... Nel mio sogno, ecco, una vite era davanti a me; e sulla vite vi erano tre tralci: sembrava germogliare, i suoi fiori sbocciavano e i grappoli producevano uva matura; e io avevo in mano la coppa del faraone, e presi l'uva ...
+
+**Genesi 49:11–12** — Egli lega il suo asinello alla vite e il puledro della sua asina alla vite scelta; lava le sue vesti nel vino e i suoi abiti nel sangue dell'uva; i suoi occhi saranno rossi di vino e i suoi denti bianchi di latte.
+
+**Esodo 22:5** — Se un uomo fa pascolare un campo o una vigna, vi introduce il proprio bestiame e lo manda a pascolare nel campo di un altro, risarcirà il danno con il meglio del suo campo e il meglio della sua vigna.
+
+**Levitico 19:10** — Non racimolerai la tua vigna e non raccoglierai ogni acino della tua vigna; li lascerai al povero e allo straniero ...
+
+**Numeri 13:20 e 23–24** — ... Era il tempo delle prime uve mature ... Giunsero al torrente Escol e vi tagliarono un tralcio con un grappolo d'uva, che portarono in due su una pertica; portarono anche melagrane e fichi. Quel luogo fu chiamato torrente Escol, a causa del grappolo d'uva che i figli d'Israele vi avevano tagliato.
+
+**Numeri 20:5** — Perché ci avete fatto salire dall'Egitto per condurci in questo luogo malvagio? Non è un luogo dove si possa seminare, né vi sono fichi o viti ...
+
+**Numeri 22:24** — Ma l'angelo del Signore si fermò in un sentiero fra le vigne, con un muro da una parte e un muro dall'altra.
+
+**Numeri 32:9** — ... la valle di Escol ...
+
+**Deuteronomio 6:11** — E case piene di ogni bene, che tu non hai riempito, e pozzi scavati, che tu non hai scavato, vigne e uliveti che tu non hai piantato.
+
+**Deuteronomio 8:8** — Una terra di frumento e d'orzo, di viti, di fichi e di melagrani ...
+
+**Deuteronomio 24:21** — Quando raccoglierai l'uva della tua vigna, non tornerai a racimolarla ...
+
+**Deuteronomio 32:14, 32–33 e 38** — ... e beveste il puro sangue dell'uva ... Poiché la loro vite è la vite di Sodoma e dei campi di Gomorra; le loro uve sono uve di fiele, i loro grappoli sono amari. Il loro vino è veleno di draghi ... bevevano il vino delle loro libazioni ...
+
+**Giudici 9:12–13 e 27** — Allora gli alberi dissero alla vite: Vieni, regna su di noi. Ma la vite rispose: Dovrei rinunciare al mio vino, che rallegra Dio e l'uomo, per andare a dominare sugli alberi? ... E uscirono nei campi, raccolsero l'uva delle loro vigne, la pigiarono e fecero festa ...
+
+**Giudici 11:33** — Ed egli li sconfisse da Aroer ... fino alla pianura delle vigne ...
+
+**Giudici 14:5** — Allora Sansone scese ... e giunse alle vigne di Timna.
+
+**Giudici 15:5** — ... e bruciò ... le vigne e gli oliveti.
+
+**Giudici 16:4** — ... nella valle di Sorek ...
+
+**Rut 2:14** — All'ora del pasto vieni qui, mangia del pane e intingi il tuo boccone nell'aceto ...
+
+**1 Samuele 25:18** — Allora Abigail si affrettò e prese ... due otri di vino ... cento grappoli d'uva passa ...
+
+**1 Re 4:25** — Giuda e Israele abitavano sicuri, ciascuno sotto la propria vite e sotto il proprio fico ...
+
+**2 Re 18:31–32** — ... ciascuno mangi della propria vite ... finché io verrò e vi condurrò in una terra simile alla vostra, una terra di grano e vino, una terra di pane e vigne, una terra di olio d'oliva e miele ...
+
+**1 Cronache 12:40** — ... portarono ... focacce di fichi, grappoli d'uva passa, vino e olio ... poiché vi era gioia in Israele.
+
+**Neemia 1:11** — ... Perché io ero il coppiere del re.
+
+**Neemia 2:1** — E avvenne ... che il vino era davanti a lui; allora presi il vino e lo diedi al re ...
+
+**Salmi 78:47** — Egli distrusse con la grandine le loro viti, e con la brina i loro sicomori.
+
+**Salmi 80:8–16** — Hai fatto uscire una vite dall'Egitto; hai scacciato le genti e l'hai piantata. Le hai preparato spazio davanti, l'hai fatta radicare profondamente ed essa ha riempito la terra. I monti erano coperti dalla sua ombra e i suoi rami erano come i magnifici cedri. Essa mandava i suoi tralci fino al mare e i suoi rami fino al fiume. Perché dunque hai abbattuto le sue siepi, così che tutti i passanti ne colgono il frutto? Il cinghiale del bosco la devasta, e le bestie selvatiche del campo la divorano. Ritorna ... e visita questa vite, la vigna piantata dalla tua destra e il tralcio che hai reso forte per te ...
+
+**Salmi 105:33** — Colpì anche le loro viti ...
+
+**Salmi 107:37** — E seminano i campi e piantano vigne, che possono dare frutti abbondanti.

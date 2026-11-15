@@ -4,11 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–237**: **232 pagine con testo e didascalie tradotti**, quattro assenti e una parziale. **Illustrazioni estratte ma non ancora caricate come file indipendenti su GitHub:** figura 30, disegno «STACTE» p225 e disegno p236.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–240**: **235 pagine stampate con testo e didascalie tradotti**, quattro assenti e una parziale. Immagini originali estratte localmente ma non ancora tutte archiviate nel repository.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 233 pagine stampate esaminate (232 con testo completo + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **238–328**.
-**Prossimo intervallo:** **238–247**, poi successivi fino alla pagina 328.
+**Copertura di lavoro:** 236 pagine stampate esaminate (235 complete di testo + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **241–328**.
+**Prossimo intervallo:** **241–247**, poi blocchi successivi fino a 328.
+
+## Blocco 238–247 in corso (15 novembre 2026)
+
+- **Pagine 238–240** verificate sulle scansioni PDF **234–236** e tradotte nel master, con figure 31a, 31b, 32 della vite, *Vitis orientalis*, *Vitis vinifera*, nota 156 e citazioni bibliche. La tavola 238 è stata estratta fedelmente nel container come `Moldenke_Figure_31a_31b_32_p238_originali.png`, **non ancora caricata su GitHub**.
 
 ## Blocco 228–237: testo e didascalie completi; disegno p236 da archiviare (15 novembre 2026)
 
@@ -52,7 +56,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **237**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **240**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
