@@ -244,3 +244,17 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **149** presente in prima stesura ma richiede verifica dei versetti finali; **151–157** ancora da tradurre, non conteggiate come completate.
 - Lacune permanenti: **82–83, 106–107 mancanti; 111 parziale**.
 - Traduzione di lavoro, revisione filologica definitiva da svolgere.
+
+## Blocco 149–157 completato — 15 novembre 2026
+
+- **149:** conclusione del nardo; denominazioni di *Neisseria gonorrhoeae* e *Treponema pallidum*; tutti i versetti riportati nella pagina, compresi Salmi 106:28–30 e Giovanni 9:1–3, controllati e reintegrati.
+- **150–151:** prosecuzione della trattazione storico-medica e interpretazione di passi biblici secondo gli autori; avvio di *Nerium oleander*, con citazioni del Siracide e nota originale 85.
+- **152:** conclusione dell'oleandro e inizio di *Nigella sativa*, con Isaia 28:25,27 e termini originali.
+- **153:** conclusione della nigella e voci *Notobasis syriaca* e *Scolymus maculatus*, con nota originale 86.
+- **154–155:** *Nymphaea alba*, *N. caerulea* e *N. lotus*; passi di Re e Cronache, descrizioni botaniche e tradizioni riportate dagli autori.
+- **156:** tavola originale **FIGURA 25** (*Olea europaea*, olivi del Getsemani); didascalia tradotta. Non è una lacuna testuale; l'immagine originale resta disponibile nel PDF di partenza.
+- **157:** inizio di *Olea europaea*, citazioni bibliche riportate per intero secondo il testo disponibile nella pagina.
+- **Fonte:** pagine **145–153 del PDF digitalizzato** corrispondono alle pagine **149–157 stampate**. Traduzioni confrontate con scansioni e testo disponibile; non si sono individuate nuove pagine stampate mancanti in questo blocco.
+- **Lacune permanenti:** **82–83** e **106–107** mancanti; **111** parzialmente coperta/illeggibile. Nessun testo inventato per queste lacune.
+- **Avanzamento progressivo:** fino alla pagina stampata **157**; **152 pagine stampate complete**, **4 mancanti**, **1 parziale**. Il totale delle pagine digitalizzate del PDF è 324, da non confondere con la numerazione stampata.
+- **Prossimo intervallo:** pagine stampate **158–167**. La traduzione resta di lavoro: **revisione filologica definitiva da effettuare**.
