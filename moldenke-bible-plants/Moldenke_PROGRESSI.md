@@ -4,11 +4,11 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–137 (**132** pagine complete; **40,74%** su 324 pagine PDF).
+**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–138 (**133** pagine complete; **41,05%** su 324 pagine PDF).
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 133 pagine esaminate (132 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **138** e successive.
-**Prossimo intervallo:** **138–147**, con verifica della numerazione stampata e mantenimento delle lacune permanenti.
+**Copertura di lavoro:** 134 pagine esaminate (133 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **139** e successive.
+**Prossimo intervallo:** **139–147**, con verifica della numerazione stampata e mantenimento delle lacune permanenti.
 
 ## Documenti correnti
 
@@ -190,3 +190,10 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **137:** Inizio di *Mandragora officinarum*, versetti di Genesi e Cantico, descrizione botanica, tradizioni e note originali.
 - **Lacune ancora aperte:** 82–83, 106–107; 111 solo parzialmente leggibile.
 - **Master aggiornato:** `TRADUZIONE_EDITABILE.md`, prossimo blocco **138–147**.
+
+
+## Avanzamento 15 novembre 2026 — pagina 138
+
+- Tradotta integralmente la pagina stampata **138**, continuazione della mandragora, comprese citazioni letterarie, distribuzione geografica, nomi botanici e folklore. La frase finale prosegue nella pagina 139.
+- Le pagine **139–147** sono state individuate e le scansioni rese disponibili, ma **non ancora tradotte**: non conteggiarle come completate.
+- Lacune storiche ancora aperte: **82–83, 106–107, 111 parziale**.
