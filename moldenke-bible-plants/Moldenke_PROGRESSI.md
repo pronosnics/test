@@ -258,3 +258,19 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Lacune permanenti:** **82–83** e **106–107** mancanti; **111** parzialmente coperta/illeggibile. Nessun testo inventato per queste lacune.
 - **Avanzamento progressivo:** fino alla pagina stampata **157**; **152 pagine stampate complete**, **4 mancanti**, **1 parziale**. Il totale delle pagine digitalizzate del PDF è 324, da non confondere con la numerazione stampata.
 - **Prossimo intervallo:** pagine stampate **158–167**. La traduzione resta di lavoro: **revisione filologica definitiva da effettuare**.
+
+## Blocco 158–167 completato — 15 novembre 2026
+
+- **158–160:** prosecuzione e conclusione della voce *Olea europaea*: ulteriori passi biblici (Zaccaria, Esdra, Vangeli, Lettere e Apocalisse), descrizioni botaniche e usi dell'olivo, interpretazioni delle versioni e tradizioni sul Getsemani; inizio delle voci *Origanum maru* e *O. maru* var. *aegyptiacum*.
+- **161–162:** «issopo» biblico: confronto fra capperi, fitolacca, sorgo, felci e maggiorane; testi di Esodo, Levitico, Numeri, Re, Salmi ed Ebrei; conservate le **note originali 87–89**. Inizio di *Ornithogalum umbellatum*.
+- **163:** conclusione dell'*Ornithogalum*; **figura 26** (Noè e la colomba, olivo), con didascalia originale tradotta integralmente. L'immagine originale resta nel PDF.
+- **164:** pagina interamente illustrata con **figura 27**, raffigurante *Lecanora esculenta*, *Paliurus spina-christi* e *Commiphora kataf*; didascalia tradotta. **Non è una lacuna.** La pagina è orientata lateralmente nella scansione e ne è stata verificata la lettura.
+- **165:** *Paliurus spina-christi*, corona di spine; discussione delle identificazioni botaniche, riferimenti biblici e **note originali 90 e 90a**.
+- **166:** conclusione dello spino di Cristo; inizio di *Panicum miliaceum*, passi di Ezechiele, confronto con altri cereali e **note originali 91–92**.
+- **167:** conclusione del miglio e inizio di *Pasteurella pestis* con le citazioni bibliche presenti; la frase conclusiva continua nella pagina **168**, che non è stata anticipata.
+- **Corrispondenza delle pagine:** stampe **158–167** = pagine PDF **154–163** (numerazione del lettore PDF, partendo da 1); tutte presenti e visionate, incluse le figure.
+- **Verifica del master:** esattamente una intestazione per ciascuna pagina da **158 a 167**, nessuna pagina duplicata; entro le pagine 1–167 mancano nel master solo **82, 83, 106 e 107**, assenti nel documento originale.
+- **Avanzamento numerico:** **162 pagine stampate complete** fino alla 167, **4 assenti (82–83 e 106–107)**, **1 parziale (111)**. Le 324 pagine digitalizzate non sono il conteggio delle pagine stampate disponibili.
+- **Lacune permanenti conservate:** **82–83, 106–107** assenti; **111** parzialmente coperta. Nessun'altra lacuna nel blocco 158–167.
+- **Stato editoriale:** traduzione italiana di lavoro integrale del testo leggibile del blocco, in attesa di revisione filologica e tipografica definitiva. Conservare denominazioni originali anche se storicamente superate; nessun aggiornamento automatico su WordPress.
+- **Prossimo blocco:** pagine stampate **168–177**.
