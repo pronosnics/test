@@ -1,0 +1,3 @@
+## Pagina originale 164
+
+**FIGURA 27** — (1) *Lecanora esculenta*, il lichene della manna, probabilmente il principale costituente della «manna» caduta dal cielo nel Sinai (si veda anche fig. 33). (2 e 3) *Paliurus spina-christi*, oggi considerato la pianta i cui rami flessibili, provvisti di spine particolarmente pungenti, furono usati dai soldati romani per fabbricare la corona di spine premuta sulla fronte di GESÙ. (4) *Commiphora kataf*, una delle fonti della «mirra» biblica, è originaria dell'Arabia, dell'Abissinia e della costa somala. (John L. Blum, in *Science Counselor*, 1941).
