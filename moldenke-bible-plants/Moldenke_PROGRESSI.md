@@ -4,13 +4,17 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–244**: **239 pagine con testo e didascalie tradotti**; quattro assenti, 111 parziale. Illustrazioni da trasferire su GitHub.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–247**: **242 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 240 pagine stampate esaminate (239 testo completo + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **245–328**.
-**Prossimo intervallo:** **245–247**, poi 248–257.
+**Copertura di lavoro:** 243 pagine stampate esaminate (242 con testo e didascalie completi + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **248–328**.
+**Prossimo intervallo:** **248–257**, poi 258–267 e così via fino alla pagina 328.
 
-## Blocco 238–247 in corso (15 novembre 2026)
+## Blocco 238–247: testo completo, archivio figure pendente (15 novembre 2026)
+
+- **Pagine 245–247**, scansioni PDF **241–243**, tradotte: *Xanthium spinosum*, didascalie originali delle **figure 33 e 34** sulla tavola laterale stampata 246, *Zizyphus lotus*, note 158–160.
+- La tavola originale 246 è stata estratta fedelmente e ruotata come `Moldenke_Figure_33_34_p246_originali.png`, **non ancora caricata su GitHub**. È conservata in forma editabile la traduzione italiana di entrambe le didascalie.
+- **File blocco [`TRADUZIONE_238-247.md`](TRADUZIONE_238-247.md)** creato con tutte e dieci le pagine stampate in ordine crescente; immagini da trasferire prima di dichiararne completa l'archiviazione illustrativa.
 
 - **Pagine 243–244** tradotte sulle scansioni PDF **239–240**, conclusa la voce *Vitis vinifera*, conservando discussione storica, terminologia ebraica e nota 157. Restano 245–247; p246 contiene tavola ruotata con figure 33 e 34.
 
@@ -60,7 +64,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **244**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **247**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
