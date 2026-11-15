@@ -7,7 +7,7 @@
 **Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–130 (**125** pagine complete; conteggio sulle 324 pagine digitalizzate: **38,58%**).
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
 **Copertura di lavoro:** 126 pagine esaminate (125 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **118** e successive.
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **131** e successive.
 **Prossimo intervallo:** **131–137**; mantenere tutte le lacune già registrate.
 
 ## Documenti correnti
