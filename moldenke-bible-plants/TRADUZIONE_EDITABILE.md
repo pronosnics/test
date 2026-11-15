@@ -2197,7 +2197,7 @@ Secondo gli studiosi moderni, la «tigna» (in ebraico «netek») dell'Antico Te
 
 **2 Samuele 17:27–28.** «…e BARZILLAI, il Galaadita di Roghelim, portarono letti, catini, vasi di terracotta, grano, orzo, farina, grano tostato, fave, lenticchie e legumi tostati».
 
-**Ezechiele 4:9.** «Prendi inoltre grano, orzo, fave, lenticchie, miglio e spelta; mettili in un solo recipiente e fatti del pane; ne mangerai durante i giorni in cui giacerai sul fianco, per trecentonovanta giorni».
+**Ezechiele 4:9.** «Prendi inoltre grano, orzo, fave, lenticchie, miglio e vecce; mettili in un solo recipiente e fatti del pane; ne mangerai durante i giorni in cui giacerai sul fianco, per trecentonovanta giorni».
 
 La parola ebraica «pôl» (greco «kýamos») è tradotta «fave» nei versetti citati da tutti i traduttori e designa senza dubbio la fava, *Faba vulgaris*⁵⁶. Si ritiene che questa specie annuale fosse originariamente spontanea nella Persia settentrionale, ma veniva coltivata così estesamente nell'Asia occidentale già in tempi antichissimi come pianta alimentare che il suo effettivo paese d'origine è ormai una questione irrimediabilmente oscurata. Fu coltivata molto presto in Egitto: semi di questa specie sono stati infatti rinvenuti nei sarcofagi delle mummie, nelle tombe egizie. Fu coltivata anche dai Greci e dai Romani (299). I Romani la introdussero in Inghilterra (126), dove oggi viene impiegata soprattutto come foraggio per i cavalli⁵⁶ᵃ. La varietà nota come fava di Windsor (*f.* *megalosperma* (Alef.) Beck), tuttavia, viene occasionalmente coltivata negli orti europei e americani come ortaggio.
 
