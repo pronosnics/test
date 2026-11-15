@@ -3577,3 +3577,25 @@ BOCHART ritiene che lo «sterco di colomba» fosse una specie di cece, forse *Ci
 ## Pagina originale 164
 
 **FIGURA 27** — (1) *Lecanora esculenta*, il lichene della manna, probabilmente il principale costituente della «manna» caduta dal cielo nel Sinai (si veda anche fig. 33). (2 e 3) *Paliurus spina-christi*, oggi considerato la pianta i cui rami flessibili, provvisti di spine particolarmente pungenti, furono usati dai soldati romani per fabbricare la corona di spine premuta sulla fronte di GESÙ. (4) *Commiphora kataf*, una delle fonti della «mirra» biblica, è originaria dell'Arabia, dell'Abissinia e della costa somala. (John L. Blum, in *Science Counselor*, 1941).
+
+## Pagina originale 165
+
+### 154. *Paliurus spina-christi* Mill.
+
+(FIGURA 27)
+
+**Matteo 27:29** — E, intrecciata una corona di spine, gliela posero sul capo [...].
+
+**Giovanni 19:2** — E i soldati intrecciarono una corona di spine e gliela posero sul capo [...].
+
+Vi sono state notevoli discussioni e grandi divergenze di opinione riguardo alle «spine» della Bibbia. Poiché il termine è evidentemente generico e si applica alle piante spinose in generale, sembra certo che con esso si faccia riferimento a numerose piante molto diverse. Nella versione Authorized sono stati tradotti così almeno cinque distinti vocaboli ebraici: «chedek», «kôtz» o «kotzim», «kimmeshonim», «kimsonim» o «kimmesonim», «choach» e «na'atzootz» o «na'atzootzim». Le «spine» di Isaia 7:19 e 55:13 e di Matteo 7:16 sono qui considerate *Zizyphus spina-christi* (si veda la relativa voce); quelle di Numeri 33:55 e Giudici 8:7, e i «rovi» e i «pruni» di altri passi, sono qui identificate come *Rubus sanctus* (si veda la relativa voce); quelle di Osea 9:6 e Isaia 34:13 come *Xanthium spinosum* (si veda la relativa voce); quelle di Matteo 13:7 ed Ebrei 6:8 come *Centaurea calcitrapa* (si veda la relativa voce); mentre quelle di Genesi 3:18, Proverbi 15:19, Isaia 33:12 e Salmi 58:9 sono discusse sotto *Rhamnus palaestina* (si veda la relativa voce).
+
+Molti commentatori ritengono che le «spine» con cui fu fatta la «corona» (o «ghirlanda», secondo la traduzione migliore di WEYMOUTH e GOODSPEED) provenissero da *Zizyphus spina-christi* (125); questa credenza ha infatti dato origine al suo epiteto specifico. Questa pianta spinosa cresce spesso fino a diventare un albero alto quaranta piedi, ed è possibile che fosse quella utilizzata dai soldati, anche se il peso delle prove sembra favorire piuttosto *Paliurus spina-christi*⁹⁰, che non cresce altrettanto in altezza e sarebbe stato più facile da raccogliere (125, 267, 299). Alcuni hanno suggerito che fossero intrecciati rami di entrambe le piante, ma ciò non sembra probabile per il lavoro supplementare che avrebbe comportato. POST segnala *Zizyphus* a Gerusalemme, ma non *Paliurus*, benché registri quest'ultimo in molte località della Terra Santa e dei dintorni, fra cui Alessandretta, Antiochia, Beirut, Tripoli, Nazaret, il monte Tabor, Rama in Galilea e Giaffa (99b)⁹⁰ᵃ. Egli afferma che attualmente non è presente in Giudea (267). Il dottor EVENARI concorda con POST che *Paliurus* non cresce in Giudea ed è raro in Palestina. *Zizyphus* cresce invece intorno alla città vecchia di Gerusalemme, soprattutto nei pressi del luogo che si ritiene sia stato il Golgota.
+
+Una cosa, tuttavia, è certa: la pianta oggi chiamata «corona di spine», *Euphorbia milii* Desmoul., comunemente coltivata con questo nome in Gran Bretagna e in America, non ha assolutamente nulla a che vedere con la pianta della Bibbia. È originaria del Madagascar ed era del tutto sconosciuta ai tempi di GESÙ.
+
+Lo spino di Cristo, *Paliurus spina-christi*, è un arbusto disordinato alto da tre a nove piedi, con rami a zigzag, disposti alternativamente su due file, e foglie ovate o rotonde, coriacee e con tre nervature. I fiori sono poco appariscenti e sono seguiti da frutti rossi, capsulari e alati. I rami flessibili sono armati, alla base di ciascuna foglia, di una coppia di spine stipolari disuguali, molto rigide e appuntite: una delle due è diritta e lunga circa mezzo pollice, mentre l'altra è ricurva e notevolmente più corta. La consistenza insolitamente pieghevole dei rami giovani li rende particolarmente facili da intrecciare in una ghirlanda simile a una corona.
+
+⁹⁰ Conosciuto anche come *Paliurus aculeatus* Lam., *P. australis* Gaertn., *Rhamnus paliurus* L. e *Zizyphus paliurus* (L.) Willd.
+
+⁹⁰ᵃ Il reverendo HENSLOW scrive, in risposta alla negazione da parte di DINSMORE della presenza di *Paliurus* in Palestina: «Per quanto riguarda *Paliurus*, se attualmente non cresce intorno a Gerusalemme, dev'essere stato sterminato dal 1889, perché il dottor TRISTRAM dice (*The Natural History of the Bible*, p. 428): “Gli Arabi della valle del Giordano, al giorno d'oggi, [...] riservano il nome *Samur* al *P. aculeatus*, o spino di Cristo [...]. È comune nei dintorni di Gerusalemme”» (170a).
