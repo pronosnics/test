@@ -4,18 +4,18 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–147 (**142** pagine complete; **43,83%** su 324 pagine PDF).
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–187**: **182 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 187. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 143 pagine esaminate (142 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **148** e successive.
-**Prossimo intervallo:** **148–157**; verificare la numerazione stampata e preservare le lacune.
+**Copertura di lavoro:** 183 pagine stampate esaminate (182 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **188–328**.
+**Prossimo intervallo:** **188–197**, poi blocchi successivi fino alla pagina stampata **328**.
 
 ## Documenti correnti
 
-- `Moldenke_traduzione_italiana_01-117_PARZIALE_EDITABILE.docx` — documento Word cumulativo, testo modificabile e figura 21 della gundelia; pagine originali 82–83 e 106–107 assenti; pagina 111 parzialmente oscurata.
-- `Moldenke_traduzione_italiana_01-117_PARZIALE_EDITABILE.md` — traduzione cumulativa con marcatori di pagina originale, inclusa la porzione leggibile della pagina 111.
-- `moldenke_traduzione_108-117.md` — blocco corrente di traduzione; le pagine 108–110 e 112–117 sono leggibili, la pagina 111 è parziale.
-- `Moldenke_PROGRESSI.md` — registro indipendente dal testo del libro, da mantenere a ogni avanzamento.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **187**.
+- [`TRADUZIONE_178-187.md`](TRADUZIONE_178-187.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_178.md`–`TRADUZIONE_187.md`.
+- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
+- Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
 
 ## Pagine originali mancanti da recuperare — registro permanente
 
@@ -299,3 +299,18 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Stato editoriale:** traduzione di lavoro modificabile; la revisione filologica definitiva e una verifica puntuale della grafia di alcuni termini greci restano da svolgere. Le attribuzioni botaniche e mediche storiche degli autori non sono state aggiornate silenziosamente.
 - **Word cumulativo:** non rigenerato in questa esecuzione; il master Markdown sul repository è la fonte aggiornata e modificabile.
 - **Prossimo blocco:** pagine stampate **178–187**. Nessun aggiornamento automatico su WordPress.
+
+
+## Blocco 178–187 completato — 15 novembre 2026
+
+- **Fonte verificata:** pagine stampate **178–187**, corrispondenti alle scansioni **174–183** del PDF originale. Tutte le dieci scansioni sono presenti e sono state visionate insieme al testo estratto.
+- **178–180:** conclusione del lentisco, *Pistacia terebinthus* var. *palaestina*, *Pistacia vera* e inizio di *Platanus orientalis*.
+- **181–184:** conclusione del platano; *Populus alba*, *Populus euphratica* e inizio di *Prunus armeniaca*.
+- **185–187:** discussione integrale dell'identificazione della «mela» biblica con melo, agrumi, cotogno e albicocco; mantenute le citazioni di Milton e degli altri autori e i dati storici del volume.
+- **Note originali conservate:** **100a–113**, comprese le sinonimie botaniche. Conservati i rimandi alle figure **75 e 77**; nessuna nuova tavola illustrata a piena pagina nel blocco.
+- **Continuità:** la descrizione dell'albicocco prosegue nella pagina **188**, non anticipata nella pagina 187.
+- **Master:** una sola intestazione per ciascuna pagina **178–187**; nessuna pagina già tradotta sovrascritta o duplicata.
+- **Lacune permanenti:** **82–83 e 106–107 assenti**; **111 parziale**. Nessuna nuova lacuna individuata nel blocco.
+- **Avanzamento:** **182 pagine stampate complete** fino alla 187, **4 mancanti**, **1 parziale**. La pagina stampata finale del PDF è **328**; le scansioni sono **324**.
+- **Stato:** traduzione italiana di lavoro modificabile; revisione filologica definitiva pendente, inclusa la grafia dei vocaboli greci. Nessuna pubblicazione WordPress.
+- **Prossimo blocco:** **188–197**. Proseguire dai file effettivamente presenti su GitHub fino all'ultima pagina disponibile senza richiedere nuove istruzioni.
