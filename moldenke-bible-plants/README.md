@@ -6,7 +6,7 @@ Traduzione italiana editabile del volume *Bible Plants* (Moldenke), preparatoria
 - [**Master cumulativo sempre aggiornato**](./TRADUZIONE_EDITABILE.md) — testo italiano editabile, ancora da revisionare filologicamente.
 - [Versione iniziale 1–127](./Moldenke_traduzione_italiana_01-127_PARZIALE_EDITABILE.md) — snapshot conservata per confronto.
 - [Task GitHub generale](../../issues/1) — avanzamento fino all'ultima pagina.
-- **Automazione attiva ogni 4 ore**; al momento la pagina **128** è stata aggiunta al master e le prossime da lavorare sono **129–137**.
+- **Automazione attiva ogni 4 ore**; il master è aggiornato fino alla pagina stampata **147**; il prossimo blocco è **148–157**.
 - Lacune note: **82–83**, **106–107**; pagina **111** parziale.
 
 ## Convenzioni di lavoro
