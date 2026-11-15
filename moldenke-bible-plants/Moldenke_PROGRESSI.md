@@ -4,13 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–215**: **210 pagine stampate complete**, quattro assenti e una parziale entro la pagina 215. Il PDF ha 324 scansioni e termina alla pagina stampata 328.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–217**: **212 pagine stampate complete**, quattro assenti e una parziale entro la pagina 217. Il PDF ha 324 scansioni e termina alla pagina stampata 328.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 211 pagine stampate esaminate (210 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **216–328**.
-**Prossimo intervallo:** **216–217** per completare 208–217; poi 218–227 e così via fino alla 328.
+**Copertura di lavoro:** 213 pagine stampate esaminate (212 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **218–328**.
+**Prossimo intervallo:** **218–227**, poi successivi fino alla pagina stampata **328**.
 
-## Aggiornamento parziale del blocco 208–217 (15 novembre 2026)
+## Blocco 208–217 completo (15 novembre 2026)
+
+- **Pagine 216–217** tradotte sulle scansioni **PDF 212–213**, completando il blocco **208–217**. Trattazione di *Salsola*, *Salicornia*, *Salix*, citazioni bibliche e nota originale 135. Il testo prosegue alla pagina 218. File individuali `TRADUZIONE_216.md` e `TRADUZIONE_217.md` salvati; blocco cumulativo [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md) creato con tutte le dieci pagine già verificate.
 
 - **Pagine 214 e 215** tradotte sulle scansioni **PDF 210 e 211**: fine della voce sul vino, *Saccharum officinarum*, *Salicornia* e *Salsola*, versetti e note originali 132–134. Salvati `TRADUZIONE_214.md` e `TRADUZIONE_215.md`. Riferimento alla figura 30 mantenuto; verificare la posizione effettiva della tavola quando appare nelle scansioni successive. Restano 216–217 per completare il blocco.
 
@@ -27,8 +29,8 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **215**.
-- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **217**.
+- [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
 
