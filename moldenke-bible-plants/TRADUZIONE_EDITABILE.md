@@ -4768,3 +4768,123 @@ Il pane è usato come alimento umano fin dai tempi più remoti, sebbene oggi non
 Il cereale usato per fare il pane era di solito indicato come «grano» e comprendeva frumento, spelta e orzo. La «farina fine» era farina di frumento; quella d'orzo era usata dai più poveri del paese. Talvolta i poveri mescolavano all'orzo fave, lenticchie, miglio e «veccia», e il pane così preparato era chiamato «focaccia d'orzo». Nelle case private la cottura spettava di solito alla moglie, a una delle figlie o, nelle famiglie benestanti, alle serve. I fornai di mestiere erano uomini e occupavano a Gerusalemme una zona determinata, nota come «via dei fornai» (Genesi 40:16; 1 Samuele 8:13; Geremia 37:21). Le «fornaci» citate nella Bibbia erano i forni dei panettieri (Neemia 3:11 e 12:38), alimentati con legna, carbone o erba secca e steli fiorali (Matteo 6:30). Gli Ebrei più dediti alla pastorizia, come oggi i Beduini, cuocevano il pane su pietre riscaldate, fra braci ardenti o persino fra strati di sterco fumante (306). Di solito si trattava di pane azzimo. Il pane azzimo per le offerte sacre veniva spesso cotto in una padella.
 
 Di solito il pane si preparava mescolando la farina con acqua, o con latte quando disponibile, e impastandola poi a mani nude (e, in Egitto, con i piedi) in una piccola ciotola di legno o «madia per impastare», finché si formava la pasta. Il lievito veniva poi
+
+## Pagina originale 212
+
+[Continuazione della pagina 211] ... aggiunto. Quando il tempo a disposizione era poco, si ometteva il lievito e si preparavano soltanto focacce azzime, come fanno ancora oggi i Beduini. L'impasto lievitato veniva lasciato riposare per un certo tempo, durante il quale il lievito in esso contenuto iniziava una fermentazione attiva, liberando anidride carbonica, che gonfiava o «faceva crescere» la pasta (158). L'impasto veniva poi diviso in focacce rotonde (ebraico «oogah»), mescolato con olio oppure steso in sottili sfoglie semplicemente unte d'olio. Le focacce o le sfoglie venivano quindi poste nel forno (306).
+
+La «muffa» menzionata a proposito del pane vecchio in Giosuè 9:12 era probabilmente la comune muffa grigia del pane, *Mucor mucedo* L. (si veda la relativa voce) (158). Il comune lievito dei birrai e dei distillatori, *Saccharomyces cerevisiae*, specie estremamente variabile, è anche il lievito comunemente impiegato dai panettieri di tutto il mondo.
+
+### 188. *Saccharomyces ellipsoideus* Reess
+
+**Genesi 9:21** — E bevve del vino e si ubriacò ...
+
+**Genesi 14:18** — E Melchisedec, re di Salem, portò pane e vino ...
+
+**Genesi 27:28** — Dio ti dia dunque la rugiada del cielo e la fertilità della terra, e abbondanza di grano e di vino.
+
+**Genesi 49:11–12** — ... lavò le sue vesti nel vino ... I suoi occhi saranno rossi di vino.
+
+**Esodo 29:40** — ... e la quarta parte di un hin di vino per libazione.
+
+**Levitico 23:13** — ... e la sua libazione sarà vino, la quarta parte di un hin.
+
+**Numeri 6:3** — Egli si asterrà dal vino e dalle bevande forti e non berrà aceto di vino, né aceto di bevande forti ...
+
+**Numeri 15:5, 7 e 10** — E preparerai come libazione la quarta parte di un hin di vino ... E come libazione offrirai la terza parte di un hin di vino ... E porterai come libazione mezzo hin di vino ...
+
+**Deuteronomio 18:4** — Le primizie anche del tuo vino ... gliele darai.
+
+**Deuteronomio 33:28** — ... la sorgente di Giacobbe sarà sopra una terra di grano e di vino ...
+
+**Giudici 6:11** — ... suo figlio Gedeone batteva il grano nello strettoio ...
+
+**Giudici 9:13** — E la vite disse loro: Dovrei lasciare il mio vino, che rallegra Dio e gli uomini ...?
+
+**Giudici 13:14** — Non mangi alcuna cosa che provenga dalla vite e non beva vino né bevanda forte ...
+
+**1 Samuele 1:9** — ... e là sedeva su un seggio ...
+
+**1 Samuele 25:18** — Allora Abigail si affrettò e prese ... due otri di vino ...
+
+**1 Cronache 2:10** — E Abigail ... [segue secondo il testo stampato: «two ... twenty thousand baths of wine»].
+
+**Neemia 13:15** — In quei giorni vidi in Giuda alcuni che pigiavano il vino nei torchi ... e trasportavano vino, uva e fichi ...
+
+**Giobbe 24:11** — Essi fanno olio entro le mura altrui e pigiano i loro torchi, e soffrono la sete.
+
+**Salmi 4:7** — Hai messo nel mio cuore più gioia di quando abbondano il loro grano e il loro vino.
+
+**Salmi 75:8** — ... il vino è rosso ...
+
+**Salmi 104:15** — E il vino che rallegra il cuore dell'uomo ...
+
+**Proverbi 9:2 e 5** — ... ella ha mescolato il suo vino ... Venite ... e bevete il vino che ho mescolato.
+
+**Proverbi 20:1** — Il vino è schernitore, la bevanda forte è turbolenta ...
+
+**Proverbi 21:17** — ... chi ama il vino e l'olio non si arricchirà.
+
+**Proverbi 23:20 e 29–32** — Non essere fra i bevitori di vino ... Chi ha guai? Chi ha dolore? Chi ha contese? Chi ha lamenti? Chi ha ferite senza causa? Chi ha gli occhi rossi? Quelli che si attardano presso il vino, quelli che vanno in cerca di vino mescolato. Non guardare il vino quando è rosso, quando risplende nella coppa, quando scende agevolmente. Alla fine morde come un serpente e punge come una vipera.
+
+**Proverbi 31:4–6** — ... non è per i re bere vino, né per i principi bevande forti; perché non bevano e dimentichino la legge e pervertano il diritto di tutti gli afflitti ... Date bevanda forte a chi è sul punto di perire e vino agli animi amareggiati.
+
+**Ecclesiaste 10:19** — ... e il vino rende lieti.
+
+**Cantico dei Cantici 8:2** — ... ti farei bere vino speziato, del succo della mia melagrana.
+
+**Isaia 5:2, 11–12 e 22** — ... e fece anche un torchio in mezzo ad essa ... Guai a coloro che si alzano la mattina presto per correre dietro alla bevanda forte, che indugiano fino a notte, finché il vino li infiamma ... e vino nei loro banchetti ... Guai a quelli che sono potenti nel bere vino e uomini valorosi nel mescolare bevande forti.
+
+**Isaia 16:10** — ... e nei vigneti non ci sarà canto né grida; il pigiatore non pigerà vino nei torchi: ho fatto cessare il grido della vendemmia.
+
+**Isaia 25:6** — ... un banchetto di vini invecchiati ... di vini invecchiati ben purificati.
+
+**Isaia 28:7** — Ma anch'essi hanno errato per il vino e si sono sviati per la bevanda forte; il sacerdote e il profeta hanno errato per la bevanda forte, sono stati inghiottiti dal vino ...
+
+**Isaia 63:2–3** — Perché sei rosso nelle tue vesti, e i tuoi abiti come quelli di chi pigia nel tino? Ho pigiato il torchio da solo ...
+
+## Pagina originale 213
+
+**Geremia 35:2, 5–6, 8 e 14** — ... dà loro vino da bere ... e posi davanti ai figli ... recipienti colmi di vino e coppe, e dissi loro: Bevete vino. Ma essi dissero: Non berremo vino ... Non berrete vino ... non bere vino per tutti i nostri giorni ... egli comandò ai suoi figli di non bere vino ...
+
+**Geremia 48:33** — ... ho fatto cessare il vino nei torchi ...
+
+**Lamentazioni 1:15** — ... il Signore ha pigiato la vergine ... come in un torchio.
+
+**Lamentazioni 2:12** — Dicono alle loro madri: Dov'è il grano e il vino? ...
+
+**Ezechiele 27:18** — ... per il vino di Helbon ...
+
+**Osea 4:11** — ... vino e vino nuovo tolgono il senno.
+
+**Osea 7:5** — Nel giorno del nostro re, i principi lo hanno fatto ammalare con otri di vino ...
+
+**Osea 14:7** — ... il suo profumo sarà come il vino del Libano.
+
+**Amos 9:13** — ... e i monti stilleranno vino dolce ...
+
+**Abacuc 2:5 e 15** — Sì, anche perché trasgredisce per il vino, egli è un uomo orgoglioso ... Guai a chi dà da bere al prossimo, che gli porge la propria bottiglia e lo fa ubriacare ...
+
+**Zaccaria 9:15 e 17** — ... e berranno e faranno rumore come per il vino ... il grano renderà lieti i giovani e il vino nuovo le fanciulle.
+
+**Zaccaria 10:7** — ... e il loro cuore si rallegrerà come per il vino ...
+
+**Matteo 21:33** — ... e vi scavò un torchio ...
+
+**Marco 15:23** — E gli diedero da bere vino mescolato con mirra ...
+
+**Giovanni 2:3 e 9–10** — E quando mancò il vino, la madre di Gesù gli disse: Non hanno vino ... Quando il maestro di tavola ebbe assaggiato l'acqua divenuta vino ... Ogni uomo serve da principio il vino buono ... ma tu hai conservato il vino buono fino ad ora.
+
+**Atti 2:13** — Altri, schernendoli, dicevano: Questi uomini sono pieni di vino nuovo.
+
+**Efesini 5:18** — E non ubriacatevi di vino, nel quale è dissolutezza ...
+
+**1 Timoteo 5:23** — Non bere più soltanto acqua, ma usa un poco di vino a causa del tuo stomaco ...
+
+**Apocalisse 14:19–20** — ... e lo gettò nel grande torchio ... E il torchio fu pigiato fuori della città, e dal torchio uscì sangue ...
+
+**Apocalisse 19:15** — ... ed egli pigia il torchio del furore e dell'ira di Dio onnipotente.
+
+La produzione del vino è una delle arti più antiche dell'umanità. Nella Bibbia è menzionata per la prima volta nella storia di Noè (circa 2347 a.C.), al quale viene quindi spesso attribuita la sua invenzione. Quasi tutto il «vino» (ebraico «teerosh» e «yayin») della Bibbia era certamente ricavato dal succo spremuto della vite, *Vitis vinifera* (si veda la relativa voce), anche se in Cantico 8:2 si dice che il vino era prodotto anche dal succo del melograno, *Punica granatum* (si veda la relativa voce). Si suppone che il vino di melagrana fosse molto meno forte di quello della vite (306). La «bevanda forte» (ebraico «shaychar») della Bibbia, quando viene menzionata insieme al vino o in contrasto con esso, è ritenuta da alcuni studiosi (299) un prodotto della palma da datteri, *Phoenix dactylifera* (si veda la relativa voce).
+
+La vendemmia in Palestina ai tempi biblici aveva luogo in settembre ed era accompagnata da grande gioia e festeggiamenti. I grandi cesti di frutta succosa venivano portati a speciali torchi per il vino (ebraico «yekev» e «gitot») (Geremia 6:9). Di solito questi torchi consistevano in due vasche o tini, posti uno sopra l'altro, ciascuno scavato in un blocco di roccia compatta (Gioele 3:13; Isaia 5:2, nota marginale; Matteo 21:33). Torchi così antichi si possono vedere ancora oggi in alcune parti della Palestina (306). L'uva fresca veniva versata nella vasca superiore (in ebraico il «tino da vino» è «begat»). Una certa quantità di succo colava naturalmente nella vasca inferiore per il solo peso dei grappoli sovrapposti. Era il succo degli acini più maturi e teneri, che veniva raccolto con cura e tenuto separato dal succo spremuto successivamente. Questo era il «vino dolce» (ebraico «tirosh»), il «vino nuovo» (ebraico «ahsis») o «primo vino» di Osea 4:11, Amos 9:13 e Atti 2:13. Una volta raccolto questo liquido, cominciava la spremitura dell'uva mediante l'antichissimo procedimento della «pigiatura». Secondo la grandezza della vasca, uno o più uomini calpestavano l'uva a piedi nudi, incoraggiandosi l'un l'altro con alte grida (Isaia 16:9–10; Geremia 25:30 e 48:33). Durante l'operazione piedi, gambe e perizomi si tingevano di rosso con il succo: fatto al quale si allude in Genesi 49:11 e Isaia 63:2–3. Il succo così spremuto scorreva liberamente nella vasca inferiore, dalla quale veniva raccolto in vari recipienti. Talvolta questo succo veniva conservato senza fermentazione e consumato come «mosto», o, come diremmo oggi, succo d'uva; più spesso, tuttavia, lo si lasciava fermentare per l'azione enzimatica del lievito del vino, *Saccharomyces ellipsoideus*.

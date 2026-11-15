@@ -4,17 +4,19 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–211**: **206 pagine stampate complete**, quattro assenti e una parziale entro la pagina 211. Il PDF contiene 324 scansioni e termina alla pagina stampata 328.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–213**: **208 pagine stampate complete**, quattro assenti e una parziale entro la pagina 213. Il PDF ha 324 scansioni e termina alla pagina stampata 328.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 207 pagine stampate esaminate (206 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **212–328**.
-**Prossimo intervallo:** **212–217**, poi blocchi successivi fino alla pagina stampata **328**.
+**Copertura di lavoro:** 209 pagine stampate esaminate (208 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **214–328**.
+**Prossimo intervallo:** **214–217**, poi blocchi successivi fino alla pagina stampata **328**.
 
 ## Aggiornamento parziale del blocco 208–217 (15 novembre 2026)
 
-- **Pagina stampata 211** tradotta sulla scansione **PDF 207**, con versetti sulla panificazione e trattazione del pane, della fermentazione e dei lieviti. File [`TRADUZIONE_211.md`](TRADUZIONE_211.md) integrato nel master; il periodo finale continua a pagina 212. Restano 212–217.
+- **Pagine stampate 212 e 213** tradotte sulle scansioni **PDF 208 e 209**. La 212 conclude *Saccharomyces cerevisiae* e avvia *Saccharomyces ellipsoideus*; la 213 prosegue con i versetti sul vino e la descrizione della vinificazione antica. Salvati `TRADUZIONE_212.md` e `TRADUZIONE_213.md` nel master. Prossime 214–217.
 
-- **Pagina stampata 210** completata sulla scansione **PDF 206**, con conclusione di *Sabina phoenicia*, avvio di *Saccharomyces cerevisiae*, versetti biblici e nota originale 131. File [`TRADUZIONE_210.md`](TRADUZIONE_210.md) integrato nel master. Restano **212–217** per completare il blocco.
+- **Pagina stampata 211** tradotta sulla scansione **PDF 207**, con versetti sulla panificazione e trattazione del pane, della fermentazione e dei lieviti. File [`TRADUZIONE_211.md`](TRADUZIONE_211.md) integrato nel master; il periodo finale continua a pagina 212. Restano 214–217.
+
+- **Pagina stampata 210** completata sulla scansione **PDF 206**, con conclusione di *Sabina phoenicia*, avvio di *Saccharomyces cerevisiae*, versetti biblici e nota originale 131. File [`TRADUZIONE_210.md`](TRADUZIONE_210.md) integrato nel master. Restano **214–217** per completare il blocco.
 
 - **Pagina stampata 209** completata, verificata sulla scansione **PDF 205**, con *Sabina excelsa*, inizio di *Sabina phoenicia*, 2 Cronache 2:8, Levitico 14:4–6 e 49–52 e nota originale 130. File [`TRADUZIONE_209.md`](TRADUZIONE_209.md) integrato nel master. La frase finale prosegue a pagina 210.
 - **Pagina stampata 208** completata, verificata sulla scansione **PDF 204**, con voce *Ruta chalepensis* var. *latifolia* e *Ruta graveolens*, Luca 11:42 e nota originale 129.
@@ -23,7 +25,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **211**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **213**.
 - [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
