@@ -4,15 +4,17 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–213**: **208 pagine stampate complete**, quattro assenti e una parziale entro la pagina 213. Il PDF ha 324 scansioni e termina alla pagina stampata 328.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–215**: **210 pagine stampate complete**, quattro assenti e una parziale entro la pagina 215. Il PDF ha 324 scansioni e termina alla pagina stampata 328.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 209 pagine stampate esaminate (208 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **214–328**.
-**Prossimo intervallo:** **214–217**, poi blocchi successivi fino alla pagina stampata **328**.
+**Copertura di lavoro:** 211 pagine stampate esaminate (210 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **216–328**.
+**Prossimo intervallo:** **216–217** per completare 208–217; poi 218–227 e così via fino alla 328.
 
 ## Aggiornamento parziale del blocco 208–217 (15 novembre 2026)
 
-- **Pagine stampate 212 e 213** tradotte sulle scansioni **PDF 208 e 209**. La 212 conclude *Saccharomyces cerevisiae* e avvia *Saccharomyces ellipsoideus*; la 213 prosegue con i versetti sul vino e la descrizione della vinificazione antica. Salvati `TRADUZIONE_212.md` e `TRADUZIONE_213.md` nel master. Prossime 214–217.
+- **Pagine 214 e 215** tradotte sulle scansioni **PDF 210 e 211**: fine della voce sul vino, *Saccharum officinarum*, *Salicornia* e *Salsola*, versetti e note originali 132–134. Salvati `TRADUZIONE_214.md` e `TRADUZIONE_215.md`. Riferimento alla figura 30 mantenuto; verificare la posizione effettiva della tavola quando appare nelle scansioni successive. Restano 216–217 per completare il blocco.
+
+- **Pagine stampate 212 e 213** tradotte sulle scansioni **PDF 208 e 209**. La 212 conclude *Saccharomyces cerevisiae* e avvia *Saccharomyces ellipsoideus*; la 213 prosegue con i versetti sul vino e la descrizione della vinificazione antica. Salvati `TRADUZIONE_212.md` e `TRADUZIONE_213.md` nel master. Prossime 216–217.
 
 - **Pagina stampata 211** tradotta sulla scansione **PDF 207**, con versetti sulla panificazione e trattazione del pane, della fermentazione e dei lieviti. File [`TRADUZIONE_211.md`](TRADUZIONE_211.md) integrato nel master; il periodo finale continua a pagina 212. Restano 214–217.
 
@@ -25,7 +27,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **213**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **215**.
 - [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
