@@ -3809,3 +3809,27 @@ Nell'antichità classica la palma da datteri simboleggiava ricchezza terrena, pr
 Le «canne» della Bibbia hanno posto problemi considerevoli agli studiosi di botanica. Nella maggior parte dei casi si ritiene che la pianta indicata da questo termine fosse *Arundo donax* (si veda la relativa voce). In altri casi è coinvolto *Sorghum vulgare* (si veda la relativa voce). Nel celebre sogno del FARAONE, tuttavia, descritto in Genesi 41:2, alcuni commentatori ritengono che sia menzionata la cannuccia di palude, *Phragmites communis*⁹⁵. MOFFATT e JASTROW, infatti, traducono «erba delle canne» il «prato» della versione Authorized in questo versetto.
 
 ⁹⁵ Chiamata anche *Arundo phragmites* L., *A. vulgaris* Lam., *Trichoon phragmites* (L.) Rendle, *Phragmites phragmites* (L.) Karst. e *P. scriptorum* J. E. Sm. È stata inoltre erroneamente indicata come *Arundo maximus* Forsk. e *Phragmites maximus* (Forsk.) Chiov.
+
+## Pagina originale 173
+
+La versione GOODSPEED dice «carice», mentre la versione Douay traduce «pascolavano in luoghi paludosi». Noi discutiamo questo passo sotto *Butomus umbellatus* (si veda la relativa voce).
+
+Alcuni autori hanno identificato la «canna» del Nuovo Testamento, in Matteo 27:48 e Marco 15:36, con *Phragmites*, ma questa identificazione non sembra probabile (si veda sotto *Sorghum vulgare*). DINSMORE ritiene che *Phragmites* possa essere stata la «canna agitata dal vento» di Matteo 11:7 (267), ma noi seguiamo POST nell'attribuire questo passo ad *Arundo donax*. Per quanto si possa dubitare dell'esattezza delle identificazioni menzionate sopra, non vi è assolutamente alcun dubbio che i riferimenti di 3 Giovanni 13 e 3 Maccabei 4:20 riguardino la cannuccia comune. Le penne usate per scrivere sulla pergamena o sulle pelli erano fatte quasi invariabilmente con gli steli di questa canna. I più antichi documenti scritti conosciuti appartenenti a una popolazione semitica sono probabilmente i mattoni di Ninive e Babilonia (306). La più antica menzione della scrittura nella Bibbia si trova in Numeri 17:3 (circa 1471 a.C.), da cui apprendiamo che si scriveva sul legno. In 2 Esdra 14:24 sono menzionate tavolette di bosso per scrivere. In Giobbe 19:24 è descritto un metodo per incidere parole nella roccia e riempire poi le incisioni con piombo fuso. In 2 Giovanni 12 e 3 Maccabei 4:20 è menzionata la carta di papiro. Per gli usi ordinari servivano tavolette di legno ricoperte di cera (Luca 1:63). Per scrivervi si usava uno stilo appuntito, spesso fatto di ferro. Per i materiali più duri si adoperava uno strumento da incisione. Soltanto per scrivere sulla pergamena e sulla pelle erano utili le penne di canna. L'inchiostro usato con queste penne era nerofumo «sciolto nel succo di galla» (306). Lo si portava in un calamaio appeso alla cintura (Ezechiele 9:2–3), come si fa ancora oggi in Oriente. Troviamo riferimenti agli scribi di professione in Salmi 45:1, Esdra 7:6 e 2 Esdra 14:24.
+
+ERODOTO afferma che gli Ioni appresero dai Fenici l'arte della scrittura e che i loro libri erano chiamati «pelli», perché, quando mancava la carta di papiro, utilizzavano pelli conciate di pecora e di capra. Al tempo di GIUSEPPE FLAVIO si usava la pergamena per il manoscritto del Pentateuco. Le «membranae» di 2 Timoteo 4:13 erano pelli pergamenacee. Il Talmud prescriveva che la Legge fosse scritta soltanto sulle pelli di mammiferi o uccelli «puri». Dopo essere state scritte, queste pelli venivano arrotolate su uno o due bastoncini e fissate con un filo, le cui estremità venivano sigillate (Salmi 40:7–8; Isaia 29:11 e 34:4; Geremia 36:14; Ezechiele 2:9–10; Daniele 12:4; Zaccaria 5:1; Apocalisse 5:1). I rotoli erano generalmente scritti su un solo lato, raramente su entrambi (Ezechiele 2:9–10; Apocalisse 5:1).
+
+La cannuccia comune, dalla quale venivano ricavate — e ancora si ricavano nei paesi orientali — le penne di canna, è una graminacea alta da tre a quindici piedi, con fusti robusti e fogliosi, legnosi alla base, che nascono da lunghi rizomi orizzontali. Le foglie, disposte su due file, sono lanceolate, larghe e ruvide ai margini, lunghe da sei a dodici pollici e larghe da mezzo a due pollici. I fiori sono portati in dense pannocchie piumose, lunghe da sei a dodici pollici o più, all'apice dei fusti. La specie è comune nelle paludi e negli acquitrini di tutta la Terra Santa, dell'Arabia Petrea e del Sinai, nonché in gran parte dell'Europa, dell'Asia e dell'America (267).
+
+### 159. *Pinus brutia* Tenore
+
+**Levitico 23:40** — Il primo giorno prenderete rami di alberi belli, rami di palme, rami di alberi frondosi e salici del torrente [...].
+
+**Neemia 8:15** — [...] Andate sui monti e prendete rami d'olivo, rami di pino, rami di mirto, rami di palma e rami di alberi frondosi per fare capanne [...].
+
+**Salmi 74:5–6** — Un uomo era rinomato per aver alzato le scuri contro gli alberi folti. Ma ora distruggono tutte insieme le sue opere scolpite con scuri e martelli.
+
+**Isaia 41:19** — [...] porrò nel deserto l'abete, il pino e il bosso insieme.
+
+**Isaia 60:13** — La gloria del Libano verrà a te, l'abete, il pino e il bosso insieme, per abbellire il luogo del mio santuario [...].
+
+Le parole «abete», «pino», «cipresso», «ginepro» e perfino, in alcuni casi, «cedro» sono usate in maniera così libera nella versione Authorized che è pressoché impossibile determinare esattamente quali alberi siano indicati in ciascun passo specifico. Vi sono sempre state, e ancora oggi vi sono, grandi divergenze
