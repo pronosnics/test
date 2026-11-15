@@ -237,3 +237,10 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **149:** prima traduzione di lavoro caricata in `TRADUZIONE_149.md` e nel master; **verifica puntuale ancora necessaria per gli ultimi versetti e le attribuzioni scientifiche**, quindi pagina **non ancora certificata integralmente completata**.
 - **150–157:** da tradurre e verificare, non conteggiate.
 - Lacune permanenti: **82–83, 106–107 mancanti; 111 parziale**.
+
+## Avanzamento successivo — pagina 150
+
+- **150** tradotta integralmente in prima stesura e caricata in `TRADUZIONE_150.md` e nel master.
+- **149** presente in prima stesura ma richiede verifica dei versetti finali; **151–157** ancora da tradurre, non conteggiate come completate.
+- Lacune permanenti: **82–83, 106–107 mancanti; 111 parziale**.
+- Traduzione di lavoro, revisione filologica definitiva da svolgere.
