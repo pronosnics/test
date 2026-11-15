@@ -5062,3 +5062,85 @@ Altri autori hanno suggerito i rovi (*Rubus*), l'atriplice marittima (*Atriplex 
 ¹³⁹ Chiamata anche *Bacillus ambiguus* Andrews, *B. dysenteriae* Schmitz, *Bacterium ambiguum* (Andrews) Levine, *B. schmitzii* Weldin & Levine, *Eberthella ambigua* (Andrews) Bergey, e *Shigella schmitzii* (Weldin & Levine) Hauduroy.
 
 ¹⁴⁰ Chiamata anche *Brassica arvensis* (L.) Rebenh., *B. sinapistrum* Boiss., *B. sinapis* Vis., e *B. arvensis* (L.) B.S.P.
+
+## Pagina originale 221
+
+[Continuazione dalla pagina 220] la Revised Version di Proverbi 24:31 ha una nota marginale che suggerisce la traduzione alternativa «vecce selvatiche» (27). Delle 55 specie di veccia presenti nella Terra Santa, nessuna ha un nome volgare registrato che somigli anche lontanamente a «chârûl» (266). La Bibbia di Oxford afferma categoricamente che «non vi è motivo di accettare nessuna delle diverse piante che sono state proposte per *chârûl*; sembra trattarsi di un termine generico per le erbacce» (27).
+
+### 204. *Solanum incanum* L.
+
+*(Figura 79)*
+
+**Isaia 10:17** — ... ed esso brucerà e divorerà in un solo giorno i suoi rovi e i suoi pruni.
+
+**Isaia 55:13** — Al posto del rovo spunterà l'abete, e al posto del pruno crescerà il mirto ...
+
+**Michea 7:4** — Il migliore di loro è come un rovo; il più retto è più pungente di una siepe spinosa ...
+
+**Ebrei 6:8** — Ma quella che porta spine e rovi è riprovata, prossima alla maledizione ...
+
+Si è discusso e disputato moltissimo sull'identità delle diverse «spine», «pruni», «rovi», «cardi» e «ortiche» della Bibbia. Su nessuno di essi vi è molta unanimità di opinione, poiché la maggior parte delle parole così tradotte sembra essere un termine generico che indica piante pungenti o spinose in generale. Queste piante sono caratteristiche delle regioni aride e desertiche e costituiscono una parte considerevole della flora della Terra Santa (27). Il consenso generale, tuttavia, sembra essere che i «pruni» dei quattro passi sopra citati si riferiscano, almeno per la maggior parte, alla solanacea palestinese, *Solanum incanum*¹⁴¹ (184). Moffatt, d'altra parte, ritiene che il «pruno» (ebraico «shamir») di Isaia 55:13 si riferisca a vere ortiche (si veda *Urtica*). La versione Goodspeed considera i «pruni» di Ebrei 6:8 come «cardi» e omette del tutto l'ultima parte di Isaia 10:17. Moffatt, Weigle, Weymouth e O'Hara usano anch'essi il termine «cardi» nel passo degli Ebrei, mentre la Basic English Version dice «piante malvagie». La traduzione di Jastrow è in ogni caso identica a quella dell'Authorized Version. John Smith era dell'opinione che la solanacea palestinese, invece di essere la pianta chiamata «pruno», fosse quella designata come «vite di Sodoma» in Deuteronomio 32:32 (299); ma quest'ultima è oggi considerata la coloquintide. Alcuni autori hanno pensato che questa «mela di Sodoma», *Citrullus colocynthis* (si veda la relativa voce), fosse effettivamente coinvolta nei riferimenti al «pruno», ma a noi non sembra molto probabile, perché la pianta non è spinosa.
+
+La solanacea palestinese o patata di Gerico è una pianta arbustiva grossolana, con rami rigidi, alta da un piede e mezzo a 4 o 5 piedi, tutta ricoperta di lanugine appressata; rami e foglie sono armati di spine rossastre, ricurve, come un vero rovo. Le foglie sono ovate, a margine intero oppure più o meno ondulato o sinuato-lobato. I fiori porpora hanno forma simile a quelli della patata e sono portati in cime bifide a peduncolo corto; il pedicello inferiore reca un fiore fertile, gli altri sono sterili. Il bel frutto giallo è una bacca di circa un pollice di diametro (267). All'inizio è polposo all'interno, ma maturando la polpa si secca e, quando viene schiacciato, il frutto maturo scoppia emettendo una nube di ciò che sembra «polvere e cenere», o, come dice Giuseppe, «fumo e cenere», essendo queste presunte ceneri i semi (299). Questa caratteristica del frutto ha fatto sì che la pianta fosse conosciuta come la mela di Sodoma, in allusione alla distruzione di Sodoma e Gomorra. Questi frutti corrispondono dunque assai bene alla descrizione di Giuseppe di «quei frutti del Mar Morto che tentano l'occhio, ma diventano cenere sulle labbra». La pianta è abbondante nella bassa valle del Giordano e nella regione del Mar Morto (299), specialmente vicino ai resti di quella che Giuseppe chiama «la città di Sodoma». Post la descrive come erbaccia comune lungo le strade e nei terreni incolti, soprattutto nella bassa valle del Giordano e nei dintorni di Engedi e Gerico (267). Tristram dice che «cresce in tutte le valli calde» (184). Dalman scrive che si trova comunemente sui vecchi muri (98).
+
+La parola ebraica per «pruno» in Michea 7:4 (e in Proverbi 15:19) è «chedek» (greco, ἄκανθα), notevolmente simile agli attuali nomi arabi della solanacea palestinese, «khadak» e «hedek» (98, 267). Tristram
+
+¹⁴¹ Chiamata anche *Solanum sanctum* L., *S. coagulans* Forsk., *S. hierochunticum* Dun. e *S. sodomaeum* L.
+
+## Pagina originale 222
+
+[Continuazione dalla pagina 221] riteneva che il «pruno» di Proverbi 15:19, descritto in quel passo come una pianta che forma siepi, si riferisse anch'esso a questa pianta, che egli dice essere «usata per le siepi» (184). A noi non sembra altrettanto plausibile che una pianta del tipo di questa solanacea venga deliberatamente piantata come siepe, quando una pianta legnosa come *Rhamnus palaestina* (si veda la relativa voce) era così abbondantemente disponibile ed è descritta da molti osservatori come impiegata proprio a quello scopo. Che la solanacea compaia in simili siepi è assai probabile, ma certamente soltanto come erbaccia.
+
+### 205. *Sorghum vulgare* var. *durra* (Forsk.) Dinsm.
+
+*(Figura 82)*
+
+**Matteo 27:48** — E subito uno di loro corse, prese una spugna, la riempì d'aceto, la pose su una canna e gli diede da bere.
+
+**Marco 15:36** — E uno corse, riempì una spugna d'aceto, la pose su una canna e gli diede da bere.
+
+**Giovanni 19:29** — Ora vi era un vaso pieno d'aceto; essi riempirono dunque una spugna d'aceto, la posero su dell'issopo e gliela accostarono alla bocca.
+
+Si è disputato furiosamente sui passi sopra citati. Le versioni Authorized, Douay, O'Hara e Weigle affermano tutte, in Matteo e Marco, che la spugna piena d'aceto fu posta su una «canna» e, in Giovanni, che fu posta su «issopo». Moffatt e Goodspeed cambiano il termine in «bastone» in Matteo e Marco, mentre il primo usa «lancia» e il secondo «asta» in Giovanni; Lamsa dice «canna» in tutti e tre i passi; Weymouth usa «canna» in Matteo e Marco e «stelo d'issopo» in Giovanni; mentre la Basic English Version usa «verga» nei primi due e «bastone» nell'ultimo.
+
+Fra tutte le parole della Bibbia che si riferiscono a piante, «issopo» è indubbiamente la più controversa (si veda la voce *Origanum*). Molti studiosi ritengono che la «canna», l'«issopo», la «lancia», il «bastone», la «verga» o il «fusto» sul quale fu posta la spugna d'aceto nella storia della crocifissione fosse uno stelo di durra, *Sorghum vulgare* var. *durra*¹⁴². Altri sostengono che fosse il fusto della canna gigante, *Arundo donax* (si veda la relativa voce), opinione in apparenza condivisa, almeno in parte, da O'Hara, Weigle, Lamsa e dai curatori delle versioni King James e Douay. Che si trattasse di issopo, *Origanum*, sembra del tutto fuori questione, per la statura esigua della pianta e per la debole consistenza del suo fusto. Alcuni autori suggeriscono tuttavia che l'issopo potesse essere stato mescolato all'aceto, ma si tratta di una mera congettura, fatta per spiegare la comparsa della parola in Giovanni 19:29, che non risulta evidente dalla formulazione dei testi in questione.
+
+La varietà comune di sorgo in Palestina e in Egitto è quella chiamata dhura, durra, miglio indiano, miglio giallo o grano di Gerusalemme. È un'erba annuale simile al mais, da media a robusta, che in Egitto e Palestina raggiunge comunemente almeno 6 piedi di altezza, ma nelle fertili valli fluviali della Nubia si dice arrivi da 16 a 20 piedi. Il midollo spesso è asciutto e non dolce come quello della canna da zucchero. Le foglie lunghe sono spesso larghe un pollice e mezzo, e i fiori sono riuniti in pannocchie terminali compatte e generalmente dense, che fioriscono in giugno e luglio. I chicchi sono abbastanza grandi, spesso raccolti, arrostiti e mangiati, e sono usati anche per preparare un pane grossolano (267). Secondo Pratt (268), grandi campi di dhura si vedono ancora oggi in Egitto e in Palestina. Post la dice «molto comune in coltivazione» nella Terra Santa perché matura il frutto senza irrigazione né pioggia (267). Fra i nomi volgari figurano l'arabo «dhurah-bayda» e l'ebraico «dokhan». Le pannocchie dei frutti hanno spesso dimensioni enormi, e un solo fusto può talvolta fornire un pasto a un'intera famiglia palestinese. Alcuni commentatori ritengono che fosse il «grano arrostito» che Boaz diede a Rut (Rut 2:14) e il «grano» che Giuseppe mandò ai suoi fratelli. Alcuni altri commentatori sono dell'opinione (299) che la dhura possa essere coinvolta nel «miglio» di Ezechiele 4:9 oppure nel «pannag» di Ezechiele 27:17; ma questi due riferimenti sono qui discussi sotto *Panicum miliaceum* (si veda la relativa voce). John Smith pensava che
+
+¹⁴² Chiamata anche *Holcus durra* Forsk., *H. sorghum* var. *durra* (Forsk.) L. H. Bailey, e *Sorghum durra* (Forsk.) Stapf.
+
+## Pagina originale 223
+
+[Continuazione dalla pagina 222] poiché la dhura e il vero sorgo, *Sorghum vulgare* Pers.¹⁴³, sono stati coltivati in Egitto fin dalla preistoria, le loro pannocchie simili a scope, dopo la rimozione dei chicchi, potessero aver formato i famosi mazzi d'«issopo» che gli Ebrei usarono per dipingere gli architravi delle porte alla prima Pasqua (Esodo 12:22) (299). Da noi questo «issopo» è considerato una maggiorana (si veda *Origanum*).
+
+### 206. *Staphylococcus albus* Rosenb.
+### 207. *Staphylococcus aureus* Rosenb.
+### 208. *Streptococcus pyogenes* Rosenb.
+
+**Esodo 9:9–11** — ... e diverrà polvere minuta in tutto il paese d'Egitto, e diverrà un'ulcera che scoppierà in pustole sugli uomini ... Ed essi presero cenere dalla fornace e si presentarono davanti al faraone; Mosè la sparse verso il cielo, e divenne un'ulcera che scoppiava in pustole sugli uomini e sugli animali ... E i maghi non poterono presentarsi davanti a Mosè a causa delle ulcere, perché le ulcere erano sui maghi.
+
+**Levitico 13:18–23** — Se la carne, sulla pelle, ha avuto un'ulcera e questa è guarita, e al posto dell'ulcera vi è un rigonfiamento bianco ... è una piaga di lebbra scoppiata nell'ulcera ... Ma se la macchia lucente resta al suo posto e non si estende, è l'infiammazione dell'ulcera; e il sacerdote dichiarerà quell'uomo puro.
+
+**2 Re 20:7** — E Isaia disse: Prendete un impiastro di fichi. Ed essi lo presero e lo posero sull'ulcera, ed egli guarì.
+
+**Giobbe 2:7** — Satana allora si allontanò dalla presenza del Signore e colpì Giobbe con ulcere maligne dalla pianta del piede fino alla sommità del capo.
+
+**Apocalisse 16:2** — ... e un'ulcera maligna e dolorosa colpì gli uomini che avevano il marchio della bestia ...
+
+Le ulcere (ebraico «ahvaboo'ot») sono tumori duri, dolorosi, superficiali e infiammati, che alla suppurazione emettono pus misto a sangue e lasciano scoperta una piccola massa fibrosa di tessuto morto, chiamata nucleo (158). Le singole ulcere sono di solito provocate da irritazione locale. I principali organismi causali delle ulcere sono *Staphylococcus aureus*¹⁴⁴ e *S. albus*¹⁴⁵, che si trovano nella pelle e nelle mucose e causano non soltanto ulcere, ma anche ascessi, foruncoli, suppurazioni nelle ferite e alcuni tipi di brufoli, ecc. (52). *Streptococcus pyogenes*¹⁴⁶ compare nelle infezioni umane di tipi molto diversi ed è occasionalmente presente anche nelle infezioni della mammella dei bovini (52). Fu probabilmente questo o un organismo simile a causare l'affezione sistemica di Giobbe con ulcere. L'«ulcera ardente» di Levitico 13:23 indica una sensazione di fuoco o calore e potrebbe essere la controparte dell'attuale «ulcera di Damasco» (306). Questo organismo è anche uno dei probabili agenti delle infezioni cancrenose, che, secondo William Smith, «erano comuni in tutti i paesi familiari agli scrittori delle Scritture» (306). Alcuni autori hanno supposto che la piaga di ulcere fatta scendere da Mosè sugli Egiziani consistesse non nelle ulcere come le conosciamo oggi, ma piuttosto nella peste bubbonica, sempre accompagnata da rigonfiamenti e diffusa molto rapidamente (come richiederebbe il contesto) (306). Tuttavia, poiché colpiva tanto l'uomo quanto gli «animali», le ulcere sembrerebbero l'interpretazione più probabile. La versione Jastrow rende «ulcera ardente» con «cicatrice dell'ulcera».
+
+### 209. *Styrax benzoin* Dryand.
+
+**Esodo 30:34** — ... Prendi per te spezie dolci, stacte, onice e galbano ...
+
+**Siracide 24:15** — Ho diffuso un dolce odore come di cannella e aspalato, e ho emanato un piacevole profumo come la migliore mirra, come il galbano, l'onice e lo storace dolce ...
+
+La parola ebraica tradotta «onice» nella Bibbia è «shechelet» o
+
+¹⁴³ Chiamato anche *Holcus sorghum* L., *Andropogon sorghum* (L.) Brot. e *A. sorghum* subsp. *sativum* Hack.
+
+¹⁴⁴ Chiamato anche *Staphylococcus pyogenes aureus* Rosenb., *Micrococcus pyogenes aureus* (Rosenb.) Migula, *M. aureus* (Rosenb.) Migula, e *Aurococcus aureus* (Rosenb.) Winslow & Winslow.
+
+¹⁴⁵ Chiamato anche *Staphylococcus pyogenes albus* Rosenb., *Micrococcus pyogenes albus* (Rosenb.) Migula, *M. aureus* (Rosenb.) Migula, *M. albus* (Rosenb.) Buchanan, e *Albococcus pyogenes* (Migula) Winslow & Winslow.
+
+¹⁴⁶ Chiamato anche *Micrococcus scarlatinae* Klein, *Streptococcus erysipelatos* Rosenb., *S. erysipelatis* Zopf, *S. erysipelatosus* Klebs, *S. scarlatinae* Klein, *S. conglomeratus* Kurth, *S. puerperalis* Arloing, *S. longus hemolyticus* Sachs, *S. longissimus* Thalm., *S. hemolyticus* (Sachs) Rolly, *S. hemolysans* Blake, e *S. pyogenes haemolyticus* Weisenb.
