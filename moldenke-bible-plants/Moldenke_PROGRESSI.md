@@ -4,13 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–229**: **224 pagine con testo/didascalie tradotti**; quattro pagine assenti e una parziale. Illustrazione figura 30 originale estratta ma file non ancora archiviato nel repository.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–231**: **226 pagine con testo e didascalie tradotti**; quattro assenti e 111 parziale. Figura 30 PNG ancora da archiviare su GitHub.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 225 pagine stampate esaminate (224 testo completo + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **230–328**.
-**Prossimo intervallo:** **230–237** per completare il blocco 228–237.
+**Copertura di lavoro:** 227 pagine stampate esaminate (226 complete di testo + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **232–328**.
+**Prossimo intervallo:** **232–237** per completare blocco 228–237.
 
 ## Blocco 228–237 in corso (15 novembre 2026)
+
+- **Pagine 230–231** tradotte, verificate sulle scansioni PDF **226–227**, con citazioni sul grano e trattazione botanico-storica del frumento. Note originali 151–153 incluse. Singoli file e master aggiornati; restano 232–237.
 
 - **Pagine stampate 228–229**, scansioni PDF **224–225**, tradotte e integrate nel master. *Tetraclinis articulata*, note 150, inizio delle voci *Triticum aestivum* e *T. compositum*, versetti su grano, mietitura e fame. **Prossime 230–237**; blocco complessivo non ancora completo.
 
@@ -45,7 +47,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **229**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **231**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.

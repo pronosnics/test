@@ -5289,3 +5289,89 @@ Alcuni commentatori hanno supposto che l'albero del legno di tuia fosse lo stess
 **1 Re 5:11** — E Salomone diede a Hiram ventimila misure di frumento per nutrire la sua casa ...
 
 **1 Cronache 21:12–28** — O tre anni di carestia ... E l'angelo del Signore stava presso [continua alla pagina 230].
+
+## Pagina originale 230
+
+**1 Cronache 21:12–28 (continuazione)** — ... l'aia di Ornan ... comandò ... che Davide salisse ed erigesse un altare al Signore nell'aia di Ornan ... Ornan stava trebbiando il grano; e quando Davide giunse da Ornan, Ornan alzò gli occhi, vide Davide, uscì dall'aia e si prostrò davanti a lui con la faccia a terra. Allora Davide disse a Ornan: Concedimi il luogo di quest'aia ... e gli attrezzi per trebbiare come legna, e il grano per l'oblazione ... e il Signore gli rispose nell'aia di Ornan.
+
+**2 Cronache 2:10 e 15** — Ed ecco, darò ai tuoi servi ... ventimila misure di frumento battuto ... Ora dunque, quanto al frumento ... lo mandi ai suoi servi.
+
+**2 Cronache 3:1** — ... il Signore era apparso a Davide, suo padre, nel luogo che Davide aveva preparato nell'aia ...
+
+**Giobbe 5:26** — Giungerai alla tomba in piena vecchiaia, come un covone di grano viene raccolto nella sua stagione.
+
+**Giobbe 31:40** — Che crescano cardi invece del grano ...
+
+**Salmi 4:7** — ... nel tempo in cui aumentavano il loro grano e il loro vino.
+
+**Salmi 65:9 e 13** — ... tu prepari loro il grano ... anche le valli si ricoprono di grano ...
+
+**Salmi 72:16** — Vi sarà abbondanza di grano sulla terra, sulla cima dei monti; il suo frutto ondeggerà come il Libano ...
+
+**Salmi 81:16** — Egli li avrebbe nutriti anche col più fino frumento ...
+
+**Salmi 147:14** — Egli ... ti sazia con il migliore frumento.
+
+**Proverbi 11:26** — Chi trattiene il grano sarà maledetto dal popolo, ma la benedizione sarà sul capo di chi lo vende.
+
+**Isaia 28:25–28** — Quando ne ha spianato la superficie, non vi sparge forse ... il frumento principale ...? ... Il grano da pane viene frantumato, perché non lo si trebbia per sempre, né lo si rompe con la ruota del carro né lo si pesta con i cavalli.
+
+**Isaia 41:15–16** — Ecco, io ti renderò un nuovo strumento da trebbia affilato e dentato: trebbierai i monti e li ridurrai in polvere, e renderai i colli simili alla pula. Li vaglierai, e il vento li porterà via, e il turbine li disperderà ...
+
+**Isaia 47:2** — Prendi le macine e macina farina ...
+
+**Geremia 50:11** — ... siete diventati grassi come una giovenca al pascolo ...
+
+**Lamentazioni 2:12** — Essi dicono alle loro madri: Dove sono il grano e il vino? ...
+
+**Ezechiele 27:17** — ... commerciavano nei tuoi mercati con frumento di Minnit ...
+
+**Osea 14:7** — ... rivivranno come il grano e cresceranno come la vite ...
+
+**Amos 8:5–6** — ... Quando sarà passato il novilunio, affinché possiamo vendere il grano? E il sabato, affinché possiamo mettere in vendita il frumento? ... E vendere persino gli scarti del frumento?
+
+**Zaccaria 9:17** — ... il grano rallegrerà i giovani ...
+
+**Matteo 3:12** — Egli ha il ventilabro in mano e pulirà interamente la sua aia, raccoglierà il suo grano nel granaio; ma brucerà la pula con fuoco inestinguibile.
+
+**Matteo 12:1** — In quel tempo Gesù passava di sabato attraverso i campi di grano, e i suoi discepoli ebbero fame e cominciarono a cogliere spighe e a mangiarle.
+
+**Matteo 13:3–8 e 24–30** — ... Ecco, un seminatore uscì a seminare. Mentre seminava, alcuni semi caddero lungo la strada e vennero gli uccelli e li divorarono. Altri caddero su luoghi sassosi, dove non avevano molta terra, e subito germogliarono, perché il terreno non era profondo. Ma quando sorse il sole furono bruciati e, poiché non avevano radici, seccarono. Altri caddero fra le spine; le spine crebbero e li soffocarono. Altri invece caddero in buona terra e diedero frutto, alcuni cento volte tanto, altri sessanta, altri trenta ... Il regno dei cieli è simile a un uomo che seminò buon seme nel suo campo; ma, mentre gli uomini dormivano, venne il suo nemico, seminò zizzania in mezzo al frumento e se ne andò. Quando l'erba fu spuntata e produsse frutto, apparve anche la zizzania ... non avevi seminato buon seme nel campo? ... affinché, raccogliendo la zizzania, non sradichiate con essa anche il frumento. Lasciate che crescano insieme fino alla mietitura ... raccogliete il grano nel mio granaio.
+
+**Matteo 18:6** — Ma chiunque scandalizzerà uno di questi piccoli che credono in me, sarebbe meglio per lui che gli fosse appesa al collo una macina e che fosse sommerso nel profondo del mare.
+
+**Marco 2:23** — E avvenne che egli passasse di sabato attraverso i campi di grano; e i suoi discepoli, camminando, cominciarono a cogliere le spighe.
+
+**Marco 4:28** — La terra produce frutto da sé: prima lo stelo, poi la spiga, quindi il grano pieno nella spiga.
+
+**Marco 14:12** — E il primo giorno degli azzimi ...
+
+**Luca 6:1** — ... passava attraverso i campi di grano; e i suoi discepoli coglievano le spighe, le sfregavano con le mani e le mangiavano.
+
+**Giovanni 12:24** — In verità, in verità vi dico: se il chicco di frumento caduto in terra non muore, rimane solo; ma se muore, porta molto frutto.
+
+**Atti 7:12** — Ma quando Giacobbe udì che vi era grano in Egitto, vi mandò prima i nostri padri.
+
+**1 Corinzi 9:9** — ... Non metterai la museruola al bue che trebbia il grano ...
+
+**1 Timoteo 5:18** — ... Non metterai la museruola al bue che trebbia il grano ...
+
+**Apocalisse 18:13** — ... e olio, e fior di farina, e frumento ...
+
+La parola ebraica tradotta «frumento» è «chittah» o «chitim» (greco, πυρός), ma per «grano» vengono adoperate undici parole ebraiche diverse: in Numeri 18:27, per esempio, «dagan» (greco, σῖτος; secondo il dizionario, «alimento ricavato dal cereale o dal frumento, pane»); in Giudici 15:5, «kâmah» [continua alla pagina 231].
+
+## Pagina originale 231
+
+[Continuazione dalla pagina 230] (greco, στάχυς, che significa «grano in piedi oppure spighe di grano»); in Genesi 41:49, «bar» (greco, σῖτος); in Rut 2:2, «shibboleth» o «shibalim» (greco, στάχυς); in Levitico 2:14, «karmel» (greco, χίδρον, cioè «grano nella spiga oppure una preparazione di chicchi di frumento acerbi, tostati e macinati grossolanamente»); in Giosuè 5:11, «abûr» o «avur» (greco, σῖτος) e «kâli» (omesso nella Settanta); in Levitico 2:16, «girsah» o «géres» (greco, χίδρον); in Rut 2:7, «amâr» o «omer» (greco, δράγμα, «covoni»); in Giobbe 24:6, «belil»; e in Genesi 42:1–3, «shéber» o «shever» (greco, πρᾶος, σῖτος, che significa «frumento mite o delicato, cereali o grano») (27, 184).
+
+Non vi è dubbio che il «frumento» della Bibbia sia il comune e ben noto frumento primaverile e invernale attualmente coltivato, *Triticum aestivum*¹⁵¹ (47). È una graminacea annuale abbondante, coltivata in Egitto e in altre terre orientali fin dai primi tempi di cui si abbia testimonianza. Il luogo esatto della sua origine non è noto. Alcuni scrittori suppongono che molte piante coltivate da tempo immemorabile nell'area mediterranea, e mai ritrovate spontanee da nessuna parte, possano aver avuto origine nella regione oggi coperta dal Mar Mediterraneo, uno specchio d'acqua che, secondo i geologi, si sarebbe aperto una via dall'Atlantico soltanto in tempi geologici relativamente recenti. Altri scrittori suppongono che siano originarie della regione attorno alla Mesopotamia e degli altopiani dell'Asia occidentale, considerati da molti la culla della civiltà. Chicchi di frumento sono stati trovati nelle più antiche tombe egiziane e, insieme con strumenti di selce, nei resti degli insediamenti lacustri preistorici della Svizzera, indicando, a quanto pare, che questo cereale era coltivato persino dai popoli preistorici (299). Era certamente il cereale principale della Mesopotamia al tempo di Giacobbe, intorno al 1753 a.C. (Genesi 30:14). Ancora oggi costituisce il «sostegno della vita» per innumerevoli milioni di persone in tutto il mondo.
+
+Cinque specie di frumento sono native della Palestina e delle terre confinanti e vi crescono ancora spontanee; almeno altre otto vi sono coltivate. È molto probabile che la maggior parte, o forse tutte, fossero utilizzate anche ai tempi biblici. Le specie native erano senza dubbio assai più abbondanti allora di quanto non siano oggi. Esse sono il cosiddetto frumento monococco, piccolo farro o farro minore, *T. monococcum* L.; il «thaoudar», *T. thaoudar* Reut.; e il farro selvatico o frumento selvatico, *T. dicoccoides* (Koern.) A. Schulz¹⁵² (98), quest'ultimo presente nella regione in due forme, *f. straussianum* A. Schulz e *f. kotschyanum* A. Schulz, attentamente studiate da Aaronsohn per determinarne l'area e la distribuzione (15a, 18, 223a, 223b, 256, 257). Le specie non indigene sono il farro, *T. aestivum* var. *spelta* (si veda la relativa voce); il frumento polacco, *T. polonicum* L.; il frumento egiziano o «Poulard», *T. turgidum* L.; il frumento duro, *T. durum* Desf., e la sua *f. depauperatum* Oppenh.; il frumento «club», *T. compactum* Host; il frumento composto, *T. compositum*; e *T. aegilopoides* (Link) Bal.¹⁵³ (267). Il frumento composto, con le sue spighe ramificate (spesso fino a sette spighe o capolini per stelo), è chiaramente menzionato in Genesi 41:5–27. Rappresentato su numerosi monumenti e iscrizioni egiziane, è ancora comune nel delta del Nilo, dove è conosciuto come «frumento delle mummie» (184), e si trova anche in Palestina (306).
+
+Tre varietà di frumento sono oggi coltivate molto comunemente in Palestina: sulle pianure marittime si trova una forma bianca, con reste corte, mentre nell'interno si trova una forma a stelo corto, con reste lunghe, compatta e dai chicchi grossi, nonché una forma con steli più lunghi e reste e glume nere, grossolane (184). La signora Barneveld ci dice che il «frumento di Heshbon» è un tipo aristato che produce parecchie spighe su un solo stelo (probabilmente *T. compositum*), e che anche il «frumento egiziano» era aristato (*T. turgidum*) (47, 306). La Babilonia, la Siria e la Palestina erano tutte rinomate nell'antichità per l'ottima qualità del loro frumento, ma erano frequentemente colpite da siccità che provocavano carestie diffuse (Salmi 81:16 [continua a pagina 232].
+
+¹⁵¹ Chiamata anche *Triticum sativum* Lam., *T. vulgare* Vill., *T. hybernum* L. (forma priva di reste) e *T. tenax* Hausskn.
+
+¹⁵² Chiamata anche *Triticum vulgare* var. *dicoccoides* Koern., *T. dicoccum* var. *dicoccoides* (Koern.) Asch. & Graebn. e *T. hermonis* Cook.
+
+¹⁵³ Chiamata anche *Crithodium aegilopoides* Link e *Triticum baeoticum* Boiss.
