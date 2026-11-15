@@ -4,7 +4,7 @@ La traduzione di WEYMOUTH di Matteo 27:28–29 è particolarmente chiara: «Dopo
 
 ### 155. *Panicum miliaceum* L.
 
-**Ezechiele 4:9** — Prendi anche grano, orzo, fave, lenticchie, miglio e spelta, mettili in un solo recipiente e fattene del pane [...].
+**Ezechiele 4:9** — Prendi anche grano, orzo, fave, lenticchie, miglio e vecce, mettili in un solo recipiente e fattene del pane [...].
 
 **Ezechiele 27:17** — Giuda e il paese d'Israele erano tuoi mercanti: scambiavano nel tuo mercato grano di Minnit e Pannag, miele, olio e balsamo.
 
