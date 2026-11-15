@@ -4,11 +4,11 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–130 (**125** pagine complete; conteggio sulle 324 pagine digitalizzate: **38,58%**).
+**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–137 (**132** pagine complete; **40,74%** su 324 pagine PDF).
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 126 pagine esaminate (125 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **131** e successive.
-**Prossimo intervallo:** **131–137**; mantenere tutte le lacune già registrate.
+**Copertura di lavoro:** 133 pagine esaminate (132 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **138** e successive.
+**Prossimo intervallo:** **138–147**, con verifica della numerazione stampata e mantenimento delle lacune permanenti.
 
 ## Documenti correnti
 
@@ -179,3 +179,14 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Prossimo intervallo da tradurre: 131–137**, per completare il blocco 128–137, evitando duplicati.
 - **Pagine da reperire invariate:** 82–83, 106–107; 111 parzialmente coperta.
 - Il file master più aggiornato è `TRADUZIONE_EDITABILE.md` nel repository; il Word cumulativo va rigenerato dopo l'avanzamento del blocco.
+
+
+## Blocco completato 131–137 — 15 novembre 2026
+
+- **131–132:** Lino (*Linum usitatissimum*): uso tessile, versetti biblici, storia dei vocaboli ebraici e delle traduzioni.
+- **133–134:** Lavorazione del lino, tradizioni mitologiche, loglio (*Lolium temulentum*) e parabola della zizzania.
+- **135:** *Lycium europaeum*, rovi nella parabola di Giudici e figura ornamentale del lino.
+- **136:** Tavola illustrata originale **Figura 23** sul gelso nero (*Morus nigra*) con didascalia italiana; pagina illustrata completa, non lacuna.
+- **137:** Inizio di *Mandragora officinarum*, versetti di Genesi e Cantico, descrizione botanica, tradizioni e note originali.
+- **Lacune ancora aperte:** 82–83, 106–107; 111 solo parzialmente leggibile.
+- **Master aggiornato:** `TRADUZIONE_EDITABILE.md`, prossimo blocco **138–147**.
