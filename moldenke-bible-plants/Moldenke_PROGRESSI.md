@@ -224,3 +224,10 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - Pagine **141–147** ancora da tradurre.
 - Lacune **82–83, 106–107** mancanti e **111** parziale.
 - Traduzione di lavoro, revisione filologica ancora necessaria.
+
+## Blocco 148–157 — avanzamento
+
+- **148:** tradotta integralmente e aggiunta al master, conclusione di *Narcissus tazetta* e inizio di *Nardostachys jatamansi*, compresi i versetti, la nota originale 82 e i riferimenti alla figura 34.
+- **149–157:** non ancora completate in questa esecuzione; non conteggiarle come tradotte.
+- **Lacune permanenti:** 82–83 e 106–107 mancanti; 111 parzialmente illeggibile.
+- Stato: traduzione di lavoro, revisione filologica definitiva ancora da eseguire.
