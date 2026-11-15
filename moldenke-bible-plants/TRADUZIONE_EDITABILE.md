@@ -4984,3 +4984,81 @@ Il «torrente dei salici» — «Wady dei salici» secondo Moffatt, «torrente d
 Le parole ebraiche rese «vimini verdi» nell'Authorized Version sono «yether lach» o «yether lach» e «y'tarim lachim» (greco, νευρὰ ὑγρά, cioè «corda umida di tendine»). Nonostante il fatto che la versione Douay
 
 ¹³⁵ Chiamata anche *Salix subserrata* Willd. e *S. octandra* Sieb.
+
+## Pagina originale 218
+
+[Continuazione dalla pagina 217] renda queste parole con «tendini» e le versioni Moffatt, Jastrow e Goodspeed dicano «corde da arco» — in entrambi i casi implicando un'origine animale — a noi sembra probabile che i rametti di salice, morbidi, flessibili e verdi, costituissero questi «vimini verdi». Leeser dà la traduzione più generale di «corde umide».
+
+La Bibbia di Wycliffe, tuttavia, adopera in questo passo una parola che significa «salice» (27, 184). I *withes* sono rametti o rami sottili e flessibili, di solito di salice o vimine, usati per legare o per lavori d'intreccio (158).
+
+### 198. *Salvia judaica* Boiss.
+
+*(Figura 31)*
+
+**Esodo 37:17–18** — Ed egli fece il candelabro d'oro puro; di lavoro battuto fece il candelabro: il suo fusto, i suoi rami, le sue coppe, i suoi pomi e i suoi fiori erano della medesima opera. E sei rami uscivano dai lati di esso: tre rami del candelabro da un lato e tre rami del candelabro dall'altro lato.
+
+Gli antichi Ebrei, come gli Egiziani, i Greci e i Romani e, in effetti, tutte le tribù dell'umanità, prendevano in prestito molte forme artistiche dalle piante (276). L'acanto è all'origine delle volute decorative così frequenti nell'arte antica, medievale e moderna. La ninfea ispirò l'ornamentazione a gigli nel tempio di Salomone e nei capitelli delle colonne egiziane e fenicie. Il fiore del melograno servì da modello per campanelle ornamentali, e il suo frutto suggerì la forma delle corone regali dall'epoca di Salomone fino ai nostri giorni. Analogamente, il candelabro a sette bracci, giunto fino a noi attraverso i secoli come simbolo tradizionale ebraico, ebbe origine nell'infiorescenza ramificata di una bella pianta simile alla salvia, che cresce sui monti e sui colli della Palestina. L'infiorescenza di questa pianta (se appiattita) ha quasi esattamente la forma e l'aspetto del candelabro a sette bracci (ebraico «menorah»), con la spiga centrale e tre coppie di rami laterali, ciascuno dei quali si piega verso l'alto e verso l'interno in maniera tanto simmetrica. Su ogni ramo dell'infiorescenza vi sono verticilli di gemme, che probabilmente suggerirono a loro volta all'artista i «pomi» o «nodi» del candelabro d'oro biblico.
+
+La salvia di Giudea, *Salvia judaica*, raggiunge un'altezza di 3 piedi. I suoi fusti sono quadrangolari, rigidi, ruvidi e ramificati superiormente in una pannocchia. Le foglie appaiate sono bollose-rugose, crenate o dentato-lobate; le basali e talvolta le inferiori del fusto sono lirato-pennatipartite, con lobi ottusi ovati e una o due coppie laterali talvolta confluenti, mentre il lobo terminale è molto più grande. Le foglie basali sono picciolate, quelle del fusto sessili. I fiori sono portati in verticilli distanziati, da 6 a 12 ciascuno, e i pedicelli sono più corti del calice nettamente rosso. Le corolle sono violetto, lunghe circa tre quarti di pollice, fortemente bilabiate (267). Oggi la pianta cresce a Latakia, Beirut, Tripoli, a sud attraverso Nazaret, Hebron, Tiberiade, Samaria, Giudea e altre parti della Palestina. Non è stata segnalata dall'Egitto o dal Sinai, ma la sua distribuzione poteva essere più estesa nei tempi biblici, e nelle regioni vicine si trovano molte specie strettamente affini.
+
+### 199. *Saussurea lappa* (Decaisne) C. B. Clarke
+
+*(Figura 33)*
+
+**Salmi 45:8** — Tutte le tue vesti profumano di mirra, aloe e cassia ...
+
+Le parole ebraiche tradotte «cassia» nel passo sopra citato dalla versione di re Giacomo e dalle versioni Jastrow, Douay e Goodspeed sono «ketzioth» o «k'tziot» e «ketziah» o «k'tziah» (greco, κασία). Alcuni scrittori antichi supponevano che l'iris europeo dal dolce profumo, o iris fiorentino, *Iris florentina* L., fosse la pianta qui indicata (299), e che fosse la «cassia» di Esodo 30:24 (27). Questa specie è però originaria soltanto dell'Europa meridionale ed è assai dubbio che fosse disponibile in Palestina ai tempi di Davide. La maggior parte dei commentatori moderni è dell'opinione che fosse l'iris indiano, *Saussurea lappa*¹³⁶, una composita delle montagne himalayane del Kashmir, le cui radici odorose vengono raccolte in grande quantità e spedite a Bombay e quindi ai porti del Golfo Persico
+
+¹³⁶ Conosciuta anche come *Aucklandia costus* Falc., *Theodorea costus* (Falc.) Kuntze e *Aplotaxis lappa* Decaisne. La Bibbia di Oxford la chiama «*Aplotaxis luffa*» (27).
+
+## Pagina originale 219
+
+[Continuazione dalla pagina 218] e del Mar Rosso, come pure verso oriente fino alla Cina. È una pianta perenne con radici robuste, munita di grandi foglie incise raccolte in una rosetta basale. Il fusto simile a quello di un cardo raggiunge da 5 a 6 piedi di altezza e reca capolini di fiori porpora simili a quelli dei cardi (299). Viene impiegata in medicina e come afrodisiaco (158), ma il suo impiego principale è come profumo. In Cina e in India serve da incenso nei templi (158). È assai possibile che questa pianta fosse nota a Davide e Salomone (299). Moffatt rende così il passo dei Salmi citato sopra: «Le tue vesti sono profumate di iris, mirra e aloe». Jones riteneva che «ketzioth» designasse l'iris indiano oppure «un albero che produce cassia» (184). La parola ebraica per la cassia, *Cinnamomum cassia* (si veda la relativa voce), è però «kiddah», e il genere *Cassia* di Linneo, che comprende le senne, non ha nulla a che vedere con la «cassia» delle Scritture.
+
+Alcuni scrittori ritengono che il «calamo» e il «calamo dolce» di Esodo 30:23, Cantico 4:14 ed Ezechiele 27:19 possano riferirsi, almeno in parte, a questo iris indiano, ma noi li consideriamo *Andropogon aromaticus* (si veda la relativa voce). La Revised Version dice «costus» per la «cassia» di Esodo 30:24, oggi generalmente ritenuta *Cinnamomum cassia*, e anche altri commentatori li hanno considerati identici (27, 306).
+
+### 200. *Shigella ambigua* (Andrews) Weldin
+### 201. *Shigella dysenteriae* (Shiga) Castel. & Chalm.
+### 202. *Shigella paradysenteriae* (Collins) Weldin
+
+**2 Cronache 21:18–19** — Dopo tutto questo il Signore lo colpì nelle viscere con una malattia incurabile. E avvenne che, trascorsi due anni, le viscere gli uscirono a causa della malattia; così egli morì in mezzo a gravi sofferenze ...
+
+**Matteo 9:20** — Ed ecco, una donna che soffriva di perdite di sangue da dodici anni gli venne dietro e toccò il lembo del suo mantello.
+
+**Marco 5:25–29** — E una certa donna aveva perdite di sangue da dodici anni e aveva molto sofferto per opera di molti medici, e aveva speso tutto ciò che aveva senza trarne beneficio, anzi era peggiorata ... si avvicinò da dietro e toccò il suo mantello ... E subito la sorgente del suo sangue si fermò, ed ella sentì nel corpo di essere guarita dal suo male.
+
+**Luca 8:43–44** — E una donna, che aveva perdite di sangue da dodici anni, che aveva speso tutti i propri mezzi con i medici senza poter essere guarita da alcuno, si avvicinò da dietro e toccò l'orlo del suo mantello; e immediatamente le perdite di sangue si arrestarono.
+
+**Atti 28:8** — E avvenne che il padre di Publio giacesse malato di febbre e di dissenteria sanguinolenta ...
+
+La letteratura medica contiene molti riferimenti alle malattie menzionate nella Bibbia, e vi sono altrettanta incertezza e discussione sull'identificazione di queste malattie scritturali quanta ve n'è sulle piante fiorifere. L'opinione generale, tuttavia, sembra essere che la «malattia incurabile» di 2 Cronache 21:18–19 fosse la dissenteria e che sia molto probabile che le «perdite di sangue» di Matteo, Marco e Luca e il «flusso sanguinolento» degli Atti 28:8 fossero anch'essi questa malattia, sebbene le prove non siano affatto conclusive in questi ultimi casi. Alcuni autori medici ritengono che le «perdite di sangue» dei riferimenti evangelici fossero causate da un cancro dell'uretra, ma la dissenteria è assai più probabile. Il «flusso sanguinolento» degli Atti non è accompagnato da dettagli sufficienti per una sicura identificazione. Potrebbe perfino essersi trattato di un flusso sanguinolento dalla bocca e quindi di un sintomo di tubercolosi acuta. Nel caso della «malattia incurabile» di Ioram nell'889 a.C., tuttavia, sembra piuttosto certo che si trattasse di dissenteria.
+
+La dissenteria è una malattia accompagnata da febbre, infiammazione e ulcerazione dell'intestino crasso. È caratterizzata da dolori violenti, stimolo continuo a evacuare e fuoriuscita di muco e sangue (158). Può essere acuta o cronica, sporadica o epidemica, ed è sempre stata molto comune in Arabia e nei paesi vicini. Quando è epidemica è spesso anche maligna, e in Arabia e nella Terra Santa è ancora descritta come «spesso fatale» (306). La cosiddetta dissenteria tropicale o amebica è causata dalla presenza di amebe nel canale intestinale e pertanto non rientra nell'ambito di questo libro; ma la dissenteria bacillare o giapponese è dovuta alla presenza di determinati bacilli nel canale intestinale. Il principale di questi è *Shigella dysenteriae*¹³⁷, che è una
+
+¹³⁷ Chiamata anche *Bacillus dysenteriae* Shiga, *B. shigae* Chester e *B. dysentericus* Ruffer & Willmore,
+
+## Pagina originale 220
+
+[Continuazione dalla pagina 219] causa della malattia nell'uomo e nelle scimmie; *S. paradysenteriae*¹³⁸, che la provoca nell'uomo e costituisce anche una causa di diarrea estiva o «malessere estivo» nei bambini, e *S. ambigua*¹³⁹, una causa meno importante di dissenteria nell'uomo (52). La cosiddetta dissenteria difteritica è caratterizzata dalla formazione di una falsa membrana (158). Altre specie di *Shigella* si trovano nelle feci in casi di dissenteria lieve, ma non sono gli agenti causali (52).
+
+Le «perdite di sangue» di Levitico 15:19–30 si riferiscono semplicemente al normale flusso mestruale che provoca una temporanea impurità per un periodo normalmente di sette giorni, dopo il quale la donna doveva essere «purificata» con la consueta offerta al tempio (306).
+
+### 203. *Sinapis arvensis* L.
+
+**Proverbi 24:31** — Ed ecco, era tutto invaso dai rovi, e le ortiche ne avevano ricoperto la superficie ...
+
+La parola ebraica resa «ortiche» nella maggior parte delle traduzioni di questo passo è «chârûl» o «charulim» (greco, φρύγανα ἄγρια, espressione simile a «stecco secco e ruvido»). La maggior parte dei commentatori ritiene corretta questa traduzione, e persino le versioni Jastrow, Moffatt e Goodspeed continuano a usare la parola «ortiche» in questo passo (306). La versione Douay, tuttavia, scambia i due termini botanici, dicendo: «Ed ecco, era tutto pieno di ortiche, e i rovi ne avevano ricoperto la superficie». Royle ritiene invece che le «ortiche» qui menzionate non fossero vere ortiche, bensì senape selvatica, *Sinapis arvensis*¹⁴⁰ (299, 306). Questa pianta, anziché le ortiche, è notoriamente famosa per la sua abitudine di invadere i campi di grano dell'agricoltore trascurato, precisamente nel modo descritto da questo proverbio. Inoltre, fra i nomi arabi ora attribuiti alla senape selvatica vi sono «khardul» e «khardal barri» (266), che somigliano molto alla parola del proverbio (299).
+
+La senape selvatica è una crucifera annuale simile alla senape, alta da 1 a 3 piedi, più o meno irsuta di peli rigidi sparsi, oppure quasi liscia, con ramificazione nella parte superiore. Le foglie sono ovate e variamente dentate o lobate in modo irregolare, mentre quelle basali sono talvolta lirate. I grandi fiori gialli sono raccolti in racemi terminali appariscenti. I frutti sono silique divaricate, ascendenti oppure erette, lisce o leggermente munite di peli ispidi, un poco ristrette tra i semi e terminate da un becco appiattito, allungato e conico, spesso lungo quasi quanto il resto della siliqua (266).
+
+Tristram ha suggerito l'acanto spinoso, *Acanthus spinosus* L., per «chârûl», che dice essere «una comune erbaccia molesta nelle pianure della Palestina» (184). Post non registra affatto questa specie nella Terra Santa, ma afferma che l'affine acanto siriaco, *A. syriacus* (si veda la relativa voce), è comune nei campi di grano e nei luoghi incolti. Il suo modo di crescere e la scelta dell'habitat lo renderebbero senz'altro adatto al contesto del passo quanto la senape selvatica, ma quest'ultima ha a suo favore la considerevole somiglianza dei nomi volgari. I nomi arabi dell'acanto sono «kafi-ud-dibb», «mar 'awila» e «his» (267). L'acanto è qui considerato da noi l'«ortica» di Giobbe 30:7 e Sofonia 2:9.
+
+Altri autori hanno suggerito i rovi (*Rubus*), l'atriplice marittima (*Atriplex littoralis* L.), il pungitopo (*Ruscus aculeatus*) e i cardi per «chârûl» (306). Celsio era dell'opinione che si trattasse dello spino di Cristo, *Paliurus spina-christi* (si veda la relativa voce), opinione che, come commenta William Smith, «non è affatto ben fondata» (306). È di notevole interesse il fatto che
+
+¹³⁷ [Continuazione] *Bacterium dysenteriae* (Shiga) Lehm. & Neum., *B. shigae* (Chester) Topley & Wils., e *Eberthella dysenteriae* (Shiga) Bergey.
+
+¹³⁸ Chiamata anche *Bacillus dysenteriae* Flexner, *B. dysenteriae* Strong, *B. paradysenteriae* Collins, *B. flexneri* (Castel. & Chalm.) Levine, *Shigella flexneri* Castel. & Chalm., *Bacterium flexneri* (Castel. & Chalm.) Levine, *B. paradysenteriae* (Collins) Holland, *Eberthella flexneri* (Castel. & Chalm.) Weldin & Levine, ed *E. paradysenteriae* (Collins) Bergey.
+
+¹³⁹ Chiamata anche *Bacillus ambiguus* Andrews, *B. dysenteriae* Schmitz, *Bacterium ambiguum* (Andrews) Levine, *B. schmitzii* Weldin & Levine, *Eberthella ambigua* (Andrews) Bergey, e *Shigella schmitzii* (Weldin & Levine) Hauduroy.
+
+¹⁴⁰ Chiamata anche *Brassica arvensis* (L.) Rebenh., *B. sinapistrum* Boiss., *B. sinapis* Vis., e *B. arvensis* (L.) B.S.P.
