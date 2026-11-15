@@ -3218,33 +3218,33 @@ Alcuni scrittori, come sir GILBERT BLANE, hanno ritenuto che anche il «calamo»
 
 Il «nardo spigato» della Bibbia non deve essere confuso con il nardo americano, *Aralia racemosa* L., una pianta del tutto diversa che, naturalmente, era sconosciuta ai tempi biblici.
 
-### 141. *Neisseria gonorrhoeae* (Trevis.) [attribuzione come nell'originale]
+### 141. *Neisseria gonorrhoeae* Trevis.
 
 ### 142. *Treponema pallidum* (Schaud. & Hoffm.) Schaud.
 
 **Esodo 20:5** — [...] facendo ricadere l'iniquità dei padri sui figli fino alla terza e alla quarta generazione [...].
 
-**Levitico 13:2** — Quando un uomo avrà sulla pelle del suo corpo un gonfiore, una crosta o una macchia lucida, e questa diventerà sulla pelle del suo corpo come una piaga di lebbra [...].
+**Levitico 13:2** — Quando un uomo avrà sulla pelle del corpo un gonfiore, una crosta o una macchia lucida, e questa diverrà sulla pelle del suo corpo come una piaga di lebbra [...].
 
-**Levitico 15:2–13** — Quando un uomo ha una secrezione dal proprio corpo a causa del suo flusso, egli è impuro. E questa sarà la sua impurità nel flusso, sia che il corpo lasci uscire la secrezione, sia che essa sia trattenuta [...]. Ogni letto sul quale giace colui che ha il flusso sarà impuro, e ogni cosa sulla quale siede sarà impura. E chiunque tocchi il suo letto [...]. E chi siede sopra qualunque cosa sulla quale abbia seduto colui che ha il flusso sarà impuro [...]. E chi tocca il corpo di colui che ha il flusso sarà impuro [...].
+**Levitico 15:2–7** — [...] Quando un uomo ha una secrezione dal proprio corpo, a causa di questa secrezione egli è impuro. E questa sarà la sua impurità nel flusso: sia che il corpo lasci uscire la secrezione, sia che essa sia trattenuta, egli è impuro. Ogni letto sul quale giace colui che ha la secrezione sarà impuro; e ogni cosa sulla quale siede sarà impura. E chiunque tocchi il suo letto [...]. E chi siede sopra qualunque cosa sulla quale abbia seduto colui che ha la secrezione sarà [...] impuro [...]. E chi tocca il corpo di colui che ha la secrezione sarà [...] impuro [...].
 
-**Levitico 22:4–5** — Chiunque abbia una secrezione [...] e chiunque tocchi una cosa impura, o una persona dalla quale possa contrarre impurità [...].
+**Levitico 22:4–5** — Chiunque [...] abbia una secrezione [...] E chiunque tocchi una cosa impura [...] o una persona dalla quale possa contrarre impurità [...].
 
-**Numeri 5:2–3** — Ordina ai figli d'Israele di allontanare dall'accampamento chiunque abbia una secrezione [...]. Allontanerete sia uomini sia donne, perché non contaminino i loro accampamenti [...].
+**Numeri 5:2–3** — Ordina ai figli d'Israele di allontanare dall'accampamento [...] chiunque abbia una secrezione [...]. Allontanerete sia uomini sia donne; li metterete fuori dell'accampamento, affinché non contaminino i loro accampamenti [...].
 
-**Numeri 25:8–9** — Così la piaga cessò fra i figli d'Israele. Quelli che morirono per la piaga furono ventiquattromila.
+**Numeri 25:8–9** — [...] Così la piaga cessò fra i figli d'Israele. E coloro che morirono nella piaga furono ventiquattromila.
 
-**Deuteronomio 4:3** — I vostri occhi hanno visto ciò che il Signore fece a causa di BAAL-PEOR: il Signore tuo Dio distrusse di mezzo a voi tutti gli uomini che seguirono BAAL-PEOR [...].
+**Deuteronomio 4:3** — I vostri occhi hanno visto ciò che il Signore fece a causa di BAAL-PEOR: poiché il Signore vostro Dio ha sterminato di mezzo a voi tutti gli uomini che seguirono BAAL-PEOR.
 
 **2 Samuele 3:29** — [...] e non manchi mai dalla casa di IOAB qualcuno che abbia una secrezione [...].
 
-**Salmi 38:3, 5, 7** — [...] Non vi è salute nella mia carne [...]. Le mie piaghe puzzano e sono infette [...].
+**Salmi 38:3–7 e 11** — Non vi è salute nella mia carne [...] Le mie piaghe puzzano e sono infette a causa della mia stoltezza [...] Poiché i miei fianchi sono pieni di una malattia ripugnante e non vi è salute nella mia carne [...] I miei amici e i miei compagni stanno lontani dalla mia piaga [...].
 
-**Giobbe 19:17** — Il mio alito è ripugnante a mia moglie [...].
+**Salmi 106:28–30** — Si unirono anche a BAAL-PEOR e mangiarono i sacrifici dei morti [...] e la piaga irruppe fra loro. Allora si levò FINEES ed esercitò il giudizio: così la piaga cessò.
 
-**Geremia 30:12–13** — [...] la tua ferita è incurabile [...].
+**Giovanni 9:1–3** — E mentre GESÙ passava, vide un uomo cieco dalla nascita. I suoi discepoli gli chiesero: Maestro, chi ha peccato, quest'uomo o i suoi genitori, perché sia nato cieco? GESÙ rispose: Né quest'uomo ha peccato, né i suoi genitori [...].
 
-**Osea 5:13** — [...] Efraim vide la sua malattia [...].
+Malgrado molte credenze popolari contrarie, le malattie veneree hanno flagellato l'umanità fin dai primi tempi dell'antichità e, nonostante ogni
 
 ## Pagina originale 150
 
@@ -3298,7 +3298,7 @@ Si ritiene che i primi traduttori inglesi della Bibbia abbiano reso il vocabolo 
 
 ## Pagina originale 153
 
-. PLINIO afferma che ai suoi tempi (23–79 d.C.) i semi della nigella erano usati per condire il pane. La loro piccantezza è pari a quella del pepe, e venivano impiegati per insaporire i cibi molto prima che il pepe fosse conosciuto. Nell'Egitto moderno si trova una sorta di pagnotta o focaccia, dalla consistenza più fine del pane comune, ricoperta di questi semi, chiamati dagli Arabi «seme nero» o «seme benedetto», così come noi usiamo i semi di carvi. Essi conferiscono alle pagnotte un sapore aromatico e non sgradevole e si dice rendano il pane più salutare e stimolante per l'appetito.
+PLINIO afferma che ai suoi tempi (23–79 d.C.) i semi della nigella erano usati per condire il pane. La loro piccantezza è pari a quella del pepe, e venivano impiegati per insaporire i cibi molto prima che il pepe fosse conosciuto. Nell'Egitto moderno si trova una sorta di pagnotta o focaccia, dalla consistenza più fine del pane comune, ricoperta di questi semi, chiamati dagli Arabi «seme nero» o «seme benedetto», così come noi usiamo i semi di carvi. Essi conferiscono alle pagnotte un sapore aromatico e non sgradevole e si dice rendano il pane più salutare e stimolante per l'appetito.
 
 È interessante notare che il cumino e la nigella vengono ancora raccolti in Palestina allo stesso modo descritto dal profeta ISAIA nel 725 a.C. Se si facesse passare una ruota sopra queste piante, esse verrebbero schiacciate e il loro prezioso olio carminativo andrebbe perduto. Per evitarlo, i semi vengono fatti uscire battendoli con un bastone o un correggiato. I semi del cumino (si veda *Cuminum*) si staccano dai fusti molto più facilmente di quelli della nigella, perché questi ultimi sono contenuti in capsule grandi e spesse. Pertanto, i semi del cumino si possono raccogliere battendoli con una corta verga, mentre per le «fitches» è necessario un «bastone» o correggiato più lungo e robusto (299).
 
@@ -3355,8 +3355,6 @@ il suo lungo stelo intorno alla testa di un ospite onorato, lasciando pendere il
 ## Pagina originale 156
 
 **FIGURA 25 — *Olea europaea*, l'olivo.** Veduta del giardino del Getsemani, con due frati francescani e un giardiniere arabo. I «giardini» biblici erano generalmente oliveti, nei quali ci si poteva ritirare durante il caldo del giorno e trovare un'ombra benedetta. L'olivo era prezioso anche come fonte di frutti, olio e legname. La maggior parte delle «unzioni» cerimoniali veniva compiuta con olio d'oliva. Fin dal tempo di Noè (si vedano pagina 15 e figura 26), l'olivo è stato un simbolo di pace. (Incisione su legno da C. W. Wilson, *Picturesque Palestine*, 1883).
-
-*[La pagina stampata 156 è una tavola illustrata originale, contenente la figura 25 e la didascalia riportata integralmente sopra.]*
 
 ## Pagina originale 157
 
