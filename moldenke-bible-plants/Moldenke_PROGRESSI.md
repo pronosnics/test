@@ -217,3 +217,10 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **147:** Inizio della voce su *Narcissus tazetta* e confronto con la «rosa» nelle traduzioni bibliche.
 - **Lacune permanenti ancora aperte:** 82–83, 106–107; pagina 111 parzialmente illeggibile. Nessun'altra lacuna nel blocco corrente.
 - **Prossimo blocco:** 148–157.
+
+## Avanzamento — pagina 140
+
+- Pagina **140** tradotta e aggiunta al master; conclusione della menta e inizio del gelso nero.
+- Pagine **141–147** ancora da tradurre.
+- Lacune **82–83, 106–107** mancanti e **111** parziale.
+- Traduzione di lavoro, revisione filologica ancora necessaria.
