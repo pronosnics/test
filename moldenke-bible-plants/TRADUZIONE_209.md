@@ -1,0 +1,19 @@
+## Pagina originale 209
+
+### 185. *Sabina excelsa* (Bieb.) Antoine
+
+**2 Cronache 2:8** — Mandami anche legno di cedro, di abete e di algum dal Libano, perché so che i tuoi servi sono esperti nel tagliare il legname in Libano [...].
+
+Si è discusso moltissimo sull'identità degli «alberi di algum» (ebraico «algomim») menzionati in questo passo. La maggior parte degli autori ha supposto che gli «alberi di algum» di questo riferimento e gli «alberi di almug» di 1 Re 10:11–12 fossero la stessa cosa, e cioè il sandalo rosso, *Pterocarpus santalinus* (si veda la relativa voce). Questa argomentazione si basa soprattutto sulla notevole somiglianza delle parole e sul fatto che la versione Authorized usa «almug» in 1 Re 10:11–12 e «algum» in 2 Cronache 9:10–11, riferendosi in entrambi i casi a un albero importato dal misterioso Ofir. Una nota marginale della versione King James suggerisce tuttavia che l'«algum» del secondo di questi riferimenti sia un errore per «almug» (ebraico «almoogim»), e ciò sembra plausibile, probabilmente come errore di trascrizione commesso da qualche scriba in un momento della storia del manoscritto originale. L'«almug» era un albero originario di Ofir, mentre l'«algum», secondo l'intero contesto del versetto, era originario del Libano. MOFFATT sembra condividere questa opinione, poiché usa «legno di sandalo» (un albero indiano) soltanto nei riferimenti di 1 Re 10:11–12 e 2 Cronache 9:10–11. In 2 Cronache 2:8 scrive «tronchi di cipresso», alludendo apparentemente a *Cupressus sempervirens* var. *horizontalis* (si veda la relativa voce), che è un albero del Libano. Le versioni GOODSPEED e JASTROW considerano tutti e tre i passi riferiti al sandalo, così come il dizionario Webster (158). WILLIAM SMITH sostiene la stessa opinione, suggerendo che il re HIRAM potrebbe aver importato tronchi di sandalo da Ofir a Tiro e averli poi rispediti da Tiro al re SALOMONE insieme al legname originario del Libano, cosicché storici privi di formazione botanica avrebbero facilmente potuto riferirsi al legno come proveniente sia da Ofir sia dal Libano (306).
+
+Preferiamo seguire JOHN SMITH nel considerare l'«algum» come l'albero indigeno del Libano oggi conosciuto come sabina orientale o ginepro greco, *Sabina excelsa*¹³⁰, e non il cipresso, per il quale nella Bibbia sono usate parole del tutto diverse (299).
+
+La sabina orientale è un albero alto da 15 a 65 piedi, dal portamento piramidale e con rami e rametti eretti o espansi. Le foglie aghiformi ovato-triangolari e acute dei rami maggiori sono disposte a gruppi di tre, mentre quelle dei rametti sono strettamente appressate, sovrapposte, simili a squame e disposte in quattro file, con una ghiandola oblunga sul dorso di ciascuna (267). I fiori staminiferi sono portati in amenti eretti o alquanto penduli, e i frutti globosi, nerastri (tecnicamente detti galbuli), sono addensati su brevi rametti leggermente incurvati. L'albero abbonda nei boschi montani delle zone alpine e subalpine della Siria, del Libano, dell'Antilibano e di Galaad (267), fino a 2.700 metri di altitudine.
+
+Anche il noce persiano, *Juglans regia* (si veda la relativa voce), è stato proposto per l'«algum» (299), ma questa opinione non è sostenuta da alcuna autorità contemporanea.
+
+### 186. *Sabina phoenicia* (L.) Antoine
+
+**Levitico 14:4–6 e 49–52** — Allora il sacerdote ordinerà di prendere, per colui che deve essere purificato, due uccelli vivi e puri, legno di cedro, scarlatto e issopo. E il sacerdote ordinerà che uno degli uccelli venga ucciso in un vaso di terracotta sopra acqua corrente. Quanto all'uccello vivo, egli prenderà quello, il legno di cedro, lo scarlatto e l'issopo, e li immergerà, insieme all'uccello vivo, nel sangue dell'uccello ucciso sopra acqua corrente [...] E prenderà, per purificare la casa, due uccelli e legno di cedro [...] Ed egli
+
+¹³⁰ Indicata anche come *Juniperus excelsa* Bieb.
