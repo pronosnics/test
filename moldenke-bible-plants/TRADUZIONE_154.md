@@ -1,0 +1,23 @@
+## Pagina originale 154
+
+### 147. *Nymphaea alba* L.
+
+### 148. *Nymphaea caerulea* Sav.
+
+### 149. *Nymphaea lotus* L.
+
+(PAGINA 155)
+
+**1 Re 7:19, 22 e 26** — I capitelli che erano sulla sommità delle colonne, nel portico, erano lavorati a giglio, di quattro cubiti [...] E sulla sommità delle colonne vi era un lavoro a giglio [...] e il suo orlo era lavorato come l'orlo di una coppa, con fiori di giglio [...].
+
+**2 Cronache 4:5** — Il suo spessore era di un palmo, e il suo orlo era come il lavoro dell'orlo di una coppa, con fiori di giglio [...].
+
+Numerose autorità (268, 299) hanno ritenuto che il «lavoro a giglio» (ebraico «shushan») dei passi di 1 Re e 2 Cronache citati sopra fosse modellato sui fiori della ninfea. Questa ornamentazione scolpita del tempio di SALOMONE era probabilmente in forma di rosette, e i fiori delle ninfee egiziane, con i loro numerosi petali e simili a rose, avrebbero ben potuto servire da modello. Nelle antiche tombe egizie si trovano numerose raffigurazioni scolpite di queste piante, che mostrano assai chiaramente come i fiori di ninfea fossero usati a tale scopo già nei tempi antichi, perlomeno dagli Egizi. È molto plausibile (306) che gli architetti fenici che lavorarono al tempio di Salomone foggiassero i capitelli delle colonne a somiglianza dei capitelli a loto dell'architettura egizia. Tuttavia, la nuova traduzione di MOFFATT dell'«orlo che si incurvava [...] come i petali di un giglio» non si adatta bene alla ninfea, ma piuttosto a un vero giglio o perfino a un tulipano. Anche la versione GOODSPEED introduce un'idea nuova sulla forma dell'ornamentazione, dicendo: «E il suo orlo era lavorato come l'orlo di una coppa, simile al fiore di un giglio».
+
+PRATT è del parere che tutti i riferimenti al «giglio» nell'Antico Testamento si applichino a *Nymphaea lotus*. Questo non ci sembra molto probabile, ma potrebbe aiutare a spiegare il fatto che nel Cantico di Salomone si parli cinque volte di «pascolare fra i gigli» (si veda *Hyacinthus*), poiché semi, radici e steli delle *Nymphaea* sono comuni alimenti in Egitto. Pochi fiori possono eguagliare per bellezza il loto egiziano o ninfea, *Nymphaea lotus*. È il «loto bianco» dell'Egitto, la «sposa del Nilo» (298). Simile per forma a una grande rosa bianca, un tempo galleggiava in abbondanza sulle acque del Nilo, ma oggi è molto raro lungo quell'antico fiume. Le sue foglie hanno un diametro da dodici a venti pollici e i fiori bianchi (con i petali più esterni talvolta rosati) sono larghi da cinque a dieci pollici. È ancora molto ammirato dagli Egiziani, le cui belle donne lo portano come ornamento del capo (126). I semi vengono macinati in farina per farne pane oppure mangiati arrostiti.
+
+Anche *Nymphaea alba* viene indicata dai commentatori come probabilmente un'altra delle ninfee conosciute dai figli d'Israele. È la comune ninfea bianca europea, ma si trova anche in Terra Santa (266, 326) e nell'Africa settentrionale. Non è tuttavia caratteristica dell'Egitto quanto il loto bianco, *N. lotus*. L'altra ninfea classica dell'Egitto è *N. caerulea*, il «loto azzurro». Le sue foglie misurano da dodici a sedici pollici di diametro e i fiori celesti da tre a sei pollici.
+
+Il loto ha sempre avuto un posto di grande rilievo nella poesia e nella religione indiane e degli altri paesi orientali (125). Gli Indù credono che il Grande Spirito originario, OM, si muovesse sulla superficie del vasto mare che esisteva prima della creazione della terra e «suscitasse alla vita un meraviglioso loto dorato, splendente come il sole, che galleggiava sulle acque solitarie. Da OM derivarono le grandi divinità BRAHMA, il creatore; VISNÙ, il conservatore; e SIVA, il distruttore. Ognuno di questi dèi viene raffigurato seduto su un loto d'oro. Si supponeva che BUDDHA, un'emanazione di VISNÙ, fosse apparso per la prima volta nel mondo galleggiando su un loto enorme, che si stendeva sull'oceano» (95). Seduto sul suo fiore di loto, BRAHMA creò il mondo (298). LAKSHMI, dea indù dell'amore, si adagia su un loto, e KAMADIVA, il corrispondente indù di CUPIDO, discende il fiume Gange su un fiore di loto. FUDO, il corrispondente giapponese di MERCURIO, vola attraverso i cieli con sandali di loto (298).
+
+Una leggenda greca racconta che una bella ninfa, abbandonata da ERCOLE, si gettò nel Nilo e il suo corpo si trasformò in un bel loto bianco (298). Era un fiore sacro per gli Egizi già quattromila anni fa. Essi avvolgevano
