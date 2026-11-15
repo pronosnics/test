@@ -274,3 +274,11 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Lacune permanenti conservate:** **82–83, 106–107** assenti; **111** parzialmente coperta. Nessun'altra lacuna nel blocco 158–167.
 - **Stato editoriale:** traduzione italiana di lavoro integrale del testo leggibile del blocco, in attesa di revisione filologica e tipografica definitiva. Conservare denominazioni originali anche se storicamente superate; nessun aggiornamento automatico su WordPress.
 - **Prossimo blocco:** pagine stampate **168–177**.
+
+## Blocco 168–177 — 15 novembre 2026
+- **Stato:** traduzione italiana di lavoro inserita nel master `TRADUZIONE_EDITABILE.md`, pagine stampate **168–177** (10 pagine), con singoli file `TRADUZIONE_168.md` … `TRADUZIONE_177.md`.
+- **Contenuti:** conclusione di *Pasteurella pestis*; *Phoenix dactylifera*; *Phragmites communis*; *Pinus brutia*; *Pinus halepensis*; inizio di *Pistacia lentiscus*. Conservate le citazioni bibliche e le note originali 93–100.
+- **Verifica intestazioni master:** 168–177 presenti ciascuna una volta; il prossimo blocco è **178–187**.
+- **Lacune permanenti da conservare:** **82–83 e 106–107 mancanti** nel PDF originale; **111 parziale**. Non segnate come tradotte integralmente.
+- **Avanzamento:** **172 pagine stampate complete** fino a 177, quattro pagine mancanti e una parziale; il totale non coincide con le 324 pagine digitalizzate.
+- **Stato editoriale:** traduzione di lavoro, non revisione filologica definitiva; nessuna pubblicazione WordPress.
