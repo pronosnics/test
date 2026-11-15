@@ -1,20 +1,25 @@
 # Moldenke — Le piante della Bibbia
-Traduzione italiana editabile del volume *Bible Plants* (Moldenke), preparatoria all'enciclopedia WordPress delle piante bibliche.
 
-## Stato e materiali
-- [Registro dei progressi](./Moldenke_PROGRESSI.md) — fonte di verità per pagine concluse, parziali e mancanti.
-- [**Master cumulativo sempre aggiornato**](./TRADUZIONE_EDITABILE.md) — testo italiano editabile, ancora da revisionare filologicamente.
-- [Versione iniziale 1–127](./Moldenke_traduzione_italiana_01-127_PARZIALE_EDITABILE.md) — snapshot conservata per confronto.
-- [Task GitHub generale](../../issues/1) — avanzamento fino all'ultima pagina.
-- **Automazione attiva ogni 4 ore**; il master è aggiornato fino alla pagina stampata **147**; il prossimo blocco è **148–157**.
-- Lacune note: **82–83**, **106–107**; pagina **111** parziale.
+Traduzione italiana editabile del volume *Bible Plants* di H. N. e A. L. Moldenke, preparatoria all'enciclopedia delle piante bibliche.
+
+## Stato corrente
+
+- [Master cumulativo](TRADUZIONE_EDITABILE.md): traduzione di lavoro aggiornata fino alla pagina stampata **197**.
+- [Registro dei progressi](Moldenke_PROGRESSI.md): riepilogo aggiornato e cronologia dei blocchi.
+- [Blocco 178–187](TRADUZIONE_178-187.md) e [blocco 188–197](TRADUZIONE_188-197.md), anche in file individuali.
+- **Prossimo blocco: 198–207**. Prosecuzione automatica già attiva ogni ora fino alla pagina stampata **328**, comprese bibliografia, appendici e indice.
+- **192 pagine stampate complete** entro la 197; **82–83 e 106–107 mancanti**, **111 parziale**.
+- Il PDF originale contiene **324 scansioni** e arriva al numero stampato **328**: i due conteggi sono distinti.
+- [Figura 28 originale](figure/Moldenke_Figura_28_originale.png), con didascalia italiana nel master alla pagina 192.
 
 ## Convenzioni di lavoro
-1. Usare sempre il **numero stampato** della pagina, distinguendolo dal numero della scansione PDF.
-2. Tradurre integralmente senza riassunti, mantenendo nomi latini, citazioni, titoli, note originali e didascalie.
-3. Non inventare parole, versi o identificazioni botaniche quando l'OCR è errato o la scansione manca.
-4. Registrare ogni nuova lacuna in `Moldenke_PROGRESSI.md`, mantenendo quelle precedenti.
-5. Produrre blocchi Markdown modificabili e aggiornare il cumulativo; in Word le immagini possono essere raster ma il testo dev'essere editabile.
-6. Prima della pubblicazione finale su WordPress eseguire un controllo filologico completo e verificare i diritti editoriali dell'opera e della traduzione.
 
-Il lavoro è **in corso** e la presenza di una pagina nel master non implica che sia già verificata e pubblicabile.
+1. Consultare ogni volta il master e il registro GitHub correnti, usando i numeri stampati delle pagine.
+2. Tradurre integralmente il testo leggibile, senza riassunti, conservando nomi latini, citazioni, riferimenti, note e didascalie.
+3. Verificare il testo estratto contro le scansioni; non inventare parti assenti o illeggibili.
+4. Mantenere le lacune permanenti nel registro senza conteggiarle come pagine complete.
+5. Salvare blocchi e singole pagine Markdown e aggiornare il master senza duplicazioni. Preservare le immagini originali disponibili.
+6. Aggiornare il riepilogo iniziale del registro e questo README; le annotazioni cronologiche sono resoconti di fasi precedenti.
+7. Conservare la distinzione fra traduzione di lavoro e revisione filologica definitiva. Nessuna pubblicazione automatica su WordPress.
+
+Le versioni Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato.

@@ -4,16 +4,16 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–187**: **182 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 187. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–197**: **192 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 197. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 183 pagine stampate esaminate (182 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **188–328**.
-**Prossimo intervallo:** **188–197**, poi blocchi successivi fino alla pagina stampata **328**.
+**Copertura di lavoro:** 193 pagine stampate esaminate (192 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **198–328**.
+**Prossimo intervallo:** **198–207**, poi blocchi successivi fino alla pagina stampata **328**.
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **187**.
-- [`TRADUZIONE_178-187.md`](TRADUZIONE_178-187.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_178.md`–`TRADUZIONE_187.md`.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **197**.
+- [`TRADUZIONE_188-197.md`](TRADUZIONE_188-197.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_188.md`–`TRADUZIONE_197.md`. Il blocco precedente 178–187 è conservato.
 - [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
 
@@ -314,3 +314,15 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Avanzamento:** **182 pagine stampate complete** fino alla 187, **4 mancanti**, **1 parziale**. La pagina stampata finale del PDF è **328**; le scansioni sono **324**.
 - **Stato:** traduzione italiana di lavoro modificabile; revisione filologica definitiva pendente, inclusa la grafia dei vocaboli greci. Nessuna pubblicazione WordPress.
 - **Prossimo blocco:** **188–197**. Proseguire dai file effettivamente presenti su GitHub fino all'ultima pagina disponibile senza richiedere nuove istruzioni.
+
+## Blocco 188–197 completato — 15 novembre 2026
+
+- **Fonte:** pagine stampate **188–197**, scansioni **184–193**; dieci scansioni presenti, visionate e confrontate con il testo estratto.
+- **188–189:** conclusione dell'albicocco e voce *Pterocarpus santalinus*, con discussione di «almug» e «algum» e note **114–116**.
+- **189–191:** *Punica granatum*, citazioni bibliche complete, botanica, usi, simbolismo e mitologia; nota **117**.
+- **192:** tavola originale **figura 28**, giardino a Haifa con «sakiyeh» e palme da datteri. Conservata l'immagine originale nel percorso `figure/Moldenke_Figura_28_originale.png` e tradotta integralmente la didascalia in testo modificabile. Pagina illustrata completa, non lacuna.
+- **193–197:** voci **170–174**, *Quercus aegilops*, *Q. coccifera*, *Q. coccifera* var. *pseudococcifera*, *Q. ilex*, *Q. lusitanica*; tutte le citazioni riportate, coloranti antichi, querce e terebinti, lessico ebraico, quercia di Abramo, note originali **118–123**. La trattazione prosegue a pagina 198.
+- **Controllo strutturale:** una sola intestazione per ogni pagina fino alla 197, con le sole assenze **82, 83, 106, 107**. La pagina **111** resta segnalata come parziale.
+- **Avanzamento:** **192 pagine stampate complete**, **4 mancanti**, **1 parziale** entro la pagina 197. Nessuna nuova lacuna nel blocco.
+- **Stato editoriale:** traduzione di lavoro; revisione filologica e tipografica finale da eseguire. Le opinioni, la nomenclatura e i dati storici degli autori sono conservati, senza aggiornamenti taciti.
+- **Prossimo blocco:** **198–207**, poi prosecuzione sino alla pagina stampata **328**, comprese appendici, bibliografia e indice. Non pubblicare automaticamente su WordPress.
