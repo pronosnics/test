@@ -5586,3 +5586,105 @@ Evidentemente quest'«uva selvatica» di Isaia e questa «vite straniera» di Ge
 **Salmi 105:33** — Colpì anche le loro viti ...
 
 **Salmi 107:37** — E seminano i campi e piantano vigne, che possono dare frutti abbondanti.
+
+## Pagina originale 241
+
+**Salmi 128:3** — Tua moglie sarà come una vite feconda ai lati della tua casa, e i tuoi figli come pianticelle d'ulivo attorno alla tua tavola.
+
+**Ecclesiaste 2:4** — ... mi piantai delle vigne.
+
+**Cantico dei Cantici 1:14** — Il mio amato è per me un grappolo di cipro nelle vigne di Engaddi.
+
+**Cantico dei Cantici 2:13 e 15** — Il fico mette fuori i suoi fichi verdi, e le viti con l'uva tenera diffondono un buon profumo ... Prendeteci le volpi, le piccole volpi che guastano le vigne, perché le nostre vigne hanno uva tenera.
+
+**Cantico dei Cantici 7:7–8** — Questa tua statura somiglia a una palma e i tuoi seni a grappoli d'uva ... e anche i tuoi seni saranno come grappoli di vite ...
+
+**Isaia 1:8** — E la figlia di Sion è lasciata come una capanna in una vigna ...
+
+**Isaia 5:1–7 e 10** — Ora voglio cantare al mio diletto un canto del mio amato riguardo alla sua vigna. Il mio diletto aveva una vigna sopra un colle molto fertile. La recintò, ne tolse le pietre e vi piantò una vite scelta; costruì una torre in mezzo a essa e vi scavò anche un torchio. Attendeva che producesse uva, ma essa produsse uva selvatica. E ora ... giudicate ... fra me e la mia vigna. Che cosa si poteva fare di più alla mia vigna, che non le abbia fatto? Perché, mentre attendevo che producesse uva, essa ha prodotto uva selvatica? E ora, su, vi dirò che cosa farò della mia vigna: ne toglierò la siepe ed essa sarà divorata; ne abbatterò il muro ed essa sarà calpestata. La ridurrò a desolazione: non sarà potata né zappata, ma vi cresceranno rovi e spine ... Poiché la vigna del Signore degli eserciti è la casa d'Israele ... Sì, dieci acri di vigna daranno un bat.
+
+**Isaia 16:8–10** — Poiché i campi di Chesbon languiscono, e la vite di Sibma ... Perciò piangerò, con il pianto di Iazer, sulla vite di Sibma ... E nelle vigne non vi sarà canto né grida; i pigiatori non pigeranno vino nei torchi; ho fatto cessare le loro grida di vendemmia.
+
+**Isaia 24:7, 9, 11 e 13** — Il vino nuovo è in lutto, la vite languisce ... Non berranno vino cantando ... Nelle strade si grida per il vino ... come dopo la racimolatura quando la vendemmia è terminata.
+
+**Isaia 27:2–11** — ... Una vigna di vino rosso ... La irrigherò in ogni momento, affinché nessuno la danneggi ... quando spunterà, contenderai con essa ... là pascolerà il vitello ... e ne consumerà i rami. Quando i rami saranno secchi, saranno spezzati; verranno donne a darli alle fiamme ...
+
+**Isaia 29:9** — ... ma non per il vino ...
+
+**Isaia 55:1** — ... venite, comprate vino e latte senza denaro e senza prezzo.
+
+**Isaia 61:5** — ... e i figli degli stranieri saranno i vostri aratori e i vostri vignaioli.
+
+**Isaia 62:8** — ... lo straniero non berrà più il tuo vino, per il quale hai faticato.
+
+**Isaia 63:2–3** — Perché sono rossi i tuoi abiti e le tue vesti come quelle di chi pigia nel tino? Ho pigiato il torchio da solo ...
+
+**Geremia 2:21** — Eppure io ti avevo piantato come vite nobile, tutta di seme genuino: come sei dunque diventata per me un tralcio degenerato di vite straniera?
+
+**Geremia 6:9** — ... Racimoleranno interamente il resto d'Israele come una vite; rimetti la tua mano nei cesti come un vendemmiatore.
+
+**Geremia 25:15** — ... Prendi dalla mia mano il calice del vino di quest'ira ...
+
+**Geremia 25:30** — ... egli lancerà un grido, come coloro che pigiano l'uva ...
+
+**Geremia 31:5 e 29–30** — Pianterai ancora vigne sui monti di Samaria; i piantatori pianteranno e ne mangeranno i frutti come cosa comune ... I padri hanno mangiato uva acerba ... ciascuno che mangia l'uva acerba ...
+
+**Geremia 48:32–33** — O vite di Sibma, piangerò su di te con il pianto di Iazer; i tuoi tralci sono passati oltre il mare e giungono fino al mare di Iazer. Il devastatore è caduto sui tuoi frutti estivi e sulla tua vendemmia. Gioia e letizia sono state tolte dalla campagna fertile e dalla terra di Moab; ho fatto mancare il vino nei torchi; nessuno pigerà gridando, e le loro grida non saranno più grida di gioia.
+
+**Geremia 49:9** — Se vengono da te vendemmiatori, non lasceranno forse qualche grappolo da racimolare? ...
+
+**Lamentazioni 1:15** — ... il Signore ha pigiato la vergine, la figlia di Giuda, come in un torchio.
+
+**Ezechiele 17:5–10** — Prese anche del seme della terra e lo piantò in un campo fertile; lo collocò presso acque abbondanti e lo pose come un salice. Crebbe e divenne una vite espansa, bassa di statura, i cui rami si volgevano verso di lui, e le radici stavano sotto di lui; così divenne una vite, produsse rami e mise germogli. Vi era anche un'altra grande aquila, dalle grandi ali e dalle molte piume; ed ecco, questa vite volse le sue radici verso di lei e protese verso di lei i suoi rami, affinché essa la irrigasse attraverso i solchi della sua piantagione. Era piantata in buon terreno presso grandi acque, perché producesse rami, portasse frutto e divenisse una bella vite. Di': Così dice il Signore Dio: Prospererà? Non ne sradicherà egli le radici e non ne taglierà il frutto, perché secchi? Seccheranno tutte le foglie dei suoi germogli, anche senza grande potenza o molta gente per sradicarla. Sì, ecco, pur essendo piantata, prospererà? Non seccherà completamente quando la toccherà il vento orientale? Seccherà nei solchi nei quali è cresciuta.
+
+**Ezechiele 18:2** — I padri hanno mangiato uva acerba ...
+
+**Ezechiele 19:10–11** — Tua madre era come una vite nel tuo sangue, piantata presso le acque; era feconda e ricca di rami per l'abbondanza delle acque. Aveva forti verghe ... e la sua statura si elevava fra i fitti rami, ed essa appariva alta per la moltitudine dei suoi rami.
+
+## Pagina originale 242
+
+**Ezechiele 27:18** — ... col vino di Chelbon ...
+
+**Daniele 5:1–2 e 4** — Il re Baldassarre fece un grande banchetto per mille dei suoi grandi e bevve vino davanti ai mille. Baldassarre, mentre assaporava il vino, comandò di portare i vasi d'oro e d'argento ... Bevvero vino e lodarono gli dèi d'oro ...
+
+**Osea 9:2 e 4** — L'aia e il torchio non li nutriranno, e il vino nuovo verrà meno per lei ... Non offriranno libazioni di vino ...
+
+**Osea 10:1** — Israele è una vite vuota che produce frutto per se stessa.
+
+**Osea 14:7** — Coloro che dimorano sotto la sua ombra ... cresceranno come la vite; il loro profumo sarà come il vino del Libano.
+
+**Gioele 1:5, 7 e 10–12** — ... tutti voi bevitori di vino, a causa del vino nuovo ... Egli ha devastato la mia vite ... il vino nuovo è disseccato ... o vignaioli ... La vite è disseccata ...
+
+**Gioele 2:22 e 24** — ... la vite dà la sua forza ... i tini traboccano di vino e d'olio.
+
+**Gioele 3:3 e 13** — ... e hanno venduto una fanciulla per del vino, per poter bere ... poiché il torchio è pieno ...
+
+**Amos 9:13–14** — Ecco, vengono i giorni ... nei quali l'aratore raggiungerà il mietitore e chi pigia l'uva raggiungerà chi semina; i monti stilleranno vino dolce ... e pianteranno vigne e ne berranno il vino ...
+
+**Michea 4:4** — Ma siederanno ciascuno sotto la propria vite e sotto il proprio fico, e nessuno li spaventerà ...
+
+**Michea 6:15** — ... e il vino dolce, ma non berrai vino.
+
+**Naum 3:11** — Anche tu sarai ubriaca ...
+
+**Abacuc 2:15–16** — Guai a chi dà da bere al proprio vicino, che gli porge la sua bottiglia e lo fa ubriacare ... Bevi anche tu ...
+
+**Abacuc 3:17** — ... e non vi saranno frutti sulle viti ...
+
+**Zaccaria 3:10** — In quel giorno, dice il Signore degli eserciti, ciascuno inviterà il proprio vicino sotto la vite e sotto il fico.
+
+**1 Maccabei 6:34** — E per incitare gli elefanti a combattere, mostrarono loro il sangue dell'uva e delle more.
+
+**Matteo 21:33** — ... Vi era un certo padrone di casa che piantò una vigna, la circondò con una siepe, vi scavò un torchio e costruì una torre.
+
+**Matteo 26:27–29** — Ed egli prese il calice, rese grazie e lo diede loro, dicendo: Bevetene tutti ... Ma io vi dico che da ora non berrò più di questo frutto della vite fino al giorno in cui lo berrò nuovo con voi nel regno del Padre mio.
+
+**Marco 12:1** — ... Un uomo piantò una vigna, la circondò con una siepe, vi scavò un luogo per il torchio, costruì una torre, l'affittò a dei vignaioli e partì per un paese lontano.
+
+**Luca 20:9–16** — ... Un uomo piantò una vigna e l'affittò a dei vignaioli ... affinché gli dessero del frutto della vigna ... Allora il padrone della vigna disse ... Manderò il mio amato figlio ... Essi lo cacciarono fuori della vigna ... Che farà dunque loro il padrone della vigna? ... Egli ... darà la vigna ad altri ...
+
+**Giovanni 15:1–6** — Io sono la vera vite e il Padre mio è il vignaiolo. Ogni tralcio che è in me e non porta frutto, egli lo toglie; e ogni tralcio che porta frutto lo pota, affinché ne porti di più ... Come il tralcio non può portare frutto da sé se non rimane nella vite, neppure voi potete, se non rimanete in me. Io sono la vite e voi siete i tralci; chi rimane in me e io in lui porta molto frutto, poiché senza di me non potete fare nulla. Se uno non rimane in me, viene gettato via come un tralcio e si secca; gli uomini lo raccolgono, lo gettano nel fuoco ed esso brucia.
+
+**Apocalisse 14:18–20** — ... Metti dentro la tua falce affilata e vendemmia i grappoli della vite della terra, perché le sue uve sono mature. L'angelo gettò la sua falce sulla terra, vendemmiò la vite della terra e la gettò nel grande torchio dell'ira di Dio. Il torchio fu pigiato fuori della città, e dal torchio uscì sangue fino alle briglie dei cavalli per una distanza di milleseicento stadi.
+
+La vite comune, *Vitis vinifera*, è menzionata in tutta la Bibbia, dai giorni di Noè (circa 2347 a.C.) fino a quelli di Gesù. Profeti, patriarchi, salmisti e apostoli ne parlarono tutti, spesso adoperandola in senso simbolico. «La vite feconda» e «la vite portata fuori dall'Egitto» erano simboli del popolo ebraico, mentre Gesù paragonò se stesso alla «vera vite», della quale i discepoli erano i tralci. L'impiego della vite in questo senso testimonia la grandissima stima in cui era tenuta dagli Israeliti. La vite era coltivata dagli antichi Egiziani, come dimostrano ampiamente le pitture e le rappresentazioni presenti nelle antiche tombe egiziane, dove sono illustrati in dettaglio i diversi procedimenti della vinificazione (268). È la primissima pianta di cui la Bibbia ricordi la coltivazione e viene coltivata dall'uomo da tanto tempo, seguendo il corso della civiltà da una regione all'altra, che la sua origine esatta è ormai avvolta nel mistero (184). Secondo John Smith, si ritiene che sia originaria delle regioni collinari dell'Armenia e dei paesi confinanti con il Mar Caspio, specialmente del suo versante meridionale (Azerbaigian e Persia settentrionale) (299). Post afferma che «la sua patria si trova fra le rive meridionali del Mar Caspio e il Tauro» (95). Poiché nella Bibbia viene menzionata per la prima volta in relazione a Noè, nella tradizione ebraica e cristiana gli si attribuisce abitualmente l'introduzione della vite nella coltivazione [continua alla pagina 243].
