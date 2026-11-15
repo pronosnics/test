@@ -231,3 +231,9 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **149–157:** non ancora completate in questa esecuzione; non conteggiarle come tradotte.
 - **Lacune permanenti:** 82–83 e 106–107 mancanti; 111 parzialmente illeggibile.
 - Stato: traduzione di lavoro, revisione filologica definitiva ancora da eseguire.
+
+## Avanzamento 149–157 — esecuzione corrente
+
+- **149:** prima traduzione di lavoro caricata in `TRADUZIONE_149.md` e nel master; **verifica puntuale ancora necessaria per gli ultimi versetti e le attribuzioni scientifiche**, quindi pagina **non ancora certificata integralmente completata**.
+- **150–157:** da tradurre e verificare, non conteggiate.
+- Lacune permanenti: **82–83, 106–107 mancanti; 111 parziale**.
