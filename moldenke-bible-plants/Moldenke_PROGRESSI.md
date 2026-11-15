@@ -4,11 +4,11 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–138 (**133** pagine complete; **41,05%** su 324 pagine PDF).
+**Pagine originali completamente elaborate:** 1–81, 84–105, 108–110, 112–147 (**142** pagine complete; **43,83%** su 324 pagine PDF).
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 134 pagine esaminate (133 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **139** e successive.
-**Prossimo intervallo:** **139–147**, con verifica della numerazione stampata e mantenimento delle lacune permanenti.
+**Copertura di lavoro:** 143 pagine esaminate (142 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **148** e successive.
+**Prossimo intervallo:** **148–157**; verificare la numerazione stampata e preservare le lacune.
 
 ## Documenti correnti
 
@@ -204,3 +204,16 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **Pagine 140–147 non ancora tradotte**; non conteggiarle come completate.
 - Lacune permanenti: **82–83, 106–107 mancanti; 111 parziale**.
 - La verifica filologica definitiva resta da svolgere, soprattutto per termini greci e note in corpo piccolo.
+
+
+## Blocco 138–147 completato — 15 novembre 2026
+
+- **138–139:** Mandragora e menta, comprese tradizioni e note originali.
+- **140–141:** Menta e gelso nero (*Morus nigra*); riferimenti a Luca, seta e allevamento dei bachi.
+- **141–142:** *Mucor mucedo* e citazioni bibliche sulla muffa; *Mycobacterium leprae*.
+- **143:** Considerazioni degli autori sulla «lebbra», *Mycobacterium tuberculosis* var. *hominis* e inizio del mirto.
+- **144–145:** *Myrtus communis*, botanica e tradizioni.
+- **146:** Tavola originale della figura 24, *Narcissus tazetta*, presente e con didascalia italiana.
+- **147:** Inizio della voce su *Narcissus tazetta* e confronto con la «rosa» nelle traduzioni bibliche.
+- **Lacune permanenti ancora aperte:** 82–83, 106–107; pagina 111 parzialmente illeggibile. Nessun'altra lacuna nel blocco corrente.
+- **Prossimo blocco:** 148–157.
