@@ -3033,3 +3033,153 @@ Il termine ebraico «eseb» è usato nella presente opera come termine generico 
 ⁷⁹ Chiamata anche *Mentha sylvestris* var. *longifolia* L. e *M. spicata* L.
 
 ⁸⁰ Vedi il riferimento originale al vocabolo greco, da verificare nella revisione filologica definitiva.
+
+## Pagina originale 140
+
+in un ricettario del buongustaio romano Marco GABIO APICIO, vissuto fra il 14 e il 37 d.C., la menta fresca e quella conservata sono menzionate quasi a ogni pagina. DIOSCORIDE la elenca fra le piante impiegate ai suoi tempi come rimedio per lo stomaco. Nelle sinagoghe ebraiche si usava spargere sul pavimento fusti e foglie profumati di menta, che sprigionavano la loro fragranza quando venivano calpestati (293).
+
+Molte autorità includono le «erbe amare» di Esodo 12:8 e Numeri 9:11 fra i riferimenti alla menta; ma, come abbiamo mostrato in precedenza (si veda *Cichorium endivia*), a noi sembra più probabile che si trattasse delle foglie di indivia, cicoria, lattuga, crescione, acetosa e tarassaco, mangiate come insalata. La menta è tuttavia oggi una delle «erbe amare» del banchetto pasquale (27, 184).
+
+Nella mitologia classica la ninfa MINTO fu trasformata in una pianta di menta da PROSERPINA, moglie di Plutone, perché aveva attirato l'attenzione e l'affetto del dio degli Inferi (125). Divenuta un'umile piantina di menta, la ninfa perse una parte della propria bellezza, ma continua ad attrarre gli uomini con la sua freschezza e il suo profumo (298).
+
+### 134. *Morus nigra* L.
+
+(FIGURA 23)
+
+**Ezechiele 16:10 e 13** — [...] E ti ricoprii di seta [...] e le tue vesti erano di lino fino, seta e lavoro ricamato [...].
+
+**I Maccabei 6:34** — E per incitare gli elefanti alla battaglia mostrarono loro il succo dell'uva e delle more.
+
+**Luca 17:6** — [...] Se aveste fede quanto un granello di senape, potreste dire a questo sicomino: Sradicati e trapiantati nel mare; ed esso vi obbedirebbe.
+
+**Apocalisse 18:12** — [...] Porpora, seta e scarlatto [...].
+
+I primi commentatori ritenevano che il «sicomoro» e il «sicomino» fossero un unico e medesimo albero (27, 299), ma oggi si riconosce che soltanto il «sicomoro» della Bibbia è *Ficus sycomorus* (si veda la relativa voce), mentre il «sicomino» (in ebraico «shikmah») di Luca 17:6 è in realtà il gelso nero, *Morus nigra* (in ebraico «toot»). Sebbene il gelso nero sia originario della Persia settentrionale, oggi è coltivato ovunque in Terra Santa per i suoi frutti deliziosi (65, 265, 267); «sicomino» è infatti uno dei suoi nomi comuni. POST osserva che la parola greca usata nel passo di Luca è «sykáminos», per la quale il dizionario dà la traduzione di «gelso», e che ancora oggi l'albero è chiamato «sycaminos» o «sycamenea» in Grecia (27, 184).
+
+La specie cinese e indiana, *M. alba* L., è oggi coltivata molto estesamente in Siria e in Palestina per l'allevamento dei bachi da seta (27, 184, 306); i botanici, però, concordano nel considerarla un'introduzione recente, che ha soppiantato il meno adatto *M. nigra*, un tempo impiegato a questo scopo (265, 267, 268, 293, 299). La seta sembra essere stata sconosciuta agli Ebrei sino a un'epoca tarda della loro storia, forse intorno al 600 a.C. La parola «seta» usata dalla versione Authorized nella traduzione di Proverbi 31:22 (1015 a.C.) è oggi considerata da tutti i traduttori un errore per «lino». L'originale ebraico impiega la parola «shesh». Analogamente, l'uso di «seta» da parte della versione Douay in Genesi 41:42 (1715 a.C.), nonché il suggerimento marginale della Authorized Version per lo stesso versetto e per Esodo 25:4 (1491 a.C.), sono considerati errori, poiché la seta non era conosciuta dagli Ebrei in quelle date antiche. Il materiale cui si fa riferimento in questi passi era senza dubbio lino. La prima menzione indiscussa della seta nella Bibbia risale al tempo di EZECHIELE, intorno al 594 a.C., circa 420 anni dopo SALOMONE (benché alcuni commentatori ritengano ancora che SALOMONE dovesse conoscere la seta). La parola ebraica usata qui è «meshi». A quanto pare, EZECHIELE aveva conosciuto la seta durante la cattività a Babilonia (299). TEOFRASTO e altri antichi scrittori greci parlano della seta, che sembra essere stata introdotta in Grecia dalla Persia intorno al 325 a.C. (299). Nel libro dell'Apocalisse leggiamo che la seta era una delle merci preziose di Babilonia (299).
+
+Non abbiamo prove che indichino esattamente quando i gelsi cominciarono a essere coltivati in Palestina e in Libano per l'allevamento dei bachi da seta, benché oggi la seta sia un prodotto fondamentale di queste regioni, soprattutto sui versanti dell'Ermon e del Libano e nelle altre zone settentrionali (299). *Morus alba*
+
+
+## Pagina originale 141
+
+veniva coltivato in Cina per l'allevamento dei bachi da seta già nel 4000 a.C., ma è stato introdotto in Terra Santa a tale scopo solo in tempi relativamente recenti. Gli alberi che GESÙ vide erano indubbiamente *Morus nigra*. JEWETT ha osservato, a proposito del territorio dei Drusi in Libano: «Questo paese è notevole per le sue innumerevoli moltitudini di gelsi, quanto l'Egitto lo è per le sue palme». Per la maggior parte dell'anno questi alberi rivestono il paesaggio in ogni direzione di una piacevole vegetazione verde. Sulla roccia dell'Ofel, all'ingresso della valle di Hinnom, non lontano da Gerusalemme, sorge un vecchio gelso che, secondo la tradizione, segnerebbe il luogo nel quale il re MANASSE fece segare in due il profeta ISAIA.
+
+Gli «alberi di gelso» di II Samuele 5:23–24 e I Cronache 14:14–15 sono oggi considerati pioppi tremuli (si veda *Populus euphratica*). È interessante notare che soltanto le versioni Authorized e WEIGLE usano «sicomino» in Luca 17:6; Douay, MOFFATT, GOODSPEED, O'HARA e LAMSA dicono tutte «gelso»; WEYMOUTH dice «gelso nero» e la Basic English, come d'abitudine, evita la questione dicendo soltanto «questo albero».
+
+Il gelso nero è un albero a crescita relativamente bassa, con chioma folta e rami rigidi, alto da ventiquattro a trentacinque piedi, ma che solo raramente supera i trenta piedi; forma un tronco robusto e porta foglie caduche, glabre, cuoriformi-ovate, lobate oppure intere, piccoli capolini o spighette di fiori verdastri, quasi sessili, e frutti neri commestibili (267). Si dice che offra un'ombra fitta d'estate e che possa vivere molto a lungo (299).
+
+I bachi da seta furono introdotti nell'Europa occidentale per la prima volta nel VI secolo d.C., ma l'industria della seta vi progredì molto lentamente. Nel 1146 essa era già ben sviluppata in Sicilia, da dove si diffuse in Italia, Spagna e Francia meridionale intorno al 1510. Il gelso nero fu introdotto in Inghilterra nel 1548 e l'allevamento dei bachi da seta fu fortemente incoraggiato da GIACOMO I (1603–1625); tuttavia, a causa del clima sfavorevole, quell'industria non ebbe mai successo nel paese (299).
+
+Il succo delle more di gelso, essendo rosso (e in qualche modo simile al sangue) (125), fu usato per incitare alla battaglia gli elefanti di Antioco (I Maccabei 6:34). In Birmania il gelso è oggetto di venerazione, mentre in Europa esiste la superstizione secondo cui il diavolo userebbe le more nere per annerirsi gli stivali (298). In alcune zone della Cina, il quindicesimo giorno del primo mese dell'anno si prepara una densa conserva di more di gelso, per via di una leggenda secondo cui una fata benevola, tanto compiaciuta per il dono di un po' di questa conserva, promise che i gelsi cinesi avrebbero prodotto cento volte più seta di prima. Nella mitologia classica, gli sfortunati amanti PIRAMO e TISBE morirono l'uno fra le braccia dell'altra, in una vicenda straordinariamente simile a quella di Romeo e Giulietta, sotto un gelso bianco; il loro sangue schizzò sui frutti bianchi, li tinse di rosso e diede così origine al gelso rosso (298).
+
+### 135. *Mucor mucedo* L.
+
+**Giosuè 9:12** — Questo nostro pane lo prendemmo caldo dalle nostre case come provvista il giorno in cui partimmo per venire da voi; ma ora, ecco, è secco ed è ammuffito.
+
+La parola ebraica tradotta con «ammuffito» nel versetto appena citato è «nikoodim». Nella Bibbia vi sono numerosi riferimenti a diversi funghi. Alcuni possono essere identificati con un discreto grado di certezza. Fra questi si trovano i vari batteri patogeni e gli schizofiti affini, trattati sotto *Eberthella*, *Epidermophyton*, *Staphylococcus*, *Shigella*, *Pasteurella*, *Mycobacterium* e altre voci. Sono identificabili anche i lieviti usati nella produzione del pane e del vino (si veda *Saccharomyces*). Un altro fungo la cui identificazione lascia pochi dubbi è quello menzionato in questo passo di Giosuè. La comune muffa grigia del pane, *Mucor mucedo*, è la muffa che più frequentemente attacca il pane vecchio e raffermo, praticamente in tutto il mondo. Non vi è quasi dubbio che fosse questa la muffa che aveva rovinato il pane degli Evei.
+
+È opportuno osservare che le traduzioni più moderne di Giosuè 9:12 danno al passo un significato del tutto differente. GOODSPEED dice che il pane
+
+## Pagina originale 142
+
+era «secco e sbriciolato», MOFFATT «secco e friabile», JASTROW «è secco e si è ridotto in briciole», mentre la versione Douay dice «ora è diventato secco e si è spezzato in pezzi perché molto vecchio».
+
+In Aggeo 2:17 vi è un riferimento alla «muffa» (la parola ebraica è «yirakon») e in Amos 4:9 un altro riferimento analogo. In entrambi i versetti si parla, insieme alla muffa, anche di un «disseccamento». Sembra assai probabile che entrambi i termini indicassero malattie fungine delle colture, senza dubbio simili alle odierne malattie crittogamiche e muffe. Non si può tuttavia ancora dire con alcuna esattezza di quali malattie si trattasse. È inoltre quasi certo che una parte della «lebbra» descritta nei capitoli 13 e 14 del Levitico, in particolare quella che colpiva pareti e pietre, fosse una qualche sorta di muffa.
+
+### 136. *Mycobacterium leprae* (A. Hansen) Lehm. & Neum.
+
+**Levitico 13 e 14** — [...] Quando un uomo avrà sulla pelle del proprio corpo un rigonfiamento, una crosta o una macchia lucida, e questo sulla pelle del suo corpo somiglierà a una piaga di lebbra, sarà condotto da ARONNE [...]. E se il pelo nella zona colpita è diventato bianco e la piaga appare più profonda della pelle del suo corpo, è una piaga di lebbra [...]. E se il sacerdote vede che [...] la crosta si è estesa sulla pelle, il sacerdote lo dichiarerà impuro: è lebbra. Quando un uomo presenta una piaga di lebbra, sarà condotto dal sacerdote [...]. E [...] se il rigonfiamento è bianco sulla pelle, ha fatto diventare bianco il pelo e nel rigonfiamento compare carne viva, si tratta di una lebbra inveterata [...]. E se una lebbra si diffonde sulla pelle e la lebbra ricopre tutta la pelle [...] e [...] se ha ricoperto tutta la sua carne, lo dichiarerà puro [...]. Ma quando su di lui comparirà carne viva, sarà impuro [...], perché la carne viva è impura: è lebbra [...]. Anche la carne nella quale [...] era comparso un foruncolo [...]. E se [...] la piaga appare più profonda della pelle e il pelo vi è diventato bianco [...] è una piaga di lebbra sorta dal foruncolo [...]. Oppure, se in una parte del corpo vi è stata un'ustione [...], ed ecco, se il pelo nella macchia lucida è diventato bianco e questa appare più profonda della pelle, è una lebbra sorta dall'ustione [...]. È la piaga di lebbra [...], è la piaga di lebbra [...] una lebbra sul capo o sulla barba [...]. E se sulla parte calva del capo o sulla fronte calva compare una piaga biancastra e rossastra, è lebbra [...], come appare la lebbra sulla pelle del corpo. È un uomo lebbroso, è impuro [...]. Il lebbroso che ha la piaga porterà vesti strappate, terrà il capo scoperto, si coprirà il labbro superiore e griderà: «Impuro! Impuro!» [...]. Anche la veste nella quale si trova una piaga di lebbra [...] è una piaga di lebbra [...]. E [...] se la piaga si estende sulla veste, è una lebbra corrosiva, è impura [...]; sarà bruciata nel fuoco [...]. Questa è la legge relativa alla piaga di lebbra [...]. Questa sarà la legge per il lebbroso [...]. E [...] se la piaga di lebbra è guarita nel lebbroso [...], aspergerà sette volte colui che si deve purificare dalla lebbra e lo dichiarerà puro [...]. Questa è la legge per colui che ha la piaga della lebbra [...]. E [...] quando [...] metterò una piaga di lebbra in una casa [...]. Questa è la legge per ogni genere di piaga di lebbra e per la tigna, per la lebbra di una veste e di una casa, per un rigonfiamento, per una crosta e per una macchia lucida, per insegnare quando una cosa è impura e quando è pura: questa è la legge della lebbra.
+
+**Levitico 22:4** — Qualunque uomo della discendenza di ARONNE sia lebbroso [...].
+
+**Numeri 5:2** — Ordina ai figli d'Israele di allontanare dall'accampamento ogni lebbroso [...].
+
+**Numeri 12:10** — [...] Ed ecco, MIRIAM era diventata lebbrosa, bianca come la neve; ARONNE guardò MIRIAM ed ecco, era lebbrosa.
+
+**Deuteronomio 24:8** — Bada alla piaga della lebbra [...].
+
+**II Re 5:1, 3, 6, 11 e 27** — Ora NAAMAN [...] era lebbroso [...]. Volesse Dio che il mio signore si trovasse presso il profeta che è in Samaria! Egli lo guarirebbe dalla sua lebbra [...], perché tu possa guarirlo dalla sua lebbra [...], e passi la mano sopra il luogo colpito, e guarisca il lebbroso [...]. La lebbra di NAAMAN si attaccherà dunque a te e alla tua discendenza per sempre. Ed egli uscì dalla sua presenza lebbroso, bianco come la neve.
+
+**II Re 7:3 e 8** — Vi erano quattro uomini lebbrosi [...]. E quando questi lebbrosi giunsero all'estremità dell'accampamento [...].
+
+**II Cronache 26:19–21 e 23** — [...] E mentre egli era adirato con i sacerdoti, la lebbra comparve sulla sua fronte [...]. Ed ecco, era lebbroso sulla fronte [...]. Il re UZZIA rimase lebbroso fino al giorno della sua morte e abitò in una casa separata, perché era lebbroso [...]. Egli è lebbroso.
+
+**Matteo 8:2** — Ed ecco, si avvicinò un lebbroso [...].
+
+**Marco 1:40** — Venne da lui un lebbroso [...].
+
+**Marco 14:3** — [...] A Betania, nella casa di SIMONE il lebbroso [...].
+
+**Luca 5:12–13** — E avvenne che, mentre egli si trovava in una città, ecco un uomo pieno di lebbra; vedendo GESÙ, si gettò con la faccia a terra e lo supplicò, dicendo: «Signore, se vuoi, puoi purificarmi». Egli stese la mano, lo toccò e disse: «Lo voglio; sii purificato». E subito la lebbra lo lasciò.
+
+**Luca 17:12** — Mentre entrava in un villaggio, gli vennero incontro dieci uomini lebbrosi, che si fermarono a distanza.
+
+I riferimenti molto abbreviati riportati sopra mostrano quanto fosse diffusa
+
+## Pagina originale 143
+
+la malattia chiamata lebbra ai tempi biblici. Gli interi capitoli 13 e 14 del Levitico sono dedicati a istruzioni dettagliate per riconoscere e trattare le varie forme di questa malattia. È probabile che con il termine «lebbra» dell'Antico Testamento (ebraico «tzaraat», «lebbra», e «m'tzorah», «lebbroso» o «lebbroso» come sostantivo) si comprendessero anche alcune altre malattie. Per esempio, la «tigna» di Levitico 13:30–37 e 14:54 viene oggi riconosciuta come una dermatofitosi (si veda *Epidermophyton rubrum*). Probabilmente vi erano incluse anche la psoriasi e altre malattie della pelle (158). La «lebbra» degli indumenti e delle case, naturalmente, doveva essere qualcosa di diverso. Alcuni hanno suggerito che la «lebbra» delle pareti di pietra potesse essere l'«efflorescenza nitrosa sulla superficie della pietra, prodotta dal salnitro o, piuttosto, da un acido che lo contiene e che compare sotto forma di macchie rosse»; potrebbe essersi trattato anche di sfaldamento della pietra per cause diverse, comprese le alghe (306). Anche le crescite di muffe, funghi e perfino licheni sulle pareti delle case, nonché muffe e funghi sugli indumenti, sarebbero probabilmente state trattate dai sacerdoti come «lebbra», ma non vi sono prove sufficienti per identificare tali organismi vegetali. Lo stesso vale per il «disseccamento» e la «muffa» di Aggeo 2:17 e Amos 4:9.
+
+La vera lebbra (158) è una malattia cronica altamente infettiva, causata dal bacillo *Mycobacterium leprae*. È caratterizzata dalla formazione di noduli tubercolari, ulcerazioni e disturbi degli organi sensoriali, ed è generalmente mortale. È una delle malattie più terribili dell'umanità. Benché autori antichi, come IPPOCRATE (460–359 oppure 377 a.C.), distinguessero tre tipi, «lepra alphoides», «lepra vulgaris» e «lepra nigricans», dei quali il primo guariva facilmente, le autorità moderne classificano le numerose forme della malattia in due varietà principali: (1) lebbra tubercolare o nodulare e (2) lebbra anestetica. La prima è caratterizzata dalla comparsa sulla pelle di piccole zone arrossate, che in seguito si pigmentano e si trasformano in tubercoli. Sono colpite anche le mucose della gola, della bocca e della laringe; i capelli e le unghie possono cadere, le mani e i piedi si deformano e si verifica una graduale distruzione delle articolazioni e delle ossa. Quando la malattia è pienamente sviluppata, il volto assume un caratteristico aspetto leonino, dovuto all'ispessimento della pelle («elephantiasis graecorum»). La varietà anestetica, invece, la forma tropicale più comune, è caratterizzata dall'atrofia dei nervi sensitivi periferici, che provoca dapprima una sensibilità grandemente accentuata, presto seguita da una perdita completa della sensibilità. Alcuni fachiri indiani, che si distendono su punte o camminano su vetri rotti senza avvertire dolore, sono affetti da questa forma della malattia. Una forma incurabile fra gli Ebrei era caratterizzata dalla presenza di chiazze o squame bianche, lisce, lucide e depresse, nelle quali anche i peli diventavano bianchi, mentre la pelle e la carne circostante perdevano sensibilità (158).
+
+### 137. *Mycobacterium tuberculosis* var. *hominis* (Koch) Lehm. & Neum.
+
+**Levitico 26:16** — [...] Io manderò su di voi il terrore, la consunzione e la febbre ardente [...].
+
+**Deuteronomio 28:22** — Il Signore ti colpirà con la consunzione [...].
+
+Che la «consunzione» della Bibbia fosse la medesima malattia che oggi conosciamo con questo nome, cioè la tubercolosi causata dal bacillo *Mycobacterium tuberculosis* var. *hominis*, non è affatto certo, ma sembra probabile. Molte altre malattie sono menzionate o richiamate nella Bibbia, ma sembrano tutte derivare da virus, parassiti animali o carenze vitaminiche, oppure essere malattie quali cancro, paralisi, epilessia e follia, delle quali non sono ancora state determinate le cause esatte. Altre sono indicate in termini così generici da non poter essere identificate.
+
+### 138. *Myrtus communis* L.
+
+(PAGINA 145; FIGURA 68)
+
+**Neemia 8:15** — E che facessero pubblicare e proclamare in tutte le loro città e a Gerusalemme, dicendo: Andate sul monte e portate rami d'olivo, rami di pino, rami di mirto, rami di palma e rami di alberi frondosi, per fare capanne, come sta scritto.
+
+**Ester 2:7** — Egli allevava Hadassah, cioè ESTER, figlia di suo zio [...].
+
+
+## Pagina originale 144
+
+**Isaia 41:19** — Pianterò nel deserto il cedro, l'acacia, il mirto e l'albero da olio [...].
+
+**Isaia 55:13** — Invece del pruno crescerà il cipresso, e invece del rovo crescerà il mirto.
+
+**Zaccaria 1:8 e 10–11** — Ebbi una visione nella notte: ecco un uomo che cavalcava un cavallo rosso e si fermò fra i mirti che erano nella conca; dietro di lui vi erano cavalli rossi, screziati e bianchi [...]. L'uomo che stava fra i mirti rispose: Questi sono coloro che il Signore ha inviato a percorrere la terra. Ed essi risposero all'angelo del Signore che stava fra i mirti e dissero: Abbiamo percorso la terra; ed ecco, tutta la terra è tranquilla e in riposo.
+
+Si ritiene che il mirto, *Myrtus communis*, sia originario dell'Asia occidentale (101, 268, 293, 299). È comune in Palestina e nel Libano, soprattutto intorno a Betlemme, Ebron e sulle pendici del monte Carmelo e del monte Tabor (184), e si è naturalizzato nella maggior parte dei paesi che si affacciano sul Mediterraneo. HASSELQUIST lo osservò su alcuni pendii presso Gerusalemme; HOOKER dice che non è raro in Samaria e Galilea (306). La parola ebraica tradotta con «mirto» in tutte le versioni della Bibbia è «hadas» (greco «myrsínē»). In condizioni ambientali favorevoli questa pianta diventa un piccolo albero sempreverde, alto venti o trenta piedi (27, 184, 299), ma più spesso è un arbusto talvolta disordinato, alto da un piede e mezzo a quattro piedi e mezzo (267). Il suo legno è duro, marezzato e nodoso, molto apprezzato per i lavori al tornio. Le foglie scure, coriacee, lucide, ovato-lanceolate e profumate, i fiori fragranti, bianchi o rosati, e le bacche nere o nero-azzurre sono usati in profumeria e per preparare sacchetti odorosi. Dal mirto si ricava anche un olio profumato. Ancora oggi gli Ebrei se ne servono durante la festa delle Capanne, quando riescono a procurarselo; i ramoscelli con tre foglie disposte in verticillo, che non sono comuni, sono particolarmente apprezzati per questa occasione (299, 306).
+
+Alcuni commentatori hanno ritenuto che anche i «rami di alberi frondosi» del passo di Neemia riportato sopra indicassero il mirto; ma questo non è affatto probabile, poiché nella medesima frase i mirti sono già esplicitamente menzionati. MOFFATT traduce l'espressione con «sempreverdi», e ciò è probabilmente più corretto.
+
+Nelle Scritture il mirto viene menzionato soprattutto come simbolo della generosità divina. DONEY racconta che, quando «ADAMO fu scacciato dal Paradiso, gli fu consentito di portare con sé il frumento, primo fra gli alimenti; il dattero, primo fra i frutti; e il mirto, primo fra i fiori profumati» (101, 298). A motivo del suo carattere sempreverde, i Greci lo consideravano un simbolo d'amore e d'immortalità e lo usavano per incoronare sacerdoti, eroi e uomini illustri (95). I Romani lo intrecciavano all'alloro dopo le vittorie ottenute senza spargimento di sangue (95, 125). Poiché, nella loro comune presunzione umana, consideravano immortali le opere dei loro grandi uomini, Greci e Romani ponevano corone di mirto sulla fronte dei poeti e dei drammaturghi che avevano conseguito il successo (298). In tutta la Bibbia il mirto è emblema di pace e di gioia. Fin da epoche molto antiche era una pianta prediletta in tutto l'Oriente e veniva tenuta in grande considerazione dagli Ebrei, già da quando ne raccoglievano i rami, insieme a molti altri, e li portavano a ombreggiare le loro dimore all'aperto durante la prima festa delle Capanne del 445 a.C. In quell'occasione tutti i figli d'Israele sedevano sotto alberi dalla folta chioma, oppure in capanne costruite sui tetti piani delle case, e invitavano vedove, orfani e stranieri ad abbandonare il dolore e a rallegrarsi nel Signore. I rami del mirto figuravano fra quelli che NEEMIA ordinò di raccogliere per questa celebrazione; ancora oggi gli Ebrei raccolgono il mirto nelle valli fra i monti del Libano e lungo i fiumi della Galilea.
+
+Per gli antichi Ebrei il mirto era simbolo non soltanto di pace, ma anche di giustizia. HADASSAH, il nome originario di ESTER, somiglia molto alla parola ebraica che indica il mirto, e i Targum dicono: «La chiamavano HADASSAH perché era giusta, e coloro che sono giusti vengono paragonati ai mirti». Nei bazar di Gerusalemme e di Damasco i fiori, le foglie e i frutti del mirto sono venduti per preparare profumi (178). La corteccia e le radici vengono impiegate nella concia dei più fini cuoi turchi e russi, ai quali conferiscono un caratteristico profumo delicato.
+
+Il «mirto» della Bibbia non va confuso con le varie piante americane
+
+## Pagina originale 145
+
+o europee che oggi portano questo nome, in particolare la pervinca *Vinca minor* L., le cui foglie gli somigliano in qualche misura. Nell'antico francese il nome era applicato a specie di mirtillo e di mirtillo di palude («myrtleberry»).
+
+Poiché era un simbolo d'amore sensuale e di passione, originariamente sacro a VENERE (125, 158), il mirto era guardato con sfavore dalle persone estremamente devote in molti paesi e in molte epoche; in Inghilterra, invece, è un simbolo di pace, di casa e di tranquillità, e in Germania le spose indossano una corona di mirto (125). In Inghilterra si aggiunge spesso un rametto di mirto anche ai fiori d'arancio della sposa, come simbolo di pace e di immortalità; in alcune zone del paese è considerato un portafortuna. In Boemia viene deposto sulle bare durante i funerali come simbolo della speranza nell'immortalità (298). Nelle favole orientali di AZZ EDDIN la rosa china il capo davanti al mirto, riconoscendogli la precedenza quale principe dei fiori profumati (179). Nella mitologia classica si racconta che il mirto abbia avuto origine quando MIRTILO, figlio di MERCURIO, dopo aver tradito il proprio padrone, fu trasformato in un mirto, poiché il mare si era rifiutato di accoglierne il corpo e lo aveva rigettato sulla riva (298). Un'altra leggenda narra che la giovane MIRENE fu trasformata in mirto da VENERE, adirata perché l'aveva abbandonata per un amore umano. Secondo un'altra leggenda, MIRSINE, una ragazza velocissima nella corsa che aveva battuto MINERVA in una gara, fu trasformata in mirto dalla dea offesa (125, 298). Quando VENERE scoprì che suo figlio CUPIDO si era innamorato di Psiche, percosse la ninfa piangente con un ramo di mirto. Quando era inseguita dai satiri, VENERE trovò scampo in un boschetto di mirti (298). Si dice che una delle corone di mirto portate nella processione di EUROPA a Corinto avesse un diametro di dieci piedi (298).
+
+**MIRTO** — Motivo ornamentale della pagina originale.
+
+## Pagina originale 146
+
+**FIGURA 24 — *Narcissus tazetta*, il narciso tazzetta, o narciso a più fiori.** Diverse parole ebraiche e aramaiche furono tradotte come «rosa» dai primi traduttori inglesi, privi di formazione botanica. La «rosa» di ISAIA era dunque questo narciso, pianta abbondante in Palestina. (FEINBRUN e ZOHARY, *Iconographia Florae Terrae Israëlis*, 1949).
+
+## Pagina originale 147
+
+### 139. *Narcissus tazetta* L.
+
+(FIGURA 24)
+
+**Isaia 35:1** — Il deserto e la terra arida si rallegreranno per loro; la solitudine gioirà e fiorirà come una rosa.
+
+Si è discusso moltissimo sull'identità delle «rose» della Bibbia. Sembra quasi certo che gli autori dei testi originali e i traduttori indicassero genericamente con questo nome numerose piante differenti. Molte autorità ritengono che la «rosa di Saron» del Cantico 2:1 fosse *Narcissus tazetta* (101, 267). Altri la identificano con *Cistus*, *Tulipa montana*, *Anemone coronaria*, *Colchicum autumnale*, *Anemone fulgens* oppure *Corchorus olitorius*. Noi la trattiamo qui sotto *Tulipa montana*, che ci sembra l'identificazione più plausibile. SMITH osserva che «nel testo non vi è nulla che ci induca a supporre che la “rosa di Saron” fosse profumata, e dunque qualsiasi pianta abbondante e dai bei fiori che cresca a Saron può essere [...] quella intesa», purché abbia una radice bulbosa (299). DONEY ritiene che il passo di Isaia citato sopra possa riferirsi a una vera specie di *Rosa*, ma è praticamente il solo a sostenere questa opinione (101).
+
+L'uso della parola «rosa» nelle versioni Authorized e JASTROW di Isaia 35:1 potrebbe essere derivato dal fatto che nell'originale ebraico compare il termine per «bulbo»: «chablat zeleth», «chavatzelet» o «habazzeléth» (181). Le vere rose non crescono da bulbi, ma producono frutti vistosi, chiamati cinorrodi, che ai traduttori della Authorized, non esperti di botanica, potrebbero essere sembrati dei bulbi. È tuttavia certamente molto più probabile che il passo si riferisca a una pianta bulbosa. Uno scrittore, in *The Rose Annual for 1946*, dice a proposito della «rosa» di questo passo e del Cantico 2:1: «Benché la parola ebraica sia la stessa in entrambi i passi, i traduttori della Settanta — la cui traduzione della Bibbia, bisogna ricordarlo, si estende su un periodo lunghissimo — la rendono con due parole differenti: in Isaia con *krinon*, il “giglio”; nel Cantico con *anthos*, che significa semplicemente “fiore”. La Vulgata, ossia la traduzione latina, segue come di consueto la Settanta; ma il Targum del Cantico, benché non quello di Isaia, la rende con *narkos*, il narciso, ed è possibile che sia questo ciò che la Settanta e la Vulgata intendevano con “fiore”» (181). Secondo A. I. MACKAY, la parola ebraica «habazzeleth» sarebbe una forma composta di due vocaboli che significano «bulbo acre». Il botanico tedesco GESENIO preferiva il colchico autunnale per la «rosa» del Cantico 2:1 e di Isaia 35:1, e la Revised Version lo propone in una nota marginale a entrambi i passi. *Colchicum autumnale*, il nostro colchico autunnale, non è noto in Palestina, benché POST registri tre altre specie di questo genere nella regione. Le versioni LEESSER e Douay traducono il nome con «giglio», GOODSPEED con «croco» e MOFFATT con «narciso». È stato proposto anche il tulipano (233). La «rosa» dell'Ecclesiastico era una pianta bulbosa a fioritura primaverile, il che esclude le rose vere e proprie. Potrebbe trattarsi di un croco, di un tulipano oppure di un narciso. Noi siamo propensi a seguire MOFFATT e a considerare il narciso la «rosa» di entrambi questi passi.
+
+Il narciso a più fiori, *Narcissus tazetta*, nelle sue diverse varietà, cresce abbondantemente nella pianura di Saron, una fertile striscia di terra situata fra le montagne della Palestina centrale e il Mediterraneo, che si ritiene comprendesse in particolare la regione fra Cesarea e Giaffa. Cresce anche sui pendii delle colline vicine e a Gerusalemme, Gerico, sul monte Ebal, a Esdrelon, sull'Amano, ad Aleppo, Beirut e Sidone. Essendo profumato, è molto amato dalla popolazione. Durante la stagione della fioritura, in quasi ogni casa si trovano mazzi di narcisi (299), specialmente a Damasco. I suoi
