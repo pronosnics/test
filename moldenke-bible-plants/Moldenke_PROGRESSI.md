@@ -162,3 +162,12 @@ Il PDF caricato ha **324 pagine digitalizzate**, ma in corrispondenza della sua 
 - [ ] Tradurre le pagine originali 108 e successive in successivi blocchi
 - [ ] Revisionare l'intero testo italiano contro le scansioni originali
 - [ ] Convertire le singole voci botaniche in schede strutturate per WordPress
+
+## Avvio del blocco 128–137 (esecuzione iniziale)
+
+| Pagina originale | Stato | Contenuto |
+|---|---|---|
+| **128** | **Tradotta e aggiunta al master GitHub** | Conclusione della voce sulla manna; *Lens esculenta* (lenticchie), passi di Genesi, Samuele, Cronache ed Ezechiele, nota botanica 75 |
+| **129–137** | **Da tradurre nella prossima esecuzione** | Continuazione delle lenticchie, *Lilium*, lino, loglio, *Lycium*, tavola illustrata e mandragora |
+
+Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invariate. Il Word cumulativo locale non è ancora stato rigenerato: il master aggiornato è il Markdown su GitHub.
