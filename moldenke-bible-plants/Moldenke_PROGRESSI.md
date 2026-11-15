@@ -4,13 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–223**: **218 pagine stampate complete**, quattro assenti e una parziale entro la pagina 223. PDF: 324 scansioni, ultima pagina stampata 328.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–225**: **220 pagine stampate complete di testo**, quattro assenti e una parziale entro la 225. Le tavole originali sono preservate nel PDF; i file immagine separati della nuova fase sono ancora da caricare su GitHub.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 219 pagine stampate esaminate (218 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **224–328**.
-**Prossimo intervallo:** **224–227** per completare il blocco 218–227, poi 228–237.
+**Copertura di lavoro:** 221 pagine stampate esaminate (220 con testo completo + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **226–328**.
+**Prossimo intervallo:** **226–227**, includendo tavola 30 e didascalia; poi 228–237.
 
 ## Blocco 218–227 in corso (15 novembre 2026)
+
+- **Pagine 224–225** tradotte sulle scansioni **PDF 220–221**: voci *Styrax benzoin* e *Styrax officinalis*, onice/stacte, nota 147 e disegno originale «STACTE». L'immagine del disegno è stata estratta fedelmente dal PDF come file PNG locale, ma **non è ancora caricata nel repository**: questa operazione resta necessaria per la conservazione autonoma in GitHub. Prossime 226–227.
 
 - **Pagine 221–223** tradotte sulle scansioni **PDF 217–219**: *Solanum incanum*, *Sorghum vulgare* var. *durra*, *Staphylococcus*, *Streptococcus* e inizio *Styrax benzoin*. Conservate le note 141–146. Salvati i tre file individuali; ancora da fare 224–227.
 
@@ -35,7 +37,7 @@
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **223**.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **225**.
 - [`TRADUZIONE_208-217.md`](TRADUZIONE_208-217.md): ultimo blocco completo.\n- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`TRADUZIONE_211.md`](TRADUZIONE_211.md): nuova pagina verificata.\n- [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
