@@ -197,3 +197,10 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - Tradotta integralmente la pagina stampata **138**, continuazione della mandragora, comprese citazioni letterarie, distribuzione geografica, nomi botanici e folklore. La frase finale prosegue nella pagina 139.
 - Le pagine **139–147** sono state individuate e le scansioni rese disponibili, ma **non ancora tradotte**: non conteggiarle come completate.
 - Lacune storiche ancora aperte: **82–83, 106–107, 111 parziale**.
+
+## Avanzamento successivo — pagina 139
+
+- Pagina stampata **139**: traduzione di lavoro aggiunta al master e al file `TRADUZIONE_139.md`; conclusione della mandragora e inizio della menta.
+- **Pagine 140–147 non ancora tradotte**; non conteggiarle come completate.
+- Lacune permanenti: **82–83, 106–107 mancanti; 111 parziale**.
+- La verifica filologica definitiva resta da svolgere, soprattutto per termini greci e note in corpo piccolo.
