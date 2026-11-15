@@ -1,0 +1,21 @@
+## Pagina originale 203
+
+macchie e sui versanti collinari dalla Siria e dal Libano, attraverso la Palestina, fino all'Arabia Petrea e al Sinai (266). È noto come «suwwayd» nella parte meridionale dell'areale e «ajrayna» in quella settentrionale.
+
+La parola ebraica tradotta «siepe» in Ecclesiaste 10:8 è «m'socchah». LEESSER la traduce «recinto». La «siepe» del libro di Ezechiele, invece, è rappresentata dalla parola ebraica «gader».
+
+Il balsamo di Gerico, *Balanites aegyptiaca* (si veda la relativa voce), e il licio europeo, *Lycium europaeum* L., sono anch'essi arbusti spinosi largamente usati come siepi in Palestina e potrebbero quindi essere implicati nei passi di Proverbi e Osea citati sopra. *Rhamnus cathartica* L., talvolta proposto, è da escludere perché non è noto in quella parte del mondo. Sono possibili specie di biancospino, *Crataegus*, poiché nella regione ve ne sono cinque indigene (266). Alcuni autori identificano le «spine del deserto» di Giudici 8:7 con varie piante desertiche, come *Capparis sicula*, *Nitraria schoberi* L., *Ononis spinosa* L. e diverse specie spinose di *Acacia* e *Astragalus*. Noi le discutiamo sotto *Zizyphus*.
+
+La «spina» di Giobbe 41:2 non è considerata un riferimento botanico dai traduttori moderni. La parola usata nel versetto è tradotta «uncino» dalle versioni GOODSPEED e JASTROW, «gaffa» da MOFFATT e «fibbia» dalla versione Douay. La resa di MOFFATT di questo versetto relativo alla caccia al coccodrillo è: «Puoi [...] far passare una corda attraverso le sue branchie o portarlo con una gaffa fra le mascelle?». Gli zoologi noteranno con interesse questa allusione alle «branchie» di un coccodrillo in una traduzione del 1925!
+
+La frase «sebbene rovi e spine siano con te» di Ezechiele 2:6 è resa «sebbene ti taglino e feriscano» da MOFFATT, «anche quando cardi e spine ti circondano» da GOODSPEED, «poiché sei fra increduli e distruttori» dalla Douay e «sebbene ribelli e sprezzanti siano con te» da JASTROW!
+
+### 177. *Ricinus communis* L.
+
+(FIGURA 39)
+
+**Giona 4:6–7** — Il Signore Dio preparò una zucca e la fece crescere sopra GIONA, perché facesse ombra alla sua testa e lo liberasse dalla sua afflizione. GIONA si rallegrò moltissimo della zucca. Ma, quando l'indomani sorse l'alba, Dio preparò un verme, che colpì la zucca, ed essa appassì [...].
+
+La parola ebraica tradotta «zucca» dalla versione Authorized è «kikayon» o «kikajon» (greco «κολοκύνθη») e si è molto discusso sulla pianta cui si riferisce. Una nota marginale delle versioni Authorized e Revised dà la traduzione alternativa «palmchrist» o «Palma Christi» (27). La versione Douay dice «edera».
+
+La «palm-christ», o «Palma Christi», è il comune ricino, *Ricinus communis* (101), e molti commentatori hanno supposto che questa fosse la pianta che offrì ombra a GIONA e fu poi attaccata da un «verme», tanto da appassire e morire. GIROLAMO e altri autori hanno ritenuto che si trattasse di questa pianta anche per la somiglianza fra il nome egizio del ricino, «kibil», e la parola ebraica usata in Giona (299). Il nome arabo registrato da Post, tuttavia, è «khurwa'» (267). Il ricino è un arbusto delicato, alto tre-dodici o più piedi; i nuovi getti, i piccioli e i peduncoli sono più o meno glauchi e squamettati. Le foglie sono spesso enormi, peltate, palmate e divise in sette-undici lobi lanceolati e dentati. Le foglie giovani sono generalmente porpora intenso, quelle più vecchie verde vivo. I piccoli fiori unisessuali sono portati in racemi ascellari e terminali. I frutti sono capsule spinose oblungo-ellissoidali, contenenti semi splendidamente disegnati e screziati (267). Le enormi foglie di questa pianta si prestano ottimamente a produrre un'ampia ombra quando crescono accanto a un pergolato, una capanna o un rifugio, oppure sporgono sopra una panca. Secondo Post, la specie si trova nei luoghi incolti, soprattutto vicino all'acqua, tanto in Libano quanto in Palestina, ed è spesso coltivata (265, 267). Nei climi caldi assume portamento arboreo e offre un'ombra fitta grazie all'abbondanza delle enormi foglie simili a ombrelli. Secondo PRATT (268), in Oriente si distingue per la rapidità della crescita. L'olio estratto dai semi di ricino era largamente usato dagli Ebrei nei loro riti

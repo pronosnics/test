@@ -4,16 +4,16 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–197**: **192 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 197. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–207**: **202 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 207. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 193 pagine stampate esaminate (192 complete + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **198–328**.
-**Prossimo intervallo:** **198–207**, poi blocchi successivi fino alla pagina stampata **328**.
+**Copertura di lavoro:** 203 pagine stampate esaminate (202 complete + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **208–328**.
+**Prossimo intervallo:** **208–217**, poi blocchi successivi fino alla pagina stampata **328**.
 
 ## Documenti correnti
 
-- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **197**.
-- [`TRADUZIONE_188-197.md`](TRADUZIONE_188-197.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_188.md`–`TRADUZIONE_197.md`. Il blocco precedente 178–187 è conservato.
+- [`TRADUZIONE_EDITABILE.md`](TRADUZIONE_EDITABILE.md): master italiano cumulativo aggiornato fino alla pagina stampata **207**.
+- [`TRADUZIONE_198-207.md`](TRADUZIONE_198-207.md): ultimo blocco completo; disponibili anche i file individuali `TRADUZIONE_198.md`–`TRADUZIONE_207.md`. Conservati anche i blocchi 178–187 e 188–197.
 - [`Moldenke_PROGRESSI.md`](Moldenke_PROGRESSI.md): registro corrente; i resoconti cronologici sottostanti documentano fasi precedenti e non sostituiscono questo riepilogo iniziale.
 - Le versioni cumulative Word già consegnate sono snapshot precedenti; il Markdown GitHub è il riferimento aggiornato. Nessuna pubblicazione automatica su WordPress.
 
@@ -323,6 +323,22 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - **192:** tavola originale **figura 28**, giardino a Haifa con «sakiyeh» e palme da datteri. Conservata l'immagine originale nel percorso `figure/Moldenke_Figura_28_originale.png` e tradotta integralmente la didascalia in testo modificabile. Pagina illustrata completa, non lacuna.
 - **193–197:** voci **170–174**, *Quercus aegilops*, *Q. coccifera*, *Q. coccifera* var. *pseudococcifera*, *Q. ilex*, *Q. lusitanica*; tutte le citazioni riportate, coloranti antichi, querce e terebinti, lessico ebraico, quercia di Abramo, note originali **118–123**. La trattazione prosegue a pagina 198.
 - **Controllo strutturale:** una sola intestazione per ogni pagina fino alla 197, con le sole assenze **82, 83, 106, 107**. La pagina **111** resta segnalata come parziale.
-- **Avanzamento:** **192 pagine stampate complete**, **4 mancanti**, **1 parziale** entro la pagina 197. Nessuna nuova lacuna nel blocco.
+- **Avanzamento:** **192 pagine stampate complete**, **4 mancanti**, **1 parziale** entro la pagina 207. Nessuna nuova lacuna nel blocco.
 - **Stato editoriale:** traduzione di lavoro; revisione filologica e tipografica finale da eseguire. Le opinioni, la nomenclatura e i dati storici degli autori sono conservati, senza aggiornamenti taciti.
 - **Prossimo blocco:** **198–207**, poi prosecuzione sino alla pagina stampata **328**, comprese appendici, bibliografia e indice. Non pubblicare automaticamente su WordPress.
+
+## Blocco 198–207 completato — 15 novembre 2026
+
+- **Fonte:** dieci pagine del volume presenti e visionate nelle scansioni **194–203**. Nuova anomalia di ordinamento registrata sotto; nessuna pagina mancante in questo blocco.
+- **198–199:** conclusione della trattazione delle querce, dei boschetti sacri, del lessico ebraico e delle tradizioni; conservato il disegno originale del melograno di pagina 199 con titolo italiano modificabile.
+- **200:** tavola **figura 29**, quercia di Abramo presso Hebron, immagine originale conservata e orientata per la lettura; didascalia interamente tradotta.
+- **201–202:** *Retama raetam*, ginestra bianca, con versetti, discussione del «ginepro», tradizioni e note originali **124–125**; inizio di *Rhamnus palaestina*, nota **126**.
+- **203–204:** conclusione di *Rhamnus*, *Ricinus communis* e discussione integrale della pianta di Giona; inizio di *Roccella tinctoria*.
+- **205–207:** conclusione del lichene tintorio, *Rosa phoenicia*, *Rubus sanctus*, *Rubus ulmifolius*, *Ruscus aculeatus*, note originali **127–128**. Conservati i riferimenti e le opinioni storiche del testo.
+- **Anomalia verificata della sorgente:** la scansione **196** reca in basso il numero stampato **201** e contiene *Retama*. La scansione **197** è la tavola laterale della figura 29, senza numero stampato visibile; per collocazione nel volume è attribuita alla pagina **200**. Nel PDF i due fogli sono invertiti. Il master segue l'ordine del libro: **199 → tavola 200 → testo 201 → 202**. La tavola 200 non è una lacuna.
+- **Corrispondenza puntuale:** 198 = PDF 194; 199 = PDF 195; 200, tavola = PDF 197; 201 = PDF 196; 202–207 = PDF 198–203. Non applicare automaticamente lo scarto di quattro senza controllare il numero stampato.
+- **File immagine:** `figure/Moldenke_Melograno_p199_originale.png`, `figure/Moldenke_Figura_29_originale.png`. Non sono immagini generate o ricostruite.
+- **Controllo strutturale:** intestazioni in ordine crescente e presenti una sola volta fino alla pagina **207**, con le sole assenze **82, 83, 106, 107**. Pagina **111** ancora parziale.
+- **Contabilità:** **202 pagine stampate complete**, **4 assenti**, **1 parziale** entro la 207. Restano da lavorare le pagine **208–328**; PDF di 324 scansioni.
+- **Stato:** traduzione italiana di lavoro, revisione filologica definitiva pendente; nessuna pubblicazione su WordPress.
+- **Prosecuzione:** leggere ogni volta GitHub prima di ripartire; prossimo blocco **208–217**, poi i successivi fino all'ultima pagina **328**, senza attendere ulteriori messaggi.
