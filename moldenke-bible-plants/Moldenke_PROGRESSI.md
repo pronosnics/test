@@ -4,7 +4,7 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 15 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–210**: **205 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 209. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–210**: **205 pagine stampate complete**, 4 mancanti e 1 parziale entro la pagina 210. Il PDF ha 324 scansioni e termina alla pagina stampata 328; questi conteggi non vanno confusi.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
 **Copertura di lavoro:** 206 pagine stampate esaminate (205 complete + 111 parziale).
 **Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **211–328**.
