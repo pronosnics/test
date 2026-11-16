@@ -4,13 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 16 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–248**: **243 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–249**: **244 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 244 pagine stampate esaminate (243 con testo e didascalie completi + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **249–328**.
-**Prossimo intervallo:** **249–257**, poi 258–267 e così via fino alla pagina 328.
+**Copertura di lavoro:** 245 pagine stampate esaminate (244 con testo e didascalie completi + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **250–328**.
+**Prossimo intervallo:** **250–257**, poi 258–267 e così via fino alla pagina 328.
 
 ## Blocco 248–257: in corso (16 novembre 2026)
+
+- **Pagina 249 (PDF 245)**: conclusione della voce precedente e *Zostera marina*, Giona 2:5, discussione di «sûph» e «achú», nota 163. Salvata in `TRADUZIONE_249.md`; prossimo 250–257.
 
 - **Pagina 248 (PDF 244)** tradotta e salvata in `TRADUZIONE_248.md`, voce *Zizyphus spina-christi*, citazioni e note 161–162. La frase conclusiva continua alla pagina 249. Restano 249–257 per completare il blocco.
 
