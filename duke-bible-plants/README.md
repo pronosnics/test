@@ -12,6 +12,7 @@ James A. Duke, con Peggy-Ann K. Duke e Judith L. duCellie, *Duke's Handbook of M
 - I nomi scientifici e le classificazioni riprendono le denominazioni usate nell'edizione del 2008 e richiedono verifica tassonomica prima della pubblicazione.
 
 ## File
+- [Indice delle 176 voci botaniche (CSV)](INDICE_176_SPECIE.csv) — nomi italiani provvisori e pagine della fonte
 - [Registro progressi](DUKE_PROGRESSI.md)
 - [Schede editoriali originali](SCHEDE_ORIGINALI_IT.md)
 - [Tracciato delle schede](MODELLO_SCHEDA.md)
