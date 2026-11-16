@@ -4,13 +4,15 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 16 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–252**: **247 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–253**: **248 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 248 pagine stampate esaminate (247 con testo e didascalie completi + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **253–328**.
-**Prossimo intervallo:** **253–257**, poi 258–267 e così via fino alla pagina 328.
+**Copertura di lavoro:** 249 pagine stampate esaminate (248 con testo e didascalie completi + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **254–328**.
+**Prossimo intervallo:** **254–257**, poi 258–267 e così via fino alla pagina 328.
 
 ## Blocco 248–257: in corso (16 novembre 2026)
+
+- **Pagina 253 (PDF 249)**: riferimenti neotestamentari e introduzione metodologica alle piante non identificate; verificata sulla scansione, tradotta in `TRADUZIONE_253.md` e integrata nel master. Il testo prosegue a pagina 254. **248 pagine complete**, quattro assenti, 111 parziale; prossime **254–257**.
 
 - **Pagina 249 (PDF 245)**: conclusione della voce precedente e *Zostera marina*, Giona 2:5, discussione di «sûph» e «achú», nota 163. Salvata in `TRADUZIONE_249.md`; prossimo 250–257.
 
