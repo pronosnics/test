@@ -5809,4 +5809,3 @@ Alcuni commentatori hanno supposto che anche i «giunchi» di Esodo 2:3 e 5, Isa
 
 ¹⁶³ Conosciuta anche come *Fucagrostis minor* Cavol. e *Zostera minor* (Cavol.) Nolte.
 
-*La parola «FITCHES» visibile al margine inferiore appartiene alla pagina seguente o a un elemento marginale della scansione; non è stata incorporata nella voce botanica senza verifica ulteriore.*
