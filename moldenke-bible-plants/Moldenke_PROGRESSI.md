@@ -4,11 +4,11 @@
 **Lingua di arrivo:** italiano  
 **Sorgente:** `Moldenke.pdf`, 324 pagine digitalizzate  
 **Aggiornamento:** 16 novembre 2026  
-**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–250**: **245 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
+**Pagine originali completamente elaborate:** **1–81, 84–105, 108–110 e 112–251**: **246 pagine stampate con testo e didascalie tradotti**; quattro assenti e una parziale. La conservazione delle immagini estratte nella cartella GitHub `figure/` è tuttora **pendente** per 225, 226, 236, 238 e 246.
 **Pagina trattata solo in parte:** **111**, testo recuperabile tradotto ma scansione sovrapposta a una pubblicità e dunque non integralmente verificabile. 
-**Copertura di lavoro:** 246 pagine stampate esaminate (245 con testo e didascalie completi + 111 parziale).
-**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **251–328**.
-**Prossimo intervallo:** **251–257**, poi 258–267 e così via fino alla pagina 328.
+**Copertura di lavoro:** 247 pagine stampate esaminate (246 con testo e didascalie completi + 111 parziale).
+**Pagine mancanti o illeggibili da recuperare:** **82–83 e 106–107** (assenti dalla scansione); **111** (parzialmente coperta da pubblicità). Restano da lavorare le pagine stampate **252–328**.
+**Prossimo intervallo:** **252–257**, poi 258–267 e così via fino alla pagina 328.
 
 ## Blocco 248–257: in corso (16 novembre 2026)
 
@@ -406,3 +406,8 @@ Le lacune permanenti **82–83**, **106–107**, **111 parziale** restano invari
 - Pagina stampata **250**, tavola figura 35, scansione PDF **246**: didascalia italiana integrata nel master dal file individuale già salvato.
 - Immagine originale della figura 35 ancora da archiviare: il riferimento Markdown non equivale al caricamento del file.
 - Prossima pagina da tradurre: **251**, scansione PDF da verificare.
+
+## Pagina 251 — 16 novembre 2026
+
+- **Pagina stampata 251 = scansione PDF 247**: sezione «Riferimenti a piante non identificate», citazioni da Genesi a Proverbi 11:30, tradotte mantenendo riferimenti ed ellissi originali. File `TRADUZIONE_251.md` integrato nel master; pagina 252 ancora da elaborare.
+- **Contabilità aggiornata:** 246 pagine complete, quattro assenti (82–83, 106–107), una parziale (111); prossime 252–257. Traduzione di lavoro, revisione filologica pendente.
