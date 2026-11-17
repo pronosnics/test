@@ -389,7 +389,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0184 · *Prunus dulcis*** — Mandorlo; **M voce 28, p. 35 · D p. 355**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, p. 189 · D p. 362**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, pp. 189–191 · D pp. 362–367**; fonte: Moldenke + Duke + Kew + NCCIH; **stato: BOZZA_WP (tavola WebP pronta, caricamento Media in attesa)**; WP: `212` (pianta), `213` (medicina), `214` (nome antico), `218–223` (6 passi); altre fonti `215–217`; `195` collegamento a Numeri 13:24. **Tassonomia confermata:** Lythraceae (Punicaceae storica).
 
 - [ ] **ATL-0188 · *Quercus coccifera*** — Quercia spinosa; **M voce 171, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -913,14 +913,25 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 |---|---|---|---|---|---|---|
 | 2026-11-17 | ATL del catalogo relativo a Olivo, Vite e Fico | Riconciliazione del catalogo iniziale | PUBBLICATA | Stato WordPress esistente, non nuove pubblicazioni | 129 / 143 / 152 | 3 schede preesistenti; mantenere i loro link. |
 | 2026-11-17 | Tutte | Creato master di specifiche e roadmap | DOCUMENTATO | Cataloghi Moldenke/Duke forniti | — | Nessuna scrittura sul sito effettuata per questa consegna. |
+| 2026-11-17 | ATL-0186 · Melograno | Consultate integralmente voci originali, redatta scheda botanica ampia, medicina storica, lemma rimmôn, 6 schede bibliche, 3 nuove fonti e 15 identificazioni pianta–passo; SEO in bozza | BOZZA_WP | Moldenke n.169 pp.189–191; Duke Pomegranate pp.362–367; Kew POWO; NCCIH; Diodati 1649 | 212–223 (12 ID, inclusi 3 fonti); Numeri 13:24 #195 riusato | Tavola botanica WebP creata e revisionata preliminarmente; caricamento Media, pubblicazione e QA responsive pendenti. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
+
+### Dettaglio di lavorazione — ATL-0186 Melograno (17 novembre 2026)
+
+- **Stato:** `BOZZA_WP`, non pubblicata: attesa tavola botanica in Media Library, featured image e controllo finale.
+- **Fonti direttamente consultate:** Moldenke, voce 169, pp. 189–191 (pagina PDF 185–187); Duke, voce «Pomegranate», pp. 362–367 (PDF 388–393). Consultati inoltre Kew POWO e NCCIH. Nessuna presunta prova clinica attribuita alle liste popolari di Duke.
+- **Nuove schede WordPress:** botanica `212`; usi tradizionali e sicurezza `213`; nome ebraico rimmôn `214`; fonti Kew `215`, NCCIH `216` e Diodati 1649 `217`; Deut 8:8 `218`, Es 28:33–34 `219`, Cant 4:3 `220`, Cant 8:2 `221`, Gioele 1:12 `222`, Aggeo 2:19 `223`. Riutilizzata la citazione Numeri 13:24 `195`.
+- **Relazioni:** 15 identificazioni pianta–passo, 13 collegamenti con nomi antichi, 22 citazioni di fonte aggiunte, da verificare nuovamente dopo pubblicazione.
+- **Tassonomia:** `Punica granatum L.` accettata, Lythraceae; `Punicaceae` nel testo Duke come classificazione storica. Il termine Rimmon nel nome di una divinità non è una pianta.
+- **Tavola originale:** `tavola-botanica_punica-granatum.webp` (1086 × 1448 px, ~432 KB), creata digitalmente nello stile botanico ottocentesco, **non** una riproduzione di Thomé. Caricamento tramite Media WordPress in sospeso per limiti dell'accesso di rete del runtime.
+- **Da completare:** ottenere l'ID Media, impostare featured image e `pdb_plate_media_id`, pubblicare il nucleo se il controllo è positivo, rieseguire audit SEO, verificare mobile e desktop. Aggiornare questa riga a `PUBBLICATA` solo quando lo è realmente.
 
 ## 14. Aggiornamento e continuità del Markdown
 
 - Questo file è la **fonte di verità della programmazione editoriale**, non è la fonte di verità botanica: le **opere originali e i database tassonomici** rimangono autorevoli per le affermazioni.
 - Per ogni sessione: **prima** leggere il master, **poi** leggere le fonti specifiche; **dopo** modificare la stessa riga del catalogo (stato, ID WP, dati verificati), inserire i collegamenti creati e aggiungere una riga al registro.
 - Se il catalogo cresce, mantenere i vecchi ID stabili. Vietato riordinare il master cambiando i numeri dei record già usati: per una nuova voce aggiungere un nuovo `ATL-XXXX` progressivo.
-- Versionare il Markdown in GitHub quando il repository del progetto sarà scelto; evitare copie disallineate. Per un processo automatico è preferibile conservare anche il CSV come indice macchina, ma **il presente Markdown deve restare leggibile e completo autonomamente**.
+- **GitHub master attivo:** `pronosnics/test`, file `moldenke-bible-plants/PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md`, branch `main`. Aggiornare questo file a ogni progresso e annotare gli ID WordPress; evitare copie disallineate. Per un processo automatico è preferibile conservare anche il CSV come indice macchina, ma **il presente Markdown deve restare leggibile e completo autonomamente**.
 - Cambiare versione documento (`1.1`, `1.2`…) alla modifica delle regole editoriali; cambiare solo data di aggiornamento per il normale avanzamento di una pianta.
 - Per dubbi tassonomici o filologici registrare **decisione, evidenza e autore/data della revisione**: non correggere silenziosamente le fonti storiche.
 
