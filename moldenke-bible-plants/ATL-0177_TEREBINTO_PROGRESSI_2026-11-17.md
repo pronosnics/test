@@ -2,6 +2,7 @@
 
 **Data:** 17/11/2026 · **STATO FINALE: PUBBLICATO / MEDIA_OK / SEO_0**
 
+- [x] **Ultimo controllo dopo Lentisco:** aggiunto confronto Zohary/Duke *P. atlantica* pp337–338, distinzione *P. lentiscus* sempreverde (mastice) vs *P. terebinthus* caducifoglio (trementine), nota variante Siracide 24:15 in Duke/KJV/RSV vs 24:16 CEI 2008. Testo WordPress #557 e pagina Siracide #571 migliorati, backlink alla scheda Lentisco #597. Nessuna omissione sostanziale ancora individuata da Moldenke voce 162 e Duke Terebinth pp341–342; eventuali future revisioni saranno annotate con la fonte.
 - [x] Originali consultati integralmente: Moldenke voce 162 *Pistacia terebinthus* var. *palaestina*, pp.178–179 (PDF pp174–175); Duke *Terebinth* pp341–342 (PDF pp367–368); confini con lentisco e pistacchio segnati.
 - [x] Kew POWO aggiornato: *Pistacia terebinthus* L. nome accettato, *P. palaestina* e subsp. *palaestina* sinonimi (fonte WP #558).
 - [x] BDB H424, H436, H437 (fonte WP #559), con distinzione botanica vs toponimi/antroponimi; Siracide fonte CEI WP #560.
