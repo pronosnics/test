@@ -1,5 +1,13 @@
 # Progressi Papiro — ATL-0093 — 17 novembre 2026
 
+## Integrazione filologica pubblicata dopo audit finale — 17 novembre 2026
+
+Il controllo su Giobbe 9:26 e 2 Giovanni 1:12 ha aggiunto due passi **fuori dall'elenco originario Moldenke della voce 91**. Sono state create e PUBBLICATE sei nuove pagine: BDB H16 #494, Thayer G5489 #495, termine ʾēḇeh #496, termine chártēs #497, Giobbe 9:26 #498, 2 Giovanni 1:12 #499. Identificazioni strutturate: **Giobbe controversa**, **2 Giovanni probabile solo come foglio materiale**. Non attribuire a Cyperus papyrus la penna κάλαμος di 3 Giovanni 1:13.
+
+Le frasi Diodati 1649 sono state verificate: Giobbe 9:26 «Son trascorsi come saette» (non «barche di papiro»), 2 Giovanni 1:12 «per carta, e per inchiostro». BDB H16 può riferirsi a canna/papiro nelle imbarcazioni, ma non è gōmeʾ H1573; χάρτης G5489 è un foglio da scrivere, non la pianta viva. Aggiunte 2 identificazioni #91–92, 2 legami lessicali #81–82, 8 nuove citazioni fonti #228–235. Testo principale del Papiro aggiornato con sezioni critiche e link alle nuove schede.
+
+**Totale Papiro: 21 pagine pubblicate** (#427–441 e #494–499). **Contatori pubblici MCP: 8 piante, 60 passi, 17 nomi, 8 medicina, 30 fonti**. Papiro con WebP Media #493, plugin 0.2.4, audit **0 avvisi su tutte le 8 specie pubblicate**. Mandorlo #467 e collegati restano bozze (fuori conteggio). **Nota:** le precedenti voci che indicano 15 pagine, 58 passi o immagine mancante sono cronologia già superata.
+
 ## Chiusura tecnica — Papiro MEDIA_OK (17 novembre 2026)
 
 **Stato WordPress verificato dopo installazione 0.2.4:**
