@@ -2,9 +2,9 @@
 
 **Progetto:** Piante della Bibbia — Atlante integrato.
 **Data:** 17 novembre 2026.
-**Stato verificato:** pianta WordPress **#367 in bozza**, non ancora pubblicata; testo enciclopedico e contenuti collegati predisposti.
+**Stato aggiornato e verificato:** pianta WordPress **#367 PUBBLICATA** insieme a 17 pagine collegate; 7 piante online dopo l'operazione. SEO testuale validato; unico avviso tecnico: immagine in evidenza ancora da importare.
 **Taxon:** *Ficus sycomorus* L. — Moraceae (Kew POWO, taxon 853797-1).
-**Fonte Moldenke:** *Plants of the Bible* (1952), **voce 105 da p.106**, ma **pp.106–107 mancanti nel PDF originale della Libreria**: verificata direttamente solo p.108 e la distinzione sicomoro/sicomino a p.140. Il master precedente riportava erroneamente «M —»: **corretto**.
+**Fonte Moldenke:** *Plants of the Bible* (1952), voce 105 **pp.106–108**, più note supplementari **p.282** e figura 62. Le pp.106–107 sono state recuperate e lette in **trascrizione digitale esterna** (non nel PDF originale dell'utente); pp.108,282 lette nel PDF originale, p.140 per la distinzione sicomoro/sicomino. [Audit completo](ATL-0106_SICOMORO_AUDIT_MOLDENKE_DUKE_2026-11-17.md).
 **Fonte Duke:** *Duke's Handbook of Medicinal Plants of the Bible* (2008), **pp.191–194**, PDF originale della Libreria pagine digitali 217–220.
 **Altre fonti:** Kew, BDB H8256, Greco G4809/G4807, Galil 1968 sulla partenocarpia, studio di bioattività PMID 8170162, Diodati 1649.
 **Immagine botanica:** WebP originale 1086×1448, 390592 byte; inclusa nel pacchetto **pdb-atlante 0.2.3 pronto per installazione**, ma **non ancora associata a Media Library WP**. Restano da verificare ALT, associazione e rendering.
@@ -145,3 +145,15 @@ Il contenuto è una sintesi critica originale; non riproduce le sezioni del volu
 - [ ] Installare **pdb-atlante 0.2.3**, importare e verificare tavola Media Library.
 - [ ] Controllare responsive, ALT, didascalie, interlink, titoli SEO.
 - [ ] Pubblicare pianta + schede solo dopo QA, aggiornare contatori dal risultato MCP.
+
+## Addendum conclusivo — 17 novembre 2026 (stato prevalente)
+
+**Pubblicazione verificata:** [pianta #367](https://piantedellabibbia.altervista.org/piante/sicomoro-ficus-sycomorus/), medicina #368, fonti #369–373, nomi #374–376, passi #377–384. Tutti i **18 elementi sono pubblicati**. Gli stati «bozza» nelle checklist precedenti rappresentano la cronologia della lavorazione e non la condizione attuale.
+
+**Nuovi dettagli Moldenke recuperati:** l'accesso alla trascrizione delle **pp.106–107** ha permesso di aggiungere dimensioni di esemplari grandi (30–40 piedi d'altezza, eccezionalmente circonferenza del tronco oltre 20 piedi e chioma fino a 120 piedi), foglie non lobate e inferiormente lievemente pelose, frutti cauliflori, commercio a Cairo, legname per mobili e sarcofagi, grandi ombre stradali e tradizione mariana (non canonica). La p.108 originale descrive la discussa lavorazione/incisione dei giovani frutti in Amos. La **p.282**, direttamente verificata, aggiunge le note di Zohary su colture abbandonate e scarsità di riproduzione da seme in Israele/Egitto. Riferimento alla **figura 62** senza riprodurla. La trascrizione esterna non sostituisce il confronto finale dei facsimili mancanti.
+
+**Duke 191–194:** confrontate tutte le sezioni, compresa la ricerca preclinica PMID 8170162; nessuna pratica tradizionale presentata come terapia certa. Corretta la nomenclatura storica con le autorità Kew attuali.
+
+**SEO e media:** titolo, descrizione, focus keyword e riferimenti Studio Manager presenti; Yoast delle 18 schede aggiornato. `pdb/seo-audit`: **un avviso solo sulla pianta #367**, «Immagine in evidenza assente». Il pacchetto **pdb-atlante 0.2.3**, con tavola WebP 1086×1448, è pronto per installazione manuale (live rilevato **0.2.2**); immagine non importata, niente Media ID. Screenshot desktop/mobile non ancora valutati.
+
+**Nuovi contatori verificati:** **7 piante, 52 passi, 12 nomi, 7 medicina, 24 fonti**. Si rimanda alla [matrice integrale dei materiali originali](ATL-0106_SICOMORO_AUDIT_MOLDENKE_DUKE_2026-11-17.md) per la collazione e i controlli ancora aperti.
