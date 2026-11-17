@@ -1,5 +1,15 @@
 # Procedura definitiva: immagini botaniche senza aggiornare il plugin
 
+## QUARTO TEST — due specie Allium, 17/11/2026
+
+**Cipolla** `tavola-botanica_allium-cepa.webp` **1086×1448, 384150 byte**, hash `154c3e455a601d79ed95e693040cb31375ccda64b1aa4b433b3cf5b41e7740cc` importata direttamente via MCP in **17 blocchi**, Media #629/featured pianta #627.
+
+**Aglio** `tavola-botanica_allium-sativum.webp` **1086×1448, 241004 byte**, hash `6b1b67cf5ac4d3c821c315eba01631361dbbf420f3a66efe8fa2d55f44879a9d` importata direttamente via MCP in **11 blocchi**, Media #632/featured pianta #628.
+
+Per entrambe: SHA-256 restituito dal server **identico** all'originale, ALT/didascalia e `pdb_plate_media_id` controllati, file temporaneo privato Base64 spostato nel cestino dalla Libreria, contenuti pubblicati soltanto dopo audit finale SEO zero issue. Plugin `pdb-atlante 0.2.4` invariato. In caso di `files__read`, leggere una riga Base64 per blocco, rispettare offset raw a incrementi di **24.000 byte** e gestire ultimo blocco più corto. L'uso di un'immagine d'esempio nella chat non equivale ad upload WordPress: richiedere Media ID e checksum dal server.
+
+
+
 ## TERZO TEST: Lentisco ATL-0176, media #609 (17/11/2026)
 
 **Transfer completato** tramite gli stessi strumenti MCP senza nuovo plugin: `tavola-botanica_pistacia-lentiscus.webp` WebP originale **1086×1448 px, 509488 byte**, SHA-256 `0cf339de26d158a3a2c24e1dce15a05fb9d826195331277bdd5acdf816cbc7ec`.
