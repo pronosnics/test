@@ -1,5 +1,13 @@
 # Progressi Mandorlo — ATL-0184 — 17 novembre 2026
 
+## Tavola originale creata e nuovo flusso upload verificato — 17 novembre 2026
+
+La tavola digitale originale del **Mandorlo — Prunus amygdalus Batsch** è stata generata e ispezionata: tronco e chioma in fiore, corolle rosa a cinque petali, foglie seghettate, drupe verdi vellutate, endocarpi legnosi e semi. File WebP **1086×1448**, dimensione **428.820 byte**, SHA-256 **ba05f9b3ab5a42f8794b57ecb48c09ed92319847b659b25e1f49c9ec96c73ccf**, filename `tavola-botanica_prunus-amygdalus.webp` in file conversazione. La composizione artistica non è un campione d'erbario né un facsimile di Duke o Moldenke.
+
+**NON è ancora in WordPress.** Test del metodo generico già attivo in 0.2.4: `pdb/atlas-media-start` con ID post 467, file manifest e checksum → sessione autorizzata con blocchi fino a 49.152 byte; `pdb/atlas-media-abort` → annullata, senza allegati indesiderati. L'invio completo tramite MCP o `ewpa/create-upload-link` resta da terminare. Si tratta di **upload di contenuto**, non aggiornamento plugin: [Procedura permanente immagini senza nuove versioni](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md).
+
+Il resto resta in bozza, 12 schede #467 e #469–479. Estratti Diodati 1649 dei sette passi ancora da collazionare: non pubblicare prima. SEO struttura Mandorlo: solo featured image mancante. **Papiro invece MEDIA_OK/SEO_OK, plugin 0.2.4 attivo.**
+
 **Status:** BOZZE_WP_CREATE / FONTI_PRINCIPALI_LETTE / SEO_TESTO_OK / DIODATI_DA_COLLAZIONARE / IMMAGINE_DA_GENERARE / QA_APERTA.
 
 - **Kew 2026:** nome accettato *Prunus amygdalus* Batsch (Rosaceae); *Prunus dulcis* (Mill.) D.A.Webb e *Amygdalus communis* L. sinonimi. La roadmap iniziava con Prunus dulcis: correggere questa formulazione senza duplicazioni.
