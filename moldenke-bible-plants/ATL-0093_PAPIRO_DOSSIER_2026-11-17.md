@@ -1,5 +1,13 @@
 # Papiro — *Cyperus papyrus* L. (ATL-0093)
 
+## Supplemento finale: due riferimenti oltre Moldenke — 17 novembre 2026
+
+**Giobbe 9:26** aggiunto come pagina pubblica WP **#498**. BDB H16 registra אֵבֶה (*ʾēḇeh*) con significati canna/papiro in navi leggere; il testo Diodati 1649 rende però «Son trascorsi come saette», dunque non cita esplicitamente barche. Collegamento con *Cyperus papyrus* **CONTROVERSO**, fonte BDB #494 e lemma #496. Non attribuire il versetto alla lista Moldenke 91, che riporta Giobbe 8:11 ma NON 9:26.
+
+**2 Giovanni 1:12** aggiunto come pagina pubblica WP **#499**; Diodati breve citazione «per carta, e per inchiostro», greco χάρτης (*chártēs* G5489), supporto scrittorio spesso realizzato da papiro. È **PROBABILE soltanto come materiale**, non albero vivo. Fonte Thayer #495, lemma #497. **3 Giovanni 1:13**, κάλαμος penna di canna, usato solo come confronto: NON prova una penna botanicamente identificata con il papiro.
+
+Tutte le sei nuove schede #494–499 sono state pubblicate e collegate; la pianta Papiro #427 aggiornata con questi due approfondimenti, metadati aggiornati, WebP #493 collegata. **Totali delle pagine pubblicate: 8 piante / 60 passi / 17 termini / 8 schede medicinali / 30 fonti; Papiro 21 pubblicazioni complessive.** Plugin 0.2.4 invariato, SEO 0 avvisi su tutte le otto piante. Questa è documentazione aggiuntiva rispetto alle pp.92–94 +281 di Moldenke e pp.172–174 di Duke, non sostituisce le fonti primarie.
+
 ## Stato aggiornato dopo import Media (17 novembre 2026)
 
 Pianta Papiro #427 già **PUBBLICATA** con 14 schede collegate #428–441; immagine WebP #493 **importata, in evidenza, con ALT e provenienza registrata**. Plugin WordPress **0.2.4 attivo**, audit SEO **0 avvisi per tutte le otto piante pubblicate**. L'ultima verifica fonte Moldenke voce 91 pp.92–94 più supplemento p.281 e Duke Papyrus pp.172–174 ha confermato la copertura principale, la correzione della sinonimia di Cyperus rotundus e la classificazione controversa dei testi di Isaia 19 e 58. QA responsive ancora aperta. Per le immagini successive NON si aggiorna il plugin: [Procedura permanente immagini senza nuove versioni](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md).
