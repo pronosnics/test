@@ -2,6 +2,7 @@
 
 **Stato finale verificato: PUBBLICATO · MEDIA_OK · SEO_OK**
 
+- [x] **Audit supplementare 17/11:** aggiunti direttamente WordPress pianta #597 e medicina #604: incisioni storiche del mastice e raccolta in agosto (Moldenke), qualità delle lacrime, masticazione e liquori; impiego romano dei frutti e olio alimentare cipriota, legno per affumicare (Duke); studi antiaterogeni/antimicrobici e limiti dei saggi cellulari; precisazione Duke: la fonte sulle «dosi sicure» non indicava una dose. Riletto il confine Mastic/Terebinth, nessun materiale del secondo attribuito al primo. Audit SEO 0. Procedura audit registrata in [file](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md).
 - [x] Fonti originali lette: Moldenke 1952 voce 161 pp177–178; Duke 2008 «Mastic» pp339–341, incluse transizioni da Pinus/Pistacia e da Mastic a Terebinth.
 - [x] Kew nome accettato e areale: *Pistacia lentiscus* L., Anacardiaceae, sinonimo storico var. chia, nativo Mediterraneo e Canarie.
 - [x] CEI 2008 Daniele 13:54–59: *schînos* lentisco v54 e *prînos* leccio v58, diversi giochi di parole; non attribuire a Diodati 1649.
