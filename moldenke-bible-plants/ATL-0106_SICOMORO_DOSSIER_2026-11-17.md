@@ -169,3 +169,10 @@ Il contenuto è una sintesi critica originale; non riproduce le sezioni del volu
 **Stato plugin/media:** attiva ancora versione **pdb-atlante 0.2.2**, nuova 0.2.3 preparata ma non installata; **featured_media=0** su #367. L'audit SEO mostra **unico avviso: immagine in evidenza assente**. Questo non annulla la pubblicazione, ma prima di considerare chiusa la specie è necessario installare la 0.2.3, importare il WebP, verificare ALT e fare QA visiva desktop/mobile.
 
 Le tabelle di bozze e gli stati riportati in sezioni precedenti di questo dossier sono **storici**; questo addendum è lo stato corrente.
+
+## Ultimo controllo dell'immagine e metadati
+
+Nel controllo finale WordPress ha confermato la **versione 0.2.3** del plugin, l'importazione del WebP **Media #426**, la sua assegnazione `featured_media=426` alla pianta #367 e il campo `pdb_plate_media_id=426`. L'ALT dell'immagine e la dichiarazione della provenienza sono stati verificati; SEO audit conclusivo **0 avvisi** per tutte le 7 piante. La precedente nota che descriveva l'immagine come non ancora importata è una fotografia storica ormai superata.
+
+**Riserva sulla morfologia illustrata:** la corona, le foglie e i siconi cauliflori della tavola sono coerenti con la specie; l'isolata vignetta di un «fiore» aperto è invece una schematizzazione artistica, non un apparato floreale esterno del genere Ficus, i cui minuscoli fiori sono contenuti nel siconio. La scheda botanica scritta e la sezione del siconio spiegano correttamente questa disposizione. La resa visiva del sito su smartphone e desktop va ancora verificata da screenshot o browser dedicato. Fonti: flora.org.il/en/books/plant-stories-2/chapter-g/useful_plants_g2/ e https://academic.oup.com/aob/article/127/5/621/6012849 .
+
