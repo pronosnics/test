@@ -1,5 +1,12 @@
 # Progressi Sicomoro — ATL-0106 — 17 novembre 2026
 
+### Ultimo check del 17/11/2026 — 0.2.3, immagine e fonti
+- **Stato reale MCP**: pdb-atlante **0.2.3**. Media originale WebP **#426** importato; immagine in evidenza e `pdb_plate_media_id` **#426** verificati; ALT descrittivo presente. Reimport idempotente: **0 nuove, 7 già presenti, 0 errori**. **Audit SEO zero avvisi su tutte le sette piante pubblicate**; il Papiro #427 resta in bozza con immagine ancora assente, separato da ATL-0106.
+- **Verifica grafica del file**: siconi cauliflori e chioma ampia riconoscibili; alcune foglie della chioma risultano troppo lobate rispetto alla morfologia diagnostica di Kew, e un dettaglio floreale esterno è **schema artistico**, non fedele anatomia in situ: i minuscoli fiori reali sono all'interno del siconio. Aggiunta sezione chiarificatrice nella scheda pubblicata #367 e aggiornata provenienza dell'immagine. Non confondere «SEO 0» con perfezione scientifica dell'illustrazione; in futuro è possibile correggere la vignetta con una versione appositamente botanica.
+- **Fonti ripassate**: Moldenke voce 105 pp.106–108 (106–107 in trascrizione esterna OCR non in PDF della Libreria), supplemento p.282 e confronto Morus nigra p.140; Duke «Sycamore Fig» pp.191–194, comprese NOTES, SYNONYMS, COMMON NAMES, ACTIVITIES, INDICATIONS, DOSAGES, NATURAL HISTORY, EXTRACTS. Le indicazioni di Duke sono storico-etnobotaniche; studio PMID 8170162 in vitro/potato-disc, non prova di cura oncologica. Nessuna nuova omissione sostanziale accertata con le fonti disponibili.
+- **QA non ancora coperta**: resa effettiva template desktop/mobile su browser; facsimili originali Moldenke 106–107 ancora da acquisire se possibile. Questo non impedisce lo stato pubblicato né l'avanzamento alla specie successiva.
+
+
 ## Conferma plugin, tavola e SEO (ultima verifica MCP, 17 novembre 2026)
 
 - [x] Plugin **pdb-atlante 0.2.3** attivo.
