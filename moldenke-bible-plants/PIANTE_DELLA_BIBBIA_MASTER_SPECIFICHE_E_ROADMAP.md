@@ -389,7 +389,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0184 · *Prunus dulcis*** — Mandorlo; **M voce 28, p. 35 · D p. 355**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [x] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, pp. 189–191 · D pp. 362–367**; fonte: Moldenke + Duke + Kew + NCCIH; **stato: BOZZA_WP (tavola importata Media #238, pubblicazione e controllo mobile pendenti)**; WP: `212` (pianta), `213` (medicina), `214` (nome antico), `218–223` (6 passi); altre fonti `215–217`; `195` collegamento a Numeri 13:24. **Tassonomia confermata:** Lythraceae (Punicaceae storica).
+- [x] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, pp. 189–191 · D pp. 362–367**; fonte: Moldenke + Duke + Kew + NCCIH; **stato: PUBBLICATA (QA visivo mobile/desktop da completare)**; WP: `212` (pianta), `213` (medicina), `214` (nome antico), `218–223` e `241–244` (10 passi), fonti `215–217` e `240`; già esistente #195 (Numeri 13:24) collegato. **Tassonomia confermata:** Lythraceae (Punicaceae storica).
 
 - [ ] **ATL-0188 · *Quercus coccifera*** — Quercia spinosa; **M voce 171, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -913,7 +913,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 |---|---|---|---|---|---|---|
 | 2026-11-17 | ATL del catalogo relativo a Olivo, Vite e Fico | Riconciliazione del catalogo iniziale | PUBBLICATA | Stato WordPress esistente, non nuove pubblicazioni | 129 / 143 / 152 | 3 schede preesistenti; mantenere i loro link. |
 | 2026-11-17 | Tutte | Creato master di specifiche e roadmap | DOCUMENTATO | Cataloghi Moldenke/Duke forniti | — | Nessuna scrittura sul sito effettuata per questa consegna. |
-| 2026-11-17 | ATL-0186 · Melograno | Consultate integralmente voci originali, redatta scheda botanica ampia, medicina storica, lemma rimmôn, 6 schede bibliche, 3 nuove fonti e 15 identificazioni pianta–passo; SEO in bozza | BOZZA_WP | Moldenke n.169 pp.189–191; Duke Pomegranate pp.362–367; Kew POWO; NCCIH; Diodati 1649 | 212–223 (12 ID, inclusi 3 fonti); Numeri 13:24 #195 riusato | Tavola botanica WebP importata e associata come immagine in evidenza #238; audit SEO senza rilievi per #212; pubblicazione e QA responsive ancora pendenti. |
+| 2026-11-17 | ATL-0186 · Melograno | Esaminate voci originali, aggiunti 1 Sam 14:2, 1 Re 7, Numeri 20:5, Cantico 4:13; rivisti ornamenti, concia/coloranti, miti di fertilità, medicina; corretta sarcotesta (Foods 2024); SEO verificata | PUBBLICATA | Moldenke voce 169 pp. 189–191; Duke Pomegranate pp. 362–367; Kew; NCCIH; Melgarejo et al. Foods 2024; Diodati 1649 | 212–223 e 240–244 (17 nuove pagine); citazione #195 condivisa; Media #238 | 4 piante e 21 passi in sito; 0 avvisi SEO sulle pagine editoriali incluse nell'audit; QA mobile/desktop da effettuare. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
@@ -926,14 +926,16 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 - **Test locali:** tavola WebP Punica 431716 byte, 11 blocchi, checksum finale identico e registrazione simulata; PHP lint e ZIP integri. **Test live:** importazione locale idempotente e senza errori, Media #238 e featured #212 verificati; protocollo MCP `media-start` → `media-chunk` (68 byte ricevuti) → `media-abort` superato senza media residui. Finalizzazione (`media-finish`) con un file nuovo ancora da provare alla prossima tavola; non crearne una copia di test inutile.
 
 ### Dettaglio di lavorazione — ATL-0186 Melograno (17 novembre 2026)
+- **Revisione editoriale 17/11/2026:** nuove citazioni su Saul (1 Sam 14:2), capitelli del Tempio (1 Re 7), deserto (Numeri 20:5), giardino (Cantico 4:13); distinte interpretazioni storico-culturali di Moldenke da evidenza botanica; corretta la terminologia «arillo» con «sarcotesta» sulla base di Melgarejo et al., *Foods* 2024; distinti rischi di corteccia radicale e usi alimentari secondo Duke/NCCIH. Pubblicazione confermata WordPress, QA visuale da completare.
 
-- **Stato:** `BOZZA_WP`, non pubblicata. Tavola WebP in Libreria Media #238, featured e `pdb_plate_media_id` associati alla pianta #212; audit SEO senza problemi per #212. Restano pubblicazione e QA visuale.
+
+- **Stato:** `PUBBLICATA` il 17 novembre 2026: tutte le 17 nuove pagine in stato `publish`, media #238 associato, audit SEO editoriale senza problemi; verifica grafica mobile/desktop ancora da completare.
 - **Fonti direttamente consultate:** Moldenke, voce 169, pp. 189–191 (pagina PDF 185–187); Duke, voce «Pomegranate», pp. 362–367 (PDF 388–393). Consultati inoltre Kew POWO e NCCIH. Nessuna presunta prova clinica attribuita alle liste popolari di Duke.
-- **Nuove schede WordPress:** botanica `212`; usi tradizionali e sicurezza `213`; nome ebraico rimmôn `214`; fonti Kew `215`, NCCIH `216` e Diodati 1649 `217`; Deut 8:8 `218`, Es 28:33–34 `219`, Cant 4:3 `220`, Cant 8:2 `221`, Gioele 1:12 `222`, Aggeo 2:19 `223`. Riutilizzata la citazione Numeri 13:24 `195`.
-- **Relazioni:** 15 identificazioni pianta–passo, 13 collegamenti con nomi antichi, 22 citazioni di fonte aggiunte, da verificare nuovamente dopo pubblicazione.
+- **Schede WordPress pubblicate:** botanica `212`; medicina `213`; rimmôn `214`; fonti `215–217`, `240`; passi `218–223` e `241–244`. Il già pubblicato Numeri 13:24 `195` è stato collegato al Melograno.
+- **Relazioni:** salvate identificazioni, nomi antichi e citazioni delle fonti, comprese 6 nuove identificazioni e nuove citazioni durante la revisione finale; i passi condivisi richiamano anche Olivo, Fico e Vite.
 - **Tassonomia:** `Punica granatum L.` accettata, Lythraceae; `Punicaceae` nel testo Duke come classificazione storica. Il termine Rimmon nel nome di una divinità non è una pianta.
 - **Tavola originale:** `tavola-botanica_punica-granatum.webp` (1086 × 1448 px, ~432 KB), creata digitalmente nello stile botanico ottocentesco, **non** una riproduzione di Thomé. Media WordPress #238 importato e collegato automaticamente dal plugin 0.1.9.
-- **Da completare:** eventuale controllo editoriale finale sulle 6 citazioni, pubblicare il nucleo (12 bozze) se approvato, verificare link, mobile e desktop. Audit SEO per pianta #212 già superato. Aggiornare lo stato a `PUBBLICATA` solo dopo la pubblicazione effettiva.
+- **Da completare:** verifica visuale mobile/desktop e collegamenti nel frontend. Non rimangono bozze relative alla lavorazione Melograno. Il rilievo SEO residuo riguarda soltanto la pagina tecnica `Notifiche push` #112.
 
 ## 14. Aggiornamento e continuità del Markdown
 
