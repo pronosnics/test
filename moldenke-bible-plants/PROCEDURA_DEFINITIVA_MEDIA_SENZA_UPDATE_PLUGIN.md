@@ -1,5 +1,24 @@
 # Procedura definitiva: immagini botaniche senza aggiornare il plugin
 
+## PROCEDURA RACCOMANDATA VERIFICATA — Mirto, 17/11/2026
+
+**Risultato reale:** immagine originale del Mirto `tavola-botanica_myrtus-communis.webp`, 343784 byte, 1086×1448 px, SHA-256 `fa2199337be55327274a2a3e71d22c87f88ee77baa054a1c5d068be9f2bd3e78` trasferita **integralmente via MCP in 15 blocchi**, Media WordPress **#547**, featured image pianta **#525**, ALT presente, checksum restituito dal server corrispondente, SEO **0 avvisi**. Nessun nuovo ZIP o versione del plugin: `pdb-atlante 0.2.4`.
+
+### Ponte dati ripetibile fra container immagini e MCP WordPress
+
+1. Generare in `/mnt/data/` il WebP e calcolare SHA-256, peso in byte e dimensioni, conservando l'originale.
+2. Dal file creare un **testo temporaneo ASCII** di 1 riga per blocco, ciascuna riga `base64.b64encode(dati[i:i+24000]).decode('ascii')`. I blocchi sono **24.000 byte raw** e 32.000 caratteri base64, sotto il limite MCP di 49.152 byte decodificati; ultimo blocco più corto. File `.txt` senza intestazioni né log. Uno per ogni immagine.
+3. Usare un **file temporaneo di passaggio** accessibile alla connessione Files (nel test, upload transitorio in area privata del File Library dell'utente); acquisire esattamente il `file_id` restituito. Questo collegamento è un passaggio tecnico per i byte perché gli strumenti WordPress MCP non possono leggere direttamente i percorsi `/mnt/data` del container. Il file temporaneo non va pubblicato né condiviso.
+4. Eseguire `pdb/atlas-media-start` via MCP con `post_id`, `filename`, `file_size`, `sha256`, `alt_text`, `caption`; conservare `upload_id`. Fare poi `files__read` sul `file_id` temporaneo, una riga per volta (`mode:full, start_line:N, max_lines:1`); il testo della riga è precisamente il blocco codificato. Passarlo direttamente a `pdb/atlas-media-chunk` con `offset=(N-1)*24000`. Non ricodificare o mescolare le righe. Ripetere fino a `remaining_bytes=0`.
+5. Eseguire `pdb/atlas-media-finish` (`set_featured:true`, `replace_featured:false`) e **pretendere** `attachment_id`, `featured_image_id` e checksum uguale a quello locale. Se manca uno di questi dati, non dichiarare MEDIA_OK; in caso di errore abortire e verificare l'offset. I blocchi vanno inviati nell'ordine di offset, non in parallelo.
+6. **Pulizia:** eliminare dal File Library il file temporaneo usando `files__manage_library` e `library_file_id` preciso; nel test è stato spostato nel cestino. Non conservare token, URL firmati, base64 o credenziali nei dossier GitHub. L'immagine definitiva è invece nella Media Library WordPress.
+7. Verificare via `pdb/atlas-get`, `ewpa/get-media`, `pdb/seo-audit` che `pdb_plate_media_id`, provenienza, featured, ALT e SEO siano corretti. Aggiornare i metadati e procedere alla pubblicazione solo dopo verifica. Una QA reale di resa mobile/desktop resta distinta da quella strutturale.
+
+**Importante:** la precedente procedura in questo file basata sulla disponibilità di un allegato della conversazione rimane alternativa, ma il collegamento con file temporaneo verificato sopra consente un trasferimento autonomo e ripetibile anche quando il connettore non dispone direttamente di un file in chat. Non usare file permanenti, email, pubblicazione GitHub delle immagini codificate o release del plugin come canale di upload.
+
+---
+
+
 ## TEST COMPLETO RIUSCITO — Mandorlo, 17 novembre 2026
 
 **Verifica pratica in produzione:** la funzione di upload immagini **via MCP funziona** senza browser, upload manuale o reinstallazione di plugin. È stata trasferita integralmente la tavola `tavola-botanica_prunus-amygdalus.webp` tramite la connessione MCP **pdb-atlante 0.2.4**, collegando le funzioni File della conversazione agli strumenti del server.
