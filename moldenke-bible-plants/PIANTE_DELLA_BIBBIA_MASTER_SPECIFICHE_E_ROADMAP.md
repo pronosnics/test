@@ -339,7 +339,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0053 · *Capparis spinosa*** — Cappero; **M — · D p. 76**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0055 · *Cedrus libani*** — Cedro del Libano; **M voce 55, p. 66 · D p. 84**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0055 · *Cedrus libani*** — Cedro del Libano; **M voce 55, pp. 66–70 · D pp. 84–86**; fonte: Moldenke + Duke + Kew + RBGE + IUCN + Diodati 1649; **stato: BOZZA_WP** (12 bozze + Media #267; revisione/publishing da completare); WP: pianta `266`, medicina `268`, nome antico `269`, 6 passi `270–275`, 3 nuove fonti `276–278`; tavola `267` caricata via MCP. Nome accettato **Cedrus libani A.Rich.**, non attribuzione storica Loud.; attenzione ai «cedri» controversi.
 
 - [ ] **ATL-0060 · *Ceratonia siliqua*** — Carrubo; **M voce 60, p. 72 · D p. 90**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -916,6 +916,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 | 2026-11-17 | ATL-0186 · Melograno | Esaminate voci originali, aggiunti 1 Sam 14:2, 1 Re 7, Numeri 20:5, Cantico 4:13; rivisti ornamenti, concia/coloranti, miti di fertilità, medicina; corretta sarcotesta (Foods 2024); SEO verificata | PUBBLICATA | Moldenke voce 169 pp. 189–191; Duke Pomegranate pp. 362–367; Kew; NCCIH; Melgarejo et al. Foods 2024; Diodati 1649 | 212–223 e 240–244 (17 nuove pagine); citazione #195 condivisa; Media #238 | 4 piante e 21 passi in sito; 0 avvisi SEO sulle pagine editoriali incluse nell'audit; QA mobile/desktop da effettuare. |
 | 2026-11-17 | SITE / template desktop 0.2.0 | Menu WordPress primary aggiornato a 6 voci; 4 excerpt biblici completati e DOI Melgarejo registrato; pacchetto desktop responsive e indice degli approfondimenti prodotto | PLUGIN_0.2.0_LIVE / QA_MOBILE_APERTO | Screenshot desktop 6 modelli, file plugin 0.1.9, audit SEO WordPress | Menu #3; citazioni #241–244; fonte #240 | Validare versione 0.2.0 dopo installazione, QA mobile e desktop; mantenere attivi media MCP e versetti originali. |
 | 2026-11-17 | SITE / homepage 0.2.1 | Correzione above-the-fold per homepage Atlante desktop, titolo e hero compattati, ricerca più alta con fallback lato tema | PLUGIN_0.2.1_LIVE / DESKTOP_VERIFICATO | Screenshot browser desktop 1366×768; sorgente plugin 0.2.0 | Plugin 0.2.1 (ZIP) | QA visuale live prima di chiudere; nessuna modifica WordPress in questa fase. |
+| 2026-11-17 | ATL-0055 · Cedro del Libano | Letti Moldenke pp.66–70 e Duke pp.84–86; create 12 bozze collegate, immagine WebP originale trasferita interamente via MCP senza reinstallazione; nomenclatura Kew e IUCN verificate | BOZZA_WP | Moldenke 55 pp.66–70, Duke Cedar of Lebanon pp.84–86, Kew/RBGE/IUCN/Diodati | WP #266, #268–278; Media #267 | Testo e immagine conservati; pubblicazione e QA approfondita pendenti. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
@@ -978,6 +979,16 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 - **Tassonomia:** `Punica granatum L.` accettata, Lythraceae; `Punicaceae` nel testo Duke come classificazione storica. Il termine Rimmon nel nome di una divinità non è una pianta.
 - **Tavola originale:** `tavola-botanica_punica-granatum.webp` (1086 × 1448 px, ~432 KB), creata digitalmente nello stile botanico ottocentesco, **non** una riproduzione di Thomé. Media WordPress #238 importato e collegato automaticamente dal plugin 0.1.9.
 - **Da completare:** verifica visuale mobile/desktop e collegamenti nel frontend. Non rimangono bozze relative alla lavorazione Melograno. Il rilievo SEO residuo riguarda soltanto la pagina tecnica `Notifiche push` #112.
+
+### Dossier in lavorazione — ATL-0055 Cedro del Libano (17 novembre 2026)
+
+- **Stato reale:** `BOZZA_WP`, non pubblicato; plugin `pdb-atlante` 0.2.1 attivo. La revisione desktop e mobile del plugin è considerata chiusa sui modelli già pubblicati, mentre il nuovo dossier non ha ancora QA editoriale finale e responsive.
+- **Fonti originali lette:** Moldenke e Moldenke, `Plants of the Bible` (1952), voce 55 **pp. 66–70**, compresi i rimandi biblici, la descrizione botanica, la storia dei boschi e le leggende posteriori; Duke, `Handbook of Medicinal Plants of the Bible` (2008), voce «Cedar of Lebanon» **pp. 84–86**, complete le sezioni Notes, Synonyms, Activities, Indications, Dosages, Downsides, Extracts.
+- **Tassonomia e conservazione:** nome accettato `Cedrus libani A.Rich.` (Kew), Pinaceae; forma «Loud.» di Moldenke è isonimo successivo; IUCN Vulnerabile (VU), valutazione globale del 2011 pubblicata nel 2013; consultati RBGE per morfologia e rischi.
+- **WordPress bozze:** pianta #266 (oltre 2300 parole, con immagine), usi medicinali #268, lemma ebraico `’erez` #269, Giudici 9:15 #270, 1 Re 4:33 #271, 1 Re 5:6–10 #272, 2 Sam 5:11 #273, Salmo 92:12 #274, Ezechiele 17:22–24 #275; fonti Kew #276, RBGE #277, IUCN #278. Il passo Giudici 9:15 si collega alla favola già pubblicata Giudici 9:8–13 senza duplicarla.
+- **Relazioni create:** 6 identificazioni fra pianta, passo e lemma; 6 collegamenti lessicali; 21 citazioni di fonte collegate alle bozze. Non classificare come certi i «cedri» rituali di Levitico 14 o Numeri 19:6, discussi da Moldenke, né confondere il nome «deodar» della medicina popolare con la specie esatta senza prova.
+- **Tavola:** nuova illustrazione digitale originalissima in stile cromolitografia ottocentesca, albero adulto, aghi su brachiblasti, coni femminili eretti, pollinici e semi alati; `tavola-botanica_cedrus-libani.webp` 1086×1448, 386484 byte; **caricata e associata automaticamente via MCP** in 11 blocchi, SHA-256 `84e8ffc08c558ab03c59d1c71c55c355ed32a2ff6f9788811e1d5cca6e1073c8`, Media WordPress #267, featured della bozza #266. Nessuna reinstallazione plugin necessaria.
+- **QA:** corretto l'estratto Ezechiele 17:22 prima di pubblicare, per aderire letteralmente alla Diodati 1649; metadati SEO e slug impostati nelle bozze. **Da completare:** revisione filologica di tutti i virgolettati, eventuali passi condivisi con altre specie, audit prima della pubblicazione, screenshot desktop/mobile del Cedro appena online. Non segnare `PUBBLICATA` fino alla conferma MCP dello stato `publish`.
 
 ## 14. Aggiornamento e continuità del Markdown
 
