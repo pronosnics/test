@@ -98,3 +98,11 @@
 5. [ ] Approfondire i passi principali, rivedere la filologia e pubblicare solo dopo QA. Verificare immutabilità del Cedro #266 e i contatori pubblici aggiornandoli **soltanto dopo pubblicazione confermata**.
 
 **Nota cronologica:** la sezione precedente documenta problemi *prima* di questa rifinitura; questo aggiornamento ne sostituisce lo stato operativo senza cancellare la cronologia delle attività.
+
+
+### Rifinitura redazionale supplementare delle bozze
+
+- [x] Le **otto schede bibliche #315–322** hanno ricevuto un approfondimento individuale di circa 240–300 parole ciascuna, senza testi copiati da Duke/Moldenke: Elim e il paesaggio, Levitico e la ritualità delle fronde, Debora e lo spazio del giudizio, decorazioni del Tempio, Neemia e il confronto con Olivo, metafora del Cantico, rami di Giovanni e visione dell'Apocalisse. Le schede ora hanno indicativamente **450–540 parole** ciascuna e sono tutte **ancora bozze**.
+- [x] **Nome greco #311** ampliato con analisi delle forme `φοῖνιξ` e `φοινίκων`, distinzione fra uso evangelico e visionario, valore della diagnosi botanica; `pdb_editorial_status=revisionata`.
+- [x] Il contenuto medico **#309** è stato ampliato ulteriormente, separando parti botaniche e livelli di evidenza, fino a circa **1.370 parole**.
+- [ ] Restano controllo grafico finale, immagine Media Library e pubblicazione; queste integrazioni redazionali non cambiano i totali pubblici.
