@@ -91,3 +91,10 @@ Fonti filologiche: https://biblehub.com/hebrew/1573.htm ; https://biblehub.com/h
 [MASTER specifiche e roadmap](PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md) • [Progressi Papiro](ATL-0093_PAPIRO_PROGRESSI_2026-11-17.md) • [Stato Sicomoro](ATL-0106_SICOMORO_PROGRESSI_2026-11-17.md).
 
 **Questo file è un dossier originale di lavoro**, non una traduzione integrale delle voci protette di Moldenke e Duke.
+
+## Verifica successiva degli estratti biblici — Diodati 1649
+
+Il 17 novembre 2026 sono stati collazionati sul testo **Giovanni Diodati 1649** di Biblia.com gli estratti brevi di tutti e sei i passi WordPress **#436–441**. È stato verificato il testo e salvata la forma originale, senza inventare versioni o cambiare la numerazione. **Isaia 19:7** è particolarmente significativo: usa «Le praterie che son presso al fiume», confermando che l'attribuzione automatica al papiro non può essere considerata certa. Le sei citazioni Diodati alla fonte WordPress #217 hanno ID **#206–211**, portando le nuove relazioni bibliografiche del Papiro a **28**. Tutti i post restano bozze in attesa di tavola e verifica grafica.
+
+URL primari per la collazione: https://biblia.com/bible/it-diodati1649/exodus/2/3 ; https://biblia.com/bible/it-diodati1649/exodus/2/5 ; https://biblia.com/bible/it-diodati1649/job/8/11 ; https://biblia.com/bible/it-diodati1649/isaiah/18/2 ; https://biblia.com/bible/it-diodati1649/isaiah/19/6 ; https://biblia.com/bible/it-diodati1649/isaiah/19/7 ; https://biblia.com/bible/it-diodati1649/isaiah/35/7 ; https://biblia.com/bible/it-diodati1649/isaiah/58/5 .
+
