@@ -98,3 +98,8 @@ Il 17 novembre 2026 sono stati collazionati sul testo **Giovanni Diodati 1649** 
 
 URL primari per la collazione: https://biblia.com/bible/it-diodati1649/exodus/2/3 ; https://biblia.com/bible/it-diodati1649/exodus/2/5 ; https://biblia.com/bible/it-diodati1649/job/8/11 ; https://biblia.com/bible/it-diodati1649/isaiah/18/2 ; https://biblia.com/bible/it-diodati1649/isaiah/19/6 ; https://biblia.com/bible/it-diodati1649/isaiah/19/7 ; https://biblia.com/bible/it-diodati1649/isaiah/35/7 ; https://biblia.com/bible/it-diodati1649/isaiah/58/5 .
 
+## Addendum conclusivo — pubblicazione Papiro
+
+Il 17 novembre 2026 l'Atlante ha confermato in WordPress la pubblicazione di pianta #427 e delle 14 schede collegate #428–441. Conteggi globali: **8 piante, 58 passi, 15 nomi, 8 medicina, 28 fonti**. Il controllo finale ha consolidato Moldenke pp.92–94 e supplemento p.281, Duke pp.172–174. Corretta la confusione con C. rotundus; aggiunte storia dei papiri rinvenuti a Ercolano, zattere di fasci, nomi regionali ambigui, differenze delle traduzioni (praterie/muschi), avvertenze su preparati oculari, fertilità con Maytenus e ammine nelle foglie. Tutti e 6 i passi hanno estratti Diodati 1649 revisionati e due identificazioni rimangono controverse.
+
+SEO Yoast verificato; tavola originale contemporanea già creata e integrata nello ZIP **pdb-atlante 0.2.4**, ma non ancora importata sul sito alla verifica (plugin live 0.2.3, featured_media=0, unico avviso SEO). Restano installazione ZIP, verifica media e QA visuale responsive. Questa sezione prevale sulle fotografie di bozze più sopra.
