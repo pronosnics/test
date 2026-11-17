@@ -927,6 +927,14 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 - **Sicurezza:** non sovrascrivere immagini in evidenza esistenti senza richiesta esplicita; verificare `pdb_plate_media_id`, `_thumbnail_id`, alt text, Media Library e resa mobile.
 - **Test locali:** tavola WebP Punica 431716 byte, 11 blocchi, checksum finale identico e registrazione simulata; PHP lint e ZIP integri. **Test live:** importazione locale idempotente e senza errori, Media #238 e featured #212 verificati; protocollo MCP `media-start` → `media-chunk` (68 byte ricevuti) → `media-abort` superato senza media residui. Finalizzazione (`media-finish`) con un file nuovo ancora da provare alla prossima tavola; non crearne una copia di test inutile.
 
+### Pulizia pagina tecnica «Notifiche push» — 17 novembre 2026
+
+- **Pagina WordPress #112:** «Notifiche push», creata e non più modificata dal 12 dicembre 2018, senza contenuto, senza estratto; nessun plugin dedicato alle notifiche push nella lista dei plugin WordPress attivi.
+- **Decisione:** la pagina non è necessaria all'Atlante; su richiesta dell'utente è stata spostata nel **Cestino WordPress**, non eliminata definitivamente, per consentire il ripristino. MCP `ewpa/delete-post` ha restituito successo.
+- **Verifica post intervento:** plugin `pdb-atlante` ancora versione `0.2.1`; audit `pdb/seo-audit` ora 5 elementi controllati e **zero avvisi**, senza il precedente rilievo sull'immagine mancante della pagina tecnica. Il menu primary continua a usare 6 voci proprie.
+- **Nota prudenziale:** l'assenza di plugin push attivi non esclude un vecchio servizio esterno di Altervista; la pagina può essere ripristinata dal Cestino se una dipendenza esterna emerge.
+- **Mobile:** ricevuto screenshot della homepage generale del tema (hero verde e schede botaniche, non della route `/atlante/`); non è una prova completa di regression test della pagina Atlante mobile 0.2.1. La verifica dedicata di `/atlante/` rimane aperta.
+
 ### Rifinitura homepage above-the-fold — Atlante 0.2.1 (17 novembre 2026)
 
 - **Motivazione:** screenshot desktop 1366 × 768, zoom 100%: il grande blocco del titolo e il margine sottostante lasciano il modulo «Cerca nell'erbario biblico» sotto la piega, pur essendo la funzione centrale della pagina.
