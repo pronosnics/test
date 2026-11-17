@@ -1,5 +1,15 @@
 # Mandorlo — Prunus amygdalus Batsch (ATL-0184)
 
+## Stato finale — PUBBLICATO il 17 novembre 2026
+
+Pianta #467, medicina #469, lemmi #470–471, Kew #472, versetti #473–479, BDB #516: **13 contenuti WordPress pubblicati**, con confronto delle trascrizioni Diodati 1649, note su lûz/šāqēd, Duke, Moldenke e fonti moderne. Pagina pubblica: https://piantedellabibbia.altervista.org/piante/mandorlo-prunus-amygdalus/.
+
+Tavola **WebP originale caricata integralmente attraverso MCP** senza modifica plugin: allegato WordPress **#523** con ALT e copertina della pianta, 1086×1448 px, 274258 byte, checksum SHA256 `61bc8c50109d0f6c9037d195f3634f77411219027ae558d45986e3ad6dac85c0`. Il trasferimento è stato verificato con le 6 risposte dei blocchi e il risultato finale di `pdb/atlas-media-finish`. **Audit SEO del Mandorlo zero warning** e pagina pubblica visualizzata strutturalmente dal DOM.
+
+**Le parti sottostanti che riportano la tavola «non ancora caricata» documentano fasi intermedie e non descrivono più lo stato attuale.** Procedura generica risolta nel file [Procedura definitiva](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md). Prossima specie: Mirto, *Myrtus communis*, ATL-0147.
+
+
+
 ## Nota di aggiornamento redazionale — 17 novembre 2026
 
 La verifica conclusiva integra fonti Kew, Duke 355–360, Moldenke 35–38 e BDB H8247/H3869/H8245. **L'Atlante dispone adesso di 13 bozze per il Mandorlo**, includendo una nuova fonte lessicografica #516. Gli estratti della Diodati 1649 sono stati confrontati sulle trascrizioni digitali e inseriti in tutti i 7 passi #473–479, con distinzione esplicita dalla collazione sul facsimile storico. Genesi 30:37 conserva il «nocciuolo» della Diodati (lûz controverso); Numeri 17:8 corrisponde nella numerazione ebraica citata da BDB a 17:23; Esodo 25/37 sono raffigurazioni e non parti vive. Titoli, SEO e note sono stati migliorati. **Il solo rilievo dell'audit strutturale su #467 è l'assenza di un'immagine in evidenza**.
