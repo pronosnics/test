@@ -62,3 +62,13 @@
 - [ ] Pubblicare solo dopo le verifiche; non segnare come online nel registro prima dello stato `publish` MCP.
 
 **Dossier:** [ATL-0093_PAPIRO_DOSSIER_2026-11-17.md](ATL-0093_PAPIRO_DOSSIER_2026-11-17.md). **Roadmap:** [Master](PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md).
+
+## Stato finale dopo pubblicazione — 17 novembre 2026
+
+- **PUBBLICATI** tutti i 15 post Papiro: pianta #427, fonti #428–431, medicina #432, nomi #433–435 e passi #436–441.
+- **Totali MCP:** 8 piante / 58 passi / 15 nomi / 8 medicinali / 28 fonti. Permalink https://piantedellabibbia.altervista.org/piante/papiro-cyperus-papyrus/.
+- Verificati Moldenke voce 91 pp.92–94 e supplemento p.281, Duke Papyrus pp.172–174, Kew e Diodati 1649 per 6 passi; 2 identificazioni controverse mantenute tali.
+- Approfondita pianta di circa 700 parole, medicina di circa 320; 3 citazioni di fonte nuove #212–214 portano il lotto Papiro a 31 citazioni bibliografiche.
+- SEO Yoast titoli e descrizioni di 15 pagine verificati; focus keyphrase di 11 aggiornate, Open Graph della pianta completato.
+- Tavola botanica digitale originale 1086×1448 WebP preparata e verificata (sha256 eb866259ddd650dd4bfef87a08eb84ad36aa258e711063a6008c4e376253fa1b); nuovo ZIP pdb-atlante-0.2.4 testato (11 PHP lint OK, ZIP integrità OK).
+- **Aperto:** il sito risulta ancora su plugin 0.2.3, #427 senza immagine in evidenza (unico warning SEO), il pacchetto 0.2.4 va installato per importare il WebP. QA visuale mobile/desktop non effettuata. Gli stati di bozze sopra documentano solo fasi storiche.
