@@ -1,10 +1,10 @@
 # Palma da dattero — Phoenix dactylifera L. (ATL-0170)
 
-**Stato:** IN_REDAZIONE, non pubblicata. **Controllo antduplicati WP:** 5 piante online, nessuna palma.
+**Stato:** BOZZE_WP_COMPLETE_DA_REVISIONARE, non pubblicata. **Controllo antduplicati WP:** pianta canonica #308, 5 piante pubblicate prima della Palma; evitare duplicati.
 **Famiglia e nome accettato:** Arecaceae; Phoenix dactylifera L. secondo Kew POWO.
 **Moldenke:** Plants of the Bible, 1952, voce 157 pp. 169–172; rimandi pp. 192 (fig. 28), 213 (bevande); figure 9, 28, 70, 92.
 **Duke:** Duke's Handbook of Medicinal Plants of the Bible, 2008, Date Palm pp. 325–329 (PDF 351–355).
-**Salmo condiviso:** WP #274 (Salmo 92:12, Cedro del Libano), da collegare alla stessa palma.
+**Salmo condiviso:** WP #274 (Salmo 92:12, Cedro del Libano), **già collegato** alla Palma tramite identificazione #57 (oltre al collegamento Cedro #41): non duplicare.
 **Tavola:** generata digitalmente il 17 novembre 2026, file locale tavola-botanica_phoenix-dactylifera.webp. Da validare e caricare via MCP.
 **Regola dei diritti:** sintesi originale, niente traduzioni integrali dei libri sulla pagina pubblica.
 
@@ -116,7 +116,16 @@ Nelle pp. 171–172 Moldenke registra culti antichi, leggende su san Cristoforo,
 - [x] Salmo condiviso WP #274 individuato, da collegare.
 - [x] Tavola botanica originale generata nel workspace, WebP ottimizzato.
 - [ ] Citazioni letterali di ogni scheda biblica ricontrollate su Diodati 1649.
-- [ ] Creare e verificare le bozze WordPress, registrando ID, campi SEO, relazioni.
+- [x] Bozze WordPress #308–322 verificate il 17/11/2026: una pianta #308, medicina #309, due nomi #310–311, tre fonti #312–314, otto passi #315–322; link Salmo 92:12 #274 già presente. **Ancora da verificare:** citazioni letterali, SEO e relazioni residue.
 - [ ] Caricare immagine in Media Library e approvare la tavola.
 - [ ] Revisionare contenuto per completezza, SEO, mobile e desktop.
 - [ ] Pubblicare solo dopo il controllo incrociato e aggiornare stato/contatori.
+
+
+## Registro operativo — controllo MCP del 17 novembre 2026 (12:40, Europe/Rome)
+
+- **Stato effettivo:** `pdb-atlante 0.2.1` collegato; #308–322 esistono e sono tutti in stato **draft**. Nessuna pubblicazione eseguita in questo controllo; contatori pubblici invariati: **5 piante, 33 passi, 6 nomi, 5 medicina, 15 fonti**.
+- **Schede:** pianta #308 (16.414 caratteri), medicina #309 (4.714), nomi ebraico #310 (2.384) e greco #311 (1.834), fonti POWO #312, BDB #313, revisione scientifica #314; passi #315 Es 15:27, #316 Lv 23:40, #317 Gdc 4:5, #318 2 Cr 3:5, #319 Ne 8:15, #320 Ct 7:7–8, #321 Gv 12:13, #322 Ap 7:9.
+- **Relazioni controllate:** identificazioni #49–57 già registrate, inclusa #57 tra palma #308 e Salmo #274 condiviso con Cedro #266; citazioni fonte #107–133 presenti. Nessuna relazione duplicata.
+- **Elementi non completati:** verifica letterale Diodati 1649 sulle otto bozze bibliche; controllo SEO e meta; convalida e upload della tavola digitale WebP (non risultano immagini bundled della palma); QA desktop/mobile; pubblicazione solo dopo verifiche.
+- **Regola qualità:** non confondere le ipotesi di Moldenke sul miele e sulle bevande fermentate con identificazioni certe; non convertire le liste di Duke in indicazioni cliniche.
