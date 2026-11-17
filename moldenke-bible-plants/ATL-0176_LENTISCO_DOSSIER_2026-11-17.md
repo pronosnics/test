@@ -5,6 +5,16 @@
 **Pagina principale:** https://piantedellabibbia.altervista.org/piante/lentisco-pistacia-lentiscus/ (WP #597)  
 **Plugin:** `pdb-atlante 0.2.4` invariato.
 
+## Ultimo audit completo di Moldenke e Duke — 17/11/2026
+
+L'ultima rilettura integrale della voce Moldenke 161 pp.177–178 e Duke Mastic pp.339–341 ha evidenziato dettagli prima poco sviluppati, **integrati direttamente nelle pagine WordPress #597 e #604**:
+- Moldenke descrive incisioni al fusto/rami per estrarre mastice, raccolta talvolta in agosto in testimonianze storiche, qualità commerciali in «lacrime» giallastre e traslucide e prodotto inferiore impiegato anche per vernici; bambini che lo masticavano e tradizioni di bevande aromatiche greche e siriane
+- Duke ricorda frutti usati come spezia dai Romani, olio alimentare di semi denominato in repertorio *shina oil* a Cipro, e legno utilizzato per affumicare carne; non sono usi biblici
+- Duke riporta studi sperimentali su attività antiaterogene, antiossidanti, estratti antimicrobici, larve di Culex e apoptosi in cellule tumorali; **nessun risultato implica cura clinica**
+- La voce Duke *Downsides* cita l'assenza di rischi a dosi terapeutiche, **ma l'autore segnala che la fonte non specificava una dose**: non usare questa affermazione come garanzia di sicurezza. La monografia EMA e le precauzioni moderne prevalgono
+
+**Stato del controllo conclusivo:** nessuna ulteriore lacuna sostanziale individuata nei due capitoli dopo queste integrazioni; un nuovo audit comparato resterà obbligatorio per ogni successiva specie. WordPress #597/604 aggiornato, audit SEO #597 senza avvisi, plugin 0.2.4 invariato. [Procedura audit per lotti](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md).
+
 ## Consultazione diretta delle fonti principali
 
 1. **Moldenke e Moldenke, *Plants of the Bible* (1952)**, voce **161. *Pistacia lentiscus* L.**, pp. **177–178** stampate, PDF originale pp. 173–174. Il capitolo precedente sui pini termina in p.177, il successivo sul terebinto inizia nella seconda parte della p.178: non attribuire i relativi paragrafi al lentisco. Fonte archivio WP #135. Il testo antico attribuisce «Susannah 54» al mastice, indica una morfologia sempreverde con **3–5 paia di foglioline** paripennate e rachide/picciolo alato, descrive resina in lacrime commerciata e lavorata per masticazione, antica cura dei denti, vernici, liquori e usi aromatici. Cita Chio, la diffusione mediterranea e il nome greco di Susanna. Ritiene possibile il lentisco per il balsamo di **Genesi 43:11** ma non identifica allo stesso modo tutti i sei usi di *ṣŏrî*: per Genesi 37:25, Ezechiele 27:17 e Geremia 8:22, 46:11 e 51:8 propone altre identificazioni (Balanites/Commiphora) nel suo quadro storico.
