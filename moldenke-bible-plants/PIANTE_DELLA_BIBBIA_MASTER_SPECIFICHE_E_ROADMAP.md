@@ -1000,6 +1000,14 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 - **Pubblicazione confermata:** WP #266 con tavola #267, #268–278, #293–298; 18 nuove pagine in publish. Plugin 0.2.1. **Audit SEO 0 rilievi sui 6 contenuti esaminati**; inventario pubblicato con 5 piante, 33 passi biblici, 6 nomi antichi, 5 medicine, 15 fonti.
 - **Prossimo:** QA visiva Cedro su smartphone e desktop quando disponibili screenshot; sviluppo Palma da dattero `Phoenix dactylifera` secondo ordine roadmap.
 
+### Avanzamento ATL-0170 — Palma da dattero (17 novembre 2026, verifica MCP)
+
+- **Stato:** `BOZZE_WP_COMPLETE_DA_REVISIONARE`; **non pubblicata**. Scheda botanica unica #308 (Phoenix dactylifera L., Arecaceae). Verificati sul WordPress collegato `pdb-atlante 0.2.1` e i 15 contenuti di lavorazione #308–322, tutti `draft`.
+- **Schede collegate:** medicina #309; nomi antichi #310 (ebraico tāmār) e #311 (greco phoînix); fonti #312 POWO, #313 BDB, #314 revisione scientifica 2026; otto passi #315–322 (Es 15:27; Lv 23:40; Gdc 4:5; 2 Cr 3:5; Ne 8:15; Ct 7:7–8; Gv 12:13; Ap 7:9).
+- **Salmo 92:12:** passo condiviso #274 già in pubblicazione per Cedro #266; collegamento per Palma #308 verificato come identificazione #57. Non duplicare.
+- **Matrice e dossier:** [ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md](ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md), Moldenke voce 157 pp.169–172 e Duke «Date Palm» pp.325–329, con interpretazioni controverse separate dalle attestazioni esplicite.
+- **Lavori residui:** collazione letterale Diodati 1649, SEO, tavola WebP e featured image, verifica responsive e pubblicazione dopo QA. **Contatori pubblici non incrementati:** 5 piante, 33 passi, 6 nomi, 5 medicina, 15 fonti.
+
 ## 14. Aggiornamento e continuità del Markdown
 
 - Questo file è la **fonte di verità della programmazione editoriale**, non è la fonte di verità botanica: le **opere originali e i database tassonomici** rimangono autorevoli per le affermazioni.
