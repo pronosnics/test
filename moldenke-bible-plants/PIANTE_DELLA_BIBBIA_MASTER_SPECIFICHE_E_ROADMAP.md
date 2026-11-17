@@ -4,7 +4,7 @@ document_type: "specifica-editoriale-e-roadmap"
 version: "1.0"
 created: "2026-11-17"
 last_catalog_check: "2026-11-17"
-reference_plugin: "pdb-atlante 0.1.9"
+reference_plugin: "pdb-atlante 0.2.2"
 source_registry:
   moldenke: "Moldenke.pdf"
   duke: "(ebook) Duke's Handbook of Medicinal Plants of the Bible by James A. Duke.pdf"
@@ -20,6 +20,10 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 > **Documento guida permanente.** Ogni nuova scheda dell'Atlante deve partire da qui, essere verificata sui libri originali, riportare le fonti con indicazione delle pagine ed essere collegata al database esistente. Questo file non sostituisce le fonti originali: ne governa l'uso.
 >
 > **Regola fondamentale:** sviluppare **schede ampie, ricche e complete**, usando **tutto il materiale pertinente realmente presente** nelle voci di **H. N. e A. L. Moldenke, *Plants of the Bible* (1952)** e di **James A. Duke, *Duke's Handbook of Medicinal Plants of the Bible* (2008)**, integrandolo con verifica tassonomica e scientifica moderna. **Non riempire sezioni con informazioni inventate né sacrificare contenuti utili per rispettare un limite di parole.**
+
+## Stato operativo aggiornato — 17 novembre 2026
+
+**Pubblicazione Palma da dattero ATL-0170 verificata su WordPress:** [scheda Phoenix dactylifera #308](https://piantedellabibbia.altervista.org/piante/palma-da-dattero-phoenix-dactylifera/), media #344; 20 nuovi contenuti pubblicati complessivamente (1 pianta, 11 passi, 3 nomi, 1 medicina, 4 fonti). Plugin **pdb-atlante 0.2.2**; audit SEO **0 avvisi** sulle 6 piante. Conteggi pubblici verificati con `pdb/atlas-list`: **6 piante · 44 passi · 9 nomi · 6 medicina · 19 fonti**. [Audit fonti conclusivo](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md). **Unico QA non concluso:** resa grafica effettiva su desktop e smartphone. I numeri delle vecchie «fotografie» e le precedenti righe della cronologia restano **storici** e non prevalgono su questo stato. **Prossima specie prevista:** Sicomoro (*Ficus sycomorus*), mantenendo la roadmap.
 
 ## 0. Stato iniziale, consistenza e avvertenze del censimento
 
@@ -381,7 +385,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0149 · *Nardostachys grandiflora*** — Nardo; **M — · D p. 285**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0170 · *Phoenix dactylifera*** — Palma da dattero; **M voce 157, pp. 169–172 · D pp. 325–329**; fonti: Moldenke + Duke + Kew + BDB + revisione 2026; **stato: BOZZA_WP / SEO_OK / MEDIA_OK / QA_VISIVA_APERTA**; WP `308` pianta + Media **#344** (WebP originale), `309` medicina, `310–311` nomi, `312–314` fonti, `315–322` 8 passi; condivisi Salmo #274, Gioele #222 e Olivo #129 nella citazione di Neemia; **0 nuove pubblicazioni**, **audit SEO 0 avvisi**; plugin **0.2.2 LIVE**. [Dossier](ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md) · [Progressi](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md).
+- [x] **ATL-0170 · *Phoenix dactylifera*** — **PALMA DA DATTERO, PUBBLICATA e revisionata**; Moldenke voce 157 **pp.169–172**, Duke «Date Palm» **pp.325–329**; sito WP **Pianta #308**, Media **#344**, medicina **#309**, nomi **#310–311 e #350** (*tōmer*), fonti **#312–314 e #360** (quattro specie Sukkot), passi **#315–322 e #351–353** (11 nuovi); riuso Salmo #274 e Gioele #222, Neemia #319 collegato anche a Olivo #129. **SEO audit 0 avvisi**, plugin **0.2.2**, testo originale ampio, prove mediche qualificate; **QA visiva responsive aperta**. [Dossier](ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md) · [Audit critico integrale Moldenke/Duke](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md) · [Progressi](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md).
 
 - [ ] **ATL-0176 · *Pistacia lentiscus*** — Lentisco; **M voce 161, p. 177 · D p. 339**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -920,6 +924,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 | 2026-11-17 | ATL-0170 · Palma da dattero | Dossier 2.429 parole; Fonti Moldenke pp.169–172 e Duke pp.325–329; 15 bozze MCP, 9 identificazioni e 8 legami lessicali, 27 citazioni fonti; WebP originale generata | BOZZA_WP / REVISIONE_APERTA | Moldenke 1952; Duke 2008; Kew; BDB; revisione 2026 | 308–322; riuso #274 | Nessuna pubblicazione; media e SEO da collegare, verifica Diodati e QA grafica aperte. [Progressi](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md). |
 | 2026-11-17 | ATL-0170 · Palma da dattero | Rifinita bozza #308, famiglia Arecaceae #6, campi Studio Manager e Yoast, 8 citazioni Diodati revisionate, medicina #309 ampliata; recuperati Gioele #222 e Neemia/Olivo | BOZZA_WP / SEO_CORRETTA / QA_MEDIA_APERTA | Moldenke pp.169–172; Duke pp.325–329; Kew; BDB; Diodati 1649 | 308–322; riuso 274, 222 e 129 | Audit 1 solo avviso: immagine; versione plugin 0.2.2 preparata ma **non installata**; QA desktop/mobile e pubblicazione aperti. [Progressi](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md). |
 | 2026-11-17 | ATL-0170 · Palma da dattero | Verifica successiva: plugin 0.2.2 LIVE, import MCP idempotente della tavola #344, SEO audit 0 avvisi, tutte le 15 bozze con slug descrittivo e 8 passi approfonditi | BOZZA_WP / SEO_OK / MEDIA_OK / QA_VISIVA_APERTA | Moldenke pp.169–172; Duke pp.325–329; Kew; Diodati 1649 | 308–322; Media 344; riuso 274, 222, 129 | Tutti i nuovi elementi restano BOZZA. QA grafico desktop/mobile, controllo tavola e pubblicazione ancora aperti. [Registro](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md). |
+| 2026-11-17 | **ATL-0170 · Palma da dattero — CHIUSURA EDITORIALE E PUBBLICAZIONE** | Audit completo Moldenke voce 157 pp.169–172 e Duke pp.325–329, correzioni etrog/Cedrus, tōmer/tāmār, Geremia controverso, allergenicità e limiti clinici; 20 nuove pagine WP + tavola #344 | **PUBBLICATA / SEO 0 / FONTI VERIFICATE / QA_VISIVA_APERTA** | [Audit completo](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md) · Kew · BDB · Sefaria · Diodati 1649 | 308–322, 350–353, 360, media 344 | **Totali verificati: 6 Piante, 44 Passi, 9 Nomi, 6 Medicina, 19 Fonti.** Il Cedro #266 non modificato. Responsive desktop/mobile resta da controllare visivamente. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
