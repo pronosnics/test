@@ -1,3 +1,6 @@
 # Lotto ATL-0019 / ATL-0022 — registro progressi
 
 17 novembre 2026 ore 20:28 CET: controllo diretto `pdb/atlas-health`: versione **0.2.4**; `pdb/atlas-list` per `Aloe` e `Anastatica` restituisce zero elementi. Consultati indici delle fonti, individuati Duke pp.30–36 e Moldenke pp.35/38/231 da ricontrollare sui facsimili. Roadmap aggiornata, commit `868734c40619e4d8afea05ac77f86846b6e535ae`. **Blocco editoriale:** mancano lettura comparativa integrale e tavole WebP importate con checksum; pertanto niente pubblicazione e nessun [x]. Prossimo lavoro: completare questo stesso lotto prima di procedere ad altre specie. Plugin invariato. QA visiva non effettuata.
+
+
+17 novembre 2026 ore 21:27 CET — seconda verifica diretta MCP: `pdb/atlas-health` conferma 0.2.4; `pdb/atlas-list` ricerche Aloe, Anastatica, aloes non trovano schede. Esaminati ulteriori estratti originali Duke: Aloe pp.30–34 con p.35 confine Anabasis; Anastatica pp.36–37; identificazione Aloe di Giovanni 19 incerta; Salmo 83:13 attribuito probabilisticamente ad Anastatica, tradizione ostetrica non clinica. Resta assente collazione integrale Moldenke, controllo tassonomico completo e media WebP originale. **Nessun publish, nessun ID WP, nessun SHA; lotto ancora aperto.** Prossima coppia invariata ATL-0019/ATL-0022; plugin non modificato.
