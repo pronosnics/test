@@ -1,5 +1,9 @@
 # Papiro — *Cyperus papyrus* L. (ATL-0093)
 
+## Stato aggiornato dopo import Media (17 novembre 2026)
+
+Pianta Papiro #427 già **PUBBLICATA** con 14 schede collegate #428–441; immagine WebP #493 **importata, in evidenza, con ALT e provenienza registrata**. Plugin WordPress **0.2.4 attivo**, audit SEO **0 avvisi per tutte le otto piante pubblicate**. L'ultima verifica fonte Moldenke voce 91 pp.92–94 più supplemento p.281 e Duke Papyrus pp.172–174 ha confermato la copertura principale, la correzione della sinonimia di Cyperus rotundus e la classificazione controversa dei testi di Isaia 19 e 58. QA responsive ancora aperta. Per le immagini successive NON si aggiorna il plugin: [Procedura permanente immagini senza nuove versioni](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md).
+
 **Progetto:** Atlante Piante della Bibbia • **data:** 17 novembre 2026.
 **Stato verificato:** **15 bozze WordPress #427–441**, nessuna pubblicazione effettuata per il lotto del Papiro. **Plugin WP attivo:** pdb-atlante **0.2.3**. **Famiglia botanica:** Cyperaceae #8.
 **Scheda principale:** WP #427, titolo «Papiro — Cyperus papyrus L.: botanica, Bibbia, scrittura e storia».
