@@ -1,5 +1,17 @@
 # Progressi Mandorlo — ATL-0184 — 17 novembre 2026
 
+## Stato aggiornato — revisione finale editoriale e SEO (17 novembre 2026)
+
+- **13 bozze WordPress non pubblicate**: pianta #467, medicina #469, lemmi #470–471, Kew #472, 7 passi biblici #473–479 e nuova fonte BDB #516. La bozza #467 resta intenzionalmente privata fino alla presenza di un'immagine in evidenza valida.
+- **Diodati 1649**: breve estratto inserito e verificato su trascrizione digitale Biblia.com nei 7 passi, con nota trasparente che non si tratta di collazione su facsimile della stampa originale. Rimossi segnaposto e le frasi obsolete dove individuate. Preciso «nocciuolo» in Genesi 30:37, «mandorle» in Genesi 43:11, «vasi in forma di mandorla» nei due Esodi, la verga di Aronne, il mandorlo in Ecclesiaste e šāqēd/šōqēd in Geremia. Per Numeri: differenza di numerazione ebraica 17:23 vs. italiana 17:8.
+- **BDB aggiunto**: fonte lessicografica #516, bozze; 8 citazioni fonte #236–243 verso pianta/termini/passi, più 7 citazioni Diodati #244–250 verso i singoli passi. Nessun duplicato della fonte generale Diodati #217.
+- **Testi e SEO**: titolo e descrizione Yoast della pianta #467 aggiornati, voce cornerstone ItemPage, descrizioni specifiche migliorate per #474–479, titoli biblicamente più precisi su #475–476, keyphrase per 6 passi, medico e termini revisionati. Controllo SEO live: **unico warning «Immagine in evidenza assente»** per #467; tutte le altre piante pubblicate restano senza warning.
+- **Tavola botanica originale nuova**: WebP 1086×1448, 274258 byte, SHA-256 `61bc8c50109d0f6c9037d195f3634f77411219027ae558d45986e3ad6dac85c0`, nome `tavola-botanica_prunus-amygdalus.webp`. Verificati fiore pentamero, foglia seghettata, drupa verde, guscio e seme. **NON ancora caricata in WordPress**. È stata creata una pagina WordPress temporanea per l'upload, con sessione *pending*; URL/token volutamente non registrati qui.
+- **Plugin**: pdb-atlante **0.2.4 stabile**; nessun nuovo ZIP. Dopo upload verificare attachment, ALT, provenienza, featured, audit, QA visiva desktop/mobile, poi pubblicare in ordine fonte, termini, medicina, versetti e infine pianta.
+- **Prossima specie prevista dalla roadmap**: **ATL-0147 Mirto (*Myrtus communis*)**, Moldenke voce 138 p.143, Duke p.279.
+
+
+
 ## Variazione globale della pubblicazione Papiro — 17 novembre 2026
 
 Il Papiro ha ora 8 passi biblici pubblicati (incluse nuove note Giobbe 9:26 #498 e 2 Giovanni 1:12 #499), e 21 pagine complessive; i conteggi pubblici sono **8/60/17/8/30**. Questo non modifica lo stato del Mandorlo: **12 BOZZE** (#467, #469–479), plate WebP originale pronta ma non ancora associata, Diodati dei 7 versetti da verificare. Non incrementare le versioni del plugin per nuove tavole: [procedura definitiva](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md).
