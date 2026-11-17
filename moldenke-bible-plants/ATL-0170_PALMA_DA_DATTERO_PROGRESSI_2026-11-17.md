@@ -1,6 +1,6 @@
 # Progressi — Palma da dattero (ATL-0170) — 17 novembre 2026
 
-**Ultimo stato verificato:** BOZZA_WP / REVISIONE_APERTA. Nessuna nuova voce pubblicata. Totali pubblici invariati: **5 piante, 33 passi, 6 nomi, 5 medicina, 15 fonti**.
+**Ultimo stato verificato (chiusura del 17/11/2026): PUBBLICATA / SEO_OK / MEDIA_OK.** Totali ora **6 piante, 44 passi, 9 nomi, 6 medicina, 19 fonti**. Tutte le descrizioni di bozze e contatori precedenti nelle sezioni cronologiche sottostanti sono **storiche**, non lo stato attuale. [Audit completo](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md).
 
 ## Fonti e lavoro editoriale completati
 - [x] Moldenke e Moldenke, Plants of the Bible (1952), voce 157, pp.169–172, consultate nelle traduzioni GitHub; rimandi e figure a pp.192 e 213 da ricontrollare sulle scansioni.
@@ -127,3 +127,21 @@
 - [ ] **Validazione anatomica della tavola** confrontando forme riproduttive con botanica moderna; se sono presenti imprecisioni grafiche, rigenerare senza compromettere la pubblicazione delle altre piante.
 - [ ] Verifica finale delle schede bibliche sul canone/num. dei versetti, rinvii e stato editoriale, e controllo della qualità del testo medicinale prima di promuoverlo come pubblicabile.
 - [ ] Pubblicazione di Palma e schede collegate, soltanto dopo i controlli: **non ancora effettuata**. Aggiornare i contatori, link pubblici, roadmap e registro a pubblicazione avvenuta.
+
+
+## Chiusura editoriale e pubblicazione verificata — 17 novembre 2026
+
+**Esito MCP:** `pdb/atlas-list` conferma 6 piante, 44 passi, 9 nomi, 6 schede medicinali e 19 fonti; la palma **#308 è `publish`**, collegata all'immagine **#344**. Il plugin è `pdb-atlante 0.2.2`; `pdb/seo-audit` segnala **zero avvisi per tutte le sei specie pubblicate**. Yoast SEO ha titolo e descrizione della Palma.
+
+**20 nuove pagine pubblicate:** pianta #308, medicina #309, nomi #310 e #311, fonti #312–314, passi #315–322; dopo la lettura integrale, nuove schede: nome *tōmer* #350, passi **1 Re 6:29 #351**, **Ezechiele 41:18–20 #352**, **Geremia 10:5 #353** (**controversa**), fonte Sefaria sulle quattro specie #360.
+
+**Correzioni emerse dalla collazione:** etrog è **Citrus medica**, non Cedrus libani; *tōmer* (H8560) distinto da *tāmār* (H8558), palma di Debora e Geremia contestato; frutti, noccioli, pagliericci, tessiture, bevande, antichi palmeti e monete di Giudea commentati criticamente; sesso delle palme e antica impollinazione a mano documentati senza generalizzazioni; in Duke allergenicità del polline e dei frutti, saggio al 5% contro Candida **in vitro** e fitopatologia della coltura distinti da indicazioni cliniche.
+
+**Citazioni condivise senza copie:** Salmo 92:12 #274 (anche Cedro), Gioele 1:12 #222 (anche Melograno), Neemia 8:15 #319 (anche Olivo #129). Il Cedro #266 non è stato toccato.
+
+**Audit conclusivo:** [ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md) — matrice delle pagine Moldenke 169–172 e Duke 325–329; classificazione certa/probabile/controversa; contenuti inseriti, fonti moderne, contatori, ID WP e stato QA.
+
+### QA ancora aperta (non confondere SEO con verifica visiva)
+- [ ] Screenshot/controllo della pagina principale Palma su **desktop e smartphone reali**: hero, tavola #344, didascalia, leggibilità di scritture ebraiche/greche, studi e riquadri correlati.
+- [ ] Verifica opzionale sulla pagina medicinale e una scheda biblica simbolica, per confermare l'impaginazione responsive del plugin 0.2.2.
+- [ ] Solo dopo il controllo visivo, segnare ATL-0170 **GRAFICA_VERIFICATA**; la specie è già PUBBLICATA.
