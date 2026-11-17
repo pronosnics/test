@@ -914,7 +914,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 | 2026-11-17 | ATL del catalogo relativo a Olivo, Vite e Fico | Riconciliazione del catalogo iniziale | PUBBLICATA | Stato WordPress esistente, non nuove pubblicazioni | 129 / 143 / 152 | 3 schede preesistenti; mantenere i loro link. |
 | 2026-11-17 | Tutte | Creato master di specifiche e roadmap | DOCUMENTATO | Cataloghi Moldenke/Duke forniti | — | Nessuna scrittura sul sito effettuata per questa consegna. |
 | 2026-11-17 | ATL-0186 · Melograno | Esaminate voci originali, aggiunti 1 Sam 14:2, 1 Re 7, Numeri 20:5, Cantico 4:13; rivisti ornamenti, concia/coloranti, miti di fertilità, medicina; corretta sarcotesta (Foods 2024); SEO verificata | PUBBLICATA | Moldenke voce 169 pp. 189–191; Duke Pomegranate pp. 362–367; Kew; NCCIH; Melgarejo et al. Foods 2024; Diodati 1649 | 212–223 e 240–244 (17 nuove pagine); citazione #195 condivisa; Media #238 | 4 piante e 21 passi in sito; 0 avvisi SEO sulle pagine editoriali incluse nell'audit; QA mobile/desktop da effettuare. |
-| 2026-11-17 | SITE / template desktop 0.2.0 | Menu WordPress primary aggiornato a 6 voci; 4 excerpt biblici completati e DOI Melgarejo registrato; pacchetto desktop responsive e indice degli approfondimenti prodotto | MENU_LIVE / PLUGIN_DA_INSTALLARE | Screenshot desktop 6 modelli, file plugin 0.1.9, audit SEO WordPress | Menu #3; citazioni #241–244; fonte #240 | Validare versione 0.2.0 dopo installazione, QA mobile e desktop; mantenere attivi media MCP e versetti originali. |
+| 2026-11-17 | SITE / template desktop 0.2.0 | Menu WordPress primary aggiornato a 6 voci; 4 excerpt biblici completati e DOI Melgarejo registrato; pacchetto desktop responsive e indice degli approfondimenti prodotto | PLUGIN_0.2.0_LIVE / QA_MOBILE_APERTO | Screenshot desktop 6 modelli, file plugin 0.1.9, audit SEO WordPress | Menu #3; citazioni #241–244; fonte #240 | Validare versione 0.2.0 dopo installazione, QA mobile e desktop; mantenere attivi media MCP e versetti originali. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
@@ -928,7 +928,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 ### Consolidamento grafico desktop — Atlante 0.2.0 (17 novembre 2026)
 
-**Stato reale:** pacchetto `pdb-atlante-0.2.0.zip` creato e verificato **localmente**, non ancora installato. La versione attiva verificata dal MCP del sito rimane `0.1.9`. Dopo l'installazione controllare `pdb/atlas-health` e verificare visualizzazione desktop/mobile.
+**Stato reale al 17 novembre 2026:** plugin `pdb-atlante 0.2.0` **installato e attivo** (confermato da `pdb/atlas-health`). Verificati tramite screenshot desktop la pagina Atlante e la scheda Melograno con gli approfondimenti aperti: griglia quattro colonne, menu a sei voci e indice dello studio presenti. QA visiva mobile della 0.2.0 e prova di navigazione interattiva dei collegamenti ancora da completare.
 
 **Modifiche già eseguite su WordPress, indipendenti dal plugin:**
 - Il menu esistente WordPress `navigazione` (ID 3) ora ha 6 voci: Atlante, Piante, Bibbia, Medicina, Nomi antichi, Fonti; assegnato e verificato alla posizione `primary` del tema. La pagina «Notifiche push» non è stata cancellata.
@@ -945,7 +945,9 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 6. Intro non duplicate, didascalie delle tavole senza nomi file tecnici, suggerimenti di altre piante in fondo alle schede.
 7. Conservazione dei trasferimenti MCP per media, delle tavole botaniche, delle relazioni e della grafica mobile validata (0.1.8).
 
-**Test locali:** PHP lint superato per 11 file; helper bibliografia 1649/1821, pagina/articolo, indice editoriale e ancore duplicate verificati; ZIP controllato; SHA256 `17522dc90c0bb274e65e169fb90e347ace796191cc156fe0048bd4d11685618b`. **Limitazione:** i test non sostituiscono la verifica visiva e funzionale su Altervista dopo l'installazione.
+- **Riscontro screenshot 17/11/2026:** homepage Atlante con quattro piante nella stessa riga (Olivo, Vite, Fico, Melograno), ricerca larga, menu a 6 voci e passi biblici a card. Scheda Melograno con tavola, blocco introduttivo, indice interno all'approfondimento Moldenke–Duke, fonti e suggerimenti di piante correlate. La schermata lunga del Melograno è compressa, quindi i dettagli di tipografia e i collegamenti al clic non sono ancora accertati. Nessuna modifica ai dati WordPress richiesta da questa verifica.
+
+**Test locali:** PHP lint superato per 11 file; helper bibliografia 1649/1821, pagina/articolo, indice editoriale e ancore duplicate verificati; ZIP controllato; SHA256 `17522dc90c0bb274e65e169fb90e347ace796191cc156fe0048bd4d11685618b`. **Verifica sul sito:** MCP `atlas-health` conferma 0.2.0; `pdb/seo-audit` segnala zero problemi sulle schede editoriali verificate, il solo avviso riguarda `Notifiche push` (#112). Screenshot desktop della pagina Atlante e della scheda Melograno confermano i nuovi layout; resta il controllo responsive mobile e il test manuale dei link al clic.
 
 ### Dettaglio di lavorazione — ATL-0186 Melograno (17 novembre 2026)
 - **Revisione editoriale 17/11/2026:** nuove citazioni su Saul (1 Sam 14:2), capitelli del Tempio (1 Re 7), deserto (Numeri 20:5), giardino (Cantico 4:13); distinte interpretazioni storico-culturali di Moldenke da evidenza botanica; corretta la terminologia «arillo» con «sarcotesta» sulla base di Melgarejo et al., *Foods* 2024; distinti rischi di corteccia radicale e usi alimentari secondo Duke/NCCIH. Pubblicazione confermata WordPress, QA visuale da completare.
