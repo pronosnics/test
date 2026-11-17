@@ -1,5 +1,17 @@
 # Progressi Papiro — ATL-0093 — 17 novembre 2026
 
+## Chiusura tecnica — Papiro MEDIA_OK (17 novembre 2026)
+
+**Stato WordPress verificato dopo installazione 0.2.4:**
+- Plugin **pdb-atlante 0.2.4 ATTIVO**; `pdb/atlas-media-import-bundled` ha importato una tavola e riconosciuto 7 già presenti, 0 errori.
+- Pianta **#427 PUBBLICATA**, WebP in evidenza **Media #493**, ALT botanico presente, `pdb_plate_media_id=493`, provenienza aggiornata; `pdb/get-content` e `pdb/atlas-get` confermano l'associazione.
+- `pdb/seo-audit`: **nessun avviso su tutte le otto piante pubblicate**, compreso il Papiro. Yoast: titolo «Papiro nella Bibbia: Mosè, Isaia e Cyperus papyrus», descrizione, canonical pubblica, Open Graph, Twitter metadata e frase chiave verificati.
+- Rilettura Moldenke 91 pp.92–94 e supplemento p.281, Duke Papyrus pp.172–174: completati dettagli su Ercolano, produzione di fogli, imbarcazioni a fasci, lessico ambiguo di Isaia 19 e 58, false sinonimie con Cyperus rotundus, uso medicinale folklorico. Nessuna omissione sostanziale residua emersa.
+- **Decisione definitiva: non distribuire altri ZIP per aggiungere immagini.** Usare l'upload MCP generico della 0.2.4 o il link temporaneo WordPress; vedi [Procedura permanente immagini senza nuove versioni](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md).
+- **Non effettuato:** vero controllo visuale desktop/mobile via screenshot. Il superamento SEO non sostituisce tale verifica.
+
+**Questa sezione è lo stato corrente e prevale sulle annotazioni cronologiche delle fasi di bozza, versioni 0.2.3 o immagine assente riportate più sotto.**
+
 **Stato corrente:** **BOZZA_WP / FONTI_INCROCIATE / DIODATI_1649_OK / SEO_SOLO_MEDIA / QA_APERTA**. Le sezioni precedenti che menzionano trascrizione ancora da eseguire sono cronologia storica, aggiornata dalla verifica successiva.
 **Piante pubblicate al momento del controllo:** **7**. La nuova pianta #427 e le sue pagine collegate sono tutte in **draft**, quindi i contatori pubblici NON sono incrementati.
 **Plugin installato:** `pdb-atlante 0.2.3` (verificato con `pdb/atlas-health`). L'import precedente del Sicomoro ha creato Media #426, SEO 0 avvisi su tutte le 7 specie già pubblicate.
