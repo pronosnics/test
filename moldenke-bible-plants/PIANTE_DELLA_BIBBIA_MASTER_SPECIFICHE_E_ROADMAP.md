@@ -67,9 +67,10 @@ Dopo verifica delle sei occorrenze principali di Moldenke e del catalogo Duke, s
 
 **Conteggi pubblici verificati da `pdb/atlas-list`: 8 piante / 60 passi / 17 nomi / 8 medicina / 30 fonti.** `pdb/seo-audit` segnala **zero avvisi per tutte le otto piante pubblicate**, Papiro #427 con WebP in evidenza #493 e plugin 0.2.4. Mandorlo ATL-0184 resta con 12 bozze non pubblicate (pianta #467, media ancora da caricare). Procedura per immagini future: [upload media MCP stabile](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md), **non rilasciare plugin per ogni tavola**. Le statistiche e i rilievi SEO vecchi nel master sono fotografie storiche, non stato corrente.
 
-### Mirto ATL-0147 — bozze pronte, media/QA aperti (17/11/2026)
+### Mirto ATL-0147 — PUBBLICATO e verificato (17/11/2026)
 
-Il Mandorlo ATL-0184 è pubblicato in 13 contenuti: SEO 0 avvisi, tavola Media #523. Nell'ultimo controllo sono stati allineati anche i campi SEO/riferimenti/bibliografia dello Studio Manager (in precedenza rimasti obsoleti rispetto a Yoast). Il Mirto è entrato nel catalogo con 10 bozze WP #525–534 e 2 passi preesistenti riutilizzati (#316, #319), fonti Moldenke, Duke, Kew e BDB collazionate. L'audit su #525 rileva solo l'assenza di featured image; non dichiarare pubblicazione o MEDIA_OK finché MCP non restituisce attachment reale. Plugin 0.2.4 stabile, nessun nuovo ZIP. Dossier: [ATL-0147](ATL-0147_MIRTO_DOSSIER_2026-11-17.md).
+**Dieci nuove schede Mirto #525–534 tutte `publish`**: pianta, fonti Kew/BDB, due lemmi (hadas/Hadassah), scheda di medicina storica e quattro schede bibliche. Riutilizzati e collegati Levitico 23:40 #316 e Neemia 8:15 #319 (nessun duplicato). Moldenke voce 138 pp.143–145 e Duke Myrtle pp.279–283 letti integralmente, con correzioni finali su Sukkot, significati distinti, storia della profumeria/concia, avvertenze sugli oli e prove mediche precliniche. **Tavola originale Media #547** caricata via MCP in **15 blocchi**, 343784 byte, SHA-256 `fa2199337be55327274a2a3e71d22c87f88ee77baa054a1c5d068be9f2bd3e78`, ALT e featured confermati in pianta #525. **Audit SEO zero avvisi**, plugin 0.2.4 invariato. Metodologia byte bridge documentata nella [procedura definitiva](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md). La QA visiva su viewport desktop/mobile resta distinta dall'audit SEO. **Contatori pubblici dopo Mirto: 10 piante, 71 passi, 21 nomi, 10 medicina, 34 fonti** (verificati da MCP).
+
 
 ## 0. Stato iniziale, consistenza e avvertenze del censimento
 
@@ -427,7 +428,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0141 · *Mandragora officinarum*** — Mandragora; **M voce 132, p. 137 · D p. 269**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0147 · *Myrtus communis*** — **MIRTO, 10 BOZZE WP #525–534 (NON PUBBLICATE)**. Moldenke voce 138 pp143–145; Duke Myrtle pp279–283, Kew nome accettato, Diodati 1649 e BDB H1918/H1919. Riutilizzate pagine già pubblicate Levitico 23:40 #316 e Neemia 8:15 #319, collegate al Mirto (senza duplicati). Audit SEO Mirto #525: unico rilievo immagine in evidenza mancante; tavola WebP originale 1086x1448 pronta ma NON importata nella Media Library. Plugin 0.2.4 invariato. [Dossier](ATL-0147_MIRTO_DOSSIER_2026-11-17.md) · [Progressi](ATL-0147_MIRTO_PROGRESSI_2026-11-17.md).
+- [x] **ATL-0147 · *Myrtus communis*** — **MIRTO PUBBLICATO 17/11/2026**. Nuove schede WordPress #525–534 (10 su 10 `publish`): pianta #525, fonti #526–527, termini #528–529, medicina #530, passi #531–534; Levitico #316 e Neemia #319 collegati e riutilizzati, senza duplicati. Moldenke 1952 voce 138 pp143–145, Duke 2008 Myrtle pp279–283, Kew, BDB H1918/H1919, Diodati 1649. Tavola originale WebP **Media #547** 1086×1448, SHA256 verificato via MCP in 15 blocchi, ALT/featured e `pdb_plate_media_id=547`. **Audit SEO 0 avvisi; plugin 0.2.4 invariato.** [Scheda Mirto](https://piantedellabibbia.altervista.org/piante/mirto-myrtus-communis/) · [Dossier](ATL-0147_MIRTO_DOSSIER_2026-11-17.md) · [Progressi](ATL-0147_MIRTO_PROGRESSI_2026-11-17.md).
 
 - [ ] **ATL-0149 · *Nardostachys grandiflora*** — Nardo; **M — · D p. 285**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
