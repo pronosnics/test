@@ -1,8 +1,17 @@
 # Progressi Papiro — ATL-0093 — 17 novembre 2026
 
-**Stato corrente:** **BOZZA_WP / FONTI_INCROCIATE / SEO_SALVO_MEDIA / DIODATI_DA_COLLAZIONARE / QA_APERTA**.
+**Stato corrente:** **BOZZA_WP / FONTI_INCROCIATE / DIODATI_1649_OK / SEO_SOLO_MEDIA / QA_APERTA**. Le sezioni precedenti che menzionano trascrizione ancora da eseguire sono cronologia storica, aggiornata dalla verifica successiva.
 **Piante pubblicate al momento del controllo:** **7**. La nuova pianta #427 e le sue pagine collegate sono tutte in **draft**, quindi i contatori pubblici NON sono incrementati.
 **Plugin installato:** `pdb-atlante 0.2.3` (verificato con `pdb/atlas-health`). L'import precedente del Sicomoro ha creato Media #426, SEO 0 avvisi su tutte le 7 specie già pubblicate.
+
+## Verifica letterale Diodati 1649 — seconda fase completata il 17 novembre 2026
+
+- [x] Sei brani biblici WordPress #436–441 verificati sulla edizione **Giovanni Diodati 1649** di Biblia.com, con URL di ogni versetto, e citati per **estratti brevi** in pubblico dominio.
+- [x] `pdb_verse_text`, `pdb_translation_name`, `pdb_translation_rights`, `pdb_editorial_status=revisionata` aggiornati per tutti i sei post; le schede sono rimaste **draft**.
+- [x] Fonte condivisa Diodati WordPress **#217** collegata con sei nuove citazioni **#206–211**. Totale nuova matrice Papiro: **28 source citations #184–211**, 6 identificazioni, 7 relazioni passo-termine.
+- [x] Traduzione particolarmente importante: **Isaia 19:7** nella Diodati usa «Le praterie che son presso al fiume»; sostenere con certezza *Cyperus papyrus* sarebbe eccessivo. La relazione #439 mantiene stato `controversa`.
+- [x] Citazioni verificate da https://biblia.com/bible/it-diodati1649/exodus/2/3, /exodus/2/5, /job/8/11, /isaiah/18/2, /isaiah/19/6, /isaiah/19/7, /isaiah/35/7, /isaiah/58/5.
+- [ ] Tavola botanica originale, media, controllo responsivo e pubblicazione rimangono aperti.
 
 ## Passo 1 — Fonti recuperate e lette
 
