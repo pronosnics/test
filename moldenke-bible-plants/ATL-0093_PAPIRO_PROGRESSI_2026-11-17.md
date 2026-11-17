@@ -1,6 +1,6 @@
 # Progressi Papiro — ATL-0093 — 17 novembre 2026
 
-**Stato corrente:** **BOZZA_WP / FONTI_INCROCIATE / SEO_SALVO_MEDIA / DIO DATI_DA_COLLAZIONARE / QA_APERTA**.
+**Stato corrente:** **BOZZA_WP / FONTI_INCROCIATE / SEO_SALVO_MEDIA / DIODATI_DA_COLLAZIONARE / QA_APERTA**.
 **Piante pubblicate al momento del controllo:** **7**. La nuova pianta #427 e le sue pagine collegate sono tutte in **draft**, quindi i contatori pubblici NON sono incrementati.
 **Plugin installato:** `pdb-atlante 0.2.3` (verificato con `pdb/atlas-health`). L'import precedente del Sicomoro ha creato Media #426, SEO 0 avvisi su tutte le 7 specie già pubblicate.
 
@@ -17,7 +17,7 @@
 
 | ID | Tipo | Contenuto | Stato |
 |---:|---|---|---|
-| **427** | Piante | *Cyperus papyrus* L., ca. 2.273 parole, Moraceae NO → **Cyperaceae #8**, SEO, bibliografia | bozza |
+| **427** | Piante | *Cyperus papyrus* L., ca. 2.273 parole, **Cyperaceae #8** (distinta dalle Moraceae del Sicomoro), SEO, bibliografia | bozza |
 | **428** | Fonti | Kew POWO, *Cyperus papyrus* | bozza |
 | **429** | Fonti | Kew POWO, *Cyperus rotundus* e anomalia sinonimi Duke | bozza |
 | **430** | Fonti | Translation Insights, nomi biblici | bozza |
