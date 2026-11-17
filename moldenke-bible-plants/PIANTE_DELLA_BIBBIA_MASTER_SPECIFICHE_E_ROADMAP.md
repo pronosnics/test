@@ -915,6 +915,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 | 2026-11-17 | Tutte | Creato master di specifiche e roadmap | DOCUMENTATO | Cataloghi Moldenke/Duke forniti | — | Nessuna scrittura sul sito effettuata per questa consegna. |
 | 2026-11-17 | ATL-0186 · Melograno | Esaminate voci originali, aggiunti 1 Sam 14:2, 1 Re 7, Numeri 20:5, Cantico 4:13; rivisti ornamenti, concia/coloranti, miti di fertilità, medicina; corretta sarcotesta (Foods 2024); SEO verificata | PUBBLICATA | Moldenke voce 169 pp. 189–191; Duke Pomegranate pp. 362–367; Kew; NCCIH; Melgarejo et al. Foods 2024; Diodati 1649 | 212–223 e 240–244 (17 nuove pagine); citazione #195 condivisa; Media #238 | 4 piante e 21 passi in sito; 0 avvisi SEO sulle pagine editoriali incluse nell'audit; QA mobile/desktop da effettuare. |
 | 2026-11-17 | SITE / template desktop 0.2.0 | Menu WordPress primary aggiornato a 6 voci; 4 excerpt biblici completati e DOI Melgarejo registrato; pacchetto desktop responsive e indice degli approfondimenti prodotto | PLUGIN_0.2.0_LIVE / QA_MOBILE_APERTO | Screenshot desktop 6 modelli, file plugin 0.1.9, audit SEO WordPress | Menu #3; citazioni #241–244; fonte #240 | Validare versione 0.2.0 dopo installazione, QA mobile e desktop; mantenere attivi media MCP e versetti originali. |
+| 2026-11-17 | SITE / homepage 0.2.1 | Correzione above-the-fold per homepage Atlante desktop, titolo e hero compattati, ricerca più alta con fallback lato tema | ZIP_PRONTO / DA_INSTALLARE | Screenshot browser desktop 1366×768; sorgente plugin 0.2.0 | Plugin 0.2.1 (ZIP) | QA visuale live prima di chiudere; nessuna modifica WordPress in questa fase. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
@@ -925,6 +926,15 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 - **Tavole nuove senza reinstallare ogni volta:** protocollo MCP autenticato `pdb/atlas-media-start` → blocchi `pdb/atlas-media-chunk` → `pdb/atlas-media-finish`. Trasferimento base64 per blocchi da 48 KiB massimo, SHA-256 e validazione del MIME, fino a 8 MiB. Ogni chiamata richiede un amministratore WordPress autorizzato.
 - **Sicurezza:** non sovrascrivere immagini in evidenza esistenti senza richiesta esplicita; verificare `pdb_plate_media_id`, `_thumbnail_id`, alt text, Media Library e resa mobile.
 - **Test locali:** tavola WebP Punica 431716 byte, 11 blocchi, checksum finale identico e registrazione simulata; PHP lint e ZIP integri. **Test live:** importazione locale idempotente e senza errori, Media #238 e featured #212 verificati; protocollo MCP `media-start` → `media-chunk` (68 byte ricevuti) → `media-abort` superato senza media residui. Finalizzazione (`media-finish`) con un file nuovo ancora da provare alla prossima tavola; non crearne una copia di test inutile.
+
+### Rifinitura homepage above-the-fold — Atlante 0.2.1 (17 novembre 2026)
+
+- **Motivazione:** screenshot desktop 1366 × 768, zoom 100%: il grande blocco del titolo e il margine sottostante lasciano il modulo «Cerca nell'erbario biblico» sotto la piega, pur essendo la funzione centrale della pagina.
+- **Stato reale:** ZIP `pdb-atlante-0.2.1.zip` **preparato e verificato localmente, non ancora installato**. Versione live confermata al momento della preparazione: `0.2.0`. Nessuna modifica al database per questo rilascio.
+- **Implementazione:** CSS limitato a `body.page-id-131` con media query desktop `min-width:960px`; compatta la hero del tema, riduce H1 e distanze fra hero e box di ricerca. Fallback JavaScript locale `assets/atlas-home-compact.js` identifica il titolo principale e assegna classi CSS al contenitore hero quando i selettori del tema non coincidono. Nessuna rete esterna, nessun dato personale e nessuna scrittura WordPress.
+- **Preservazione:** 5 CPT, 4 tavole botaniche incluse, MCP immagini, menu WordPress, schede e versetti invariati. Mobile sotto 960px fuori intervento.
+- **Test effettuati:** PHP lint 11 file, `node --check` sul nuovo JS, ZIP integrità 21 file, SHA256 `75668dd6a0c60db114cd5145813b81657c838ef7cc05280f2d78ff4b9162916f`.
+- **Verifiche da fare dopo installazione:** `pdb/atlas-health` riporta `0.2.1`; nuovo screenshot desktop 1366 × 768 al 100%, ricerca visibile senza scorrere; controllo mobile e singola scheda Melograno. Evitare di dichiarare corretto il rendering fino al test dal browser reale.
 
 ### Consolidamento grafico desktop — Atlante 0.2.0 (17 novembre 2026)
 
