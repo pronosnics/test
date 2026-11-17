@@ -1,5 +1,9 @@
 # Progressi Mandorlo — ATL-0184 — 17 novembre 2026
 
+## Variazione globale della pubblicazione Papiro — 17 novembre 2026
+
+Il Papiro ha ora 8 passi biblici pubblicati (incluse nuove note Giobbe 9:26 #498 e 2 Giovanni 1:12 #499), e 21 pagine complessive; i conteggi pubblici sono **8/60/17/8/30**. Questo non modifica lo stato del Mandorlo: **12 BOZZE** (#467, #469–479), plate WebP originale pronta ma non ancora associata, Diodati dei 7 versetti da verificare. Non incrementare le versioni del plugin per nuove tavole: [procedura definitiva](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md).
+
 ## Tavola originale creata e nuovo flusso upload verificato — 17 novembre 2026
 
 La tavola digitale originale del **Mandorlo — Prunus amygdalus Batsch** è stata generata e ispezionata: tronco e chioma in fiore, corolle rosa a cinque petali, foglie seghettate, drupe verdi vellutate, endocarpi legnosi e semi. File WebP **1086×1448**, dimensione **428.820 byte**, SHA-256 **ba05f9b3ab5a42f8794b57ecb48c09ed92319847b659b25e1f49c9ec96c73ccf**, filename `tavola-botanica_prunus-amygdalus.webp` in file conversazione. La composizione artistica non è un campione d'erbario né un facsimile di Duke o Moldenke.
