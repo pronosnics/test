@@ -2,7 +2,7 @@
 
 ## Stato effettivo verificato tramite MCP
 
-**18 nuove bozze WordPress create, 0 pubblicate.** Plugin **pdb-atlante 0.2.2** ancora attivo alla verifica finale. **Versione 0.2.3 pronta** in ZIP, costruita dalla 0.2.2, ma **non installata**. La tavola botanica WebP originale del Sicomoro **non è ancora caricata** in WordPress; la creazione del collegamento di upload e il tentativo di invio da container sono falliti per DNS del sandbox, senza creare Media ID.
+**STATO STORICO SUPERATO — 18 bozze allora create; nello stato finale tutte e 18 sono PUBBLICATE.** Plugin **pdb-atlante 0.2.2** ancora attivo alla verifica finale. **Versione 0.2.3 pronta** in ZIP, costruita dalla 0.2.2, ma **non installata**. La tavola botanica WebP originale del Sicomoro **non è ancora caricata** in WordPress; la creazione del collegamento di upload e il tentativo di invio da container sono falliti per DNS del sandbox, senza creare Media ID.
 
 - **Contatori pubblici INVARIATI:** 6 piante, 44 passi, 9 nomi, 6 medicina, 19 fonti, già confermati al termine della Palma.
 - **Pianta canonica #367**: Ficus sycomorus L. / Moraceae (termine tassonomico #7). Titolo SEO, meta, focus keyword Studio Manager corretti. **Audit SEO: solo immagine in evidenza assente**.
@@ -50,3 +50,20 @@
 - [ ] Solo dopo media e QA finale, pubblicazione controllata di 18 schede (non automatica); aggiornare la roadmap e i contatori in base alla risposta reale MCP.
 
 **Dossier completo:** [ATL-0106_SICOMORO_DOSSIER_2026-11-17.md](ATL-0106_SICOMORO_DOSSIER_2026-11-17.md).
+
+## Pubblicazione e audit conclusivo — 17 novembre 2026 (stato prevalente)
+
+- [x] **18 nuove pagine WordPress pubblicate e verificate**: pianta #367, medicina #368, 5 fonti #369–373, 3 nomi #374–376, 8 passi #377–384. [Sicomoro pubblico](https://piantedellabibbia.altervista.org/piante/sicomoro-ficus-sycomorus/).
+- [x] **Moldenke voce 105**: trovata trascrizione esterna delle pp.106–107 assenti nella nostra scansione; recuperati morfologia, dimensioni storiche, frutti cauliflori, legname e tradizioni. **Pagina 108 e supplementi p.282** letti direttamente sul PDF originale; figura 62 tracciata. Testo botanico ora oltre **3.200 parole**.
+- [x] **Duke pp.191–194**: collazione integrale della voce «Sycamore Fig», con attività/indicazioni tradizionali, preparazioni e ricerca preclinica non confusa con efficacia nell'uomo.
+- [x] **OTTO passi** integrati editorialmente oltre la prima bozza, citazioni Diodati 1649 confrontate; 1 Cronache 27:28 «fichi» vs ebraico sicomori spiegato; Luca 17:6 non conteggiato per *Ficus sycomorus*.
+- [x] Relazioni documentate con Cedro #266, Olivo #129, Vite #143; nessuna duplicazione con Fico #152. Famiglia Moraceae #7.
+- [x] **Yoast SEO** titolo e descrizione salvati sui 18 contenuti; slug e focus keyword definiti. Audit `pdb/seo-audit`: **1 solo avviso su #367** — mancanza dell'immagine in evidenza.
+- [x] Pacchetto **pdb-atlante-0.2.3.zip** con WebP originale Sicomoro preparato e verificato (ZIP OK, lint PHP su 11 file). Import automatico non distruttivo previsto al primo accesso admin; immagine non ancora online.
+- [ ] **INSTALLAZIONE 0.2.3** sul sito, che alla verifica MCP esegue **0.2.2**; quindi controllo Media ID, `pdb_plate_media_id`, ALT, featured image e `pdb/seo-audit` a zero avvisi.
+- [ ] QA visivo della pagina Sicomoro desktop/mobile, in particolare hero, immagine, titoli, ebraico/greco, link e contrasto.
+- [ ] Se ottenibili, confrontare i facsimili originali di Moldenke pp.106–107 con la trascrizione esterna utilizzata (la lacuna della copia rimane).
+
+**Contatori MCP verificati dopo la pubblicazione:** **7 piante, 52 passi, 12 nomi, 7 schede medicina, 24 fonti** (102 documenti), rispetto a 6/44/9/6/19 prima del Sicomoro. Le sezioni sopra documentano lo stato precedente delle bozze, da non confondere con quello finale.
+
+[Audit fonte e sito completo](ATL-0106_SICOMORO_AUDIT_MOLDENKE_DUKE_2026-11-17.md) · [Master](PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md).
