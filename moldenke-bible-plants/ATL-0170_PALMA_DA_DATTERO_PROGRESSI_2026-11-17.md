@@ -64,3 +64,37 @@
 - **pdb/seo-audit** dopo creazione: 7 elementi controllati, 5 segnalazioni tutte relative alla nuova bozza botanica #308, mentre il Cedro #266 e le altre 4 piante già pubblicate hanno 0 segnalazioni. Per #308: titolo SEO mancante; meta descrizione mancante; immagine in evidenza assente; riferimenti biblici segnalati assenti dall'audit; bibliografia segnalata assente. Gli ultimi due avvisi persistono **nonostante** siano stati scritti riferimenti testuali e legami MCP: verificare se il controllo SEO filtra relazioni verso bozze o attende metadati specifici. Non presumere una causa senza leggere il codice del plugin.
 - **Blocco tecnico verificato:** pdb/atlas-update di v0.2.1 non permette di modificare i metadati SEO pdb_seo_title, pdb_meta_description, pdb_focus_keyword attraverso MCP. Le richieste sono state rifiutate, non si sono ottenuti aggiornamenti SEO. Servirà percorso amministrativo consentito o una nuova versione del plugin.
 - **Nessuna pubblicazione:** tutte le 15 nuove voci restano bozze, con immagine ed audit da completare. Questo stato non influisce sui contatori pubblici 5/33/6/5/15.
+
+
+## Aggiornamento operativo — rifinitura scheda e plugin 0.2.2 (17 novembre 2026)
+
+**Stato reale al termine della revisione:** WordPress ancora su **pdb-atlante 0.2.1**. La versione **0.2.2 è stata preparata, verificata localmente, ma NON installata**. La scheda Palma e i suoi contenuti rimangono bozze; conteggi pubblici invariati **5 piante · 33 passi · 6 nomi · 5 medicina · 15 fonti**.
+
+### Interventi sulla bozza WordPress #308
+- [x] Titolo SEO, meta description, focus keyword del modello Studio Manager salvati via WordPress `ewpa/update-post-meta` (il plugin 0.2.1 rifiutava i tre campi dall'abilità `pdb/atlas-update`).
+- [x] Titolo SEO e descrizione **Yoast** salvati anche su tutte le **15 bozze #308–322** tramite `yoast-seo/update-post-seo-data`. Parole chiave Yoast salvate su pianta, medicina, nomi e otto passi.
+- [x] Campi editoriali strutturati di #308 completati e riletti: `pdb_bible_references`, `pdb_bible_passages`, `pdb_sources`, `pdb_moldenke_pages`, nomi ebraici/greci/comuni, avvertenze identificative, contesto storico; il corpo centrale conserva lo studio enciclopedico.
+- [x] Tassonomia `pdb_family`: creato termine **Arecaceae #6**, assegnato alla Palma #308.
+- [x] Integrazione collegamenti condivisi: **Gioele 1:12 #222** già presente per Melograno collegato anche a Palma #308 (identification #58, term link #53), **Neemia 8:15 #319** collegato all'Olivo #129 esistente (identification #59, term link #54). Salmo 92:12 #274 resta una sola pagina condivisa fra Palma e Cedro.
+- [x] Audit SEO aggiornato: **un solo avviso residuo** su #308: *«Immagine in evidenza assente»*. Risolti i quattro avvisi precedenti su titolo, meta description, riferimenti e bibliografia; le altre cinque piante pubblicate restano con zero avvisi.
+- [x] Gli otto passi #315–322 sono stati confrontati con trascrizioni digitali della **Diodati 1649**; gli estratti e la versione di riferimento sono stati aggiornati, e il loro stato editoriale marcato `revisionata`, restando in bozza. In particolare Giovanni 12:13 #321 legge ora «prese de’ rami di palme».
+- [x] Il lemma greco `phoînix` #311 usa il codice lingua `grc`; controllare il rendering RTL/LTR dei nomi nel layout.
+- [x] La scheda **medicina #309** è stata ampliata da circa 600 a circa 1.370 parole: codici Duke, distinzioni tra frutto/seme/polline/linfa, prove in vitro/animali, limiti clinici e avvertenze, con `pdb_last_science_review=2026-11-17`.
+
+### Plugin 0.2.2 — build pronta per installazione manuale
+
+- [x] Ricostruita dalla versione 0.2.1 conservata nella Libreria; preservate le funzioni esistenti e il repertorio tavole precedenti.
+- [x] Aggiunta `assets/img/tavola-botanica_phoenix-dactylifera.webp` (immagine originale, **1086×1448**, **354.720 byte**), con associazione idempotente alla bozza pianta **#308** attraverso il protocollo locale esistente, senza sostituire immagini già presenti.
+- [x] Aggiunta alla whitelist della capacità `pdb/atlas-update` la gestione validata dei campi `pdb_seo_title`, `pdb_meta_description`, `pdb_focus_keyword`, solo per il modello `pdb_plant`.
+- [x] Versione dichiarata `0.2.2`, aggiornati registri e `health/bundled_plates`; test sintattici **PHP lint 11 file OK**, ZIP integrità OK, test locali della whitelist e della lista media OK.
+- **Artefatto ZIP:** `pdb-atlante-0.2.2.zip`; SHA-256 `43f7822177bc2e7c7732b5116472a42bb42a23e01de4b73ad45d556f952921de`.
+- **Non asserire installazione o caricamento media:** nel momento della verifica `pdb/atlas-health` restituiva **0.2.1** e `featured_media=0` per #308. L'utente deve **caricare ZIP da Plugin → Aggiungi plugin → Carica plugin → Sostituisci**; non disinstallare il plugin esistente.
+
+### Verifiche da eseguire *dopo* installazione
+1. [ ] Confermare `pdb/atlas-health` con `version=0.2.2` e la presenza della tavola Phoenix fra `bundled_plates`.
+2. [ ] Confermare Media ID reale, `pdb_plate_media_id`, immagine in evidenza, ALT e didascalia di #308; senza ripetere importazioni inutili.
+3. [ ] Eseguire `pdb/seo-audit`: obiettivo **zero avvisi per la pianta #308**; verificare in parallelo Yoast e campi Studio Manager.
+4. [ ] Ricontrollare gerarchia titoli, tavola, card espandibili, tabelle e rimandi in anteprima **desktop e smartphone**.
+5. [ ] Approfondire i passi principali, rivedere la filologia e pubblicare solo dopo QA. Verificare immutabilità del Cedro #266 e i contatori pubblici aggiornandoli **soltanto dopo pubblicazione confermata**.
+
+**Nota cronologica:** la sezione precedente documenta problemi *prima* di questa rifinitura; questo aggiornamento ne sostituisce lo stato operativo senza cancellare la cronologia delle attività.
