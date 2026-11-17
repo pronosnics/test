@@ -1,5 +1,24 @@
 # Progressi Sicomoro — ATL-0106 — 17 novembre 2026
 
+## Stato finale verificato in MCP — 17 novembre 2026
+
+**PREVALE SULLA CRONOLOGIA SOTTOSTANTE:** il Sicomoro **WP #367 è PUBBLICATO** all'URL https://piantedellabibbia.altervista.org/piante/sicomoro-ficus-sycomorus/. Anche **tutte le 17 pagine collegate #368–384 risultano PUBBLICATE**. Conteggi pubblici ricontrollati usando `pdb/atlas-list`: **7 piante, 52 passi biblici, 12 nomi antichi, 7 medicinali, 24 fonti**. La fonte primaria Duke pp191–194 è stata controllata sul PDF dell'utente e la voce Moldenke p108 e nota p282 sull'originale; pp106–107 disponibili in **trascrizione digitale esterna Scribd** ma facsimile originale non presente nella Libreria.
+
+### Perfezionamenti redazionali eseguiti
+- [x] Scheda centrale #367 approfondita su Moldenke voce 105 pp.106–108, fig.62 e note supplementari p.282; trascrizione esterna dichiarata, nessuna finzione di aver letto il facsimile mancante.
+- [x] Nomi antichi **#374, #375, #376** ampliati con spiegazioni autonome di circa **200–255 parole ciascuna**: ebraico *šiqmāh* vs «fichi» della Diodati in 1 Cr 27:28, greco *sykomoréa* vs *sykáminos*, e *bōlēs* / interpretazione del lavoro di Amos.
+- [x] Otto passi **#377–384** arricchiti con commenti di circa 150–190 parole ciascuno, senza duplicazione e con distinzioni fra paralleli, specie differenti e interpretazioni letterarie.
+- [x] Medicina #368 ampliata con circa **580 parole** su repertorio storico Duke, tipo di preparazione, livelli di prova, rischi del lattice e studio **PMID 8170162**: il potato-disc bioassay e l'attività antibatterica in vitro non giustificano cure mediche.
+- [x] Nove citazioni fonti aggiuntive **relazioni #175–183** per Moldenke pp.106–107 (*OCR esterno*), p108, appendice p282 e Duke p191–194 collegate a pianta, Amos, Zaccheo, Salmo 78, termine *šiqmāh* e *sykomoréa*.
+- [x] Riutilizzati i legami già esistenti con Cedro #266, Olivo #129, Vite #143; Fico comune #152 tenuto taxonomicamente distinto.
+- [x] Pianta principale SEO Studio Manager e Yoast configurato, famiglia Moraceae #7 assegnata. **Audit sito 17/11:** #367 `publish`, `featured_media=0`, unico avviso **«Immagine in evidenza assente»**; le sei piante precedenti 0 avvisi.
+
+### Stato tecnico ancora aperto
+- [ ] Plugin WordPress **0.2.2 attivo**, ZIP di aggiornamento **pdb-atlante-0.2.3.zip** pronto ma NON ancora confermato installato. Installare il pacchetto tramite Plugin → Carica plugin → Sostituisci, senza disinstallare la versione esistente. Contiene tavola originale `tavola-botanica_ficus-sycomorus.webp`, 1086×1448.
+- [ ] Poi chiamare `pdb/atlas-health`, `pdb/atlas-media-import-bundled` (idempotente), verificare media, ALT, `pdb_plate_media_id`, featured image e `pdb/seo-audit` (obiettivo 0 avvisi).
+- [ ] QA visiva desktop e smartphone: ingombri, hero, tavola botanica, scritture greca/ebraica, mobile typography e collegamenti; il controllo amministrativo MCP NON è QA visuale.
+- [ ] Facsimile originale Moldenke pp106–107 da recuperare quando disponibile, mantenendo nel testo la provenienza OCR delle note verificate.
+
 ## Stato effettivo verificato tramite MCP
 
 **STATO STORICO SUPERATO — 18 bozze allora create; nello stato finale tutte e 18 sono PUBBLICATE.** Plugin **pdb-atlante 0.2.2** ancora attivo alla verifica finale. **Versione 0.2.3 pronta** in ZIP, costruita dalla 0.2.2, ma **non installata**. La tavola botanica WebP originale del Sicomoro **non è ancora caricata** in WordPress; la creazione del collegamento di upload e il tentativo di invio da container sono falliti per DNS del sandbox, senza creare Media ID.
