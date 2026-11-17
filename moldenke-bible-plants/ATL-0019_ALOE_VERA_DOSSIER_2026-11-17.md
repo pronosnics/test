@@ -14,3 +14,7 @@ MCP: plugin pdb-atlante 0.2.4; ricerca `Aloe` senza risultati. Duke: voce Aloe (
 ## Verifica tassonomica e server — 17/11/2026 ore 22:21 CET
 
 Kew POWO conferma *Aloe vera* (L.) Burm.f. (Asphodelaceae), accettata, nativa dell'Oman settentrionale, https://powo.science.kew.org/taxon/530017-1. *Aloe barbadensis* Mill. è sinonimo di *A. vera* (https://powo.science.kew.org/taxon/529240-1); **non** lo è *Aloe succotrina* Weston, specie accettata separatamente e nativa del Capo sudoccidentale (https://powo.science.kew.org/taxon/60462554-2). Non dedurre che gli 'aloi' biblici siano il gel di *A. vera*. MCP `pdb/atlas-health`: 0.2.4; ricerca `Aloe`: nessun risultato. Restano da verificare lemmi e versetti e da collazionare integralmente i due PDF. **Non pubblicata**, nessun WP/media ID, nessun SHA, SEO non eseguito.
+
+## Controllo supplementare 17/11/2026 ore 23:29 CET
+
+`pdb/atlas-health` ha confermato plugin 0.2.4 invariato. Indice originale Duke consultato in Libreria: *Aloe vera* (gel) p.30, specie successiva *Anabasis articulata* p.35. Attenzione: una sezione della voce può terminare sulla pagina di confine; NON assumere automaticamente che tutta p.35 sia Anabasis senza leggere il facsimile. Catalogo Moldenke: voce 27 *Aloe succotrina*, p.231 stampata / p.227 PDF, specie differente da *Aloe vera*. Da verificare integralmente su originale e distinguere gel, lattice, aloes aromatici biblici e identificazioni controverse. Nessuna tavola WebP, ID media o status publish attestato in questa esecuzione; stato APERTO.
