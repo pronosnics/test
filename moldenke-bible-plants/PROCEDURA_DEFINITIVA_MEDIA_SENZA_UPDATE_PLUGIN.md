@@ -1,5 +1,23 @@
 # Procedura definitiva: immagini botaniche senza aggiornare il plugin
 
+## TEST COMPLETO RIUSCITO — Mandorlo, 17 novembre 2026
+
+**Verifica pratica in produzione:** la funzione di upload immagini **via MCP funziona** senza browser, upload manuale o reinstallazione di plugin. È stata trasferita integralmente la tavola `tavola-botanica_prunus-amygdalus.webp` tramite la connessione MCP **pdb-atlante 0.2.4**, collegando le funzioni File della conversazione agli strumenti del server.
+
+Procedura eseguita e riutilizzabile:
+1. Generare il file botanico WebP in `/mnt/data`, verificare dimensioni e SHA-256; creare un file temporaneo di **base64 su righe da 4096 caratteri** senza ricompressione.
+2. Rendere il file temporaneo disponibile come allegato della conversazione, quindi leggerlo programmaticamente con `files__read` all'interno di `functions.exec`: `mode=full`, `start_line` e `max_lines=16`. Il codice recupera 16 righe, elimina gli a-capo e ricostruisce un blocco base64 da **65536 caratteri**, cioè **49152 byte**. Non copiare la stringa base64 nella risposta al lettore.
+3. Chiamare `pdb/atlas-media-start` tramite `mcp__piante_della_bibbia__mcp_adapter_execute_ability`, con `post_id`, `file_size`, `sha256`, `filename`, `alt_text`, `caption`.
+4. Per ogni gruppo di 16 righe chiamare `pdb/atlas-media-chunk` con `upload_id`, `offset`, `base64_chunk` e controllare che `next_offset` corrisponda al numero di byte inviati. Procedere **in modo sequenziale**, senza concorrenza sullo stesso upload.
+5. Concludere con `pdb/atlas-media-finish` (`set_featured=true`, `replace_featured=false`); confrontare checksum restituito, ID allegato e immagine in evidenza.
+6. Scrivere `pdb_plate_media_id` e `pdb_image_provenance` via `pdb/atlas-update`, verificare ALT e `pdb/seo-audit`, poi effettuare QA della pagina HTML e pubblicare secondo il normale flusso.
+
+**Risultato concreto:** tavola 1086×1448, **274258 byte**, SHA-256 `61bc8c50109d0f6c9037d195f3634f77411219027ae558d45986e3ad6dac85c0`, trasferita in **6/6 blocchi**, allegato **Media #523**, `featured_image_id=523` alla pianta **#467**, ALT presente e **zero warning SEO**. URL media: https://piantedellabibbia.altervista.org/wp-content/uploads/2026/11/tavola-botanica_prunus-amygdalus-1.webp. Tutte le 13 schede Mandorlo (#467, #469–479, #516) sono state **pubblicate**; pagina principale: https://piantedellabibbia.altervista.org/piante/mandorlo-prunus-amygdalus/
+
+**Correzione della vecchia diagnosi:** l'assenza di rete in uscita dal contenitore non impedisce il trasferimento, perché si possono passare i byte attraverso il canale Files e gli argomenti delle ability MCP. **Per le nuove specie preferire sempre questo flusso**. Il link di upload manuale resta un fallback, non il percorso predefinito. Nessuna nuova versione del plugin.
+
+
+
 **Data:** 17 novembre 2026 · **Decisione architetturale: plugin `pdb-atlante 0.2.4` stabile e riutilizzabile.** Questo documento vale per TUTTE le prossime piante di `piantedellabibbia.altervista.org`.
 
 ## Il problema corretto
