@@ -1,11 +1,11 @@
 # Palma da dattero — Phoenix dactylifera L. (ATL-0170)
 
-**Stato:** BOZZE_WP_COMPLETE_DA_REVISIONARE, non pubblicata. **Controllo antduplicati WP:** pianta canonica #308, 5 piante pubblicate prima della Palma; evitare duplicati.
+**Stato:** PUBBLICATA il 17 novembre 2026. **Pianta canonica WP #308**, plugin pdb-atlante 0.2.2, **SEO 0 avvisi**; inventario 6 piante online dopo la pubblicazione. Unica verifica residua: resa grafica desktop/mobile.
 **Famiglia e nome accettato:** Arecaceae; Phoenix dactylifera L. secondo Kew POWO.
 **Moldenke:** Plants of the Bible, 1952, voce 157 pp. 169–172; rimandi pp. 192 (fig. 28), 213 (bevande); figure 9, 28, 70, 92.
 **Duke:** Duke's Handbook of Medicinal Plants of the Bible, 2008, Date Palm pp. 325–329 (PDF 351–355).
 **Salmo condiviso:** WP #274 (Salmo 92:12, Cedro del Libano), **già collegato** alla Palma tramite identificazione #57 (oltre al collegamento Cedro #41): non duplicare.
-**Tavola:** generata digitalmente il 17 novembre 2026, file locale tavola-botanica_phoenix-dactylifera.webp. Da validare e caricare via MCP.
+**Tavola:** digitale originale generata il 17 novembre 2026, WebP 1086×1448 **importata e collegata in WordPress Media #344**. Anatomia esaminata sul file originale; controllo responsive finale aperto.
 **Regola dei diritti:** sintesi originale, niente traduzioni integrali dei libri sulla pagina pubblica.
 
 ## Sintesi
@@ -133,3 +133,12 @@ Nelle pp. 171–172 Moldenke registra culti antichi, leggende su san Cristoforo,
 ### Audit SEO MCP — 17 novembre 2026
 
 L'abilità `pdb/seo-audit` segnala **cinque rilievi sulla bozza #308**: titolo SEO mancante, meta descrizione mancante, immagine in evidenza assente, riferimenti biblici assenti, bibliografia assente. Tutte le cinque piante già pubblicate (compreso Cedro #266) e la pagina principale dell'Atlante hanno **zero rilievi** nell'audit restituito (7 elementi totali). Le relazioni bibliche e le citazioni di fonti di #308 esistono nel database: occorre verificare perché l'audit non le riconosca, senza duplicarle. Un tentativo di scrivere le chiavi `pdb_seo_title`, `pdb_meta_description`, `pdb_focus_keyword` attraverso `pdb/atlas-update` è stato rifiutato dalla validazione del plugin e **non ha modificato la scheda**; correggere usando l'interfaccia/abilità autorizzata, senza aggirare la whitelist. La pubblicazione rimane sospesa.
+
+
+## Addendum editoriale e chiusura — 17 novembre 2026
+
+La presente bozza storica è stata trasformata in scheda WordPress pubblicata **#308**, con contenuti aggiuntivi nelle sezioni botanica e medicina. L'audit di ogni pagina di Moldenke **169–172** e Duke **325–329** è in [ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md) e va letto come aggiornamento che prevale sulle checklist obsolete più sopra.
+
+**Novità sostanziali:** il lulav delle quattro specie di Sukkot è fronda della palma, ma l'etrog è il cedro agrume **Citrus medica**, non la conifera Cedro del Libano; distinzione fra *tāmār* (H8558) e *tōmer* (H8560), con Giudici 4:5 e la traduzione controversa di Geremia 10:5; nuove schede 1 Re 6:29 ed Ezechiele 41:18–20 sui motivi di palma scolpiti; dimensioni storiche dei grappoli, perline dai semi, simboli monetali, palmeti antichi e pollinazione spiegati in modo più accurato. La medicina è stata ampliata con allergenicità del polline/frutto e distinzione esplicita fra esperimenti su estratti 5% contro Candida in vitro, modelli di ulcera nel ratto e dimostrazioni terapeutiche nell'uomo.
+
+**Contenuti WordPress pubblicati:** botanica #308, medicina #309, nomi #310, #311, #350, passi #315–322 e #351–353, fonti #312–314 e #360. **Tavola #344**; riuso Salmi #274 e Gioele #222; collegamento dell'Olivo #129 a Neemia #319. **Totali finali: 6 / 44 / 9 / 6 / 19**. QA visiva desktop/mobile separata e ancora aperta.
