@@ -1,5 +1,15 @@
 # Progressi ATL-0147 Mirto — 17 novembre 2026
 
+## Ultimo controllo successivo alla pubblicazione — 17 novembre 2026, ore 18 italiane
+
+- WordPress **#525–534 tutti `publish`** verificati nuovamente via `pdb/atlas-get`; `pdb/seo-audit` **zero avvisi** per mirto #525 e mandorlo #467.
+- **Immagine principale definitivamente confermata:** WebP originale **Media #547**, 1086×1448, con ALT, `pdb_plate_media_id=547`, provenienza e checksum già registrati. La tavola storica Thomé in pubblico dominio **#551** è stata importata come prova della possibilità alternativa `ewpa/upload-image`, ma non sostituisce il WebP originale: featured #525 ripristinata esplicitamente su **#547**; allegato #551 resta disponibile, non in evidenza.
+- **Diagnosi risolta:** il ponte tecnico tra file generato in `/mnt/data` e MCP è già documentato nella `PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md`: file temporaneo in Files, lettura blocchi base64, `atlas-media-start/chunk/finish`. **Trasferimento originale Mirto eseguito in 15 blocchi**. Per immagini esterne con licenza verificata è disponibile `ewpa/upload-image` direttamente da URL. Nessun aggiornamento del plugin 0.2.4.
+- **Revisione Duke pp.279–283 e Moldenke pp.143–145**: nessun nuovo versetto botanico sicuro omesso nelle voci originali; mantenuta la distinzione Neemia/Levitico, Isaia, Zaccaria, Ester e la cautela terapeutica sugli oli essenziali. Aggiunta al contenuto pubblicato la precisazione **Ester 2:12 «olio di mirra» non indica il mirto**; eliminati tre rimandi editoriali rimasti formulati al futuro o «in revisione» nelle pagine #525/#316. Distinguere sempre mirto (Myrtus) da mirra (resina di Commiphora spp.).
+- SEO Yoast su #525–534: **titoli, meta-descrizioni, keyphrase e canonical pubbliche verificate**, noindex non impostato. La QA visiva mobile/desktop in un browser indipendente rimane separata dalla verifica MCP e non va spacciata per completata.
+
+
+
 ## STATO FINALE: PUBBLICATA, MEDIA_OK, SEO_OK
 
 - WordPress: 10 nuove pagine #525–534 **tutte publish**, identificate una per una via `pdb/atlas-get`.
