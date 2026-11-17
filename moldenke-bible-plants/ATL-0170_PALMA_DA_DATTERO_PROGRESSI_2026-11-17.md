@@ -106,3 +106,24 @@
 - [x] **Nome greco #311** ampliato con analisi delle forme `φοῖνιξ` e `φοινίκων`, distinzione fra uso evangelico e visionario, valore della diagnosi botanica; `pdb_editorial_status=revisionata`.
 - [x] Il contenuto medico **#309** è stato ampliato ulteriormente, separando parti botaniche e livelli di evidenza, fino a circa **1.370 parole**.
 - [ ] Restano controllo grafico finale, immagine Media Library e pubblicazione; queste integrazioni redazionali non cambiano i totali pubblici.
+
+
+## Verifica finale MCP dopo installazione del plugin 0.2.2 — 17 novembre 2026
+
+**Nota di stato prevalente:** la versione 0.2.2 **È ORA ATTIVA** su WordPress. L'indicazione precedente «non installata» fotografa soltanto il momento precedente alla successiva verifica MCP e non è più lo stato attuale.
+
+- [x] `pdb/atlas-health`: `version=0.2.2`, tavola `Phoenix dactylifera=true` tra `bundled_plates`; tutte le altre tavole del bundle riconosciute.
+- [x] Eseguito MCP `pdb/atlas-media-import-bundled`: **1 nuova immagine importata, 5 già presenti, 0 errori**, nessuna immagine esistente sostituita.
+- [x] Immagine Palma **Media Library #344**, WebP `tavola-botanica_phoenix-dactylifera.webp`, 1086×1448; collegata a **pianta #308** sia come `featured_media=344` sia come `pdb_plate_media_id=344`. Verificato URL pubblico: `https://piantedellabibbia.altervista.org/wp-content/uploads/pdb-atlante/tavola-botanica_phoenix-dactylifera.webp`.
+- [x] ALT WordPress #344 verificato: «Illustrazione botanica digitale originale della palma da dattero, con fronde pennate, spata, infiorescenze maschili e femminili e grappoli di datteri».
+- [x] Aggiornata `pdb_image_provenance` di #308 con Media #344, dimensioni e attestazione di tavola **digitale originale contemporanea**, non facsimile di Thomé.
+- [x] `pdb/seo-audit` eseguito dopo l'importazione: **0 avvisi su #308**, 0 su Cedro #266 e sulle altre 4 piante pubblicate e pagina Atlante #131.
+- [x] Slug canonici semplici e descrittivi assegnati via MCP a **tutte le 15 bozze #308–322**; es. `palma-da-dattero-phoenix-dactylifera` per la pianta #308. I permalink pubblici saranno da verificare al momento della pubblicazione.
+- [x] Tutte le nuove bozze rimangono `draft`. Il Cedro è rimasto pubblicato e immutato; i totali visibili del sito restano **5 piante / 33 passi / 6 nomi / 5 medicina / 15 fonti**.
+
+### Unici controlli ancora da chiudere
+
+- [ ] **QA visivo desktop/mobile** della nuova pagina Palma: anteprima autenticata, resa fronde/immagine, card, gerarchia H1/H2, font, paragrafi lunghi e interlink; non dichiarare eseguito da un semplice audit.
+- [ ] **Validazione anatomica della tavola** confrontando forme riproduttive con botanica moderna; se sono presenti imprecisioni grafiche, rigenerare senza compromettere la pubblicazione delle altre piante.
+- [ ] Verifica finale delle schede bibliche sul canone/num. dei versetti, rinvii e stato editoriale, e controllo della qualità del testo medicinale prima di promuoverlo come pubblicabile.
+- [ ] Pubblicazione di Palma e schede collegate, soltanto dopo i controlli: **non ancora effettuata**. Aggiornare i contatori, link pubblici, roadmap e registro a pubblicazione avvenuta.
