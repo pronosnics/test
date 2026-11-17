@@ -1,5 +1,15 @@
 # Atlante Piante della Bibbia — procedura per lotti autonomi e audit delle fonti
 
+## Caso verificato: lotti Allium Cipolla e Aglio, 17/11/2026
+
+**14 nuove schede WordPress verificate `publish`**: piante #627/#628, passo biblico condiviso #626 (senza duplicati), nomi ebraici #630/#631, medicine #639/#640, fonti #633–638 e #661. **Due tavole WebP originali tramite MCP** Media #629 (Cipolla, 17 blocchi, SHA-256 `154c3e455a601d79ed95e693040cb31375ccda64b1aa4b433b3cf5b41e7740cc`) e #632 (Aglio, 11 blocchi, SHA-256 `6b1b67cf5ac4d3c821c315eba01631361dbbf420f3a66efe8fa2d55f44879a9d`); entrambe featured e ALT, staging eliminato, audit SEO 0, plugin 0.2.4 invariato.
+
+**Nuova lezione tecnica importante:** l'audit SEO delle piante può segnalare «Riferimenti biblici assenti» e «Bibliografia assente» anche se i testi HTML e le relazioni MCP contengono già questi dati. Il campo strutturato letto da `pdb/seo-audit` richiede un `pdb/update-content` della pianta con `plant.bible_references`, `plant.bible_passages`, `plant.sources` e, se opportuno, `plant.moldenke_pages`. Aggiornare, rilanciare audit e verificare **0 avvisi** prima del `publish`. L'operazione `pdb/update-content` in questo contesto ha accettato gli oggetti `pdb_plant`, ma non le altre tipologie: per SEO fonti, medicina, passi e termini usare `yoast-seo/update-post-seo-data`, e per focus keyword `ewpa/update-post-meta` come necessario. Non inventare esiti di chiamate che falliscono.
+
+**Lezione editoriale:** Num 11:5–6 è un solo passo per Cipolla, Aglio e futuro Porro. Moldenke 1952 p32 riporta l'ipotesi storica dello scalogno per l'ebraico dell'aglio; distinguerla dal taxon moderno e dalla cipolla. Duke Onion pp16–20 e Garlic pp23–30 contengono studi di diversa qualità, e le interazioni/veterinaria meritevoli di confronto con NIH, EMA e Merck. La monografia EMA definitiva della prima versione (2020) va distinta dalla **bozza 2025** di revisione.
+
+
+
 **Avviata 17 novembre 2026.** Questa procedura si affianca al master e a `PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md` e si applica **a ogni specie**. Non è un elenco di pubblicazioni automatiche già avvenute.
 
 ## Automazione quotidiana
@@ -34,4 +44,4 @@ L'ultimo `pdb/seo-audit` rileva **0 avvisi su Lentisco #597 e Terebinto #557**. 
 
 ## Regola di progressione
 
-La roadmap GitHub è la fonte per scegliere la prossima specie **ancora aperta**, non la semplice ultima specie menzionata in una risposta. Prima coppia: **ATL-0015 Cipolla** e **ATL-0017 Aglio**. Dopo ogni lotto leggere di nuovo il master prima di iniziarne uno successivo.
+La roadmap GitHub è la fonte per scegliere la prossima specie **ancora aperta**, non la semplice ultima specie menzionata in una risposta. **ATL-0015 Cipolla e ATL-0017 Aglio sono stati completati e pubblicati il 17/11/2026**; prossime voci indicative aperte ATL-0019 Aloe vera e ATL-0022 Anastatica hierochuntica, da verificare contro il master aggiornato e il database prima di procedere. Dopo ogni lotto leggere di nuovo il master prima di iniziarne uno successivo. **Obbligo di aggiornare master, dossier e progressi in ogni esecuzione, anche senza pubblicazione**, registrando blocchi e prove server.
