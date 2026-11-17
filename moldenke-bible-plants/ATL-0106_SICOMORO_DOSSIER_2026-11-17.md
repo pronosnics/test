@@ -7,7 +7,7 @@
 **Fonte Moldenke:** *Plants of the Bible* (1952), voce 105 **pp.106–108**, più note supplementari **p.282** e figura 62. Le pp.106–107 sono state recuperate e lette in **trascrizione digitale esterna** (non nel PDF originale dell'utente); pp.108,282 lette nel PDF originale, p.140 per la distinzione sicomoro/sicomino. [Audit completo](ATL-0106_SICOMORO_AUDIT_MOLDENKE_DUKE_2026-11-17.md).
 **Fonte Duke:** *Duke's Handbook of Medicinal Plants of the Bible* (2008), **pp.191–194**, PDF originale della Libreria pagine digitali 217–220.
 **Altre fonti:** Kew, BDB H8256, Greco G4809/G4807, Galil 1968 sulla partenocarpia, studio di bioattività PMID 8170162, Diodati 1649.
-**Immagine botanica:** WebP originale 1086×1448, 390592 byte; inclusa nel pacchetto **pdb-atlante 0.2.3 pronto per installazione**, ma **non ancora associata a Media Library WP**. Restano da verificare ALT, associazione e rendering.
+**Immagine botanica:** WebP originale 1086×1448, 390592 byte; inclusa nel pacchetto **pdb-atlante 0.2.3 pronto per installazione**, ma **non ancora associata alla Media Library WP**, plugin sito ancora 0.2.2. ALT, associazione e rendering da verificare.
 
 > Questa è una sintesi editoriale originale e non una traduzione integrale dei libri storici. Le pagine mancanti di Moldenke non vengono ricostruite ipoteticamente; le affermazioni relative alla sua voce sono attribuite solo alla p.108 effettivamente letta e agli altri riferimenti identificabili.
 
@@ -157,3 +157,15 @@ Il contenuto è una sintesi critica originale; non riproduce le sezioni del volu
 **SEO e media:** titolo, descrizione, focus keyword e riferimenti Studio Manager presenti; Yoast delle 18 schede aggiornato. `pdb/seo-audit`: **un avviso solo sulla pianta #367**, «Immagine in evidenza assente». Il pacchetto **pdb-atlante 0.2.3**, con tavola WebP 1086×1448, è pronto per installazione manuale (live rilevato **0.2.2**); immagine non importata, niente Media ID. Screenshot desktop/mobile non ancora valutati.
 
 **Nuovi contatori verificati:** **7 piante, 52 passi, 12 nomi, 7 medicina, 24 fonti**. Si rimanda alla [matrice integrale dei materiali originali](ATL-0106_SICOMORO_AUDIT_MOLDENKE_DUKE_2026-11-17.md) per la collazione e i controlli ancora aperti.
+
+## Addendum finale dopo pubblicazione — 17 novembre 2026
+
+**La scheda del Sicomoro è online:** https://piantedellabibbia.altervista.org/piante/sicomoro-ficus-sycomorus/ (WP #367). Tutte le **18 nuove pagine complessive** (#367–384: 1 pianta, 8 passi, 3 nomi, 1 scheda medico-storica, 5 fonti) sono state confermate pubblicate dalle abilità WordPress. I contatori MCP risultano **7/52/12/7/24** (piante/passi/nomi/medicina/fonti). Sono rimasti invariati i contenuti preesistenti delle altre sei specie.
+
+**Verifica fonti:** Duke *Sycamore Fig* pp191–194 controllata integralmente sul PDF originale. Moldenke voce 105 pp106–107 verificata soltanto su trascrizione OCR di terzi [Scribd](https://www.scribd.com/document/729589102/plants-of-the-Bible-MOLDENKE) e **NON sulle pagine originali**, che mancano alla copia; p108 e supplemento p282 verificate sul PDF originale e p140 per distinzione da *Morus nigra*. Non spacciare una trascrizione OCR per facsimile o per citazione tipografica certa.
+
+**Rifinitura successiva:** tre lemmi antichi #374–376 ampliati; otto passi #377–384 ampliati; medicina #368 approfondita con rischi del lattice, differenza fra uso folklorico ed evidenza, e limiti dei test su disco di patata citati da Duke; nove nuove relazioni bibliografiche #175–183. Riusati i legami a Cedro #266, Olivo #129 e Vite #143. Il sicomoro non va confuso né con il fico comune #152, né con il gelso di Luca 17:6.
+
+**Stato plugin/media:** attiva ancora versione **pdb-atlante 0.2.2**, nuova 0.2.3 preparata ma non installata; **featured_media=0** su #367. L'audit SEO mostra **unico avviso: immagine in evidenza assente**. Questo non annulla la pubblicazione, ma prima di considerare chiusa la specie è necessario installare la 0.2.3, importare il WebP, verificare ALT e fare QA visiva desktop/mobile.
+
+Le tabelle di bozze e gli stati riportati in sezioni precedenti di questo dossier sono **storici**; questo addendum è lo stato corrente.
