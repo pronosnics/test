@@ -1,5 +1,10 @@
 # Procedura definitiva: immagini botaniche senza aggiornare il plugin
 
+## Promemoria operativo per OGNI nuova specie (a partire dal Terebinto ATL-0177)
+
+**Procedura standard obbligatoria già funzionante con Mandorlo e Mirto:** creare la tavola botanica originale, convertire in WebP mantenendo una sola versione finale, verificare pixel/peso/SHA-256, fare uno staging **temporaneo e privato** del file base64 in righe di esattamente 32.000 caratteri (24.000 byte raw per blocco), leggere le righe con Files e inoltrarle **in sequenza** a `pdb/atlas-media-start` → `pdb/atlas-media-chunk` → `pdb/atlas-media-finish` tramite il server MCP Piante della Bibbia. Confrontare SHA-256 originale e restituito; verificare allegato, ALT, featured, `pdb_plate_media_id`, provenienza, responsive/SEO; **eliminare subito il file temporaneo dalla Libreria**. Pubblicare solo dopo i controlli. **Non cambiare mai versione del plugin per caricare una tavola:** 0.2.4 sufficiente. Se fallisce, riprendere verificando `next_offset` ed evitare doppi allegati; non reintrodurre il caricamento manuale come passo ordinario.
+
+
 ## PROCEDURA RACCOMANDATA VERIFICATA — Mirto, 17/11/2026
 
 **Risultato reale:** immagine originale del Mirto `tavola-botanica_myrtus-communis.webp`, 343784 byte, 1086×1448 px, SHA-256 `fa2199337be55327274a2a3e71d22c87f88ee77baa054a1c5d068be9f2bd3e78` trasferita **integralmente via MCP in 15 blocchi**, Media WordPress **#547**, featured image pianta **#525**, ALT presente, checksum restituito dal server corrispondente, SEO **0 avvisi**. Nessun nuovo ZIP o versione del plugin: `pdb-atlante 0.2.4`.
