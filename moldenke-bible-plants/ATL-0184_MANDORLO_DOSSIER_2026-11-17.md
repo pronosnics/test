@@ -1,5 +1,13 @@
 # Mandorlo — Prunus amygdalus Batsch (ATL-0184)
 
+## Nota di aggiornamento redazionale — 17 novembre 2026
+
+La verifica conclusiva integra fonti Kew, Duke 355–360, Moldenke 35–38 e BDB H8247/H3869/H8245. **L'Atlante dispone adesso di 13 bozze per il Mandorlo**, includendo una nuova fonte lessicografica #516. Gli estratti della Diodati 1649 sono stati confrontati sulle trascrizioni digitali e inseriti in tutti i 7 passi #473–479, con distinzione esplicita dalla collazione sul facsimile storico. Genesi 30:37 conserva il «nocciuolo» della Diodati (lûz controverso); Numeri 17:8 corrisponde nella numerazione ebraica citata da BDB a 17:23; Esodo 25/37 sono raffigurazioni e non parti vive. Titoli, SEO e note sono stati migliorati. **Il solo rilievo dell'audit strutturale su #467 è l'assenza di un'immagine in evidenza**.
+
+Il nuovo WebP originale `tavola-botanica_prunus-amygdalus.webp` (1086×1448, SHA256 `61bc8c50109d0f6c9037d195f3634f77411219027ae558d45986e3ad6dac85c0`) è stato generato e ispezionato; non è in Media Library, quindi non va affermato MEDIA_OK né pubblicato ancora l'intero lotto. È stato preparato un upload WordPress diretto da completare dall'utente, senza modifiche al plugin 0.2.4. L'ultima QA visuale di pagine pubbliche mobile e desktop avverrà dopo l'importazione e prima/contestualmente alla pubblicazione. Fonte #217 Diodati 1649 riutilizzata; BDB fonte #516 collegata tramite citazioni #236–243.
+
+
+
 ## Aggiornamento tavola botanica e architettura (17 novembre 2026)
 
 Tavola contemporanea del mandorlo generata e controllata nel contesto conversazione: **1086×1448 WebP, 428.820 byte, SHA256 ba05f9b3ab5a42f8794b57ecb48c09ed92319847b659b25e1f49c9ec96c73ccf**. Comprende albero primaverile, fiore pentamero, foglia seghettata, drupa verde, nocciolo edibile distinto dal seme. Il file è pronto per importazione ma **non ancora associato a WordPress #467**. Si è verificata l'autorizzazione di `pdb/atlas-media-start` e `pdb/atlas-media-abort` nella versione 0.2.4, ma nessun trasferimento binario completo per questa tavola. Per le prossime immagini usare il workflow MCP generico senza creare nuove versioni del plugin: [Procedura permanente immagini senza nuove versioni](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md). Le 12 schede restano DRAFT per la collazione Diodati dei 7 versetti e la QA grafica.
