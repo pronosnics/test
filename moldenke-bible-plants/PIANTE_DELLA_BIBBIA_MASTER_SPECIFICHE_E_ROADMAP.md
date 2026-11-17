@@ -916,6 +916,15 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 | 2026-11-17 | ATL-0186 · Melograno | Consultate integralmente voci originali, redatta scheda botanica ampia, medicina storica, lemma rimmôn, 6 schede bibliche, 3 nuove fonti e 15 identificazioni pianta–passo; SEO in bozza | BOZZA_WP | Moldenke n.169 pp.189–191; Duke Pomegranate pp.362–367; Kew POWO; NCCIH; Diodati 1649 | 212–223 (12 ID, inclusi 3 fonti); Numeri 13:24 #195 riusato | Tavola botanica WebP creata e revisionata preliminarmente; caricamento Media, pubblicazione e QA responsive pendenti. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
+### Protocollo immagini via MCP (plugin 0.1.9)
+
+- **Stato al 17 novembre 2026:** pacchetto `pdb-atlante-0.1.9.zip` prodotto e testato localmente, **non ancora installato** su Altervista. Non dichiarare importazione riuscita prima della verifica MCP sul server.
+- **Tavola Melograno:** immagine WebP originale inclusa nel pacchetto alla voce `assets/img/punica-granatum-tavola.webp`, da associare in automatico alla pianta WordPress #212 dopo l'aggiornamento; conservare alt text e provenienza digitale.
+- **Import diretto locale:** l'abilità `pdb/atlas-media-import-bundled` importa e collega le tavole senza connessioni HTTPS in uscita, e restituisce gli ID media.
+- **Tavole nuove senza reinstallare ogni volta:** protocollo MCP autenticato `pdb/atlas-media-start` → blocchi `pdb/atlas-media-chunk` → `pdb/atlas-media-finish`. Trasferimento base64 per blocchi da 48 KiB massimo, SHA-256 e validazione del MIME, fino a 8 MiB. Ogni chiamata richiede un amministratore WordPress autorizzato.
+- **Sicurezza:** non sovrascrivere immagini in evidenza esistenti senza richiesta esplicita; verificare `pdb_plate_media_id`, `_thumbnail_id`, alt text, Media Library e resa mobile.
+- **Test locali:** tavola WebP Punica 431716 byte, 11 blocchi, checksum finale identico e registrazione dell'immagine simulata su WordPress; superati PHP lint e integrità ZIP. **Resta obbligatorio il test live dopo installazione.**
+
 ### Dettaglio di lavorazione — ATL-0186 Melograno (17 novembre 2026)
 
 - **Stato:** `BOZZA_WP`, non pubblicata: attesa tavola botanica in Media Library, featured image e controllo finale.
