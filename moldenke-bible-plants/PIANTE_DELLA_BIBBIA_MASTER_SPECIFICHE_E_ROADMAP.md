@@ -367,7 +367,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0093 · *Cyperus papyrus*** — Papiro; **M voce 91, p. 92 · D p. 172**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0106 · *Ficus sycomorus*** — Sicomoro; **M — · D p. 191**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0106 · *Ficus sycomorus*** — Sicomoro biblico; **M voce 105 pp.106–108 (pp.106–107 MANCANTI nel PDF; p.108 VERIFICATA), Duke «Sycamore Fig» pp.191–194 integralmente verificate**. **Stato BOZZA_WP / MEDIA_DA_IMPORTARE / QA_VISIVA_APERTA**: pianta WordPress **#367**, medicina #368, 5 fonti #369–373, 3 nomi #374–376, 8 passi #377–384, famiglia Moraceae #7; 14 identificazioni (incluse Cedro #266, Olivo #129, Vite #143), 9 relazioni lessicali, 28 citazioni fonti. Plugin **0.2.3 ZIP pronto ma NON verificato installato**, tavola WebP originale 1086×1448 pronta, audit SEO pianta: soltanto featured image assente; non pubblicata. **Punti critici:** 1 Cronache 27:28 Diodati «fichi» vs ebraico šiqmîm (sicomori); Luca 17:6 sykáminos ≠ Luca 19:4 sykomoréa; Amos 7:14 raccolta/incisione interpretativa. [Dossier](ATL-0106_SICOMORO_DOSSIER_2026-11-17.md) · [Progressi](ATL-0106_SICOMORO_PROGRESSI_2026-11-17.md).
 
 - [ ] **ATL-0109 · *Gundelia tournefortii*** — Gundelia; **M voce 30, p. 38 · D p. 201**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -925,6 +925,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 | 2026-11-17 | ATL-0170 · Palma da dattero | Rifinita bozza #308, famiglia Arecaceae #6, campi Studio Manager e Yoast, 8 citazioni Diodati revisionate, medicina #309 ampliata; recuperati Gioele #222 e Neemia/Olivo | BOZZA_WP / SEO_CORRETTA / QA_MEDIA_APERTA | Moldenke pp.169–172; Duke pp.325–329; Kew; BDB; Diodati 1649 | 308–322; riuso 274, 222 e 129 | Audit 1 solo avviso: immagine; versione plugin 0.2.2 preparata ma **non installata**; QA desktop/mobile e pubblicazione aperti. [Progressi](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md). |
 | 2026-11-17 | ATL-0170 · Palma da dattero | Verifica successiva: plugin 0.2.2 LIVE, import MCP idempotente della tavola #344, SEO audit 0 avvisi, tutte le 15 bozze con slug descrittivo e 8 passi approfonditi | BOZZA_WP / SEO_OK / MEDIA_OK / QA_VISIVA_APERTA | Moldenke pp.169–172; Duke pp.325–329; Kew; Diodati 1649 | 308–322; Media 344; riuso 274, 222, 129 | Tutti i nuovi elementi restano BOZZA. QA grafico desktop/mobile, controllo tavola e pubblicazione ancora aperti. [Registro](ATL-0170_PALMA_DA_DATTERO_PROGRESSI_2026-11-17.md). |
 | 2026-11-17 | **ATL-0170 · Palma da dattero — CHIUSURA EDITORIALE E PUBBLICAZIONE** | Audit completo Moldenke voce 157 pp.169–172 e Duke pp.325–329, correzioni etrog/Cedrus, tōmer/tāmār, Geremia controverso, allergenicità e limiti clinici; 20 nuove pagine WP + tavola #344 | **PUBBLICATA / SEO 0 / FONTI VERIFICATE / QA_VISIVA_APERTA** | [Audit completo](ATL-0170_AUDIT_COMPLETO_MOLDENKE_DUKE_2026-11-17.md) · Kew · BDB · Sefaria · Diodati 1649 | 308–322, 350–353, 360, media 344 | **Totali verificati: 6 Piante, 44 Passi, 9 Nomi, 6 Medicina, 19 Fonti.** Il Cedro #266 non modificato. Responsive desktop/mobile resta da controllare visivamente. |
+| 2026-11-17 | ATL-0106 · Sicomoro | Identificata voce Moldenke 105 pp.106–108 (pp.106–107 mancanti nel PDF); Duke pp.191–194 lette; 18 nuove bozze WordPress; tassonomia, 8 passi, 3 nomi, 5 fonti, medicina e tavola preparati | **BOZZA_WP / SEO_SOLO_MEDIA / QA_APERTA** | [Dossier](ATL-0106_SICOMORO_DOSSIER_2026-11-17.md) · [Progressi](ATL-0106_SICOMORO_PROGRESSI_2026-11-17.md) | Pianta #367, medicina #368, fonti #369–373, termini #374–376, passi #377–384 | Plugin 0.2.3 ZIP pronto da installare, nessuna pubblicazione nuova; contatori 6/44/9/6/19. Da recuperare pp.106–107 di Moldenke. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
@@ -1006,6 +1007,12 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 - **Duke:** sei attività e repertorio dei microrganismi, uso sperimentale dell'olio a 1.000 ppm non come ricetta, pratica storica del fumo non raccomandata, confusione con Cedrus deodara esplicitata.
 - **Pubblicazione confermata:** WP #266 con tavola #267, #268–278, #293–298; 18 nuove pagine in publish. Plugin 0.2.1. **Audit SEO 0 rilievi sui 6 contenuti esaminati**; inventario pubblicato con 5 piante, 33 passi biblici, 6 nomi antichi, 5 medicine, 15 fonti.
 - **Prossimo:** QA visiva Cedro su smartphone e desktop quando disponibili screenshot; sviluppo Palma da dattero `Phoenix dactylifera` secondo ordine roadmap.
+
+### Avanzamento ATL-0106 — Sicomoro (17 novembre 2026, bozze WP)
+
+- **Fonte Moldenke:** l'indice prova che esiste la **voce 105 a p.106**; la copia PDF in Libreria salta le pp.106–107, mentre p.108 è leggibile e riporta l'incisione dei siconi, Amos, 1 Cr 27:28, Salmi 78:47 e le confusioni con sycamore/sycamine. Duke, «Sycamore Fig», **pp.191–194** è invece integralmente disponibile.
+- **Sito:** bozza **#367** e 17 schede collegate, 18 bozze in tutto; plugin corrente controllato **0.2.2**, ZIP **0.2.3 preparato** per importazione della nuova tavola; pubblicati restano 6 piante / 44 passi / 9 nomi / 6 medicina / 19 fonti.
+- **SEO:** un rilievo sulla bozza, immagine in evidenza assente; no regressioni sulle piante pubblicate. Controlli responsive e completamento pagine Moldenke mancanti aperti. [Dossier](ATL-0106_SICOMORO_DOSSIER_2026-11-17.md), [Progressi](ATL-0106_SICOMORO_PROGRESSI_2026-11-17.md).
 
 ### Avanzamento ATL-0170 — Palma da dattero (17 novembre 2026, verifica MCP)
 
