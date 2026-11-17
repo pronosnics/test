@@ -5,6 +5,12 @@
 **WordPress:** pianta #557 — https://piantedellabibbia.altervista.org/piante/terebinto-pistacia-terebinthus/  
 **Plugin:** pdb-atlante 0.2.4 stabile (non aggiornato).
 
+## Ultimo controllo supplementare — dopo revisione del Lentisco (17/11/2026)
+
+Nella lettura incrociata delle due voci adiacenti di Duke è emerso un confronto rilevante della precedente voce *Pistacia atlantica*, pp.337–338: l'autore riferisce che Zohary ritiene in alcuni racconti biblici i grandi alberi compatibili anche con la *P. atlantica* (e non automaticamente con *P. terebinthus*). La discriminazione morfologica storica comprende rachide fogliare alato per *P. atlantica* e foglioline più acute nel tipo palestinese. L'Atlante mantiene le ipotesi distinte. Inoltre **Duke cita il terebinto del Siracide come 24:15 in alcune versioni inglesi**, mentre **Moldenke e la CEI 2008 usano 24:16**: la scheda pubblicata #571 e il capitolo pianta #557 hanno ricevuto una nota esplicativa. Il Siracide parla di *terebinto*, anche quando Duke riporta la similitudine nel capitolo «Mastic» (lentisco): non creare una seconda identificazione lentisco.
+
+Un confronto interno fra le due schede è ora disponibile: [Lentisco pubblicato WP #597](https://piantedellabibbia.altervista.org/piante/lentisco-pistacia-lentiscus/). Il lentisco è sempreverde e legato al mastice di Chio; il terebinto è caducifoglio. Le resine e i dati di medicina storica delle voci Duke *Mastic* pp339–341 e *Terebinth* pp341–342 restano attribuiti alle rispettive piante. Nessuna modifica al plugin 0.2.4. **Il Terebinto rimane pubblicato con zero avvisi SEO.**
+
 ## Identità botanica e fonti principali
 
 - **Kew POWO** riconosce *Pistacia terebinthus* L. (Anacardiaceae) come specie accettata, areale mediterraneo, sinonimi *Pistacia palaestina* Boiss. e *Pistacia terebinthus* subsp. *palaestina* (Boiss.) Engl. Scheda: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70274-1. WordPress fonte #558.
