@@ -4,7 +4,7 @@ document_type: "specifica-editoriale-e-roadmap"
 version: "1.0"
 created: "2026-11-17"
 last_catalog_check: "2026-11-17"
-reference_plugin: "pdb-atlante 0.1.8"
+reference_plugin: "pdb-atlante 0.1.9"
 source_registry:
   moldenke: "Moldenke.pdf"
   duke: "(ebook) Duke's Handbook of Medicinal Plants of the Bible by James A. Duke.pdf"
@@ -389,7 +389,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0184 · *Prunus dulcis*** — Mandorlo; **M voce 28, p. 35 · D p. 355**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [x] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, pp. 189–191 · D pp. 362–367**; fonte: Moldenke + Duke + Kew + NCCIH; **stato: BOZZA_WP (tavola WebP pronta, caricamento Media in attesa)**; WP: `212` (pianta), `213` (medicina), `214` (nome antico), `218–223` (6 passi); altre fonti `215–217`; `195` collegamento a Numeri 13:24. **Tassonomia confermata:** Lythraceae (Punicaceae storica).
+- [x] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, pp. 189–191 · D pp. 362–367**; fonte: Moldenke + Duke + Kew + NCCIH; **stato: BOZZA_WP (tavola importata Media #238, pubblicazione e controllo mobile pendenti)**; WP: `212` (pianta), `213` (medicina), `214` (nome antico), `218–223` (6 passi); altre fonti `215–217`; `195` collegamento a Numeri 13:24. **Tassonomia confermata:** Lythraceae (Punicaceae storica).
 
 - [ ] **ATL-0188 · *Quercus coccifera*** — Quercia spinosa; **M voce 171, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -913,27 +913,27 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 |---|---|---|---|---|---|---|
 | 2026-11-17 | ATL del catalogo relativo a Olivo, Vite e Fico | Riconciliazione del catalogo iniziale | PUBBLICATA | Stato WordPress esistente, non nuove pubblicazioni | 129 / 143 / 152 | 3 schede preesistenti; mantenere i loro link. |
 | 2026-11-17 | Tutte | Creato master di specifiche e roadmap | DOCUMENTATO | Cataloghi Moldenke/Duke forniti | — | Nessuna scrittura sul sito effettuata per questa consegna. |
-| 2026-11-17 | ATL-0186 · Melograno | Consultate integralmente voci originali, redatta scheda botanica ampia, medicina storica, lemma rimmôn, 6 schede bibliche, 3 nuove fonti e 15 identificazioni pianta–passo; SEO in bozza | BOZZA_WP | Moldenke n.169 pp.189–191; Duke Pomegranate pp.362–367; Kew POWO; NCCIH; Diodati 1649 | 212–223 (12 ID, inclusi 3 fonti); Numeri 13:24 #195 riusato | Tavola botanica WebP creata e revisionata preliminarmente; caricamento Media, pubblicazione e QA responsive pendenti. |
+| 2026-11-17 | ATL-0186 · Melograno | Consultate integralmente voci originali, redatta scheda botanica ampia, medicina storica, lemma rimmôn, 6 schede bibliche, 3 nuove fonti e 15 identificazioni pianta–passo; SEO in bozza | BOZZA_WP | Moldenke n.169 pp.189–191; Duke Pomegranate pp.362–367; Kew POWO; NCCIH; Diodati 1649 | 212–223 (12 ID, inclusi 3 fonti); Numeri 13:24 #195 riusato | Tavola botanica WebP importata e associata come immagine in evidenza #238; audit SEO senza rilievi per #212; pubblicazione e QA responsive ancora pendenti. |
 | [AAAA-MM-GG] | ATL-XXXX | [Sintesi attività] | [Stato] | [Pagine/fonti] | [ID] | [Blocchi/decisioni] |
 
 ### Protocollo immagini via MCP (plugin 0.1.9)
 
-- **Stato al 17 novembre 2026:** pacchetto `pdb-atlante-0.1.9.zip` prodotto e testato localmente, **non ancora installato** su Altervista. Non dichiarare importazione riuscita prima della verifica MCP sul server.
-- **Tavola Melograno:** immagine WebP originale inclusa nel pacchetto alla voce `assets/img/punica-granatum-tavola.webp`, da associare in automatico alla pianta WordPress #212 dopo l'aggiornamento; conservare alt text e provenienza digitale.
+- **Stato al 17 novembre 2026:** pacchetto `pdb-atlante-0.1.9.zip` **installato e verificato** su Altervista. `pdb/atlas-health` = `0.1.9`; `pdb/atlas-media-import-bundled` = 0 importate, 5 già presenti, 0 errori.
+- **Tavola Melograno:** immagine WebP originale inclusa nel plugin e **importata automaticamente** nella Libreria Media WordPress #238, associata alla scheda #212 (featured e `pdb_plate_media_id`). Alt text e provenienza registrati.
 - **Import diretto locale:** l'abilità `pdb/atlas-media-import-bundled` importa e collega le tavole senza connessioni HTTPS in uscita, e restituisce gli ID media.
 - **Tavole nuove senza reinstallare ogni volta:** protocollo MCP autenticato `pdb/atlas-media-start` → blocchi `pdb/atlas-media-chunk` → `pdb/atlas-media-finish`. Trasferimento base64 per blocchi da 48 KiB massimo, SHA-256 e validazione del MIME, fino a 8 MiB. Ogni chiamata richiede un amministratore WordPress autorizzato.
 - **Sicurezza:** non sovrascrivere immagini in evidenza esistenti senza richiesta esplicita; verificare `pdb_plate_media_id`, `_thumbnail_id`, alt text, Media Library e resa mobile.
-- **Test locali:** tavola WebP Punica 431716 byte, 11 blocchi, checksum finale identico e registrazione dell'immagine simulata su WordPress; superati PHP lint e integrità ZIP. **Resta obbligatorio il test live dopo installazione.**
+- **Test locali:** tavola WebP Punica 431716 byte, 11 blocchi, checksum finale identico e registrazione simulata; PHP lint e ZIP integri. **Test live:** importazione locale idempotente e senza errori, Media #238 e featured #212 verificati; protocollo MCP `media-start` → `media-chunk` (68 byte ricevuti) → `media-abort` superato senza media residui. Finalizzazione (`media-finish`) con un file nuovo ancora da provare alla prossima tavola; non crearne una copia di test inutile.
 
 ### Dettaglio di lavorazione — ATL-0186 Melograno (17 novembre 2026)
 
-- **Stato:** `BOZZA_WP`, non pubblicata: attesa tavola botanica in Media Library, featured image e controllo finale.
+- **Stato:** `BOZZA_WP`, non pubblicata. Tavola WebP in Libreria Media #238, featured e `pdb_plate_media_id` associati alla pianta #212; audit SEO senza problemi per #212. Restano pubblicazione e QA visuale.
 - **Fonti direttamente consultate:** Moldenke, voce 169, pp. 189–191 (pagina PDF 185–187); Duke, voce «Pomegranate», pp. 362–367 (PDF 388–393). Consultati inoltre Kew POWO e NCCIH. Nessuna presunta prova clinica attribuita alle liste popolari di Duke.
 - **Nuove schede WordPress:** botanica `212`; usi tradizionali e sicurezza `213`; nome ebraico rimmôn `214`; fonti Kew `215`, NCCIH `216` e Diodati 1649 `217`; Deut 8:8 `218`, Es 28:33–34 `219`, Cant 4:3 `220`, Cant 8:2 `221`, Gioele 1:12 `222`, Aggeo 2:19 `223`. Riutilizzata la citazione Numeri 13:24 `195`.
 - **Relazioni:** 15 identificazioni pianta–passo, 13 collegamenti con nomi antichi, 22 citazioni di fonte aggiunte, da verificare nuovamente dopo pubblicazione.
 - **Tassonomia:** `Punica granatum L.` accettata, Lythraceae; `Punicaceae` nel testo Duke come classificazione storica. Il termine Rimmon nel nome di una divinità non è una pianta.
-- **Tavola originale:** `tavola-botanica_punica-granatum.webp` (1086 × 1448 px, ~432 KB), creata digitalmente nello stile botanico ottocentesco, **non** una riproduzione di Thomé. Caricamento tramite Media WordPress in sospeso per limiti dell'accesso di rete del runtime.
-- **Da completare:** ottenere l'ID Media, impostare featured image e `pdb_plate_media_id`, pubblicare il nucleo se il controllo è positivo, rieseguire audit SEO, verificare mobile e desktop. Aggiornare questa riga a `PUBBLICATA` solo quando lo è realmente.
+- **Tavola originale:** `tavola-botanica_punica-granatum.webp` (1086 × 1448 px, ~432 KB), creata digitalmente nello stile botanico ottocentesco, **non** una riproduzione di Thomé. Media WordPress #238 importato e collegato automaticamente dal plugin 0.1.9.
+- **Da completare:** eventuale controllo editoriale finale sulle 6 citazioni, pubblicare il nucleo (12 bozze) se approvato, verificare link, mobile e desktop. Audit SEO per pianta #212 già superato. Aggiornare lo stato a `PUBBLICATA` solo dopo la pubblicazione effettiva.
 
 ## 14. Aggiornamento e continuità del Markdown
 
