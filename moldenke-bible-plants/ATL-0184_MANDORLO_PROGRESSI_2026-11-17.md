@@ -1,5 +1,15 @@
 # Progressi Mandorlo — ATL-0184 — 17 novembre 2026
 
+## PUBBLICAZIONE COMPLETATA — 17 novembre 2026
+
+**Stato finale verificato:** tutte le **13 schede Mandorlo** pubblicate in WordPress: pianta #467; medicina #469; termini #470–471; fonti #472 e #516; sette passi #473–479. **Pianta pubblica:** https://piantedellabibbia.altervista.org/piante/mandorlo-prunus-amygdalus/.
+
+**MEDIA_OK**: upload **100% via MCP** con `pdb/atlas-media-start` + `pdb/atlas-media-chunk` in **6 blocchi** + `pdb/atlas-media-finish`. Tavola WebP originale 1086×1448, 274258 byte, SHA256 `61bc8c50109d0f6c9037d195f3634f77411219027ae558d45986e3ad6dac85c0`. Media #523, ALT verificato, `featured_image_id=523`, `pdb_plate_media_id=523`, provenienza aggiornata. **Audit SEO #467: status publish, zero warning**; tutte le otto piante pubblicate precedenti ugualmente senza warning. Verificato il markup pubblico del Mandorlo: figura, sorgente responsive WebP, H1, navigazione interna, sette schede bibliche, sezione medicina e dossier scientifico visibili nel DOM.
+
+La connessione MCP è sufficiente anche per trasferimenti binari grazie al canale `files__read` in Code Mode; il precedente workaround di browser/upload manuale non è più necessario. **Non creare plugin 0.2.5 per la prossima immagine.** I precedenti paragrafi «pending» in questo documento sono cronologia superata da questa verifica. Procedura ripetibile: [Procedura media](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md). Prossima specie della roadmap: **ATL-0147 Mirto (Myrtus communis)**.
+
+
+
 ## Stato aggiornato — revisione finale editoriale e SEO (17 novembre 2026)
 
 - **13 bozze WordPress non pubblicate**: pianta #467, medicina #469, lemmi #470–471, Kew #472, 7 passi biblici #473–479 e nuova fonte BDB #516. La bozza #467 resta intenzionalmente privata fino alla presenza di un'immagine in evidenza valida.
