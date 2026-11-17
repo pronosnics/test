@@ -384,9 +384,9 @@ Queste schede sono **pubblicate**, non da ricreare. Incrementare i contenuti, co
 
 Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilità e buoni percorsi interconnessi. L’ordine alfabetico qui sotto **non** implica l’ordine di lavorazione.
 
-- [ ] **ATL-0015 · *Allium cepa*** — Cipolla; **M voce 24, p. 33 · D p. 16**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0015 · *Allium cepa*** — Cipolla; **M voce 24, p. 33 · D pp.16–20**; fonte: Moldenke + Duke; **stato: IN_CORSO / BOZZA #627**, media WebP #629 via MCP SHA verificato, passo condiviso #626 e termine #630, non pubblicata, audit finale e medicina da completare. [Checkpoint](ATL-0015_0017_ALLIUM_LOTTO_PROGRESSI_2026-11-17.md).
 
-- [ ] **ATL-0017 · *Allium sativum*** — Aglio; **M voce 23, p. 32 · D p. 23**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0017 · *Allium sativum*** — Aglio; **M voce 23, p. 32 · D pp.23–30**; fonte: Moldenke + Duke; **stato: IN_CORSO / BOZZA #628**, passo condiviso #626 e termine #631, manca tavola originale WebP e audit finale, non pubblicata. [Checkpoint](ATL-0015_0017_ALLIUM_LOTTO_PROGRESSI_2026-11-17.md).
 
 - [ ] **ATL-0019 · *Aloe vera*** — Aloe; **M — · D p. 30**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
