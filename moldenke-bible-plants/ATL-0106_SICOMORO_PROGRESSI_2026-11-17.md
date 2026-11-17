@@ -1,5 +1,18 @@
 # Progressi Sicomoro — ATL-0106 — 17 novembre 2026
 
+## Conferma plugin, tavola e SEO (ultima verifica MCP, 17 novembre 2026)
+
+- [x] Plugin **pdb-atlante 0.2.3** attivo.
+- [x] `pdb/atlas-media-import-bundled`: **imported=1, already_present=6, errors=[]**.
+- [x] Media #426 `image/webp` in WordPress: `tavola-botanica_ficus-sycomorus.webp`, ALT "Tavola botanica digitale originale del sicomoro, con foglie ovate, chioma espansa e grappoli di siconi cauliflori sul tronco e sui rami".
+- [x] Pianta WP #367: `featured_media=426` e `pdb_plate_media_id=426`; `pdb_image_provenance` aggiornato a importazione effettiva.
+- [x] SEO audit **0 rilievi su tutte le 7 piante**.
+- [x] Verifica visiva del file WebP originale: siconi e albero rappresentati in modo plausibile; la vignetta floreale isolata è **artistica e non anatomia esatta** perché i fiori di Ficus sono minuscoli e interni ai siconi. Non presentarla come diagramma diagnostico.
+- [ ] QA reale desktop e smartphone del template: non eseguita dalla sola verifica MCP.
+- [ ] Possibile variante futura della tavola con vignetta floreale rigorosa, per qualità botanica massima; non blocca la presenza dell'immagine e l'audit SEO.
+- [ ] Recupero facsimile originale Moldenke pp.106–107 (trascrizione esterna già letta).
+**Stato attuale:** PUBBLICATA / SEO_OK / MEDIA_OK / QA_GRAFICA_APERTA.
+
 ## Stato finale verificato in MCP — 17 novembre 2026
 
 **PREVALE SULLA CRONOLOGIA SOTTOSTANTE:** il Sicomoro **WP #367 è PUBBLICATO** all'URL https://piantedellabibbia.altervista.org/piante/sicomoro-ficus-sycomorus/. Anche **tutte le 17 pagine collegate #368–384 risultano PUBBLICATE**. Conteggi pubblici ricontrollati usando `pdb/atlas-list`: **7 piante, 52 passi biblici, 12 nomi antichi, 7 medicinali, 24 fonti**. La fonte primaria Duke pp191–194 è stata controllata sul PDF dell'utente e la voce Moldenke p108 e nota p282 sull'originale; pp106–107 disponibili in **trascrizione digitale esterna Scribd** ma facsimile originale non presente nella Libreria.
