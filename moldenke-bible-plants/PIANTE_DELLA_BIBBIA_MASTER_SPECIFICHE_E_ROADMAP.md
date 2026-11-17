@@ -1110,3 +1110,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 ---
 
 **Obiettivo finale:** non un semplice elenco di erbe, ma un **Atlante storico-botanico biblico completo**, di centinaia di documenti interconnessi, con **schede narrative molto approfondite**, citazioni testuali corrette, apparato di fonti verificabile, tavole botaniche originali e una distinzione rigorosa tra tradizione medicinale e scienza contemporanea.
+
+### Verifica lotto ATL-0019 / ATL-0022 — 17/11/2026 ore 20:28 CET
+
+Controllo MCP `pdb/atlas-health`: plugin **0.2.4** confermato, non modificato. `pdb/atlas-list` con ricerca `Aloe` e `Anastatica`: **nessun risultato** (controllo preliminare, non sostituisce deduplicazione per tutti i lemmi e ID). Il lotto **resta APERTO**: non risultano pubblicazioni, tavole caricate, checksum o audit SEO conclusivi in questa verifica. Fonti preliminari: Duke Aloe pp.30–35 e Anastatica p.36; indice Moldenke Aloe succotrina p.231 e Anastatica p.38; le pagine esatte e i confini delle voci devono essere collazionati sugli originali prima di creare/pubblicare schede. Attenzione: l'`Aloe` biblico aromatico non è automaticamente *Aloe vera*; verificare l'identificazione con cautela. Prossima coppia **ATL-0019 e ATL-0022**, senza spuntare le caselle.
