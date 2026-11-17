@@ -1,0 +1,3 @@
+# Lotto ATL-0019 / ATL-0022 — registro progressi
+
+17 novembre 2026 ore 20:28 CET: controllo diretto `pdb/atlas-health`: versione **0.2.4**; `pdb/atlas-list` per `Aloe` e `Anastatica` restituisce zero elementi. Consultati indici delle fonti, individuati Duke pp.30–36 e Moldenke pp.35/38/231 da ricontrollare sui facsimili. Roadmap aggiornata, commit `868734c40619e4d8afea05ac77f86846b6e535ae`. **Blocco editoriale:** mancano lettura comparativa integrale e tavole WebP importate con checksum; pertanto niente pubblicazione e nessun [x]. Prossimo lavoro: completare questo stesso lotto prima di procedere ad altre specie. Plugin invariato. QA visiva non effettuata.
