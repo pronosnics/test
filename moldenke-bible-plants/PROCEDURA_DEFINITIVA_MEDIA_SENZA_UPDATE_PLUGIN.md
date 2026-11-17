@@ -1,5 +1,17 @@
 # Procedura definitiva: immagini botaniche senza aggiornare il plugin
 
+## TERZO TEST: Lentisco ATL-0176, media #609 (17/11/2026)
+
+**Transfer completato** tramite gli stessi strumenti MCP senza nuovo plugin: `tavola-botanica_pistacia-lentiscus.webp` WebP originale **1086×1448 px, 509488 byte**, SHA-256 `0cf339de26d158a3a2c24e1dce15a05fb9d826195331277bdd5acdf816cbc7ec`.
+
+- Compattazione lossless del **trasferimento** (non perdita di dati): l'originale WebP viene codificato in file temporaneo ASCII privato, una riga Base64 per ogni gruppo di **24.000 byte raw**, cioè **32.000 caratteri** per ogni riga completa; blocco 22 finale di 5488 byte, 7320 caratteri Base64.
+- Staging temporaneo via `files__manage_library` (destination in root Libreria) → `file_id` esatto → `pdb/atlas-media-start` con post_id 597, 509488 byte e SHA → lettura `files__read` delle righe una per volta per `pdb/atlas-media-chunk` con offset sequenziale. Risultato **22/22 blocchi, remaining_bytes=0**.
+- `pdb/atlas-media-finish` ha restituito **`attachment_id=609`, `featured_image_id=609`, checksum identico**, URL https://piantedellabibbia.altervista.org/wp-content/uploads/2026/11/tavola-botanica_pistacia-lentiscus.webp. Confermati Media Library ALT, titolo, didascalia e `pdb_plate_media_id=609`, SEO finale zero problemi.
+- Il file di staging `atl0176_lentisco_mcp_staging_20261117_tmp.txt` **è stato eliminato dalla Libreria** (spostato nel cestino) dopo la conclusione. Non conservare il Base64 tra le fonti GitHub e non modificare `pdb-atlante 0.2.4` per immagini future.
+
+---
+
+
 ## Promemoria operativo per OGNI nuova specie (a partire dal Terebinto ATL-0177)
 
 **Procedura standard obbligatoria già funzionante con Mandorlo e Mirto:** creare la tavola botanica originale, convertire in WebP mantenendo una sola versione finale, verificare pixel/peso/SHA-256, fare uno staging **temporaneo e privato** del file base64 in righe di esattamente 32.000 caratteri (24.000 byte raw per blocco), leggere le righe con Files e inoltrarle **in sequenza** a `pdb/atlas-media-start` → `pdb/atlas-media-chunk` → `pdb/atlas-media-finish` tramite il server MCP Piante della Bibbia. Confrontare SHA-256 originale e restituito; verificare allegato, ALT, featured, `pdb_plate_media_id`, provenienza, responsive/SEO; **eliminare subito il file temporaneo dalla Libreria**. Pubblicare solo dopo i controlli. **Non cambiare mai versione del plugin per caricare una tavola:** 0.2.4 sufficiente. Se fallisce, riprendere verificando `next_offset` ed evitare doppi allegati; non reintrodurre il caricamento manuale come passo ordinario.
