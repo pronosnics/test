@@ -1,5 +1,9 @@
 # Mandorlo — Prunus amygdalus Batsch (ATL-0184)
 
+## Aggiornamento tavola botanica e architettura (17 novembre 2026)
+
+Tavola contemporanea del mandorlo generata e controllata nel contesto conversazione: **1086×1448 WebP, 428.820 byte, SHA256 ba05f9b3ab5a42f8794b57ecb48c09ed92319847b659b25e1f49c9ec96c73ccf**. Comprende albero primaverile, fiore pentamero, foglia seghettata, drupa verde, nocciolo edibile distinto dal seme. Il file è pronto per importazione ma **non ancora associato a WordPress #467**. Si è verificata l'autorizzazione di `pdb/atlas-media-start` e `pdb/atlas-media-abort` nella versione 0.2.4, ma nessun trasferimento binario completo per questa tavola. Per le prossime immagini usare il workflow MCP generico senza creare nuove versioni del plugin: [Procedura permanente immagini senza nuove versioni](PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md). Le 12 schede restano DRAFT per la collazione Diodati dei 7 versetti e la QA grafica.
+
 **Data:** 17 novembre 2026. **Stato:** 12 bozze WordPress, NON pubblicate, **#467 e #469–479**. **Nome attualmente accettato da Kew:** *Prunus amygdalus* Batsch, famiglia **Rosaceae**; *Prunus dulcis* (Mill.) D.A.Webb è sinonimo secondo Kew, come *Amygdalus communis* L. della voce Moldenke. Non creare una seconda specie per questi nomi.
 
 **Fonti principali originali consultate:** H. N. e A. L. Moldenke, *Plants of the Bible* (1952), **voce 28, pp.35–38**; James A. Duke, *Duke's Handbook of Medicinal Plants of the Bible* (2008), **Almond pp.355–360** (PDF Libreria pp.381–386). Kew POWO, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60439867-2 e sinonimia di *Prunus dulcis* https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729673-1.
