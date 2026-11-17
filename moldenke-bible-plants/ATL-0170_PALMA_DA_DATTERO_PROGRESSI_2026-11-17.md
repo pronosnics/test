@@ -54,3 +54,13 @@
 - Aggiornare la riga ATL-0170 e i contatori pubblici nel master; quindi selezionare il Sicomoro (Ficus sycomorus) secondo la roadmap.
 
 **Sorgenti:** [roadmap master](PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md); [dossier approfondito](ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md).
+
+## Verifica MCP successiva e revisione puntuale
+
+- **Plugin letto:** pdb-atlante 0.2.1, attivo e connesso.
+- **Bozze confermate in WordPress:** plant #308 e medicina #309 lette, status=draft e metadati salvati; citazione Giovanni #321 letta e corretta.
+- **Relazioni verificate dopo scrittura:** 9 identificazioni di Palma #308 (#315–322 e #274); 8 relazioni a tāmār/phoînix; 27 legami fonte→nuovi contenuti (#107–133). Nessuna duplicazione del Salmo.
+- **Giovanni 12:13:** correggere la resa della breve citazione secondo Diodati storica 1649 da «rami di palma» a **«prese de’ rami di palme»**; aggiornamento WP #321 eseguito 17/11 e riscontrato.
+- **pdb/seo-audit** dopo creazione: 7 elementi controllati, 5 segnalazioni tutte relative alla nuova bozza botanica #308, mentre il Cedro #266 e le altre 4 piante già pubblicate hanno 0 segnalazioni. Per #308: titolo SEO mancante; meta descrizione mancante; immagine in evidenza assente; riferimenti biblici segnalati assenti dall'audit; bibliografia segnalata assente. Gli ultimi due avvisi persistono **nonostante** siano stati scritti riferimenti testuali e legami MCP: verificare se il controllo SEO filtra relazioni verso bozze o attende metadati specifici. Non presumere una causa senza leggere il codice del plugin.
+- **Blocco tecnico verificato:** pdb/atlas-update di v0.2.1 non permette di modificare i metadati SEO pdb_seo_title, pdb_meta_description, pdb_focus_keyword attraverso MCP. Le richieste sono state rifiutate, non si sono ottenuti aggiornamenti SEO. Servirà percorso amministrativo consentito o una nuova versione del plugin.
+- **Nessuna pubblicazione:** tutte le 15 nuove voci restano bozze, con immagine ed audit da completare. Questo stato non influisce sui contatori pubblici 5/33/6/5/15.
