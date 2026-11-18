@@ -557,9 +557,9 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0048 · *Butomus umbellatus*** — **Giunco fiorito PUBBLICATO** WP **#831**, Moldenke voce 52 p62, Duke senza monografia autonoma, Kew Butomaceae e distribuzione Palestina ma non Egitto nativo. Ebraico *ʾāḥû* H260 in Gen 41:2,41:18 e Job 8:11; legame botanico controverso. Supporti **#832–838**, Job 8:11 **#437** riutilizzato. Tavola originale vettoriale WebP **Media #839** featured/ALT/SHA/`pdb_plate_media_id=839`, SEO **0 issue dopo publish**. [Dossier](ATL-0048_BUTOMUS_UMBELLATUS_DOSSIER_2026-11-18.md).
 
-- [ ] **ATL-0049 · *Buxus longifolia*** — nome italiano da definire; **M voce 53, p. 62 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0049 · *Buxus longifolia*** — taxon oggi accettato **Buxus balearica Lam.** (Kew; *B. longifolia* Boiss. sinonimo). **PUBBLICATO WP #849**, Media WebP **#859**, SHA/ALT/featured/`pdb_plate_media_id` confermati, **SEO 0 issue**. Moldenke voce 53 **pp62–63**, Duke Boxwood **pp69–72** per confronto, soprattutto p72 per alcaloidi *longifolia*. Isaia 41:19/60:13 e Ezechiele 27:6 controversi; supporti condivisi #851–858. [Dossier](ATL-0049_BUXUS_BALEARICA_DOSSIER_2026-11-18.md). QA visiva separata.
 
-- [ ] **ATL-0050 · *Buxus sempervirens*** — nome italiano da definire; **M — · D p. 69**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0050 · *Buxus sempervirens*** — **PUBBLICATO WP #850**, Media WebP originale schematica **#860**, SHA/ALT/featured/`pdb_plate_media_id` confermati, **SEO 0 issue**. Moldenke voce 53 **pp62–63** confronto, Duke **Boxwood pp69–72** con tossicità p71; Kew conferma specie distinta da B. balearica. Isaia 41:19/60:13 e Ezechiele 27:6 controversi, supporti #851–858 condivisi senza doppioni. [Dossier](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md). QA visiva separata.
 
 - [ ] **ATL-0051 · *Calotropis procera*** — nome italiano da definire; **M — · D p. 72**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1286,3 +1286,13 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [ ] **QA visiva indipendente desktop/mobile ancora non attestata**, distinta da verifica publish/media/SEO; la tavola vettoriale di Butomus potrà essere migliorata esteticamente senza creare un doppione della scheda.
 - **Prossime specie da esaminare:** ATL-0049 *Buxus longifolia* e ATL-0050 *Buxus sempervirens*, dopo verifica sinonimia e post già presenti. Non aprire duplicati. **Automazione programmata sospesa** e non riattivata da questa sessione manuale.
 - [Dossier Senape](ATL-0047_BRASSICA_NIGRA_DOSSIER_2026-11-18.md) · [Dossier Butomus](ATL-0048_BUTOMUS_UMBELLATUS_DOSSIER_2026-11-18.md) · [Progressi](ATL-0047_0048_PROGRESSI_2026-11-18.md).
+
+### 18 novembre 2026 — Chiusura manuale ATL-0049 / ATL-0050 (Buxus)
+
+**Verifica anti-duplicati:** non ripresi ATL-0047 senape #807 o ATL-0048 Butomus #831: entrambi già pubblicati, come confermato prima di aprire i bossi. Kew POWO riconosce *Buxus longifolia* Boiss. come **sinonimo di *Buxus balearica* Lam.**, distinta da *Buxus sempervirens* L.; due sole nuove schede botaniche.
+- [x] **ATL-0049** — Buxus balearica (sin. longifolia), pianta **WP #849 publish**, media originale **#859**, SHA-256 `f3a6328a70ece2536aa03fe0c55e5c25c54de2720a67460189a9ecc830e322bb`, 164662 byte, 7 blocchi MCP, featured/ALT/meta `pdb_plate_media_id=859`, **SEO audit 0 issue**; Moldenke voce 53 pp62–63 e Duke Boxwood pp69–72 (p72 estratti *longifolia*). https://piantedellabibbia.altervista.org/piante/bosso-a-foglie-lunghe-buxus-balearica-sin-buxus-longifolia/
+- [x] **ATL-0050** — Buxus sempervirens, **WP #850 publish**, Media illustrativa schematica **#860**, SHA-256 `9e796cee63d9a355d762c36cff83f573c9ad0488f0a2b6133914ef484b16c7e2`, 52826 byte, 3 blocchi MCP, featured/ALT/meta `pdb_plate_media_id=860`, **SEO audit 0 issue**. Duke pp69–72, rischi e tossicità p71, dati di Buxus longifolia p72 non trasferiti automaticamente. https://piantedellabibbia.altervista.org/piante/bosso-comune-buxus-sempervirens-e-il-bosso-nella-bibbia/
+- **CPT di supporto pubblicati #851–858**: due fonti Kew, BDB H8391, termine *təʾaššûr*, due schede medicina storica e due passi (Is 60:13, Ez 27:6). Riutilizzato Isaia 41:19 **#531**; fonti comuni Moldenke **#135** e Duke **#136**. Identificazioni bibliche **#144–149**, tutte `controversa`; **14 source citations** nuove. Il taxon è una possibilità storica, non attestazione botanica certa.
+- **Totale WordPress dopo la pubblicazione: 25 schede botaniche** `publish`. Audit di #849/#850: `issues=[]`. **QA visiva indipendente [ ]**, non simulare screenshot.
+- **Prossimo ATL-0051 Calotropis procera**, da ricontrollare WP/Kew/Duke e tradizioni «pomo di Sodoma», con particolare attenzione alla tossicità del lattice; non ancora aperto. **Automazione schedulata ancora sospesa**, nessun aggiornamento di plugin.
+- [Dossier Buxus balearica](ATL-0049_BUXUS_BALEARICA_DOSSIER_2026-11-18.md) · [Dossier Buxus sempervirens](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md) · [Registro](ATL-0049_0050_PROGRESSI_2026-11-18.md).
