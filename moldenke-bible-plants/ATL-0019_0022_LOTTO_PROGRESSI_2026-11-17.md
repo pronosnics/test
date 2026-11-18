@@ -30,3 +30,6 @@ Riletta roadmap GitHub aggiornata; Allium ATL-0015/0017 chiuso, ripresa coppia A
 ### 18/11/2026 04:29 CET — verifica effettiva
 
 Riletta roadmap GitHub, reperito PDF Duke originale in Library (indice Aloe p30/Anabasis p35/Anastatica p36/Anemone p37). MCP `pdb/atlas-health` = successo, plugin 0.2.4. `pdb/atlas-list` per Aloe, Anastatica, gulgal, Giovanni 19:39, Salmo 83:13: tutti 0 risultati. **Limite:** ricerca testuale non sostituisce deduplicazione per ID/lemma né confronto integrale delle fonti. Nessuna modifica WordPress, WebP, upload, checksum, audit SEO o pubblicazione. Blocco editoriale ancora attivo: collazione completa, confini Moldenke, schede, immagini e QA. Prossima coppia ATL-0019/0022; nessun [x].
+
+### 18/11/2026 05:26 CET — stato verificato
+Consultati repository corrente e procedura media; MCP health: `success:true`, plugin 0.2.4, upload start/chunk/finish disponibile. Library search: PDF Duke originale e indici Moldenke, non prova di collazione integrale. **ATL-0019 e ATL-0022 APERTI**. Nessuna nuova pubblicazione, immagine o SHA in questo controllo. Blocker: confronto completo PDF e confini specie, dedup entità, tavole originali, staging/trasferimento, audit SEO. Prossima coppia invariata. Nessuna casella [x] modificata.
