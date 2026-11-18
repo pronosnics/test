@@ -3,7 +3,7 @@ project: "Piante della Bibbia — Atlante integrato"
 document_type: "specifica-editoriale-e-roadmap"
 version: "1.0"
 created: "2026-11-17"
-last_catalog_check: "2026-11-17"
+last_catalog_check: "2026-11-18"
 reference_plugin: "pdb-atlante 0.2.4"
 source_registry:
   moldenke: "Moldenke.pdf"
@@ -396,9 +396,9 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0017 · *Allium sativum*** — **AGLIO PUBBLICATO 17/11/2026**; Moldenke voci 22/23 p32 e Duke Garlic pp23–30 letti, disputa storica scalogno/aglio e differenza dal porro; Kew Amaryllidaceae, BDB H7762. Pianta WP **#628**, passo condiviso Numeri 11:5–6 **#626** (nessun duplicato), lemma šûm **#631**, medicina **#640**, fonti Kew #634, BDB #635, EMA #636, NIH/NCCIH #637, Merck #661. Tavola WebP originale **Media #632** 1086×1448, 241004 byte, checksum verificato, **11 blocchi MCP**, ALT/featured OK. SEO **0 avvisi**, status `publish` verificato, plugin 0.2.4 invariato. [Scheda](https://piantedellabibbia.altervista.org/piante/aglio-allium-sativum/) · [Dossier](ATL-0017_AGLIO_DOSSIER_2026-11-17.md) · [Progressi lotto](ATL-0015_0017_ALLIUM_LOTTO_PROGRESSI_2026-11-17.md).
 
-- [ ] **ATL-0019 · *Aloe vera*** — Aloe; **M — · D p. 30**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0019 · *Aloe vera*** — Aloe; **M confronto storico *A. succotrina* voce 27 p. 35 e *Aquilaria* pp. 47–48 (taxa distinti) · D pp. 30–35**; **stato: PUBBLICATA / MEDIA_OK / SEO_0**; WP: `666`, Media `676`.
 
-- [ ] **ATL-0022 · *Anastatica hierochuntica*** — Rosa di Gerico; **M voce 29, p. 38 · D p. 36**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0022 · *Anastatica hierochuntica*** — Rosa di Gerico; **M voci 29/30 pp. 38–39 · D pp. 36–37**; fonte: Moldenke + Duke; **stato: PUBBLICATA / MEDIA_OK / SEO_0**; WP: `667`, Media `677`.
 
 - [ ] **ATL-0024 · *Anemone coronaria*** — Anemone; **M voce 32, p. 41 · D p. 37**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -508,7 +508,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0016 · *Allium porrum*** — nome italiano da definire; **M voce 25, p. 34 · D p. 21**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0018 · *Aloe succotrina*** — nome italiano da definire; **M voce 27, p. 231 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0018 · *Aloe succotrina*** — aloe di Socotra (specie distinta da Aloe vera); **M voce 27, p. 35 stampata/PDF (riferimento p.231 errato) · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
 - [ ] **ATL-0020 · *Alopecurus anthoxanthoides*** — nome italiano da definire; **M voce 11, p. 28 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1182,3 +1182,15 @@ MCP `pdb/atlas-create-draft` ha confermato **#666 Aloe vera** e **#667 Anastatic
 - Dedup prima di creare: `pdb/atlas-list` per tipo ha mostrato **86 quote, 28 termini, 48 fonti, 14 medicine**, nessuna corrispondenza titolare delle sei voci. **Fonti condivise già presenti #135 Moldenke e #136 Duke: riutilizzarle**, non duplicarle. Verificare ancora relazioni tramite ability dedicate e meta di versetto prima del publish.
 - **Zero nuovi media, SHA, publish, audit SEO finale.** Non marcare [x]. Tavole WebP e upload MCP ancora mancanti, così come collazione facsimile Moldenke Aloe e verifica finale integrale. Plugin 0.2.4 non controllato né modificato.
 - **Prossimo passo concreto:** leggere procedura media e generare/caricare tavole WebP per #666/#667; poi linkare #670–675 alle piante e fonti #135/#136, completare verifica originali e audit, pubblicare soltanto dopo esito positivo. Non ricreare #670–675.
+
+
+### Lotto ATL-0019 Aloe vera e ATL-0022 Anastatica — CHIUSO, PUBBLICATO, MEDIA_OK, SEO_0 (18/11/2026)
+
+**Conferma MCP WordPress post-publication**: due piante **#666 (Aloe vera)** [pubblicata](https://piantedellabibbia.altervista.org/piante/aloe-vera-bibbia-gel-lattice-giovanni-19/) e **#667 (Anastatica hierochuntica)** [pubblicata](https://piantedellabibbia.altervista.org/piante/rosa-di-gerico-anastatica-hierochuntica-bibbia/); entrambe `publish` con `pdb/seo-audit` **0 issue**, featured e `pdb_plate_media_id` verificati.
+
+- **Aloe:** Media WebP **#676**, 1086×1448, 175292 byte, SHA-256 `63e14559bf2dd12f80ef28e244ab6222b82c30eb4afc676c030fe8a50e1abfa0`, 8 blocchi MCP, ALT verificato. **Correzione critica**: Moldenke voce 27 `Aloë succotrina Lam.` si trova davvero a **p. 35 del PDF e dell'edizione** (non PDF 227 né p. 231), figura 49; il confronto sugli aloe aromatici del Vecchio Testamento è a pp. **47–48**. Duke Aloe vera pp. **30–35** (Anabasis comincia in fondo a p.35). Le specie <em>Aloe vera</em> e <em>Aloe succotrina</em> sono distinte in Kew; Gv 19 non identifica necessariamente il gel moderno.
+- **Anastatica:** Media WebP **#677**, 1086×1448, 179848 byte, SHA-256 `096fde2a3c67d12ca228a202f9921c3a947172ce758660ed851ea2fac3049582`, 8 blocchi MCP, ALT verificato. Moldenke voci 29 Anastatica / 30 Gundelia pp. **38–39**; Duke Rose-of-Jericho pp. **36–37** (Anemone da fine p.37). Pianta igroscopica, non resuscitante; galgal H1534 in Sal 83:13 e Is 17:13 è **controverso** anche rispetto a Gundelia. Folklore ostetrico e anastatini in colture murine non sono prove cliniche.
+- **Altri 10 contenuti pubblicati e ri-verificati `publish`**: medicine storiche **#670–671**; termini **#672 galgal, #683 greco alóē G250**; passi **#673 Giovanni 19:39–40, #674 Salmo 83:13, #675 Isaia 17:13**; nuove fonti **#680 Kew Aloe, #681 Kew Anastatica, #682 BDB galgal**. Riutilizzate fonti bibliografiche condivise già pubblicate **#135 Moldenke e #136 Duke**. Relazioni passage_terms **#108–110**, identifications **#115–117** marcate controverse, source_citations **#370–389**. Nessuna copia duplicata dei passi o dei libri.
+- Staging Base64 temporaneo (8 righe di massimo 24.000 byte raw per specie) eliminato sia dalla Libreria (cestino) sia dal contenitore. Plugin **pdb-atlante 0.2.4 invariato**. L'audit automatico SEO è **0 avvisi anche DOPO la pubblicazione**, ma QA visuale indipendente desktop/mobile resta distinta e non dichiarata svolta.
+
+**Roadmap checklist:** ATL-0019 e ATL-0022 segnate [x] solo dopo conferma server. **Prossima coppia prioritaria da verificare prima della creazione:** **ATL-0024 Anemone coronaria e ATL-0028 Aquilaria agallocha**, nell'ordine del blocco prioritario; il taxon **ATL-0018 Aloe succotrina** rimane una scheda botanica SEPARATA ancora aperta (riferimento originale M p.35 corretto). Non superare due specie nella prossima esecuzione. Nessuna ripetizione dei controlli salute/versione plugin senza errore effettivo.
