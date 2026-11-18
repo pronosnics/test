@@ -40,3 +40,15 @@
 **Nota di metodo:** nessun dosaggio domestico della pianta tossica viene promosso; nessuna citazione parafrasata è spacciata per un testo Diodati letterale.
 
 **Prossima candidata, senza avvio del lotto:** ATL-0052 *Capparis sicula*, dopo verifica nomenclaturale e confronto con *C. spinosa*.
+
+
+## Seconda revisione completa del 18/11/2026 — correzioni inserite su WordPress
+- Rilette integralmente le sezioni NOTES, COMMON NAMES, ACTIVITIES, INDICATIONS, DOSAGES, DOWNSIDES ed EXTRACTS di Duke pp72–76 e i richiami Moldenke p79 e p281 nota73.
+- **Aggiunto al contenuto pubblico #874** il confronto morfologico fra la corolla e la corona di *Calotropis procera* e *C. gigantea*, secondo la chiave storica di Duke p74.
+- Approfondite le differenze regionali degli usi tradizionali (fonti egiziane, libanesi, omanite, yemenite, baluci e sudasiatiche), senza proporre ricette o terapie.
+- Integrate le **dermatosi bollose gravi e possibili cicatrici ipertrofiche** citate da Duke nella sezione DOWNSIDES, p76, oltre ai problemi cardiaci/gastrointestinali già trattati.
+- Precisato che l'attività sperimentale della **calotropina** descritta in EXTRACTS p76 riguarda **colture cellulari epidermoidi rinofaringee in vitro**, non persone e non efficacia antitumorale clinica.
+- Ricordato che Duke segnala confusione fra *C. procera* e *C. gigantea* nei repertori di nomi ed etnobotanica.
+- Ricontrollato il taxon Kew *Calotropis procera* (Aiton) W.T.Aiton / Apocynaceae e la documentazione clinica PMID33110881/19384022; confermata la distinzione fra vite di Sodoma, pomo extra-biblico e specie zoologica/botanica attribuita.
+- Le menzioni Moldenke pp79 e281 e la cautela sull'identificazione biblica restano corrette; nessun'altra omissione documentale sostanziale evidenziata nel perimetro delle voci consultate.
+- **Non** svolta QA fotografica del layout responsive; non dichiararla completata.
