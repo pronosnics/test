@@ -75,3 +75,12 @@ MCP `pdb/atlas-health` ha risposto `success:true`, versione 0.2.4, con upload me
 - Dedup prima di creare: `pdb/atlas-list` per tipo ha mostrato **86 quote, 28 termini, 48 fonti, 14 medicine**, nessuna corrispondenza titolare delle sei voci. **Fonti condivise già presenti #135 Moldenke e #136 Duke: riutilizzarle**, non duplicarle. Verificare ancora relazioni tramite ability dedicate e meta di versetto prima del publish.
 - **Zero nuovi media, SHA, publish, audit SEO finale.** Non marcare [x]. Tavole WebP e upload MCP ancora mancanti, così come collazione facsimile Moldenke Aloe e verifica finale integrale. Plugin 0.2.4 non controllato né modificato.
 - **Prossimo passo concreto:** leggere procedura media e generare/caricare tavole WebP per #666/#667; poi linkare #670–675 alle piante e fonti #135/#136, completare verifica originali e audit, pubblicare soltanto dopo esito positivo. Non ricreare #670–675.
+
+
+## Chiusura verificata — 18/11/2026
+
+**Stato: PUBBLICATA / MEDIA_OK / SEO_0**. [Aloe WP #666](https://piantedellabibbia.altervista.org/piante/aloe-vera-bibbia-gel-lattice-giovanni-19/) `publish`, Media **#676**, ALT e featured/`pdb_plate_media_id` =676, WebP 175292 byte 1086×1448, SHA-256 `63e14559bf2dd12f80ef28e244ab6222b82c30eb4afc676c030fe8a50e1abfa0`; trasmessa in 8 blocchi con checksum confermato da server. Audit SEO **zero issue** prima e dopo publish. Staging eliminato.
+
+**Omissioni colmate mediante rilettura del PDF originale**: Moldenke voce **27 Aloë succotrina Lam.**, **p.35 PDF/stampata**, non p.231/p.227; morfologia storica con fiori rossastri dai vertici verdi, foglie in rosetta, succo condensato amaro e uso purgativo/emmenagogo, Socotra nell'attribuzione storica, distinzione esplicita da **Agave americana**, prezzo delle spezie e Nicodemo. Moldenke pp.47–48 distingue l'aloe dell'AT dai legni aromatici **Aquilaria/Santalum**, senza sinonimia con Aloe vera. Duke **pp.30–35**, p.35 confine Anabasis, con folklore vario, rischi del lattice, prove precliniche e studio psoriasi 72,5% vs 82,5% placebo. Kew conferma Aloe vera taxon accettato, Aloe succotrina Weston distinto. Greco `ἀλόη`/genitivo `ἀλόης` G250 associato a Gv 19:39 non identifica la specie con certezza.
+
+Contenuti collegati riutilizzati/pubblicati: medicina #670, lemma greco #683, passo #673, fonti Kew #680 e condivise #135/#136. Relazione passo-pianta controversa. **QA visiva desktop/mobile non svolta indipendentemente.** La specie storica separata ATL-0018 resta aperta.
