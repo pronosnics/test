@@ -43,3 +43,7 @@ Nuova lettura della roadmap GitHub corrente e del catalogo Library; trovato il P
 
 ### 18/11/2026 05:26 CET — controllo operativo
 MCP `pdb/atlas-health` ha risposto `success:true`, versione 0.2.4, con upload media disponibile. Fonte Duke originale individuata in Library, ma **nessuna nuova collazione integrale** in questa esecuzione; p.227 PDF Moldenke per *Aloe succotrina* resta una discrepanza da risolvere. Non creare identificazione certa tra aloe aromatico biblico e *A. vera*. Nessun nuovo WP ID, WebP, SHA, audit SEO o publish verificato. Stato APERTO; procedere prima con facsimile e dedup.
+
+
+### 18/11/2026 — sblocco operativo: bozze WordPress create
+**ATL-0019**: creata bozza WordPress **#666** (`draft`) con distinzione Aloe vera/Aloe succotrina, Giovanni 19, gel/lattice e cautela clinica.
