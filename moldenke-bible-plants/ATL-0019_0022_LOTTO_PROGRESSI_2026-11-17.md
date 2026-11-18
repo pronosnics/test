@@ -65,3 +65,12 @@ MCP `pdb/atlas-create-draft` ha confermato **#666 Aloe vera** e **#667 Anastatic
 - Dedup prima di creare: `pdb/atlas-list` per tipo ha mostrato **86 quote, 28 termini, 48 fonti, 14 medicine**, nessuna corrispondenza titolare delle sei voci. **Fonti condivise già presenti #135 Moldenke e #136 Duke: riutilizzarle**, non duplicarle. Verificare ancora relazioni tramite ability dedicate e meta di versetto prima del publish.
 - **Zero nuovi media, SHA, publish, audit SEO finale.** Non marcare [x]. Tavole WebP e upload MCP ancora mancanti, così come collazione facsimile Moldenke Aloe e verifica finale integrale. Plugin 0.2.4 non controllato né modificato.
 - **Prossimo passo concreto:** leggere procedura media e generare/caricare tavole WebP per #666/#667; poi linkare #670–675 alle piante e fonti #135/#136, completare verifica originali e audit, pubblicare soltanto dopo esito positivo. Non ricreare #670–675.
+
+
+## 18/11/2026 — LOTTO CHIUSO, avanzamento reale verificato
+
+**12 contenuti `publish`**: piante **#666 Aloe** e **#667 Anastatica**, medicine #670–671, termini #672 e #683, passi #673–675, fonti #680–682. Immagini originali **Media #676 (Aloe)** e **#677 (Anastatica)**. Hash Aloe `63e14559bf2dd12f80ef28e244ab6222b82c30eb4afc676c030fe8a50e1abfa0` (175292 byte, 8 chunk), Anastatica `096fde2a3c67d12ca228a202f9921c3a947172ce758660ed851ea2fac3049582` (179848 byte, 8 chunk); server ha validato entrambi, ALT e featured, `pdb_plate_media_id` confermati. Rimosso staging dalla Libreria e dal contenitore.
+
+Fonti primarie collazionate: Moldenke Aloe succotrina voce27 PDF p35 e Aquilaria pp47–48; Anastatica/Gundelia pp38–39; Duke Aloe pp30–35 e Rose-of-Jericho pp36–37. Corretto crosswalk errato Moldenke PDF227→35. Distinte Aloe vera, Aloe succotrina, Aquilaria; gemmazione igroscopica di Anastatica e alternative Gundelia per galgal. Kew, BDB H1534, greco G250 ricontrollati. Fonti comuni #135/#136 riutilizzate, relazioni controverse formalizzate, nessuna duplicazione. **SEO 0 issue su #666 e #667 dopo pubblicazione**. Plugin stabile 0.2.4 senza controlli health ripetitivi.
+
+**Prossima coppia prioritaria:** ATL-0024 Anemone coronaria e ATL-0028 Aquilaria agallocha, da confermare sempre rileggendo il MASTER prima di creare nuovi post. QA visiva browser desktop/mobile separata, non svolta. Gli stati vecchi «APERTI» in questo registro sono cronologia superata da questa chiusura.
