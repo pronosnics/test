@@ -38,3 +38,11 @@
 - [ ] Fonte Grilli Caiola–Guarrera–Travaglini: non attribuire dati specifici del cartamo senza lettura della pertinente pagina dell'opera completa.
 
 **Prossima specie aperta:** ATL-0056 *Centaurea calcitrapa* (ATL-0055 Cedrus libani già pubblicata).
+
+
+## Revisione successiva al completamento (18 novembre 2026)
+- Confrontata di nuovo la scheda pubblicata WP #905 con Duke, Safflower pp. 80–84, e Moldenke, p. 87. Nessuna nuova discordanza sostanziale relativa al termine biblico karkom: il cartamo rimane candidato controverso, il croco preferito da Moldenke.
+- Aggiunto a WordPress il codice storico di sicurezza **Class 2b–2d**, registrato in Duke DOWNSIDES p. 83, specificando che non è una classificazione clinica attuale.
+- Precisata la coda di NATURAL HISTORY p. 84: elenchi agronomici di nematodi, patogeni e virus, non dimostrazioni di identità biblica.
+- Distinzione mantenuta: olio alimentare, coloranti e preparati floreali medicinali non sono intercambiabili.
+- Revisione terminata senza introdurre nuovi taxa o passi biblici duplicati.
