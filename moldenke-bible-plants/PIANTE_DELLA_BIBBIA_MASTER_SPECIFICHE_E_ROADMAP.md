@@ -19,9 +19,14 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
 
 ## Stato operativo corrente — 18 novembre 2026
-**ULTIMA SPECIE COMPLETATA: ATL-0061 — *Cercis siliquastrum* L. (Albero di Giuda), WordPress #1014, tavola originale WebP #1021 (1086×1448). 34 piante botaniche pubblicate.** Fonti Moldenke voce 61 **p.73** (p.74 = voce successiva), Duke «Judas Tree» **pp.93–94**, Kew, RHS, Oxford e Bibelmuseum Münster. Il legame con Matteo 27:5 è **solo tradizionale**, identificazione controversa strutturata #169: né Matteo né Atti 1:18 nominano il taxon. Fonti dedicate #1015–1018; citazione #1019; usi tradizionali #1020. Audit SEO plugin **zero criticità**, immagine in evidenza presente. **Prossima ATL-0062 — *Cicer arietinum* L. (Cece), Duke «Chickpea» pp.94–97; verificare la trattazione e l'eventuale assenza di una voce Moldenke, e il lessico di Isaia 30:24.**
-**Precedente ATL-0060 — *Ceratonia siliqua* L. (Carrubo)**: WP #992, immagine #993; Luca 15:16 identificazione forte, Matteo 3:4/Marco 1:6 controversi, SEO 0 criticità. Le rilevazioni Lighthouse precedenti appartengono a questo lotto e non sono state replicate su ATL-0061.
-Le indicazioni «prossima» contenute nelle registrazioni storiche più in basso non prevalgono su questo stato operativo. Verifica grafica manuale desktop/mobile di ATL-0061 da compiere separatamente dall'audit SEO del plugin.
+**ULTIMA SPECIE COMPLETATA: ATL-0062 — *Cicer arietinum* L. (Cece), WordPress #1031, tavola botanica originale WebP #1043 (1086×1448). Totale 35 piante pubblicate.**
+- **Duke 2008**, «Chickpea» **pp.94–97**, collazione delle sezioni Notes, Common Names, Activities, Indications, Dosages, Downsides, Extracts; **Moldenke 1952 p.163**, non voce autonoma ma citazione accessoria dentro Ornithogalum, sull'ipotesi controversa di 2 Re 6:25.
+- **Isaia 30:24:** Zohary ripreso da Duke propone il cece, ma BDB H2548 interpreta *ḥāmîṣ* come aggettivo del foraggio; identificazione «controversa» #170. **2 Re 6:25:** Bochart propone Cicer, Celsius obietta e Dafni–Böck (2025) preferiscono *Prosopis farcta*; identificazione «controversa» #171.
+- Schede aggiuntive **#1032–1042**, comprendenti Kew, lessico BDB, studio 2025, morfologia Edinburgh/OGTR, precauzioni EFSA, passi, termini e usi tradizionali; relazione fonte e bibliche registrate. **Audit SEO finale: zero criticità.** Immagine in evidenza #1043 verificata da WordPress; controllo visivo esterno desktop/mobile non eseguito perché il browser non accede al sito.
+- **PRECEDENTE ATL-0061 — *Cercis siliquastrum* L.**, WordPress #1014, WebP #1021: audit finale Moldenke voce 61 p.73 e Duke Judas Tree pp.93–94, **nessuna omissione sostanziale**; Matteo 27:5 non identifica specie, relazione solo tradizionale #169. Nota filologica: nella traduzione di lavoro Moldenke figura «Atti 1:25» a proposito della morte di Giuda, mentre la narrazione pertinente si trova in **Atti 1:18**, già usato correttamente sul sito.
+**PROSSIMA SPECIE: ATL-0063 — *Cichorium endivia* L. (Indivia), Moldenke voce 62 p.74 e Duke «Endive» da p.97.** Confrontare erbe amare di Esodo 12:8 e Numeri 9:11; non confondere *C. endivia*, *C. intybus* e *C. pumilum* e controllare tassonomia moderna con Kew.
+Le indicazioni «prossima» nelle registrazioni storiche più in basso non prevalgono su questo stato operativo.
+
 
 > **Documento guida permanente.** Ogni nuova scheda dell'Atlante deve partire da qui, essere verificata sui libri originali, riportare le fonti con indicazione delle pagine ed essere collegata al database esistente. Questo file non sostituisce le fonti originali: ne governa l'uso.
 >
@@ -582,7 +587,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0061 · *Cercis siliquastrum* L.** — Albero di Giuda / siliquastro; **M voce 61 p.73 (voce seguente in p.74) · D Judas Tree pp.93–94**; **PUBBLICATA 18/11/2026**: WordPress #1014, featured WebP #1021; Kew #1015, RHS #1016, Oxford/Münster #1017, Moldenke–Duke #1018, Matteo 27:5 #1019, medicina #1020. Identificazione biblica solo tradizionale/controversa #169, nessuna specie nominata in Matteo 27:5; audit SEO 0 issue. **Prossima ATL-0062 *Cicer arietinum*.**
 
-- [ ] **ATL-0062 · *Cicer arietinum*** — nome italiano da definire; **M — · D p. 94**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0062 · *Cicer arietinum* L.** — Cece. **Duke Chickpea pp.94–97; Moldenke p.163 citazione accessoria in Ornithogalum**, non monografia. **PUBBLICATA 18/11/2026** WordPress #1031, featured WebP #1043; fonti #1032–1037, passi #1038–1039, medicina #1040, termini #1041–1042; identificazioni Isaia 30:24 #170 e 2 Re 6:25 #171 entrambe controverse; audit 0 criticità. **Prossima ATL-0063 Cichorium endivia.**
 
 - [ ] **ATL-0063 · *Cichorium endivia*** — nome italiano da definire; **M voce 62, p. 74 · D p. 97**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
