@@ -8,6 +8,7 @@ reference_plugin: "pdb-atlante 0.2.4"
 source_registry:
   moldenke: "Moldenke.pdf"
   duke: "(ebook) Duke's Handbook of Medicinal Plants of the Bible by James A. Duke.pdf"
+  grilli_caiola: "Grilli Caiola, Guarrera, Travaglini, Le piante nella Bibbia (2013), fotografie parziali acquisite 2026-11-18"
   crosswalk: "atlante_catalogo_piante_2026.csv"
   indexes:
     - "atlante_moldenke_230.csv"
@@ -1225,3 +1226,14 @@ Questa sezione **sostituisce gli stati di bozza precedenti** per ATL-0024 e ATL-
 **Passaggio effettivo al prossimo P1 ATL-0041 Balanites aegyptiaca**: WP #747 **draft**, non pubblicata; supporti bozze #749–752, riuso quote #606/#607 e termine ṣŏrî #603, identificazioni controverse #125–128 e citazioni #415–421. **Duke contiene davvero Desert Date pp58–62**, prima catalogato erroneamente come assente; Moldenke voce 47 **p55**. Kew accetta Balanites aegyptiaca (L.) Delile e famiglia Zygophyllaceae (Balanitaceae storica in Duke). Audit SEO WP #747: unica issue **immagine in evidenza assente**, pertanto mantenere draft fino alla corretta tavola botanica original WebP, verifica SHA, ALT, audit 0, publish e QA. Tentativi di immagini riassuntive non specifiche respinti, non pubblicati. [Dossier Balanites](ATL-0041_BALANITES_AEGYPTIACA_DOSSIER_2026-11-18.md) · [Registro](ATL-0018_0041_PROGRESSI_2026-11-18.md).
 
 **QA browser desktop/mobile indipendente** dei post pubblicati non ancora completata: il fetch pubblico non è disponibile in questo ambiente, la conferma MCP di status/media/SEO non sostituisce screenshot. L'**automazione programmata resta sospesa**, non riattivata da questa sessione manuale.
+
+
+## Nuova fonte acquisita — Grilli Caiola, Guarrera e Travaglini (18 novembre 2026)
+
+Aggiunta come **terza fonte bibliografica di confronto**, distinta dai riferimenti primari finora usati (Moldenke e Duke): Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini, *Le piante nella Bibbia*, Gangemi, Roma, 2013, ISBN 9788849227550. Sono disponibili solo **tre fotografie**: apertura del capitolo **«Piante della Terra Promessa»**, pagina stampata **32** e prima pagina visibile della voce **FICO — Ficus carica** (numero di pagina non visibile); la voce potrebbe proseguire.
+
+**Trascrizione OCR revisionata:** [Grilli Caiola — Terra Promessa, p. 32 e Fico](../grilli-caiola-bibbia/GRILLI_CAIOLA_GUARRERA_TRAVAGLINI_OCR_CAP1_TERRA_PROMESSA_FICO.md).
+
+**Temi da usare nelle schede, sempre confrontandoli con Moldenke/Duke e verificando tassonomia e passi:** sette specie della Terra Promessa (grano, orzo, vite, fico, melograno, olivo, palma da datteri); Deuteronomio 8:7-8, 11:13-17; Numeri 13:23-24, 20:5; Genesi 40:9; Esodo 3:8,17; caprificazione, ciclo del siconio e impollinazione di *Ficus carica* mediante *Blastophaga psenes*; interpretazione del «miele» come possibile sciroppo di datteri e confronto con evidenze di apicoltura.
+
+**Limiti:** materiale fotografico parziale, senza resto del volume né bibliografia completa; non attribuire a Grilli Caiola affermazioni assenti; non considerare le indicazioni storiche/tassonomiche come conferma scientifica aggiornata; non duplicare le sette specie come sette schede se già presenti nel catalogo.
