@@ -1296,3 +1296,11 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - **Totale WordPress dopo la pubblicazione: 25 schede botaniche** `publish`. Audit di #849/#850: `issues=[]`. **QA visiva indipendente [ ]**, non simulare screenshot.
 - **Prossimo ATL-0051 Calotropis procera**, da ricontrollare WP/Kew/Duke e tradizioni «pomo di Sodoma», con particolare attenzione alla tossicità del lattice; non ancora aperto. **Automazione schedulata ancora sospesa**, nessun aggiornamento di plugin.
 - [Dossier Buxus balearica](ATL-0049_BUXUS_BALEARICA_DOSSIER_2026-11-18.md) · [Dossier Buxus sempervirens](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md) · [Registro](ATL-0049_0050_PROGRESSI_2026-11-18.md).
+
+### 18/11/2026 — Audit SEO esterno OpenSEO e Google Search Console
+
+- [x] Eseguiti audit OpenSEO homepage (50 URL), archivio usi medicinali (50), sezioni piante (50) e crawl mirati su 4 URL. In ciascun campione 100% HTTP 200 e tecnicamente indicizzabile, nessun H1 multiplo o ALT mancante. **Non è stato esaminato l'intero sito**: max 50 pagine per crawl.
+- [x] Fix diretti Yoast via MCP: #670 Aloe vera, #671 Anastatica (medicina storica), #683 Alóē G250, #672 Gulgal. Titoli e meta description mancanti/lunghi corretti; conferma nell'HTML esterno dei quattro permalink; nessuna modifica scientifica.
+- [x] Google Search Console collegata: homepage, Atlante, Mandorlo, Fico, Olivo e Aloe vera **indicizzate** su campione; Cedro e pagina fonte Moldenke **scansionate ma non indicizzate**; numerose nuove specie **sconosciute a Google** nel rilevamento del 18/11/2026. Nessuna conclusione di blocco tecnico per le nuove URL.
+- [ ] Residuo minore: meta archive /usi-medicinali/ **162 caratteri**, da accorciare a 160 nella configurazione SEO/template; audit 50 URL non è un controllo integrale. Canonical slug con case differente nel percent encoding (greco/ebraico) solo avviso, non dimostrato errore. QA visiva e Lighthouse da verificare separatamente.
+- [Rapporto verificabile OpenSEO/GSC](AUDIT_SEO_OPENSEO_GSC_2026-11-18.md). Automazione Atlante ancora sospesa.
