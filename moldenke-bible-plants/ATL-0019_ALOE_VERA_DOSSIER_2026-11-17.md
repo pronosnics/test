@@ -40,3 +40,6 @@ Nuova lettura della roadmap GitHub corrente e del catalogo Library; trovato il P
 ### 18/11/2026 04:29 CET — controllo MCP mirato
 
 `pdb/atlas-health`: 0.2.4 invariato. `pdb/atlas-list` ricerca Aloe = **0** (ricerca libera tutti i tipi); `Giovanni 19:39` = **0**; non dedurre da ciò assenza di versetti con formato alternativo. Il PDF Duke originale è reperibile in Libreria e l'indice colloca Aloe a p.30 e Anabasis a p.35; la collazione integrale delle pagine e il corretto rinvio Moldenke restano aperti. Non generata immagine né ID WordPress/media, nessun audit SEO. Stato APERTO.
+
+### 18/11/2026 05:26 CET — controllo operativo
+MCP `pdb/atlas-health` ha risposto `success:true`, versione 0.2.4, con upload media disponibile. Fonte Duke originale individuata in Library, ma **nessuna nuova collazione integrale** in questa esecuzione; p.227 PDF Moldenke per *Aloe succotrina* resta una discrepanza da risolvere. Non creare identificazione certa tra aloe aromatico biblico e *A. vera*. Nessun nuovo WP ID, WebP, SHA, audit SEO o publish verificato. Stato APERTO; procedere prima con facsimile e dedup.
