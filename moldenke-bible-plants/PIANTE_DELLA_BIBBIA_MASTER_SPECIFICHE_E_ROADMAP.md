@@ -571,7 +571,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0057 · *Centaurea iberica*** — **Cardo stellato iberico**; nome accettato *C. iberica* Trevir. ex Spreng. **M voce 57 nel gruppo 56–59, pp. 70–72 · D «Spanish Thistle» pp. 88–89**; Kew/Flora of Iraq, CFIA, H1863/G5146. **PUBBLICATA (18/11/2026)** WP `942`, featured WebP `943`; Genesi 3:18 `929`, Osea 10:8 `930`, Ebrei 6:8 `931`, 2 Re 14:9 `293` riutilizzati; tutte identificazioni **controverse**. *C. calcitrapa* M.Bieb. è sinonimo di *C. iberica* subsp. *iberica*, non di *C. calcitrapa* L.
 
-- [ ] **ATL-0058 · *Centaurea verutum*** — nome italiano da definire; **M voce 58, p. 70 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0058 · *Centaurea verutum*** — **Cardo giallo del Levante** (nome descrittivo editoriale), specie accettata *C. verutum* L. (Kew, 1755); **M voce 58 nel gruppo 56–59 pp. 70–72 · D nessuna voce autonoma, solo confronto con C. calcitrapa pp86–88 e C. iberica pp88–89**; Kew nativa Libano–Israele, Flora of Israel/KKL fiori **gialli** e spine lunghe. **PUBBLICATA 18/11/2026**, WP #957; immagine botanica originale Media #958; fonti bibliografiche #959–961; identificazioni bibliche controverse #161–164; Genesi #929, Osea #930, Ebrei #931, 2 Re #293 e lemma dardar #927 riutilizzati.
 
 - [ ] **ATL-0059 · *Cephalaria syriaca*** — nome italiano da definire; **M — · D p. 89**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1350,3 +1350,13 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - **Nuovi supporti:** fonte Kew #944, fonte CFIA #945, medicina storica #946. Citazioni bibliografiche #523–529 e identificazioni #157–160.
 - **Etnobotanica:** giovani foglie raccolte tradizionalmente, impiego folklorico per eczema, attività antidiabetica/insulinogenica preliminare secondo Duke; nessuna indicazione clinica.
 - **Prossimo lotto:** ATL-0058 *Centaurea verutum* L., da distinguere dalle altre centauree.
+
+
+### ATL-0058 — Centaurea verutum, completata 18 novembre 2026
+- **Cardo giallo del Levante — Centaurea verutum L.** WP **#957**, pubblicata: https://piantedellabibbia.altervista.org/piante/centaurea-verutum-cardo-giallo-bibbia/ . Tavola originale digitale WebP **Media #958**, fiori **gialli**, foglie basali divise e superiori semplici, lunghe spine involucrali, sezioni floreali, frutti. ALT e checksum server verificati.
+- Fonti: Moldenke 1952 **voce 58**, insieme alle 56,57,59, **pp70–72**. **Duke non possiede monografia autonoma di questa specie**: confronti soltanto pp86–89 su C. calcitrapa e C. iberica. Evitare la falsa attribuzione a C. verutum degli usi medici e delle liste Duke.
+- Kew POWO: taxon 191875-1, nome accettato L. 1755, areale nativo Lebanon-Syria/Palestine; flora israeliana e KKL distinguono i **capolini gialli** (non lilla), fioritura maggio–luglio, foglie superiori strette. Sinonimi: Calcitrapa verutum, Crocodilium verutum, Verutina heterophylla. Il nome ebraico moderno non dimostra la specie nel dardar biblico.
+- Studi su frutto/pappo non del tutto concordi; la scheda non lo presenta come criterio specifico definitivo. Kew fornisce un modello di rischio «threatened» a confidenza bassa, **non** una classificazione IUCN.
+- Supporti pubblicati Kew **#959**, Flora of Israel/KKL **#960**, MESMAP morfologia **#961**. Relazioni fonte **#530–535**, identificazioni bibliche **#161–164 status controversa**. Esistenti Genesi 3:18 #929, Osea10:8 #930, Ebrei6:8 #931, 2 Re14:9 #293 e dardar H1863 #927 ampliati, senza duplicarli.
+- Audit SEO pianta zero criticità in bozza; pubblicazione effettuata. Rimane QA grafica browser desktop/mobile, distinta dall'audit automatico.
+- **Prossima scheda:** **ATL-0059 Cephalaria syriaca (L.) Roem. & Schult.**, fonte Duke «Syrian Scabious» pp.89–90, da controllare prima per nomenclatura e Moldenke, senza creare duplicati.
