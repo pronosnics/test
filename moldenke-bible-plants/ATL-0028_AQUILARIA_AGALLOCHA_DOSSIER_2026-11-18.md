@@ -13,3 +13,11 @@ Duke tratta **Aquilaria malaccensis Lam.** e indica **Aquilaria agallocha Roxb.*
 Creato #700 draft con sezioni su legno d'agar, profumeria, storia commerciale, testi Numeri 24:6, Salmo 45:8, Proverbi 7:17, Cantico 4:14, differenza dal Vangelo di Giovanni, medicina storica, rischi e conservazione. Campi botanici strutturati salvati. Dedup inventario piante completo prima della creazione: nessuna Aquilaria esistente.
 
 **Aperto:** nome accettato Kew, lessico BDB e testi originali, collazione Moldenke completa, fonti/relazioni, tavola botanica con foglie/fiori/frutti/legno resinoso, WebP/MCP checksum/ALT/featured, SEO, QA visuale. Non segnare [x].
+
+## Chiusura editoriale manuale — 18/11/2026
+- [x] **Unica scheda WP #700**, pubblicata con titolo che usa il nome botanico accettato `Aquilaria malaccensis Lam.`, tenendo `Aquilaria agallocha Roxb.` come sinonimo; Kew `https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:830835-1`. Nessuna scheda duplicata per il sinonimo.
+- [x] Tavola originale digitale **Media #718**, `tavola-botanica_aquilaria-malaccensis.webp` (illustrazione schematica botanica), featured, ALT, `pdb_plate_media_id=718`, SHA remoto `676b96d075bfcb70df90dd1b685ff51e5849d2beb146e9597f10ad52174b2663`; 4 chunk raw da 24000 byte; staging rimosso.
+- [x] Moldenke **pp. 47–48** con confronto Santalum; Duke **Agarwood pp. 44–47** completo; BDB **H174** con forme `ahalim / ahaloth`. Passi AT Numeri 24:6, Salmo 45:8/9, Proverbi 7:17, Cantico 4:14, tutti con identificazione botanica controversa; Giovanni 19:39 distinto. Note IUCN/CITES e limiti clinici.
+- [x] Collegamenti a termine **#709**, passi **#714–717**, Kew **#705**, BDB **#706**, medicina **#711**, fonti comuni Moldenke **#135** e Duke **#136**; supporti pubblicati. Audit SEO finale **0 criticità**.
+- [ ] QA visiva indipendente desktop/mobile della figura vettoriale e del layout, separata dalla collazione editoriale. Possibile successivo miglioramento estetico della tavola, senza riaprire il lotto o cambiare tassonomia.
+- Stato per anti-stallo: **LOTTO EDITORIALE CHIUSO, pubblicato**; non riaprire come nuova specie.
