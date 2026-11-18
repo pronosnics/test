@@ -11,12 +11,13 @@
 - **20 citazioni bibliografiche** collegate formalmente nel database a pianta, passi, lemma e medicina.
 - Audit pdb/seo-audit #1167: **issues []**; audit precedente #1133 Cannella vera: **issues []**; immagine featured e status WP publish verificati. Restano fuori dall'audit automatico screenshot QA desktop/mobile indipendenti.
 
-## Collazione Moldenke 1952, voci 70–72, pp.77–78
+## Collazione Moldenke 1952, voci 70–72, p.77
+**Revisione bibliografica 18/11/2026:** la p.78 apre la voce n.73 sulla coloquintide; i cisti voci 70–72 sono interamente a p.77. Non usare pp.77–78.
 **Specie registrate storicamente:** 70 *Cistus creticus* L., 71 *Cistus salvifolius* L. (grafia moderna *salviifolius*), 72 *Cistus villosus* L. La fonte è una voce collettiva sul **ladano**, non tre determinazioni certe dei passi.
 
 **Due passi biblici:** Genesi 37:25 (carovana Ismaeliti da Galaad) e Genesi 43:11 (dono a Giuseppe), con ebraico **lōṭ H3910**, antico greco **staktḗ**, confronto delle traduzioni *mirra, gomma aromatica, ladano*. La **mirra vera** è altra resina (di *Commiphora*, Burseraceae); **ṣŏrî H6875** è il distinto balsamo presente negli stessi passi.
 
-**Moldenke pp.77–78:** differenza fra diverse specie di cisti; Evenari dubitava di C. creticus nella flora palestinese, mentre Dinsmore segnalava Moab/Galaad e Post/Tristram altre località; comparazione con Kew moderna che include Palestina fra gli ambiti nativi. Ladano come essudato viscoso bruno su foglie/rametti, tradizionalmente raccolto con **strisce di cuoio** e anche pettinando la **barba delle capre o il vello delle pecore** nella macchia; impiego nella profumeria, impiastri e medicina antica. Ipotesi di Pratt sulla «rosa di Sharon» di Cantico 2:1: considerarla mera proposta storica, mai identificazione certa di C. creticus.
+**Moldenke p.77:** differenza fra diverse specie di cisti; Evenari dubitava di C. creticus nella flora palestinese, mentre Dinsmore segnalava Moab/Galaad e Post/Tristram altre località; comparazione con Kew moderna che include Palestina fra gli ambiti nativi. Ladano come essudato viscoso bruno su foglie/rametti, tradizionalmente raccolto con **strisce di cuoio** e anche pettinando la **barba delle capre o il vello delle pecore** nella macchia; impiego nella profumeria, impiastri e medicina antica. Ipotesi di Pratt sulla «rosa di Sharon» di Cantico 2:1: considerarla mera proposta storica, mai identificazione certa di C. creticus.
 
 ## Collazione Duke 2008 «Ladanum», pp.113–115
 La monografia inizia a **p.113** dopo l'ultima pagina della cannella, è illustrata da **figura 1.27 a p.114**, e si conclude a **p.115** prima di «Colocynth». Duke propone come fonti storiche del ladano *C. creticus*, *C. cyprius*, *C. ladanifer* e *C. monspeliensis*: **il materiale era spesso misto e gli esperimenti non identificavano sempre la specie botanica**.
@@ -49,6 +50,6 @@ Relettura Moldenke voce69 pp76–77 e Duke Cinnamon pp108–113, verifica scheda
 Non attribuire alla cannella l'EMA del cisto: indicazioni e specie diverse.
 
 ## Prossime voci
-1. **ATL-0068 — Cistus salviifolius L.**, nome oggi accettato, Moldenke voce71 nella trattazione collettiva pp77–78; distinguere fiori bianchi dal cisto di Creta rosa, stesso gruppo delle candidate per Genesi 37:25/43:11, verificare se sia produttore effettivo di ladano nel Levante; non trasporre medicina di Duke «Ladanum» come monografia della specie.
+1. **ATL-0068 — Cistus salviifolius L.**, nome oggi accettato, Moldenke voce71 nella trattazione collettiva p77; distinguere fiori bianchi dal cisto di Creta rosa, stesso gruppo delle candidate per Genesi 37:25/43:11, verificare se sia produttore effettivo di ladano nel Levante; non trasporre medicina di Duke «Ladanum» come monografia della specie.
 2. **ATL-0069 — Cistus villosus L.**, nomenclatura storica Moldenke voce72 **sinonimo moderno di Cistus creticus subsp. creticus** per Kew. Preparare **scheda nomenclaturale/reindirizzamento alla pianta ATL-0067**, NON nuova specie nel conteggio.
 3. Poi ATL-0070 — *Citrullus colocynthis* (coloquintide) con accurata verifica biblica.
