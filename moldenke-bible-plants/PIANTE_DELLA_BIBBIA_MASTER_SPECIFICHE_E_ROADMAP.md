@@ -1311,3 +1311,5 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Supporti WP pubblicati: passo Deuteronomio 32:32 **#879**, medicina **#878**, fonti Kew **#876** e cliniche **#877**. Collegamento identificazione controversa **#150**, citazioni fonti **#481–490**.
 - Giudizio: «vite di Sodoma» di Deut 32:32 metaforica; «pomo di Sodoma» di tradizione extra-biblica non identifica la specie con certezza. **Non confondere Calotropis con Citrullus colocynthis né C. gigantea.**
 - Prossima voce da sottoporre a controllo anti-duplicato e Kew: **ATL-0052, Capparis sicula**, da confrontare con **Capparis spinosa**, senza presumere identità tassonomica.
+
+- **Controllo preliminare sul prossimo taxon (Kew POWO, 18/11/2026):** *Capparis sicula* Veill. ex Duhamel è riportata come **sinonimo di *Capparis spinosa* var. *canescens***, non come specie accettata autonoma. Prima della scheda ATL-0052 effettuare deduplicazione e confrontare Moldenke (*C. sicula*) con Duke (*C. spinosa*); evitare pagine botaniche duplicate. Fonte: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:146774-1
