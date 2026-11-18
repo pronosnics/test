@@ -27,3 +27,14 @@ Il rapporto Lighthouse indica color-contrast, ma non fornisce il selettore preci
 4. Testare Lighthouse desktop/mobile su homepage, Atlante, una specie e Terra Promessa; controllare menu tastiera e contrasto.
 
 **Non dichiarare 'risolto' finché non si è modificato il tema e verificato il nuovo Lighthouse.**
+
+## Aggiornamento operativo: pacchetto 1.0.2 prodotto e validato
+
+- Trovato in Libreria l'archivio originale **erbario-biblico-tema-1.0.1-seo.zip** (versione che corrisponde all'attuale installazione WordPress Erbario Biblico 1.0.1).
+- Creato **erbario-biblico-tema-1.0.2-accessibilita.zip**, disponibile nella Libreria utente e come allegato di conversazione.
+- Modifiche: header.php link brand resta cliccabile e leggibile per screen reader, con aria-label e icona decorativa aria-hidden solo nel figlio; assets/site.css cambia soltanto il colore del testo sui fondi chiari nei selettori .eyebrow, .latin, .method-points e .fact dt.
+- Il rapporto WCAG calcolato per il precedente oro #ae8650 sul fondo #f8f7f1 era circa 3,09:1, insufficiente per testo normale; per il nuovo colore #795526 è circa 6,23:1. Il colore precedente #6f806e della classe latin aveva contrasto circa 3,92:1 e ora è più scuro.
+- Versione incrementata a **1.0.2** in style.css e nei riferimenti di functions.php, senza alterare gli altri template.
+- Validazione: ZIP integrità e struttura, CSS parentesi bilanciate, PHP lint positivo su **tutti i 16 template PHP** del pacchetto.
+- **Non ancora installato sul sito**: il collegamento WordPress/MCP consente modifiche ai contenuti/media, ma il tema non è modificabile tramite le abilities disponibili. WPVibe remoto è in sola lettura per il codice quando il suo plugin WordPress non è installato. Per il deploy, installare ZIP nell'amministrazione con backup e conferma di sovrascrittura, poi rifare Lighthouse.
+- La correzione del colore riguarda il tema; eventuali ulteriori contrasti sfavorevoli provenienti dai CSS del plugin Atlante andranno controllati nel Lighthouse successivo, senza promettere accessibilità 100 prima del test.
