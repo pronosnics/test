@@ -20,7 +20,7 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 ## Stato operativo corrente — 18 novembre 2026
 **Ultima specie chiusa: ATL-0058 — *Centaurea verutum* L. (WordPress #957, immagine #958); 31 piante pubblicate.** Le tre fonti scientifiche complementari sono #959–961; audit della scheda: nessun problema. Le identificazioni bibliche restano controverse.
-**ATL-0059 IN LAVORAZIONE:** specie *Cephalaria syriaca* WordPress #973 in bozza, Moldenke p.283 recuperato e Duke pp89–90 verificato; fonti e lemma creati in bozza. Restano tavola botanica specifica, revisione SEO e pubblicazione. Non avviare ATL-0060 finché ATL-0059 non è chiusa.
+**ATL-0059 PUBBLICATA:** Cefalaria siriana WP #973, WebP #981, fonti #974–977, Matteo 13 #978, lemma #979. Moldenke p. 283, Duke pp. 89–90; QA SEO 100 desktop/mobile. Prossima ATL-0060 *Ceratonia siliqua* L.
 Le indicazioni «prossima» all'interno delle sezioni storiche più in basso sono registrazioni dei lotti precedenti e non prevalgono su questo stato operativo.
 
 
@@ -579,7 +579,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0058 · *Centaurea verutum*** — **Cardo giallo del Levante** (nome descrittivo editoriale), specie accettata *C. verutum* L. (Kew, 1755); **M voce 58 nel gruppo 56–59 pp. 70–72 · D nessuna voce autonoma, solo confronto con C. calcitrapa pp86–88 e C. iberica pp88–89**; Kew nativa Libano–Israele, Flora of Israel/KKL fiori **gialli** e spine lunghe. **PUBBLICATA 18/11/2026**, WP #957; immagine botanica originale Media #958; fonti bibliografiche #959–961; identificazioni bibliche controverse #161–164; Genesi #929, Osea #930, Ebrei #931, 2 Re #293 e lemma dardar #927 riutilizzati.
 
-- [ ] **ATL-0059 · *Cephalaria syriaca*** — **Cefalaria siriana**, *C. syriaca* (L.) Roem. & Schult., Caprifoliaceae, Kew accettata. **M p. 283 Supplementary Notes (Ascherson 1889, Post), D «Syrian Scabious» pp. 89–90.** WordPress pianta **#973 IN BOZZA**, fonti #974–977, Matteo 13:24–30 #978, lemma zizánion G2215 #979, relazioni controverse #165. **Blocco di qualità:** manca la tavola botanica corretta; NON pubblicare con immagini delle sette specie. Successivo: caricare immagine di Cephalaria dai capolini viola, revisione SEO e pubblicazione.
+- [x] **ATL-0059 · *Cephalaria syriaca*** — Pubblicata 18/11/2026 WP #973, featured #981; Moldenke p283, Duke pp89–90; fonti #974–977, Matteo 13:24–30 #978, zizánion G2215 #979; identificazione controversa. Lighthouse dopo SEO Yoast: mobile performance 99, accessibilità 92, SEO 100, CLS0; desktop 94/92/100 CLS0. Prossima ATL-0060 carrubo.
 
 - [ ] **ATL-0061 · *Cercis siliquastrum*** — nome italiano da definire; **M voce 61, p. 73 · D p. 93**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1365,7 +1365,7 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Studi su frutto/pappo non del tutto concordi; la scheda non lo presenta come criterio specifico definitivo. Kew fornisce un modello di rischio «threatened» a confidenza bassa, **non** una classificazione IUCN.
 - Supporti pubblicati Kew **#959**, Flora of Israel/KKL **#960**, MESMAP morfologia **#961**. Relazioni fonte **#530–535**, identificazioni bibliche **#161–164 status controversa**. Esistenti Genesi 3:18 #929, Osea10:8 #930, Ebrei6:8 #931, 2 Re14:9 #293 e dardar H1863 #927 ampliati, senza duplicarli.
 - Audit SEO pianta zero criticità in bozza; pubblicazione effettuata. Rimane QA grafica browser desktop/mobile, distinta dall'audit automatico.
-- **Prossima scheda:** **ATL-0059 Cephalaria syriaca (L.) Roem. & Schult.**, fonte Duke «Syrian Scabious» pp.89–90, da controllare prima per nomenclatura e Moldenke, senza creare duplicati.
+- **Prossima scheda:** ATL-0060 *Ceratonia siliqua* L., carrubo (Moldenke voce 60 p. 72; Duke p. 90 e seguenti).
 
 
 ## QA e pagina Terra Promessa — CHIUSO 18 novembre 2026
