@@ -26,3 +26,7 @@ Letta roadmap GitHub corrente e ricontrollato catalogo Library (`atlante_piante_
 ## 18/11/2026 03:21 CET — controllo di continuità
 
 Riletta roadmap GitHub aggiornata; Allium ATL-0015/0017 chiuso, ripresa coppia ATL-0019/0022. MCP `pdb/atlas-health` **success=true**, plugin **0.2.4**, abilità media presenti. Library conferma PDF Duke originale e indice p.30 Aloe, p.35 Anabasis, p.36 Anastatica, p.37 Anemone. Non svolti confronto integrale dei facsimili, verifica Moldenke, deduplicazione sistematica, tavole, trasferimento SHA o audit finale. Nessuna pubblicazione e nessun nuovo ID/media. **Blocco editoriale, non errore MCP:** completare prima questi passaggi; non spuntare le caselle, non aprire nuove specie. Plugin invariato.
+
+### 18/11/2026 04:29 CET — verifica effettiva
+
+Riletta roadmap GitHub, reperito PDF Duke originale in Library (indice Aloe p30/Anabasis p35/Anastatica p36/Anemone p37). MCP `pdb/atlas-health` = successo, plugin 0.2.4. `pdb/atlas-list` per Aloe, Anastatica, gulgal, Giovanni 19:39, Salmo 83:13: tutti 0 risultati. **Limite:** ricerca testuale non sostituisce deduplicazione per ID/lemma né confronto integrale delle fonti. Nessuna modifica WordPress, WebP, upload, checksum, audit SEO o pubblicazione. Blocco editoriale ancora attivo: collazione completa, confini Moldenke, schede, immagini e QA. Prossima coppia ATL-0019/0022; nessun [x].
