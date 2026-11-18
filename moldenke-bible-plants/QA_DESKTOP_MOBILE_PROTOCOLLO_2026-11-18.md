@@ -29,3 +29,11 @@ Test effettuati tramite WPVibe audit_page che interroga Google PageSpeed Insight
 5. Verifica DOM reale (WPVibe get_page_html), main, h1, featured, tabelle scrollabili e link interni.
 6. Lighthouse sia mobile sia desktop su almeno ogni nuovo template e sulle pagine rappresentative; registrare CLS, SEO, accessibilità e prestazioni; risolvere ciò che è possibile.
 7. Per screenshot grafici veri serve screenshot del browser o Work Cloud Browser, non confonderli con metriche Lighthouse.
+
+## Integrazione ATL-0059: controllo esterno SEO obbligatorio
+
+- Cephalaria syriaca #973 pubblicata con featured #981. L'audit WordPress mostrava 0 issue, ma al primo Lighthouse SEO **92/100** per assenza del meta tag description nell'HTML pubblico: il campo editoriale PDB non sincronizzava da solo Yoast. Risolto aggiornando la proprietà SEO Yoast sulla pagina pubblicata e verificando il tag HTML e la canonical.
+- Dopo la correzione e il nuovo Lighthouse: **mobile performance 99/100, accessibilità 92, Best Practices 100, SEO 100, CLS0; desktop 94/100, accessibilità 92, Best Practices 100, SEO 100, CLS0**. La differenza nelle prestazioni tra misurazioni è variabilità di laboratorio; non riportare come accelerazione software dimostrata.
+- Per OGNI nuova pianta, verificare dopo la pubblicazione il vero contenuto di head: title, meta name=description, link rel=canonical, Open Graph image, robots; **non fermarsi all'audit interno**. Aggiungere questo al gate editoriale.
+- Accessibilità tema ancora da correggere sul sorgente; note tecniche: [Erbario Biblico accessibilità, patch preparata](ERBARIO_BIBLICO_ACCESSIBILITA_PATCH_PREPARATA_2026-11-18.md).
+- Next roadmap: ATL-0060 *Ceratonia siliqua* L. (carrubo).
