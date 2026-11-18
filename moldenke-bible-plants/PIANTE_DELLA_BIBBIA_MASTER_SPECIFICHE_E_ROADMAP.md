@@ -19,10 +19,9 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
 
 ## Stato operativo corrente — 18 novembre 2026
-**Ultima specie chiusa: ATL-0058 — *Centaurea verutum* L. (WordPress #957, immagine #958); 31 piante pubblicate.** Le tre fonti scientifiche complementari sono #959–961; audit della scheda: nessun problema. Le identificazioni bibliche restano controverse.
-**ULTIMA SPECIE COMPLETATA: ATL-0060 — Ceratonia siliqua L. (Carrubo), WP #992, tavola WebP #993. 33 specie botaniche pubblicate; Moldenke voce 60 pp72–73, Duke Carob pp90–93; Luca 15:16 identificazione forte; Matteo 3:4 e Marco 1:6 tradizioni controverse. Lighthouse mobile prestazioni 95/SEO 100, desktop 99/100, accessibilità tema 92. Prossima ATL-0061 Cercis siliquastrum L.**
-Le indicazioni «prossima» all'interno delle sezioni storiche più in basso sono registrazioni dei lotti precedenti e non prevalgono su questo stato operativo.
-
+**ULTIMA SPECIE COMPLETATA: ATL-0061 — *Cercis siliquastrum* L. (Albero di Giuda), WordPress #1014, tavola originale WebP #1021 (1086×1448). 34 piante botaniche pubblicate.** Fonti Moldenke voce 61 **p.73** (p.74 = voce successiva), Duke «Judas Tree» **pp.93–94**, Kew, RHS, Oxford e Bibelmuseum Münster. Il legame con Matteo 27:5 è **solo tradizionale**, identificazione controversa strutturata #169: né Matteo né Atti 1:18 nominano il taxon. Fonti dedicate #1015–1018; citazione #1019; usi tradizionali #1020. Audit SEO plugin **zero criticità**, immagine in evidenza presente. **Prossima ATL-0062 — *Cicer arietinum* L. (Cece), Duke «Chickpea» pp.94–97; verificare la trattazione e l'eventuale assenza di una voce Moldenke, e il lessico di Isaia 30:24.**
+**Precedente ATL-0060 — *Ceratonia siliqua* L. (Carrubo)**: WP #992, immagine #993; Luca 15:16 identificazione forte, Matteo 3:4/Marco 1:6 controversi, SEO 0 criticità. Le rilevazioni Lighthouse precedenti appartengono a questo lotto e non sono state replicate su ATL-0061.
+Le indicazioni «prossima» contenute nelle registrazioni storiche più in basso non prevalgono su questo stato operativo. Verifica grafica manuale desktop/mobile di ATL-0061 da compiere separatamente dall'audit SEO del plugin.
 
 > **Documento guida permanente.** Ogni nuova scheda dell'Atlante deve partire da qui, essere verificata sui libri originali, riportare le fonti con indicazione delle pagine ed essere collegata al database esistente. Questo file non sostituisce le fonti originali: ne governa l'uso.
 >
@@ -581,7 +580,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0059 · *Cephalaria syriaca*** — Pubblicata 18/11/2026 WP #973, featured #981; Moldenke p283, Duke pp89–90; fonti #974–977, Matteo 13:24–30 #978, zizánion G2215 #979; identificazione controversa. Lighthouse dopo SEO Yoast: mobile performance 99, accessibilità 92, SEO 100, CLS0; desktop 94/92/100 CLS0. Prossima ATL-0060 carrubo.
 
-- [ ] **ATL-0061 · *Cercis siliquastrum*** — nome italiano da definire; **M voce 61, p. 73 · D p. 93**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0061 · *Cercis siliquastrum* L.** — Albero di Giuda / siliquastro; **M voce 61 p.73 (voce seguente in p.74) · D Judas Tree pp.93–94**; **PUBBLICATA 18/11/2026**: WordPress #1014, featured WebP #1021; Kew #1015, RHS #1016, Oxford/Münster #1017, Moldenke–Duke #1018, Matteo 27:5 #1019, medicina #1020. Identificazione biblica solo tradizionale/controversa #169, nessuna specie nominata in Matteo 27:5; audit SEO 0 issue. **Prossima ATL-0062 *Cicer arietinum*.**
 
 - [ ] **ATL-0062 · *Cicer arietinum*** — nome italiano da definire; **M — · D p. 94**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
