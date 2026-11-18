@@ -20,7 +20,7 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 ## Stato operativo corrente — 18 novembre 2026
 **Ultima specie chiusa: ATL-0058 — *Centaurea verutum* L. (WordPress #957, immagine #958); 31 piante pubblicate.** Le tre fonti scientifiche complementari sono #959–961; audit della scheda: nessun problema. Le identificazioni bibliche restano controverse.
-**ATL-0059 PUBBLICATA:** Cefalaria siriana WP #973, WebP #981, fonti #974–977, Matteo 13 #978, lemma #979. Moldenke p. 283, Duke pp. 89–90; QA SEO 100 desktop/mobile. Prossima ATL-0060 *Ceratonia siliqua* L.
+**ULTIMA SPECIE COMPLETATA: ATL-0060 — Ceratonia siliqua L. (Carrubo), WP #992, tavola WebP #993. 33 specie botaniche pubblicate; Moldenke voce 60 pp72–73, Duke Carob pp90–93; Luca 15:16 identificazione forte; Matteo 3:4 e Marco 1:6 tradizioni controverse. Lighthouse mobile prestazioni 95/SEO 100, desktop 99/100, accessibilità tema 92. Prossima ATL-0061 Cercis siliquastrum L.**
 Le indicazioni «prossima» all'interno delle sezioni storiche più in basso sono registrazioni dei lotti precedenti e non prevalgono su questo stato operativo.
 
 
@@ -421,7 +421,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0055 · *Cedrus libani*** — Cedro del Libano; **M voce 55, pp. 66–70 · D pp. 84–86**; fonte: Moldenke + Duke + Kew + RBGE + IUCN + Diodati 1649; **stato: PUBBLICATA (17/11/2026)**, revisione completa; 18 pagine WordPress online: pianta `266`, medicina `268`, lemma `269`, 12 passi `270–275` + `293–298`, 3 fonti `276–278`, tavola Media `267` caricata via MCP. Indice di 45 riferimenti Moldenke, con eccezioni e anomalie; audit SEO 0 rilievi su 6 contenuti verificati. [Rapporto fonti completo](VERIFICA_CEDRO_DEL_LIBANO_2026-11-17.md). **QA grafica desktop/mobile del Cedro ancora da completare.**
 
-- [ ] **ATL-0060 · *Ceratonia siliqua*** — Carrubo; **M voce 60, p. 72 · D p. 90**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0060 · *Ceratonia siliqua*** — Carrubo. **Moldenke 1952 voce 60 pp72–73, Duke 2008 Carob pp90–93**, Kew accettata. **PUBBLICATA 18/11/2026** WP #992, immagine WebP #993, fonti #994–997, medicina #998, Luca #999, Matteo #1000, Marco #1001, termine G2769 #1002. Identificazione di Luca forte, registrata come probabile #168; Giovanni Battista controversa #166–167. SEO 100 Lighthouse, audit 0 issue. Prossima ATL-0061 Cercis siliquastrum.
 
 - [ ] **ATL-0065 · *Cinnamomum aromaticum*** — Cassia; **M voce 68, p. 75 · D p. 104**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1365,7 +1365,7 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Studi su frutto/pappo non del tutto concordi; la scheda non lo presenta come criterio specifico definitivo. Kew fornisce un modello di rischio «threatened» a confidenza bassa, **non** una classificazione IUCN.
 - Supporti pubblicati Kew **#959**, Flora of Israel/KKL **#960**, MESMAP morfologia **#961**. Relazioni fonte **#530–535**, identificazioni bibliche **#161–164 status controversa**. Esistenti Genesi 3:18 #929, Osea10:8 #930, Ebrei6:8 #931, 2 Re14:9 #293 e dardar H1863 #927 ampliati, senza duplicarli.
 - Audit SEO pianta zero criticità in bozza; pubblicazione effettuata. Rimane QA grafica browser desktop/mobile, distinta dall'audit automatico.
-- **Prossima scheda:** ATL-0060 *Ceratonia siliqua* L., carrubo (Moldenke voce 60 p. 72; Duke p. 90 e seguenti).
+- **Prossima scheda:** **ATL-0061 — *Cercis siliquastrum* L.**, albero di Giuda, Moldenke voce 61 pp73–74, Duke Judas Tree p93 e seguenti. Verificare anti-duplicazione e distinzione fra tradizione e testo biblico.
 
 
 ## QA e pagina Terra Promessa — CHIUSO 18 novembre 2026
@@ -1375,3 +1375,13 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - **Problemi residui del tema (non quelli della pagina #778):** aria-hidden su link di homepage focusable e alcuni contrasti insufficienti. Modificare il tema richiede accesso al sorgente e backup; WPVibe collegato in sola lettura non ha il plugin di gestione file WordPress attivo. Non confondere il test riuscito con accessibilità 100.
 - Normalizzati sei binomi scientifici (#957, #942, #922, #905, #889, #874) che venivano visualizzati con l'autorità ripetuta. Il modello dati deve salvare scientific_name senza autore, authorship separato.
 - [Dossier scientifico ATL-0059 in corso](ATL-0059_CEPHALARIA_SYRIACA_DOSSIER_IN_CORSO_2026-11-18.md).
+
+
+### ATL-0060 — Carrubo: chiusura 18 novembre 2026
+- WP #992: https://piantedellabibbia.altervista.org/piante/carrubo-ceratonia-siliqua-bibbia-baccelli/ ; featured WebP originale #993, foglie paripennate, fiori maschili e femminili, baccelli e semi; checksum confermato.
+- Confronto bibliografico completo Moldenke pp72–73 e Duke pp90–93; Kew, PlantNET e Biological Flora 2024. Corretta la leggenda del peso identico dei semi, distinta la polpa dalla gomma E410 e le attività folkloriche dalle evidenze cliniche.
+- Supporti pubblicati #994–1002: fonti, sicurezza, Luca 15:16, Matteo 3:4, Marco 1:6 e greco keration G2769. Luca identificazione solida; collegamenti Giovanni Battista contestati.
+- Revisione ATL-0059: integrati su WP #973 nomi comuni omessi da Duke e usi storico-alimentari dei semi in Georgia e Russia.
+- Lighthouse Carrubo mobile prestazioni 95, accessibilità 92, best practices 100, SEO 100, CLS0. Desktop 99/92/100/100 CLS0. Audit interno 0 issue.
+- Tema: identificato lo ZIP Erbario Biblico 1.0.1 nella Libreria e predisposto il tema 1.0.2 con link brand accessibile e testi più leggibili. ZIP validato PHP; non installato sul WordPress perché accesso MCP non dispone della gestione file tema.
+- Prossima ATL-0061: Cercis siliquastrum L.
