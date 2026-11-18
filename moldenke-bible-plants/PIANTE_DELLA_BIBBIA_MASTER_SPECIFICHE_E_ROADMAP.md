@@ -411,7 +411,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0047 · *Brassica nigra*** — **Senape nera PUBBLICATA** WP **#807**, taxon Kew accettato *Mutarda nigra* (L.) Bernh. = *Brassica nigra* (L.) W.D.J.Koch. Moldenke voce 51 pp59–61, Duke «Black Mustard» pp65–69, lessico *sínapi* G4615, cinque passi evangelici in quote **#813–817**; fonti/termine/medicina **#808–812**. WebP **Media #818**, SHA/ALT/featured/`pdb_plate_media_id=818`, audit SEO **0 issue dopo publish**. Identificazione biblica controversa. [Dossier](ATL-0047_BRASSICA_NIGRA_DOSSIER_2026-11-18.md).
 
-- [ ] **ATL-0053 · *Capparis spinosa*** — Cappero; **M — · D p. 76**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0053 · *Capparis spinosa*** — **Cappero**, specie accettata Kew; include il nome storico *C. sicula* e la var. *canescens*; **M voce 54 pp. 65–66 + pp. 156, 199 · D «Caper Bush» pp. 76–79**; **stato: PUBBLICATA (2026-11-18)**; WP canonico: #889; featured Media #890.
 
 - [x] **ATL-0055 · *Cedrus libani*** — Cedro del Libano; **M voce 55, pp. 66–70 · D pp. 84–86**; fonte: Moldenke + Duke + Kew + RBGE + IUCN + Diodati 1649; **stato: PUBBLICATA (17/11/2026)**, revisione completa; 18 pagine WordPress online: pianta `266`, medicina `268`, lemma `269`, 12 passi `270–275` + `293–298`, 3 fonti `276–278`, tavola Media `267` caricata via MCP. Indice di 45 riferimenti Moldenke, con eccezioni e anomalie; audit SEO 0 rilievi su 6 contenuti verificati. [Rapporto fonti completo](VERIFICA_CEDRO_DEL_LIBANO_2026-11-17.md). **QA grafica desktop/mobile del Cedro ancora da completare.**
 
@@ -563,7 +563,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0051 · *Calotropis procera*** — Pomo di Sodoma / calotropide; **M pp. 79, 281 (note alla coloquintide) · D pp. 72–76**; fonti: Moldenke (confronto) + Duke; **stato: PUBBLICATA (2026-11-18)**; WP: `874`.
 
-- [ ] **ATL-0052 · *Capparis sicula*** — nome italiano da definire; **M voce 54, p. 65 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0052 · *Capparis sicula*** — nome storico di Moldenke, **sinonimo di *Capparis spinosa* var. *canescens*** (Kew); **M voce 54 pp. 65–66, altre menzioni pp. 156 e 199 · D pp. 76–79 nel taxon C. spinosa**; **stato: INTEGRATA NELLA SCHEDA CANONICA, nessuna duplicazione (2026-11-18)**; WP: #889.
 
 - [ ] **ATL-0054 · *Carthamus tinctorius*** — nome italiano da definire; **M — · D p. 80**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1294,7 +1294,7 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] **ATL-0050** — Buxus sempervirens, **WP #850 publish**, Media illustrativa schematica **#860**, SHA-256 `9e796cee63d9a355d762c36cff83f573c9ad0488f0a2b6133914ef484b16c7e2`, 52826 byte, 3 blocchi MCP, featured/ALT/meta `pdb_plate_media_id=860`, **SEO audit 0 issue**. Duke pp69–72, rischi e tossicità p71, dati di Buxus longifolia p72 non trasferiti automaticamente. https://piantedellabibbia.altervista.org/piante/bosso-comune-buxus-sempervirens-e-il-bosso-nella-bibbia/
 - **CPT di supporto pubblicati #851–858**: due fonti Kew, BDB H8391, termine *təʾaššûr*, due schede medicina storica e due passi (Is 60:13, Ez 27:6). Riutilizzato Isaia 41:19 **#531**; fonti comuni Moldenke **#135** e Duke **#136**. Identificazioni bibliche **#144–149**, tutte `controversa`; **14 source citations** nuove. Il taxon è una possibilità storica, non attestazione botanica certa.
 - **Totale WordPress dopo la pubblicazione: 25 schede botaniche** `publish`. Audit di #849/#850: `issues=[]`. **QA visiva indipendente [ ]**, non simulare screenshot.
-- **Prossimo ATL-0051 Calotropis procera**, da ricontrollare WP/Kew/Duke e tradizioni «pomo di Sodoma», con particolare attenzione alla tossicità del lattice; non ancora aperto. **Automazione schedulata ancora sospesa**, nessun aggiornamento di plugin.
+- **Stato aggiornato al 18/11/2026:** ATL-0051 *Calotropis procera* revisionata e pubblicata #874; ATL-0052 *Capparis sicula* assorbita nella specie canonica ATL-0053 *Capparis spinosa* #889. **Prossima voce: ATL-0054 *Carthamus tinctorius***, da deduplicare e verificare sulle fonti prima di lavorarla. Automazione autonoma non riattivata.
 - [Dossier Buxus balearica](ATL-0049_BUXUS_BALEARICA_DOSSIER_2026-11-18.md) · [Dossier Buxus sempervirens](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md) · [Registro](ATL-0049_0050_PROGRESSI_2026-11-18.md).
 
 ### 18/11/2026 — Audit SEO esterno OpenSEO e Google Search Console
@@ -1313,3 +1313,12 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Prossima voce da sottoporre a controllo anti-duplicato e Kew: **ATL-0052, Capparis sicula**, da confrontare con **Capparis spinosa**, senza presumere identità tassonomica.
 
 - **Controllo preliminare sul prossimo taxon (Kew POWO, 18/11/2026):** *Capparis sicula* Veill. ex Duhamel è riportata come **sinonimo di *Capparis spinosa* var. *canescens***, non come specie accettata autonoma. Prima della scheda ATL-0052 effettuare deduplicazione e confrontare Moldenke (*C. sicula*) con Duke (*C. spinosa*); evitare pagine botaniche duplicate. Fonte: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:146774-1
+
+
+### Chiusura congiunta ATL-0052 / ATL-0053 — 18 novembre 2026
+- **Una sola specie canonica: cappero — *Capparis spinosa* L.**, WordPress #889, pubblicata: https://piantedellabibbia.altervista.org/piante/cappero-capparis-spinosa-bibbia-botanica/
+- *Capparis sicula* Veill. ex Duhamel, di Moldenke voce 54 pp.65–66, è sinonimo secondo Kew di *Capparis spinosa* var. *canescens* Coss., varietà accettata. Duke tratta *C. spinosa* pp.76–79. Due record di catalogo in una sola scheda WordPress.
+- Fonte WordPress #891 Kew; #892 BDB H35; #893 Fici 2014; lemma H35 #894, medicina storica #895. Riutilizzato il passo Ecclesiaste 12:5 #478, integrato senza duplicati e già collegato al Mandorlo.
+- Moldenke: oltre alla voce 54 pp.65–66, recuperate p.156 (dibattito issopo) e p.199 (Giudici 8:7, spini desertici), come identificazioni controverse.
+- Featured WebP #890 con ALT e provenienza originale; audit SEO 0 issue sulla scheda. Ultimo controllo: 27 piante pubblicate. QA fotografica desktop/mobile separata ancora da effettuare.
+- Prossima specie: ATL-0054 *Carthamus tinctorius* (Duke p.80), previa deduplicazione e controllo di Moldenke. Un taxon alla volta.
