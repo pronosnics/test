@@ -561,7 +561,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0050 · *Buxus sempervirens*** — **PUBBLICATO WP #850**, Media WebP originale schematica **#860**, SHA/ALT/featured/`pdb_plate_media_id` confermati, **SEO 0 issue**. Moldenke voce 53 **pp62–63** confronto, Duke **Boxwood pp69–72** con tossicità p71; Kew conferma specie distinta da B. balearica. Isaia 41:19/60:13 e Ezechiele 27:6 controversi, supporti #851–858 condivisi senza doppioni. [Dossier](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md). QA visiva separata.
 
-- [ ] **ATL-0051 · *Calotropis procera*** — nome italiano da definire; **M — · D p. 72**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0051 · *Calotropis procera*** — nome italiano da definire; **M — · D p. 72**; fonte: Duke; **stato: PUBBLICATA (2026-11-18)**; WP: `874`.
 
 - [ ] **ATL-0052 · *Capparis sicula*** — nome italiano da definire; **M voce 54, p. 65 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1304,3 +1304,10 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] Google Search Console collegata: homepage, Atlante, Mandorlo, Fico, Olivo e Aloe vera **indicizzate** su campione; Cedro e pagina fonte Moldenke **scansionate ma non indicizzate**; numerose nuove specie **sconosciute a Google** nel rilevamento del 18/11/2026. Nessuna conclusione di blocco tecnico per le nuove URL.
 - [ ] Residuo minore: meta archive /usi-medicinali/ **162 caratteri**, da accorciare a 160 nella configurazione SEO/template; audit 50 URL non è un controllo integrale. Canonical slug con case differente nel percent encoding (greco/ebraico) solo avviso, non dimostrato errore. QA visiva e Lighthouse da verificare separatamente.
 - [Rapporto verificabile OpenSEO/GSC](AUDIT_SEO_OPENSEO_GSC_2026-11-18.md). Automazione Atlante ancora sospesa.
+
+### ATL-0051 — completamento verificato il 18 novembre 2026
+- **Calotropis procera (Aiton) W.T.Aiton** — pianta WordPress **#874**, **pubblicata** con tavola botanica originale WebP **Media #875** e audit SEO senza criticità sulla scheda.
+- Fonti: Duke «Giant Milkweed» **pp. 72–76** (inclusa figura p. 73); Moldenke **p. 79** e Supplementary Notes **p. 281 nota 73**; Kew POWO; Giuseppe Flavio IV.8.4; tossicologia clinica PMID 33110881 e PMID 19384022.
+- Supporti WP pubblicati: passo Deuteronomio 32:32 **#879**, medicina **#878**, fonti Kew **#876** e cliniche **#877**. Collegamento identificazione controversa **#150**, citazioni fonti **#481–490**.
+- Giudizio: «vite di Sodoma» di Deut 32:32 metaforica; «pomo di Sodoma» di tradizione extra-biblica non identifica la specie con certezza. **Non confondere Calotropis con Citrullus colocynthis né C. gigantea.**
+- Prossima voce da sottoporre a controllo anti-duplicato e Kew: **ATL-0052, Capparis sicula**, da confrontare con **Capparis spinosa**, senza presumere identità tassonomica.
