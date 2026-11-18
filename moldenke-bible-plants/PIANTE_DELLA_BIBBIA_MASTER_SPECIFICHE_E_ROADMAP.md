@@ -405,9 +405,9 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0028 · *Aquilaria agallocha*** — sinonimo di **Aquilaria malaccensis Lam.** secondo Kew; M pp.47–48, Duke Agarwood pp.44–47; **PUBBLICATA** sotto nome accettato WP **#700**, Media **#718**, SEO **0 issue**. Una sola pianta; ATL-0029 accorpata.
 
-- [ ] **ATL-0041 · *Balanites aegyptiaca*** — Dattero del deserto; M voce 47 **p.55**, Duke **Desert Date pp.58–62** (non «D —»), Kew Zygophyllaceae; **BOZZA_WP #747**, fonte/medicina/passi #749–752 in bozza, linkati passi preesistenti #606/#607. SEO: **1 issue immagine in evidenza assente**, non pubblicato, proseguire media originale/QA.
+- [x] **ATL-0041 · *Balanites aegyptiaca*** — **Dattero del deserto PUBBLICATO 18/11/2026**, Moldenke voce 47 p55, Duke Desert Date pp58–62, Kew Zygophyllaceae e BDB H6875. Pianta **WP #747**, fonte Kew #749, medicina #750, passi Geremia #751–752; riutilizzati Gen37:25 #606 e Ger8:22 #607. Media **#754**, WebP 1086×1448 347030 byte, SHA256 verificato, ALT/featured/`pdb_plate_media_id=754`. **SEO 0 avvisi dopo publish.** [Dossier](ATL-0041_BALANITES_AEGYPTIACA_DOSSIER_2026-11-18.md). QA fotografica desktop/mobile separata.
 
-- [ ] **ATL-0045 · *Boswellia sacra*** — Incenso (Boswellia); **M — · D p. 62**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0045 · *Boswellia sacra*** — **INCENSO PUBBLICATO 18/11/2026** come *Boswellia sacra Flück.* (Kew), sinonimo *B. carteri* Birdw. Moldenke voci 48–50 pp56–59; Duke Frankincense pp62–65; BDB lebonah H3828, greco libanos G3030 e NCCIH. Pianta **WP #760**, supporti #761–773, Cantico 4:14 #717 riusato. Tavola WebP originale illustrativa **Media #782** 1086×1448 114274 byte, SHA256/ALT/featured/`pdb_plate_media_id=782` verificati. **SEO 0 avvisi dopo publish.** [Dossier](ATL-0045_BOSWELLIA_SACRA_DOSSIER_2026-11-18.md). QA visiva indipendente separata.
 
 - [ ] **ATL-0047 · *Brassica nigra*** — Senape nera; **M voce 51, p. 59 · D p. 65**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -553,7 +553,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0044 · *Boswellia papyrifera*** — nome italiano da definire; **M voce 49, p. 56 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0046 · *Boswellia thurifera*** — nome italiano da definire; **M voce 50, p. 56 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Boswellia sacra; controllare sinonimia/identificazione.
+- [ ] **ATL-0046 · *Boswellia thurifera*** — **SINONIMO DI *Boswellia serrata* Roxb., NON DI *Boswellia sacra*** secondo Kew POWO; Moldenke voce 50 pp56–59, Duke cita Boswellia serrata come fonte distinta. Stato: **DA ACCORPARE IN UNA FUTURA SCHEDA *Boswellia serrata*** previa verifica WP, non creare duplicato e non mettere [x] prima del publish/media/SEO di quel taxon.
 
 - [ ] **ATL-0048 · *Butomus umbellatus*** — nome italiano da definire; **M voce 52, p. 62 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1249,3 +1249,14 @@ Aggiunta come **terza fonte bibliografica di confronto**, distinta dai riferimen
 **Nuova pagina tematica in BOZZA:** [Le sette piante della Terra Promessa, WP #778](https://piantedellabibbia.altervista.org/?page_id=778), slug previsto `sette-piante-terra-promessa-bibbia`. Contiene una guida originale con tabella, bibliografia e link a piante/versetti: **non è pubblica**. L'audit SEO la segnala con **unico avviso immagine in evidenza assente**. Non pubblicare finché non si realizza la tavola originale e non si controllano resa desktop/mobile e SEO. Grano e Orzo ancora senza schede botaniche; svilupparle secondo roadmap senza identificazioni tassonomiche affrettate.
 
 **Controllo finale via MCP**: Fico #152 `publish`, audit SEO **zero avvisi**; Deuteronomio #218 `publish`, contenuto con fonte aggiornato; nuova fonte #775 `publish`; bozza #778 `draft`. Le citazioni bibliografiche dinamiche riguardano #152 e #218. L'operazione di creare una relazione `source_citations` per il tipo WordPress `page` non è supportata dal collegatore corrente: la bozza #778 cita comunque la pagina fonte nel testo, senza fingere una relazione database. **Nessun nuovo plugin installato o aggiornato**.
+
+### 18 novembre 2026 — Chiusura Balanites + Boswellia (MCP WordPress, lotti ATL-0041/0045)
+
+**Esiti effettivi verificati dopo pubblicazione, senza duplicati:** 
+- [x] **ATL-0041 Balanites aegyptiaca** — WP pianta `#747` **publish**; supporti `#749–752` tutti pubblicati, riusati `#606/#607`; Moldenke p55 e Duke pp58–62 collazionati. Media originale `#754` 347030 byte SHA `5cdaa8803978dd4c8ec2940211be2cd7643175799c246b8ddf61e35de524d6af`, caricata in 15 chunk 24000 raw, featured/ALT e campo `pdb_plate_media_id=754`. SEO finale **0 criticità**. Link: https://piantedellabibbia.altervista.org/piante/dattero-del-deserto-balanites-aegyptiaca-e-balsamo-biblico/
+- [x] **ATL-0045 Boswellia sacra Flück.** — WP `#760` **publish**; supporti `#761–773` pubblicati, Cantico 4:14 `#717` riusato; Moldenke voci 48–50 pp56–59 e Duke «Frankincense» pp62–65 collazionati. Media originale *schematica* `#782` 114274 byte SHA `b5089ec9323a2653e4312b344fe758a27e75d0b313b43a1b2b0a8e3411859d1a`, 5 chunk raw, featured/ALT e `pdb_plate_media_id=782`. SEO finale **0 criticità**. Link: https://piantedellabibbia.altervista.org/piante/incenso-boswellia-sacra-fluck-bibbia-resina-e-botanica/
+- **Kew fondamentale**: `Boswellia carteri` è sinonimo di `B. sacra`, mentre `Boswellia thurifera` è sinonimo di **`Boswellia serrata`**, specie distinta. Non accorpare ATL-0046 a ATL-0045. Fonti BDB H3828 e NCCIH documentate; identificazioni bibliche come `controversa`.
+- **Totale WordPress verificato:** **21 piante pubblicate**. Il controllo `pdb/seo-audit` di entrambi i nuovi post in `publish` restituisce `issues=[]`.
+- **Pulizia staging temporaneo completata**, nessun aggiornamento né controllo di versione del plugin. **QA visiva browser desktop/mobile ancora [ ]** perché lo strumento pubblico non ha aperto Altervista; non confondere status/SEO/MCP con resa fotografica.
+- **Automazione oraria ancora sospesa** su istruzione dell'utente; questa è sessione manuale. Prossima specie prioritaria **ATL-0047 Brassica nigra**; non aperta oggi perché massimo due nuove specie per esecuzione.
+- [Dossier ATL-0041](ATL-0041_BALANITES_AEGYPTIACA_DOSSIER_2026-11-18.md) · [Dossier ATL-0045](ATL-0045_BOSWELLIA_SACRA_DOSSIER_2026-11-18.md) · [Progressi verificati](ATL-0041_0045_PROGRESSI_2026-11-18.md).
