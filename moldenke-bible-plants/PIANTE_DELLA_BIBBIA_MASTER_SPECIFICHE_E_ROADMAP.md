@@ -565,7 +565,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0052 · *Capparis sicula*** — nome storico di Moldenke, **sinonimo di *Capparis spinosa* var. *canescens*** (Kew); **M voce 54 pp. 65–66, altre menzioni pp. 156 e 199 · D pp. 76–79 nel taxon C. spinosa**; **stato: INTEGRATA NELLA SCHEDA CANONICA, nessuna duplicazione (2026-11-18)**; WP: #889.
 
-- [ ] **ATL-0054 · *Carthamus tinctorius*** — nome italiano da definire; **M — · D p. 80**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0054 · *Carthamus tinctorius*** — **Cartamo / zafferano bastardo**; **M p. 87 (nella voce Crocus sativus) · D pp. 80–83 + Natural History p. 84**; fonti: Moldenke + Duke + Kew + lessico H3750 + Dafni/Böck 2019 + Bai et al. 2025; **stato: PUBBLICATA (18/11/2026)**; WP: #905; featured Media #906; Cantico 4:14 #717 riutilizzato; identificazione botanica del karkôm **controversa**.
 
 - [ ] **ATL-0056 · *Centaurea calcitrapa*** — nome italiano da definire; **M voce 56, p. 70 · D p. 86**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1294,7 +1294,7 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] **ATL-0050** — Buxus sempervirens, **WP #850 publish**, Media illustrativa schematica **#860**, SHA-256 `9e796cee63d9a355d762c36cff83f573c9ad0488f0a2b6133914ef484b16c7e2`, 52826 byte, 3 blocchi MCP, featured/ALT/meta `pdb_plate_media_id=860`, **SEO audit 0 issue**. Duke pp69–72, rischi e tossicità p71, dati di Buxus longifolia p72 non trasferiti automaticamente. https://piantedellabibbia.altervista.org/piante/bosso-comune-buxus-sempervirens-e-il-bosso-nella-bibbia/
 - **CPT di supporto pubblicati #851–858**: due fonti Kew, BDB H8391, termine *təʾaššûr*, due schede medicina storica e due passi (Is 60:13, Ez 27:6). Riutilizzato Isaia 41:19 **#531**; fonti comuni Moldenke **#135** e Duke **#136**. Identificazioni bibliche **#144–149**, tutte `controversa`; **14 source citations** nuove. Il taxon è una possibilità storica, non attestazione botanica certa.
 - **Totale WordPress dopo la pubblicazione: 25 schede botaniche** `publish`. Audit di #849/#850: `issues=[]`. **QA visiva indipendente [ ]**, non simulare screenshot.
-- **Stato aggiornato al 18/11/2026:** ATL-0051 *Calotropis procera* revisionata e pubblicata #874; ATL-0052 *Capparis sicula* assorbita nella specie canonica ATL-0053 *Capparis spinosa* #889. **Prossima voce: ATL-0054 *Carthamus tinctorius***, da deduplicare e verificare sulle fonti prima di lavorarla. Automazione autonoma non riattivata.
+- **Stato aggiornato al 18/11/2026:** ATL-0051 *Calotropis procera* revisionata e pubblicata #874; ATL-0052 *Capparis sicula* assorbita nella specie canonica ATL-0053 *Capparis spinosa* #889. **ATL-0054 completata; prossima voce: ATL-0056 *Centaurea calcitrapa***, previa verifica fonti, sinonimi ed esistenze WP. Automazione autonoma non riattivata.
 - [Dossier Buxus balearica](ATL-0049_BUXUS_BALEARICA_DOSSIER_2026-11-18.md) · [Dossier Buxus sempervirens](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md) · [Registro](ATL-0049_0050_PROGRESSI_2026-11-18.md).
 
 ### 18/11/2026 — Audit SEO esterno OpenSEO e Google Search Console
@@ -1322,3 +1322,11 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Moldenke: oltre alla voce 54 pp.65–66, recuperate p.156 (dibattito issopo) e p.199 (Giudici 8:7, spini desertici), come identificazioni controverse.
 - Featured WebP #890 con ALT e provenienza originale; audit SEO 0 issue sulla scheda. Ultimo controllo: 27 piante pubblicate. QA fotografica desktop/mobile separata ancora da effettuare.
 - Prossima specie: ATL-0054 *Carthamus tinctorius* (Duke p.80), previa deduplicazione e controllo di Moldenke. Un taxon alla volta.
+
+### ATL-0054 cartamo — chiusura verificata 18 novembre 2026
+- **Carthamus tinctorius L.**, pianta #905 **pubblicata**: https://piantedellabibbia.altervista.org/piante/cartamo-carthamus-tinctorius-bibbia-zafferano/
+- **Confronto fonti recuperato:** Moldenke 1952 **p.87** nella voce *Crocus sativus* (non assente); Duke 2008 **pp.80–83 e coda p.84**. Kew POWO accetta nome, famiglia Asteraceae e natività Turchia orientale–Iran; non assumere origine nativa Siria/Egitto della fonte 1952.
+- **Cantico 4:14** già registrato come passo #717, aggiornato; termine ebraico *karkôm* H3750 #910; relazione identificativa **controversa** #152; source citations #503–512. Croco, curcuma e cartamo sono taxa differenti.
+- Supporti pubblicati: Kew #907, Dafni–Böck 2019 #908, revisione Bai 2025 #909, medicina #911. **Tavola WebP originale Media #906** con ALT, provenance, featured image e checksum verificati.
+- Ultimo **pdb/seo-audit: zero issue** per #905; totale piante pubblicate **28**. Rimane la QA visiva effettiva su desktop/mobile; audit SEO non sostituisce l'ispezione grafica.
+- Prossimo record non completato (ATL-0055 già completato): **ATL-0056 *Centaurea calcitrapa***, con verifica dell'assenza di duplicati prima della scheda.
