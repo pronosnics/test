@@ -109,3 +109,10 @@ Per le immagini generate dall'assistente ma non accessibili come byte all'API MC
 Si può scrivere `MEDIA_OK` **solo** se l'API di WP conferma che la scheda possiede un allegato valido in evidenza, testo ALT, provenienza registrata e zero problemi SEO di immagine. L'esistenza del file nella cartella di generazione, di un link di upload temporaneo o di una sessione `start` NON è sufficiente.
 
 **Conclusione operativa: con la 0.2.4 il plugin non va più aggiornato a ogni tavola. Se un file non può essere inviato dal contesto dell'assistente, usare l'upload diretto della Media Library con successiva associazione MCP, anziché produrre 0.2.5.**
+
+
+## 18/11/2026 — quinto test reale: Aloe e Anastatica
+
+**Due import MCP conclusi senza modificare plugin 0.2.4:** Aloe WP #666, Media #676, 175292 byte, 1086×1448, 8 blocchi (ultimo 7292), SHA `63e14559bf2dd12f80ef28e244ab6222b82c30eb4afc676c030fe8a50e1abfa0`; Anastatica WP #667, Media #677, 179848 byte, 1086×1448, 8 blocchi (ultimo 11848), SHA `096fde2a3c67d12ca228a202f9921c3a947172ce758660ed851ea2fac3049582`. `atlas-media-finish` ha confermato Media ID, SHA, URL e featured; `ewpa/get-post-meta` ha verificato `_wp_attachment_image_alt` e `pdb_plate_media_id`; `pdb/seo-audit` zero issue dopo publish. Staging Base64 privato rimosso dalla Library e dal filesystem.
+
+**Lezione trasferimento:** il limite di chiamate per una singola orchestrazione è diverso dal limite del plugin; se l'orchestratore interrompe dopo N tool call, riprendere dal `next_offset` già restituito e dalla riga Base64 successiva, **non** riavviare upload né duplicare chunk; chiamare finish solo quando offset==file_size. Le API MCP restano operative. **Controllo arte:** non caricare un'immagine che contiene riferimenti biblici o descrizioni scientifiche sbagliate; usare tavola ripulita e rileggere didascalie, soprattutto risurrezione apparente delle piante igroscopiche.
