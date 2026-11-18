@@ -28,3 +28,7 @@ Kew POWO conferma *Aloe vera* (L.) Burm.f. (Asphodelaceae), accettata, nativa de
 ## 18/11/2026 01:29 CET — controllo MCP e vincolo di pubblicazione
 
 Verificato live `pdb/atlas-health`: versione **0.2.4**. `pdb/atlas-list` ricerca `Aloe` restituisce **0** schede. La ricerca generica `Giovanni 19` restituisce risultati non specifici, quindi **non prova** l'assenza del passo Giovanni 19:39–40 per tipo, lemma o identificatore. Necessaria ricognizione completa `pdb_quote` e `pdb_term` prima di creare contenuti. Nessuna nuova bozza, tavola o pubblicazione in questa esecuzione; non attestare audit o checksum. Restano collazione originale Moldenke/Duke, distinzione fra aloe aromatico e *Aloe vera*, media e SEO. Prossimo lavoro: stessa coppia.
+
+## 18/11/2026 02:26 CET — controllo incrociato catalogo
+
+Ricerca Library nel file `atlante_piante_piano_editoriale_2026.xlsx`: Duke indice Aloe p.30 e voce successiva *Anabasis articulata* p.35; Moldenke catalogo *Aloe succotrina* p.231 / PDF p.227 **non affidabile** (precedente ispezione ha trovato *Triticum*). L'indice non prova identità tassonomica fra aloe biblico e *Aloe vera*, né sostituisce lettura completa originale. MCP health plugin 0.2.4 e ability upload confermate. Stato APERTO: niente nuova bozza, pubblicazione, immagine, ID o checksum; manca confronto integrale, dedup, tavola e audit. Non spuntare.
