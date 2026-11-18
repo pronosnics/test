@@ -561,7 +561,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0050 · *Buxus sempervirens*** — **PUBBLICATO WP #850**, Media WebP originale schematica **#860**, SHA/ALT/featured/`pdb_plate_media_id` confermati, **SEO 0 issue**. Moldenke voce 53 **pp62–63** confronto, Duke **Boxwood pp69–72** con tossicità p71; Kew conferma specie distinta da B. balearica. Isaia 41:19/60:13 e Ezechiele 27:6 controversi, supporti #851–858 condivisi senza doppioni. [Dossier](ATL-0050_BUXUS_SEMPERVIRENS_DOSSIER_2026-11-18.md). QA visiva separata.
 
-- [x] **ATL-0051 · *Calotropis procera*** — nome italiano da definire; **M — · D p. 72**; fonte: Duke; **stato: PUBBLICATA (2026-11-18)**; WP: `874`.
+- [x] **ATL-0051 · *Calotropis procera*** — Pomo di Sodoma / calotropide; **M pp. 79, 281 (note alla coloquintide) · D pp. 72–76**; fonti: Moldenke (confronto) + Duke; **stato: PUBBLICATA (2026-11-18)**; WP: `874`.
 
 - [ ] **ATL-0052 · *Capparis sicula*** — nome italiano da definire; **M voce 54, p. 65 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
