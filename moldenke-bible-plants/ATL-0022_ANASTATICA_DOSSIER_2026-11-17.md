@@ -42,3 +42,7 @@ Confermata la roadmap GitHub corrente e reperito il PDF Duke originale nella Lib
 
 ### 18/11/2026 05:26 CET — controllo operativo
 MCP `pdb/atlas-health` conferma plugin 0.2.4 e abilità media; nessun aggiornamento software. Fonti originali e confine Anastatica/Gundelia richiedono ancora collazione conclusiva e controllo identificazioni controverse. Nessuna nuova tavola, WP ID, checksum, SEO o pubblicazione verificata in questa esecuzione. Stato APERTO; non equiparare il tradizionale nome «rosa di Gerico» a identificazione biblica certa.
+
+
+### 18/11/2026 — sblocco operativo: bozze WordPress create
+**ATL-0022**: creata bozza WordPress **#667** (`draft`) con gulgal/Gundelia, botanica igroscopica e cautela sul folklore ostetrico.
