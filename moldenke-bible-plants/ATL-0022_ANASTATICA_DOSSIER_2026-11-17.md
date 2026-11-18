@@ -31,3 +31,7 @@ Verificato live plugin **0.2.4**. `pdb/atlas-list` ricerca `Anastatica` e `Salmo
 ## 18/11/2026 02:26 CET — controllo incrociato catalogo
 
 Ricerca Library nel catalogo editoriale: Duke *Anastatica hierochuntica* p.36, voce successiva *Anemone coronaria* p.37; Moldenke *Anastatica* e *Gundelia tournefortii* condividono p.38. **Il confine della pagina impone lettura integrale prima di attribuire caratteristiche di Gundelia ad Anastatica.** Riferimento biblico `gulgal` resta ipotesi concorrente, non identificazione sicura. MCP health 0.2.4 e ability media presenti; nessuna nuova pubblicazione, immagine, checksum o audit. Stato APERTO.
+
+## 18/11/2026 03:21 CET — verifica fonti e blocchi
+
+Confermata la roadmap GitHub corrente e reperito il PDF Duke originale nella Libreria; indice Duke Anastatica p.36, Anemone p.37: occorre controllare sul facsimile l'esatto confine e non inglobare la specie successiva. `pdb/atlas-health` conferma 0.2.4 e API media, senza modifiche. Nessuna nuova collazione integrale Moldenke/Duke in questa verifica, nessuna creazione WP/media, nessun checksum o audit finale. Restano da risolvere confronto *Gundelia*/*Anastatica* e `gulgal`, deduplicazione per riferimento/lemma, tavola WebP con SHA e QA. Stato APERTO.
