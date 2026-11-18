@@ -35,3 +35,7 @@ Ricerca Library nel catalogo editoriale: Duke *Anastatica hierochuntica* p.36, v
 ## 18/11/2026 03:21 CET — verifica fonti e blocchi
 
 Confermata la roadmap GitHub corrente e reperito il PDF Duke originale nella Libreria; indice Duke Anastatica p.36, Anemone p.37: occorre controllare sul facsimile l'esatto confine e non inglobare la specie successiva. `pdb/atlas-health` conferma 0.2.4 e API media, senza modifiche. Nessuna nuova collazione integrale Moldenke/Duke in questa verifica, nessuna creazione WP/media, nessun checksum o audit finale. Restano da risolvere confronto *Gundelia*/*Anastatica* e `gulgal`, deduplicazione per riferimento/lemma, tavola WebP con SHA e QA. Stato APERTO.
+
+### 18/11/2026 04:29 CET — controllo MCP mirato
+
+`pdb/atlas-health`: 0.2.4 invariato. `pdb/atlas-list` ricerche Anastatica, `gulgal` e `Salmo 83:13` = **0** ciascuna (ricerca libera tutti i tipi); non è prova definitiva di assenza di relazioni normalizzate o identificazioni concorrenti. Duke originale disponibile in Libreria: indice Anastatica p.36, Anemone p.37. Necessari ancora controllo integrale Moldenke/Duke e delimitazione *Gundelia*, tavola WebP, SHA, audit e QA. Nessun ID nuovo o publish; stato APERTO.
