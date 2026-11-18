@@ -18,6 +18,12 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
 
+## Stato operativo corrente — 18 novembre 2026
+**Ultima specie chiusa: ATL-0058 — *Centaurea verutum* L. (WordPress #957, immagine #958); 31 piante pubblicate.** Le tre fonti scientifiche complementari sono #959–961; audit della scheda: nessun problema. Le identificazioni bibliche restano controverse.
+**Prossima specie da lavorare: ATL-0059 — *Cephalaria syriaca* (L.) Roem. & Schult.** Kew taxon 319190-1, Caprifoliaceae, nome accettato; Duke «Syrian Scabious» pp. 89–90. Prima verificare Moldenke, anti-duplicati, morfologia, versetto Matteo 13:24–25 e immagine specifica.
+Le indicazioni «prossima» all'interno delle sezioni storiche più in basso sono registrazioni dei lotti precedenti e non prevalgono su questo stato operativo.
+
+
 > **Documento guida permanente.** Ogni nuova scheda dell'Atlante deve partire da qui, essere verificata sui libri originali, riportare le fonti con indicazione delle pagine ed essere collegata al database esistente. Questo file non sostituisce le fonti originali: ne governa l'uso.
 >
 > **Regola fondamentale:** sviluppare **schede ampie, ricche e complete**, usando **tutto il materiale pertinente realmente presente** nelle voci di **H. N. e A. L. Moldenke, *Plants of the Bible* (1952)** e di **James A. Duke, *Duke's Handbook of Medicinal Plants of the Bible* (2008)**, integrandolo con verifica tassonomica e scientifica moderna. **Non riempire sezioni con informazioni inventate né sacrificare contenuti utili per rispettare un limite di parole.**
