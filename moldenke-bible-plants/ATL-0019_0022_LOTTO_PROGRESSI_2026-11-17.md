@@ -18,3 +18,7 @@ Verifica live `pdb/atlas-health`: plugin pdb-atlante 0.2.4, API disponibili. Ric
 ## 18/11/2026 01:29 CET — verifica server senza pubblicazione
 
 MCP `pdb/atlas-health`: plugin `pdb-atlante 0.2.4`. `pdb/atlas-list`: `Aloe` 0, `Anastatica` 0, `Salmo 83` 0; `Giovanni 19` restituisce risultati testuali non specifici, quindi la ricerca libera non garantisce unicità per riferimento. Nessun ID WP o Media generato, nessun SHA-256 nuovo, nessun SEO audit conclusivo. **Blocco editoriale:** mancano collazione integrale delle due fonti con le schede, controllo sistematico lemmi/passi/fonti, tavole originali e trasferimento MCP. Non pubblicare, non spuntare. Riprendere ATL-0019 e ATL-0022; non modificare il plugin.
+
+## 18/11/2026 02:26 CET — verifica e blocchi
+
+Letta roadmap GitHub corrente e ricontrollato catalogo Library (`atlante_piante_piano_editoriale_2026.xlsx`); indici Duke Aloe p30/Anabasis p35/Anastatica p36/Anemone p37; Moldenke Anastatica/Gundelia p38; mappatura Aloe succotrina PDF227 errata da risolvere con facsimile. MCP `pdb/atlas-health` conferma versione 0.2.4 e ability media disponibili. **Non eseguita in questa sessione collazione integrale, non generati WebP, non effettuato trasferimento Base64, nessuna deduplicazione completa, nessun audit SEO o publish**. Blocco editoriale reale, non mancanza dell'API media. Entrambe le specie restano aperte; prossima coppia invariata ATL-0019/ATL-0022. Nessuna casella [x].
