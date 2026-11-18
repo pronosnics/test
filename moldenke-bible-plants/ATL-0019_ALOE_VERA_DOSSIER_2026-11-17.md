@@ -47,3 +47,17 @@ MCP `pdb/atlas-health` ha risposto `success:true`, versione 0.2.4, con upload me
 
 ### 18/11/2026 — sblocco operativo: bozze WordPress create
 **ATL-0019**: creata bozza WordPress **#666** (`draft`) con distinzione Aloe vera/Aloe succotrina, Giovanni 19, gel/lattice e cautela clinica.
+
+## 18 novembre 2026 — piano operativo anti-stallo per esecuzioni automatiche
+
+**Stato verificato precedente:** ATL-0019 Aloe vera = WP #666 `draft`; ATL-0022 Anastatica hierochuntica = WP #667 `draft`. Non creare altre piante omonime; non contrassegnare [x] prima della pubblicazione confermata. Plugin pdb-atlante 0.2.4 invariato; NON ripetere `atlas-health` se non dopo un errore effettivo.
+
+**Ordine obbligatorio, con output tangibile a ogni esecuzione:**
+1. Leggere roadmap corrente e recuperare le bozze #666/#667 con `pdb/atlas-get`; verificare conflitti e duplicati per tipo, ID, lemma, passo e fonte.
+2. Chiudere la collazione delle pagine originali: Duke Aloe pp.30–35 (Anabasis in fondo a p.35), Anastatica pp.36–37 (Anemone a p.37); Moldenke Anastatica/Gundelia pp.38–39; per Aloe correggere l'indice errato «PDF p.227» prima di citare Moldenke. Riportare le pagine effettivamente lette e separare citazione certa, tradizione, ipotesi e prove precliniche.
+3. **Aggiornare realmente #666 e #667** con testo ampio e specifico, dati botanici POWO, lemmi, bibliografia e fonti affidabili. Creare o riutilizzare schede bibliche, lemmi, medicina e fonti con dedup. Non limitarsi a descrivere cosa fare.
+4. Generare una tavola originale WebP per ciascuna, usare SOLO `PROCEDURA_DEFINITIVA_MEDIA_SENZA_UPDATE_PLUGIN.md`: staging Base64 privato, blocchi raw 24.000 byte, MCP start/chunk/finish, SHA-256, ALT, featured, `pdb_plate_media_id`, eliminare staging. Se non è disponibile la generazione o il trasferimento, mantenere bozze e indicare esattamente il tool mancante; non dichiarare MEDIA_OK.
+5. Collazione finale dell'intera voce originale rispetto al testo, controllo dei confini, SEO, relazioni, media. Pubblicare via MCP soltanto dopo esito positivo e verificare `publish`, immagine, checksum e SEO. QA visiva browser desktop/mobile separata dall'audit automatico.
+6. Dopo conferma reale, marcare [x] solo le specie concluse e scegliere la **prima coppia aperta della roadmap riletta in quel momento**, non nomi preimpostati. Massimo 2 preferibilmente, mai oltre 3 specie per esecuzione. Se una delle due è incompleta, riprenderla prima di aprire altro lotto.
+
+**Regola anti-loop:** una esecuzione non deve limitarsi a ripetere la diagnosi già documentata. Priorità a modifiche WordPress verificabili e/o media effettivamente creati. Se un blocco impedisce di procedere, registrare un solo blocker concreto con prova, strumento richiesto e azione successiva; non ripetere test del plugin. Aggiornare sempre MASTER, dossier per ATL-ID e progressi con commit GitHub, data, WP ID, status e URL; non sovrascrivere modifiche concorrenti (rileggere SHA prima di scrivere).
