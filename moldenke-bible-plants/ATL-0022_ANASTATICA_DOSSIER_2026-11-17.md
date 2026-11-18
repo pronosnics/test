@@ -27,3 +27,7 @@ Indice originale Duke consultato in Libreria: *Anastatica hierochuntica* (Rose-o
 ## 18/11/2026 01:29 CET — controllo MCP e cautela esegetica
 
 Verificato live plugin **0.2.4**. `pdb/atlas-list` ricerca `Anastatica` e `Salmo 83` restituisce in entrambi i casi **0** risultati. Non è una deduplicazione esaustiva dei passi per metadati: verificare tutte le occorrenze `gulgal`, candidati *Gundelia* e possibili voci concorrenti prima di creare. Non equiparare una tradizione della Rosa di Gerico a identificazione biblica certa o a prova clinica. Nessuna scheda/media/SEO conclusivi in questa esecuzione; collazione integrale e tavola ancora da completare. Prossimo lavoro: stessa coppia.
+
+## 18/11/2026 02:26 CET — controllo incrociato catalogo
+
+Ricerca Library nel catalogo editoriale: Duke *Anastatica hierochuntica* p.36, voce successiva *Anemone coronaria* p.37; Moldenke *Anastatica* e *Gundelia tournefortii* condividono p.38. **Il confine della pagina impone lettura integrale prima di attribuire caratteristiche di Gundelia ad Anastatica.** Riferimento biblico `gulgal` resta ipotesi concorrente, non identificazione sicura. MCP health 0.2.4 e ability media presenti; nessuna nuova pubblicazione, immagine, checksum o audit. Stato APERTO.
