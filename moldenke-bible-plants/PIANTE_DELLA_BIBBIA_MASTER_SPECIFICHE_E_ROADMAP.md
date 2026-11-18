@@ -1150,3 +1150,7 @@ Riletta roadmap corrente prima di qualsiasi creazione; la coppia ATL-0019 Aloe v
 
 ### Controllo 18/11/2026 05:26 CET — ATL-0019 / ATL-0022
 Verifica diretta MCP `pdb/atlas-health`: `success:true`, plugin `pdb-atlante 0.2.4`, tipi `pdb_plant/pdb_quote/pdb_term/pdb_medicine/pdb_source` e abilità media start/chunk/finish disponibili. Consultati nuovamente dossier e procedura permanente. Ricerca Library restituisce PDF originale Duke e indici, ma non una nuova collazione completa dei due PDF; riferimento Moldenke Aloe p.227 PDF resta errato/non risolto. **Lotto APERTO**, nessun publish, media ID, SHA o SEO conclusivo attestato in questa esecuzione. Prima di pubblicare: lettura integrale facsimili, dedup relazionale, tavole WebP e trasferimento verificato. Prossima coppia invariata ATL-0019 / ATL-0022; non spuntare [x].
+
+
+### 18/11/2026 — sblocco operativo: bozze WordPress create
+MCP `pdb/atlas-create-draft` ha confermato **#666 Aloe vera** e **#667 Anastatica hierochuntica**, entrambe `draft`. Primo avanzamento reale dopo i controlli ripetitivi. Non pubblicate, non spuntare [x]. Mancano collazione finale completa, dedup relazionale, fonti e passi, tavole WebP con SHA, audit SEO e QA visiva. Non ripetere controlli health plugin: usare 0.2.4 invariato. Prossima lavorazione: completare le due bozze e pubblicare solo dopo media e QA.
