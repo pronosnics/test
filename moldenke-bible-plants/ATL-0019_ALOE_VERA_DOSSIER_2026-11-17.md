@@ -32,3 +32,7 @@ Verificato live `pdb/atlas-health`: versione **0.2.4**. `pdb/atlas-list` ricerca
 ## 18/11/2026 02:26 CET — controllo incrociato catalogo
 
 Ricerca Library nel file `atlante_piante_piano_editoriale_2026.xlsx`: Duke indice Aloe p.30 e voce successiva *Anabasis articulata* p.35; Moldenke catalogo *Aloe succotrina* p.231 / PDF p.227 **non affidabile** (precedente ispezione ha trovato *Triticum*). L'indice non prova identità tassonomica fra aloe biblico e *Aloe vera*, né sostituisce lettura completa originale. MCP health plugin 0.2.4 e ability upload confermate. Stato APERTO: niente nuova bozza, pubblicazione, immagine, ID o checksum; manca confronto integrale, dedup, tavola e audit. Non spuntare.
+
+## 18/11/2026 03:21 CET — verifica fonti e blocchi
+
+Nuova lettura della roadmap GitHub corrente e del catalogo Library; trovato il PDF Duke originale nella Libreria. L'indice originale di Duke colloca Aloe a p.30, Anabasis a p.35: il confine condiviso p.35 richiede collazione diretta. `pdb/atlas-health` conferma plugin 0.2.4 e capacità di upload media. In questa verifica **non** sono stati collazionati integralmente i testi Moldenke/Duke, né creati nuovi post o immagini; nessun WP ID, SHA o audit SEO finale. Prima del publish: risolvere *Aloe vera* vs *A. succotrina*, pagina errata Moldenke, lemma aromatico biblico, verifica puntuale entità esistenti e tavola WebP con SHA. Stato APERTO.
