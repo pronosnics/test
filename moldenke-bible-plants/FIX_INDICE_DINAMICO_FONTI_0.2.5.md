@@ -45,3 +45,16 @@ Per annullare, reinstallare `pdb-atlante-0.2.4.zip` come sostituzione; i dati de
 È stato predisposto `pdb-atlante-0.2.6.zip` (SHA-256: `120e35050e3b9d6c0e4d9b5e237489ae6546276f36a1e87734f02087f48f5d9d`). Sostituisce **solo il recupero delle relazioni** della 0.2.5 con la query nativa già funzionante della 0.2.4: `SELECT object_id, object_type FROM {prefix}pdb_source_citations WHERE source_id = %d ORDER BY id DESC`, senza `LIMIT`, eliminando le copie duplicate lato PHP dopo il controllo publish. Mantiene i gruppi, i contatori e l’espansione accessibile della 0.2.5.
 
 Verifiche locali: lint PHP globale senza errori; ZIP valido; test harness con 207 oggetti, 2 bozze, doppie citazioni: 205 link visibili, 0 bozze, senza limite 120, cinque gruppi, espansione funzionante, assenza di citazioni gestita. **L’installazione live 0.2.6 è ancora necessaria** e dovrà essere verificata prima di considerare risolto il problema.
+
+## Collaudo reale post-installazione 0.2.6 (18 novembre 2026)
+
+**ESITO: CORREZIONE CONFERMATA SUL SITO PUBBLICO.**
+
+- `pdb/atlas-health`: `version: 0.2.6`, MCP collegato.
+- [Pagina Moldenke](https://piantedellabibbia.altervista.org/fonti-bibliografiche/moldenke-plants-of-the-bible/): sezione `#schede` presente, **124 schede distinte** = 21 piante, 83 passi, 16 nomi, 4 usi medicinali; 124 URL unici verificati nel DOM, zero duplicati; include Olivo, Fico, Vite, Balanites e Boswellia. Tutte le 21 specie pubblicate dell'Atlante hanno la rispettiva citazione Moldenke.
+- [Pagina Duke](https://piantedellabibbia.altervista.org/fonti-bibliografiche/duke-piante-medicinali-bibbia/): sezione `#schede` presente, **60 schede distinte** = 20 piante, 13 passi, 6 nomi, 21 usi medicinali; 60 URL unici, zero duplicati.
+- Elenchi divisi in gruppi con contatori, navigazione e espansione `<details>`.
+- Moldenke: titolo SEO, meta description, canonical e robots `index, follow` rilevati correttamente nel markup pubblico.
+- La query non impone più il limite precedente a 120 relazioni. Il comportamento di aggiornamento automatico dipende dall'inserimento di nuove `source_citations`, non dalla data editoriale del testo bibliografico.
+
+**Il fix della visualizzazione dell'indice dinamico è chiuso.** Eventuali ulteriori ottimizzazioni di contenuto delle fonti sono attività distinte. Nessuna riattivazione dell'automazione Atlante.
