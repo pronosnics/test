@@ -569,7 +569,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0056 · *Centaurea calcitrapa*** — **Calcatreppola / cardo stellato**; **M voci 56–59 pp. 70–72 (+ rimandi 149, 198, 244) · D «Purple Star Thistle» pp. 86–88**; Kew POWO specie accettata *C. calcitrapa* L., distinta dall'omonimo *C. calcitrapa* M.Bieb. (sin. *C. iberica* subsp. *iberica*). **Stato: PUBBLICATA 18/11/2026**, WP #922, immagine WebP #923; dardar H1863, tribolos G5146; Genesi 3:18, Osea 10:8, Ebrei 6:8 e 2 Re 14:9 collegati con status controverso.
 
-- [ ] **ATL-0057 · *Centaurea iberica*** — nome italiano da definire; **M voce 57, p. 70 · D p. 88**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0057 · *Centaurea iberica*** — **Cardo stellato iberico**; nome accettato *C. iberica* Trevir. ex Spreng. **M voce 57 nel gruppo 56–59, pp. 70–72 · D «Spanish Thistle» pp. 88–89**; Kew/Flora of Iraq, CFIA, H1863/G5146. **PUBBLICATA (18/11/2026)** WP `942`, featured WebP `943`; Genesi 3:18 `929`, Osea 10:8 `930`, Ebrei 6:8 `931`, 2 Re 14:9 `293` riutilizzati; tutte identificazioni **controverse**. *C. calcitrapa* M.Bieb. è sinonimo di *C. iberica* subsp. *iberica*, non di *C. calcitrapa* L.
 
 - [ ] **ATL-0058 · *Centaurea verutum*** — nome italiano da definire; **M voce 58, p. 70 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1341,3 +1341,12 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Audit SEO automatico 0 issue sulla scheda prima della pubblicazione; layout reale desktop/mobile ancora da testare. La voce generale #778 era in bozza e con media mancante, problema separato.
 - Cartamo ATL-0054 #905 ulteriormente integrato con codice storico di sicurezza «Class 2b–2d» e natural history Duke pp83–84, senza modificare il giudizio controverso sul karkom.
 - Prossima specie aperta: **ATL-0057 *Centaurea iberica*** (Moldenke voce 57 p70 ss; Duke «Spanish Thistle» da p88), distinta anche dall'omonimo *C. calcitrapa* M.Bieb.
+
+
+### ATL-0057 — Cardo stellato iberico, pubblicata 18 novembre 2026
+- **WordPress:** pianta #942, https://piantedellabibbia.altervista.org/piante/centaurea-iberica-cardo-stellato-bibbia/ , immagine WebP originale in evidenza **#943** (1086×1448 px), con ALT e provenienza.
+- **Fonti:** Moldenke 1952 **pp. 70–72** (voci 56–59), Duke 2008 «Spanish Thistle» **pp. 88–89**; Zohary sulla rosetta e dardar, ma identificazione incerta. Kew accetta **Trevir. ex Spreng.**, e *C. calcitrapa* M.Bieb. è nome storico di *C. iberica* subsp. *iberica*, non di *C. calcitrapa* L.
+- **Testi già presenti e ampliati:** Genesi 3:18 #929, Osea 10:8 #930, Ebrei 6:8 #931, 2 Re 14:9 #293; lemma dardar H1863 #927. Identificazioni **controverse**, non certezze botaniche.
+- **Nuovi supporti:** fonte Kew #944, fonte CFIA #945, medicina storica #946. Citazioni bibliografiche #523–529 e identificazioni #157–160.
+- **Etnobotanica:** giovani foglie raccolte tradizionalmente, impiego folklorico per eczema, attività antidiabetica/insulinogenica preliminare secondo Duke; nessuna indicazione clinica.
+- **Prossimo lotto:** ATL-0058 *Centaurea verutum* L., da distinguere dalle altre centauree.
