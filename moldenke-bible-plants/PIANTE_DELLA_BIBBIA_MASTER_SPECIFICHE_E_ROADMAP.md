@@ -1135,3 +1135,7 @@ Lotto precedente ancora APERTO: nessuna casella [x] aggiunta e nessuna nuova pub
 ### Verifica live 18/11/2026 01:29 CET — lotto ATL-0019 / ATL-0022
 
 `pdb/atlas-health` restituisce `pdb-atlante 0.2.4`, senza modifica del plugin. `pdb/atlas-list` con ricerche `Aloe` e `Anastatica` restituisce per entrambe `items:[]`, `count:0`. La ricerca `Salmo 83` non restituisce risultati; la ricerca `Giovanni 19` produce corrispondenze testuali non specifiche e **non costituisce deduplicazione per identificatore biblico**. Non risultano in questa esecuzione nuove schede, media, checksum o audit conclusivi. La collazione integrale e la verifica delle entità restano aperte; nessun `[x]`. Riprendere prioritariamente ATL-0019 e ATL-0022.
+
+### 18/11/2026 02:26 CET — controllo conservativo lotto aperto
+
+MCP `pdb/atlas-health` conferma `pdb-atlante 0.2.4` e le ability media start/chunk/finish disponibili. Ricerca Library sul catalogo editoriale (`atlante_piante_piano_editoriale_2026.xlsx`) conferma gli indici Duke Aloe p.30, Anabasis p.35, Anastatica p.36, Anemone p.37; catalogo Moldenke Anastatica/Gundelia p.38 e Aloe succotrina erroneamente mappata a PDF p.227 (in precedente ispezione pagina Triticum). **Questi sono dati di indice, non una nuova collazione integrale delle pagine originali.** Nessun WP post/media creato o pubblicato, nessun checksum/SEO nuovo: ATL-0019 e ATL-0022 restano APERTE e non spuntate. Prossima coppia invariata; verificare facsimile Aloe e testi integrali, deduplicazione per ID, tavole WebP prima di publish.
