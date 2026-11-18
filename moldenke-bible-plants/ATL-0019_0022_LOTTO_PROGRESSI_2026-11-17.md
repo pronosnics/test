@@ -33,3 +33,7 @@ Riletta roadmap GitHub, reperito PDF Duke originale in Library (indice Aloe p30/
 
 ### 18/11/2026 05:26 CET — stato verificato
 Consultati repository corrente e procedura media; MCP health: `success:true`, plugin 0.2.4, upload start/chunk/finish disponibile. Library search: PDF Duke originale e indici Moldenke, non prova di collazione integrale. **ATL-0019 e ATL-0022 APERTI**. Nessuna nuova pubblicazione, immagine o SHA in questo controllo. Blocker: confronto completo PDF e confini specie, dedup entità, tavole originali, staging/trasferimento, audit SEO. Prossima coppia invariata. Nessuna casella [x] modificata.
+
+
+### 18/11/2026 — sblocco operativo: bozze WordPress create
+MCP `pdb/atlas-create-draft` ha confermato **#666 Aloe vera** e **#667 Anastatica hierochuntica**, entrambe `draft`. Primo avanzamento reale dopo i controlli ripetitivi. Non pubblicate, non spuntare [x]. Mancano collazione finale completa, dedup relazionale, fonti e passi, tavole WebP con SHA, audit SEO e QA visiva. Non ripetere controlli health plugin: usare 0.2.4 invariato. Prossima lavorazione: completare le due bozze e pubblicare solo dopo media e QA.
