@@ -39,3 +39,6 @@ Confermata la roadmap GitHub corrente e reperito il PDF Duke originale nella Lib
 ### 18/11/2026 04:29 CET — controllo MCP mirato
 
 `pdb/atlas-health`: 0.2.4 invariato. `pdb/atlas-list` ricerche Anastatica, `gulgal` e `Salmo 83:13` = **0** ciascuna (ricerca libera tutti i tipi); non è prova definitiva di assenza di relazioni normalizzate o identificazioni concorrenti. Duke originale disponibile in Libreria: indice Anastatica p.36, Anemone p.37. Necessari ancora controllo integrale Moldenke/Duke e delimitazione *Gundelia*, tavola WebP, SHA, audit e QA. Nessun ID nuovo o publish; stato APERTO.
+
+### 18/11/2026 05:26 CET — controllo operativo
+MCP `pdb/atlas-health` conferma plugin 0.2.4 e abilità media; nessun aggiornamento software. Fonti originali e confine Anastatica/Gundelia richiedono ancora collazione conclusiva e controllo identificazioni controverse. Nessuna nuova tavola, WP ID, checksum, SEO o pubblicazione verificata in questa esecuzione. Stato APERTO; non equiparare il tradizionale nome «rosa di Gerico» a identificazione biblica certa.
