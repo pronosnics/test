@@ -400,9 +400,9 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0022 · *Anastatica hierochuntica*** — Rosa di Gerico; **M voci 29/30 pp. 38–39 · D pp. 36–37**; fonte: Moldenke + Duke; **stato: PUBBLICATA / MEDIA_OK / SEO_0**; WP: `667`, Media `677`.
 
-- [ ] **ATL-0024 · *Anemone coronaria*** — Anemone; **M voce 32, p. 41 · D p. 37**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0024 · *Anemone coronaria*** — Anemone; **M voce 32, p. 41 · D p. 37**; fonte: Moldenke + Duke; **stato: BOZZA_WP / MEDIA_ASSENTE / SEO_DA_FARE**; WP: `699`.
 
-- [ ] **ATL-0028 · *Aquilaria agallocha*** — Legno di aloe (aquilaria); **M voce 36, p. 47 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0028 · *Aquilaria agallocha*** — Legno di aloe (aquilaria); **M voce 36, p. 47 · D —**; fonte: Moldenke; **stato: BOZZA_WP / MEDIA_ASSENTE / SEO_DA_FARE**; WP: `700`.
 
 - [ ] **ATL-0041 · *Balanites aegyptiaca*** — Dattero del deserto; **M voce 47, p. 55 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Balanites aegyptiacus; controllare sinonimia/identificazione.
 
@@ -1199,3 +1199,8 @@ MCP `pdb/atlas-create-draft` ha confermato **#666 Aloe vera** e **#667 Anastatic
 ### Regola permanente — ripulitura testo pubblico (18/11/2026)
 
 **Separazione obbligatoria fra contenuti per lettori e tracciabilità interna.** Nei testi e nei campi che il tema WordPress può rendere pubblici (schede piante, fonti, medicina storica, passi, lemmi, metadati `pdb_image_provenance`, `plant.sources`, nomi e riferimenti biblici) NON riportare ID WordPress/Media Library, SHA-256, dimensioni in byte, dettagli WebP tecnici, blocchi/chunk Base64, offset, staging, nomi delle ability MCP, informazioni del plugin, commit GitHub né frasi di lavoro come «fonti da riutilizzare» o «traduzione da collazionare». Le citazioni visibili vanno redatte per il lettore come **autore, titolo, anno, pagine**, eventualmente con collegamenti naturali. Per `pdb_image_provenance` usare una formula editoriale come «Illustrazione botanica originale realizzata per l’Atlante Piante della Bibbia». **Conservare senza perdita** ID media, checksum, file size e log di caricamento nella roadmap/dossier/progressi privi di esposizione al frontend, e i meta tecnici necessari come `pdb_plate_media_id`; non cancellarli dal sistema. Prima di pubblicare eseguire un controllo di stringhe tecniche anche nei metadati, non solo nel corpo HTML. Pulizia realmente eseguita via MCP il 18/11/2026 su piante #666/#667 e contenuti editoriali #670/#671/#673, cache WordPress svuotata per post; nessuna modifica alle immagini o al plugin. QA visiva esterna separata.
+
+
+### 18/11/2026 — nuovo lotto prioritario ATL-0024 / ATL-0028, progressi WordPress verificati
+
+Dopo la chiusura definitiva dei lotti ATL-0015/0017/0019/0022, **create due nuove bozze** via MCP, senza duplicazioni: **Anemone coronaria #699** e **Aquilaria agallocha #700**, entrambe confermate `draft` e aggiornate con campi botanici. Confrontati gli originali Moldenke per Anemone pp.41–44 e Aquilaria pp.47–49 (collazione finale e confini ancora da completare) e Duke Windflower pp.37–39 e Agarwood pp.44–47. **Punto tassonomico critico:** Duke tratta *Aquilaria agallocha* come sinonimo di *Aquilaria malaccensis*: prima di aprire ATL-0029 verificare POWO e accorpare se stesso taxon. **Nessun media WebP, nessun SHA, nessun audit SEO finale, nessun publish** per #699/#700; pertanto checklist ancora **[ ]**. Non sono stati toccati i lotti chiusi né il plugin. [Dossier Anemone](ATL-0024_ANEMONE_CORONARIA_DOSSIER_2026-11-18.md) · [Dossier Aquilaria](ATL-0028_AQUILARIA_AGALLOCHA_DOSSIER_2026-11-18.md) · [Registro progressi](ATL-0024_0028_PROGRESSI_2026-11-18.md). Prossimo passo: completare queste due bozze, collazione e relazioni, tavole originali nello stile ottocentesco, WebP/MCP/ALT/featured, audit e pubblicazione verificata.
