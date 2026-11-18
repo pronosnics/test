@@ -20,7 +20,7 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 ## Stato operativo corrente — 18 novembre 2026
 **Ultima specie chiusa: ATL-0058 — *Centaurea verutum* L. (WordPress #957, immagine #958); 31 piante pubblicate.** Le tre fonti scientifiche complementari sono #959–961; audit della scheda: nessun problema. Le identificazioni bibliche restano controverse.
-**Prossima specie da lavorare: ATL-0059 — *Cephalaria syriaca* (L.) Roem. & Schult.** Kew taxon 319190-1, Caprifoliaceae, nome accettato; Duke «Syrian Scabious» pp. 89–90. Prima verificare Moldenke, anti-duplicati, morfologia, versetto Matteo 13:24–25 e immagine specifica.
+**ATL-0059 IN LAVORAZIONE:** specie *Cephalaria syriaca* WordPress #973 in bozza, Moldenke p.283 recuperato e Duke pp89–90 verificato; fonti e lemma creati in bozza. Restano tavola botanica specifica, revisione SEO e pubblicazione. Non avviare ATL-0060 finché ATL-0059 non è chiusa.
 Le indicazioni «prossima» all'interno delle sezioni storiche più in basso sono registrazioni dei lotti precedenti e non prevalgono su questo stato operativo.
 
 
@@ -579,7 +579,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0058 · *Centaurea verutum*** — **Cardo giallo del Levante** (nome descrittivo editoriale), specie accettata *C. verutum* L. (Kew, 1755); **M voce 58 nel gruppo 56–59 pp. 70–72 · D nessuna voce autonoma, solo confronto con C. calcitrapa pp86–88 e C. iberica pp88–89**; Kew nativa Libano–Israele, Flora of Israel/KKL fiori **gialli** e spine lunghe. **PUBBLICATA 18/11/2026**, WP #957; immagine botanica originale Media #958; fonti bibliografiche #959–961; identificazioni bibliche controverse #161–164; Genesi #929, Osea #930, Ebrei #931, 2 Re #293 e lemma dardar #927 riutilizzati.
 
-- [ ] **ATL-0059 · *Cephalaria syriaca*** — nome italiano da definire; **M — · D p. 89**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0059 · *Cephalaria syriaca*** — **Cefalaria siriana**, *C. syriaca* (L.) Roem. & Schult., Caprifoliaceae, Kew accettata. **M p. 283 Supplementary Notes (Ascherson 1889, Post), D «Syrian Scabious» pp. 89–90.** WordPress pianta **#973 IN BOZZA**, fonti #974–977, Matteo 13:24–30 #978, lemma zizánion G2215 #979, relazioni controverse #165. **Blocco di qualità:** manca la tavola botanica corretta; NON pubblicare con immagini delle sette specie. Successivo: caricare immagine di Cephalaria dai capolini viola, revisione SEO e pubblicazione.
 
 - [ ] **ATL-0061 · *Cercis siliquastrum*** — nome italiano da definire; **M voce 61, p. 73 · D p. 93**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1366,3 +1366,12 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Supporti pubblicati Kew **#959**, Flora of Israel/KKL **#960**, MESMAP morfologia **#961**. Relazioni fonte **#530–535**, identificazioni bibliche **#161–164 status controversa**. Esistenti Genesi 3:18 #929, Osea10:8 #930, Ebrei6:8 #931, 2 Re14:9 #293 e dardar H1863 #927 ampliati, senza duplicarli.
 - Audit SEO pianta zero criticità in bozza; pubblicazione effettuata. Rimane QA grafica browser desktop/mobile, distinta dall'audit automatico.
 - **Prossima scheda:** **ATL-0059 Cephalaria syriaca (L.) Roem. & Schult.**, fonte Duke «Syrian Scabious» pp.89–90, da controllare prima per nomenclatura e Moldenke, senza creare duplicati.
+
+
+## QA e pagina Terra Promessa — CHIUSO 18 novembre 2026
+- Pagina generale «Le sette piante della Terra Promessa» **#778 PUBBLICATA**, tavola originale featured WebP #972, SEO 0 issue: https://piantedellabibbia.altervista.org/sette-piante-terra-promessa-bibbia/.
+- Lighthouse su Terra Promessa: **mobile 94 performance / 92 accessibilità / 100 best practices / 100 SEO / CLS 0**; **desktop 99 / 93 / 100 / 100 / CLS 0**. Sulla scheda Centaurea verutum: mobile 91/92/100/100 CLS0 e desktop 100/92/100/100 CLS0.
+- **Procedura permanente:** file [QA_DESKTOP_MOBILE_PROTOCOLLO_2026-11-18.md](QA_DESKTOP_MOBILE_PROTOCOLLO_2026-11-18.md) con verifiche metadata, media, DOM e Lighthouse su mobile e desktop. Nessuno screenshot reale è stato esaminato: Google Lighthouse non sostituisce una revisione fotografica.
+- **Problemi residui del tema (non quelli della pagina #778):** aria-hidden su link di homepage focusable e alcuni contrasti insufficienti. Modificare il tema richiede accesso al sorgente e backup; WPVibe collegato in sola lettura non ha il plugin di gestione file WordPress attivo. Non confondere il test riuscito con accessibilità 100.
+- Normalizzati sei binomi scientifici (#957, #942, #922, #905, #889, #874) che venivano visualizzati con l'autorità ripetuta. Il modello dati deve salvare scientific_name senza autore, authorship separato.
+- [Dossier scientifico ATL-0059 in corso](ATL-0059_CEPHALARIA_SYRIACA_DOSSIER_IN_CORSO_2026-11-18.md).
