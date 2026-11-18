@@ -19,14 +19,14 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
 
 ## Stato operativo corrente — 18 novembre 2026
-**ULTIMA SPECIE COMPLETATA: ATL-0062 — *Cicer arietinum* L. (Cece), WordPress #1031, tavola botanica originale WebP #1043 (1086×1448). Totale 35 piante pubblicate.**
-- **Duke 2008**, «Chickpea» **pp.94–97**, collazione delle sezioni Notes, Common Names, Activities, Indications, Dosages, Downsides, Extracts; **Moldenke 1952 p.163**, non voce autonoma ma citazione accessoria dentro Ornithogalum, sull'ipotesi controversa di 2 Re 6:25.
-- **Isaia 30:24:** Zohary ripreso da Duke propone il cece, ma BDB H2548 interpreta *ḥāmîṣ* come aggettivo del foraggio; identificazione «controversa» #170. **2 Re 6:25:** Bochart propone Cicer, Celsius obietta e Dafni–Böck (2025) preferiscono *Prosopis farcta*; identificazione «controversa» #171.
-- Schede aggiuntive **#1032–1042**, comprendenti Kew, lessico BDB, studio 2025, morfologia Edinburgh/OGTR, precauzioni EFSA, passi, termini e usi tradizionali; relazione fonte e bibliche registrate. **Audit SEO finale: zero criticità.** Immagine in evidenza #1043 verificata da WordPress; controllo visivo esterno desktop/mobile non eseguito perché il browser non accede al sito.
-- **PRECEDENTE ATL-0061 — *Cercis siliquastrum* L.**, WordPress #1014, WebP #1021: audit finale Moldenke voce 61 p.73 e Duke Judas Tree pp.93–94, **nessuna omissione sostanziale**; Matteo 27:5 non identifica specie, relazione solo tradizionale #169. Nota filologica: nella traduzione di lavoro Moldenke figura «Atti 1:25» a proposito della morte di Giuda, mentre la narrazione pertinente si trova in **Atti 1:18**, già usato correttamente sul sito.
-**PROSSIMA SPECIE: ATL-0063 — *Cichorium endivia* L. (Indivia), Moldenke voce 62 p.74 e Duke «Endive» da p.97.** Confrontare erbe amare di Esodo 12:8 e Numeri 9:11; non confondere *C. endivia*, *C. intybus* e *C. pumilum* e controllare tassonomia moderna con Kew.
-Le indicazioni «prossima» nelle registrazioni storiche più in basso non prevalgono su questo stato operativo.
-
+**ULTIMA SPECIE COMPLETATA: ATL-0063 — *Cichorium endivia* L. (Indivia / scarola), WordPress #1057, tavola botanica originale WebP #1069 (1086×1448). Totale 36 piante pubblicate.**
+- **Moldenke 1952**, voce collettiva 62–67 **pp. 74–75**; **Duke 2008, «Endive» pp. 97–100**, figura 1.23 p. 98. Spiegate le erbe amare di Esodo 12:8 e Numeri 9:11, testo ebraico *mərōrîm* H4844, categoria rituale senza taxon univoco. Le due identificazioni di C. endivia registrate **controverse** (#172, #173).
+- **Correzione tassonomica fondamentale:** Duke include storicamente *C. pumilum* entro *C. endivia*; Kew oggi accetta *C. pumilum* come **specie distinta** da *C. endivia* e *C. intybus*. Origine indiana dell'indivia riportata dai Moldenke = ipotesi storica; Kew descrive *C. endivia* come cultigen del Mediterraneo orientale con Palestina nel native range del database, **non prova di cultivar moderne nel periodo biblico**.
+- Fonti #1058–1064, passi #1065–1066, termine #1067, medicina storica #1068, featured image #1069. Fonte Moldenke #135, Duke #136 e bibliografia dedicata collegati; audit SEO **zero criticità**, titolo/metadescrizione Yoast presenti, status WP publish. QA visivo esterno con screenshot desktop/mobile non eseguito separatamente.
+- **ATL-0062 — *Cicer arietinum* L. (Cece)**, WordPress #1031, WebP #1043: revisione supplementare Duke «Chickpea» pp. 94–97 e Moldenke p. 163, nessuna omissione sostanziale o modifica necessaria; le identificazioni Isaia 30:24 e 2 Re 6:25 restano controverse (#170 e #171). Audit precedente zero problemi.
+- **ATL-0061 — *Cercis siliquastrum* L.**, WordPress #1014, immagine #1021: rapporto con Matteo 27:5 solo tradizione, identificazione #169 controversa, senza specie nominata direttamente.
+**PROSSIMA SPECIE: ATL-0064 — *Cichorium intybus* L. (Cicoria comune)**, Moldenke voce collettiva 63 pp. 74–75, Duke «Chicory» pp. 100–104. Verificare soprattutto la distinzione da indivia e C. pumilum, proprietà alimentari e di estratti radicali, passi biblici, immagine originale e SEO.
+Le indicazioni «prossima» all'interno dei registri storici non prevalgono sullo stato corrente.
 
 > **Documento guida permanente.** Ogni nuova scheda dell'Atlante deve partire da qui, essere verificata sui libri originali, riportare le fonti con indicazione delle pagine ed essere collegata al database esistente. Questo file non sostituisce le fonti originali: ne governa l'uso.
 >
@@ -589,7 +589,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0062 · *Cicer arietinum* L.** — Cece. **Duke Chickpea pp.94–97; Moldenke p.163 citazione accessoria in Ornithogalum**, non monografia. **PUBBLICATA 18/11/2026** WordPress #1031, featured WebP #1043; fonti #1032–1037, passi #1038–1039, medicina #1040, termini #1041–1042; identificazioni Isaia 30:24 #170 e 2 Re 6:25 #171 entrambe controverse; audit 0 criticità. **Prossima ATL-0063 Cichorium endivia.**
 
-- [ ] **ATL-0063 · *Cichorium endivia*** — nome italiano da definire; **M voce 62, p. 74 · D p. 97**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0063 · *Cichorium endivia* L.** — Indivia / scarola; **Moldenke voce collettiva 62–67 pp. 74–75; Duke Endive pp. 97–100**. **PUBBLICATA 18/11/2026**: WP #1057, featured WebP #1069; fonti #1058–1064, passi #1065–1066, termine H4844 #1067, medicina #1068. Esodo 12:8 e Numeri 9:11: identificazioni **controverse #172–173**. Cichorium pumilum separato secondo Kew, diversamente dalla tassonomia di Duke. **Audit SEO 0 criticità**. **Prossima ATL-0064 C. intybus.**
 
 - [ ] **ATL-0064 · *Cichorium intybus*** — nome italiano da definire; **M voce 63, p. 74 · D p. 100**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
