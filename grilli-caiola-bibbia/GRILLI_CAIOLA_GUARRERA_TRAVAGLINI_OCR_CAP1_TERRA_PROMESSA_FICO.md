@@ -1,5 +1,5 @@
 # Grilli Caiola, Guarrera, Travaglini — Le piante nella Bibbia
-## Trascrizione da fotografie: capitolo 1, p. 32 e scheda Fico
+## Trascrizione da fotografie: capitolo 1, pp. 31–32 e scheda Fico
 
 **Autori:** Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini  
 **Opera:** *Le piante nella Bibbia*  
@@ -8,10 +8,10 @@
 **Data acquisizione:** 18 novembre 2026  
 **Origine del testo:** tre fotografie inviate dal lettore. Non è disponibile il volume completo.  
 **Stato:** trascrizione OCR revisionata manualmente sulle immagini; mantenuta la formulazione storica degli autori, salvo ricomposizione delle parole spezzate a fine riga e normale spaziatura. Non è una verifica scientifica indipendente.  
-**Pagine disponibili:** apertura del capitolo 1 (numero stampato non visibile nella fotografia), p. **32** (numero stampato visibile), pagina della voce **FICO** (numero stampato non visibile). **Non sono tre pagine consecutive accertate.**  
+**Pagine disponibili:** apertura del capitolo 1 a p. **31** (numero comunicato dal lettore), p. **32** (numero stampato visibile), pagina della voce **FICO** (numero stampato non visibile). **Non sono tre pagine consecutive accertate.**  
 **Diritti:** trascrizione di sole pagine fotografate e fornite dal lettore, conservata a fini di ricerca e confronto delle fonti; la pubblicazione dell'opera integrale non è autorizzata da questo materiale.
 
-## 1. PIANTE DELLA Terra Promessa — apertura del capitolo
+## 1. PIANTE DELLA Terra Promessa — p. 31 (numero confermato dal lettore)
 
 > «… il Signore tuo Dio sta per farti entrare in una buona terra di torrenti, di fonti e di acque sotterranee, che scaturiscono nella pianura e sulla montagna: terra di frumento, di orzo, di viti, di fichi e di melograni; terra di ulivi, di olio e di miele», **Deuteronomio 8, 7-8**.
 
@@ -55,10 +55,10 @@ L'insetto (*Blastophaga psenes*) depone le uova nei fiori femminili brevistili d
 
 | Tema / specie | Testimonianza in queste immagini | Passi / spunti |
 | --- | --- | --- |
-| Sette specie della Terra Promessa | Capitolo 1 e p. 32 | Deuteronomio 8:7-8; Deuteronomio 11:13-17 |
+| Sette specie della Terra Promessa | Cap. 1, pp. 31–32 | Deuteronomio 8:7-8; Deuteronomio 11:13-17 |
 | Fico (*Ficus carica*) | Voce FICO, pagina senza numero visibile | Numeri 20:5; botanica di siconi, fioroni, caprifico, *Blastophaga psenes* |
-| Vite (*Vitis vinifera*) | Apertura del capitolo e p. 32 | Genesi 40:9; Numeri 13:23-24 |
-| Grano, orzo, melograno, olivo, palma da datteri | Elenco e p. 32 | Deuteronomio 8:7-8; simbolismo delle sette specie |
+| Vite (*Vitis vinifera*) | Apertura del capitolo p. 31 e p. 32 | Genesi 40:9; Numeri 13:23-24 |
+| Grano, orzo, melograno, olivo, palma da datteri | Elenco a p. 31 e commento a p. 32 | Deuteronomio 8:7-8; simbolismo delle sette specie |
 | Miele, palma e carrubo | Discussione storica a p. 32 | Esodo 3:8, 3:17; due interpretazioni di «miele» |
 
 ### Avvertenze critiche
