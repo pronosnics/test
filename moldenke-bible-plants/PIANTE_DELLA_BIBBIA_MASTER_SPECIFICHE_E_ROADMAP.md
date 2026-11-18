@@ -400,11 +400,11 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0022 · *Anastatica hierochuntica*** — Rosa di Gerico; **M voci 29/30 pp. 38–39 · D pp. 36–37**; fonte: Moldenke + Duke; **stato: PUBBLICATA / MEDIA_OK / SEO_0**; WP: `667`, Media `677`.
 
-- [ ] **ATL-0024 · *Anemone coronaria*** — Anemone; **M voce 32, p. 41 · D p. 37**; fonte: Moldenke + Duke; **stato: BOZZA_WP / MEDIA_ASSENTE / SEO_DA_FARE**; WP: `699`.
+- [x] **ATL-0024 · *Anemone coronaria*** — M pp.41–46, Duke Windflower pp.37–39, Kew; **PUBBLICATA**, WP **#699**, Media WebP **#701** featured/ALT/SHA verificati; SEO audit **0 issue**; identificazione «gigli dei campi» controversa. QA fotografica desktop/mobile separata.
 
-- [ ] **ATL-0028 · *Aquilaria agallocha*** — Legno di aloe (aquilaria); **M voce 36, p. 47 · D —**; fonte: Moldenke; **stato: BOZZA_WP / MEDIA_ASSENTE / SEO_DA_FARE**; WP: `700`.
+- [x] **ATL-0028 · *Aquilaria agallocha*** — sinonimo di **Aquilaria malaccensis Lam.** secondo Kew; M pp.47–48, Duke Agarwood pp.44–47; **PUBBLICATA** sotto nome accettato WP **#700**, Media **#718**, SEO **0 issue**. Una sola pianta; ATL-0029 accorpata.
 
-- [ ] **ATL-0041 · *Balanites aegyptiaca*** — Dattero del deserto; **M voce 47, p. 55 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Balanites aegyptiacus; controllare sinonimia/identificazione.
+- [ ] **ATL-0041 · *Balanites aegyptiaca*** — Dattero del deserto; M voce 47 **p.55**, Duke **Desert Date pp.58–62** (non «D —»), Kew Zygophyllaceae; **BOZZA_WP #747**, fonte/medicina/passi #749–752 in bozza, linkati passi preesistenti #606/#607. SEO: **1 issue immagine in evidenza assente**, non pubblicato, proseguire media originale/QA.
 
 - [ ] **ATL-0045 · *Boswellia sacra*** — Incenso (Boswellia); **M — · D p. 62**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -508,7 +508,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0016 · *Allium porrum*** — nome italiano da definire; **M voce 25, p. 34 · D p. 21**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0018 · *Aloe succotrina*** — aloe di Socotra (specie distinta da Aloe vera); **M voce 27, p. 35 stampata/PDF (riferimento p.231 errato) · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0018 · *Aloe succotrina*** — Aloe del Capo, **non** nativa di Socotra; distinta da Aloe vera (L.) Burm.f.; Moldenke voce 27 **p.35**, Duke Aloe vera pp.30–35 **solo confronto**, SANBI 2015 pp.26–40, Kew; **PUBBLICATA WP #737**, fonti **#738–739**, medicina **#740**, Media **#741** featured/ALT/SHA verificati, SEO **0 issue**. [Dossier](ATL-0018_ALOE_SUCCOTRINA_DOSSIER_2026-11-18.md).
 
 - [ ] **ATL-0020 · *Alopecurus anthoxanthoides*** — nome italiano da definire; **M voce 11, p. 28 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -522,7 +522,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0027 · *Anthemis palaestina*** — nome italiano da definire; **M voce 33, p. 41 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0029 · *Aquilaria malaccensis*** — nome italiano da definire; **M — · D p. 44**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0029 · *Aquilaria malaccensis*** — **ACCORPATA_A_ATL-0028** (sinonimia documentata Kew); unica scheda WP **#700** già pubblicata, nessun secondo post da creare. Dossier in [ATL-0028](ATL-0028_AQUILARIA_AGALLOCHA_DOSSIER_2026-11-18.md).
 
 - [ ] **ATL-0030 · *Armoracia rusticana*** — nome italiano da definire; **M — · D p. 47**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1215,3 +1215,13 @@ Questa sezione **sostituisce gli stati di bozza precedenti** per ATL-0024 e ATL-
 - [ ] **QA visiva indipendente separata** su desktop/mobile dei due permalink e delle tavole: non attestata come completata. Tentativo di accesso pubblico via lettore web fallito, ma publish/SEO/media verificati da MCP WordPress.
 - [ ] **ATL-0018 Aloe succotrina** distinta da Aloe vera e ancora aperta; voce Moldenke **p. 35**, non 231. Non aprire un duplicato.
 - **AUTOMAZIONE ORARIA SOSPESA** il 18/11/2026 su richiesta esplicita; riattivazione soltanto su nuovo comando dell'utente. Lavori automatici successivi non devono essere presumibilmente eseguiti finché disabilitata.
+
+### 18/11/2026 — Audit manuale conclusivo e progressione verso Balanites
+
+**Esiti confermati live MCP WordPress:** Anemone #699 e Aquilaria #700 ancora `publish` con audit SEO **0 issue**; immagini in evidenza #701 e #718. Kew conferma sinonimia di Aquilaria agallocha con Aquilaria malaccensis; la riga ATL-0029 viene marcata come accorpata, senza duplicato. Nessuna modifica necessaria alle schede dopo confronto finale Moldenke/Duke.
+
+**ATL-0018 Aloe succotrina Weston CHIUSA**: WP #737 `publish` con fonte Kew #738, fonte SANBI #739, medicina #740, tutte pubblicate; scheda Giovanni #673 riutilizzata con status di identificazione `controversa`. Moldenke voce 27 p35, Duke Aloe vera pp30–35 solo per confronto, Kew e SANBI `Flowering Plants of Africa` 64 (2015), pp26–40. **Correzione**: specie sudafricana, non di Socotra; Aloe vera Mill. sinonimo di succotrina non è Aloe vera (L.) Burm.f.; A. perryi e A. ferox non sono questa specie. Immagine originale WebP Media #741 (361812 byte, SHA `8117c73e8292162a8c9f0413c26aef553cefe1789740d0178eaafb0e45c74252`) trasferita in 16 blocchi, featured/ALT verificati; file staging eliminato. SEO finale `pdb/seo-audit` **0 issue**. [Dossier](ATL-0018_ALOE_SUCCOTRINA_DOSSIER_2026-11-18.md).
+
+**Passaggio effettivo al prossimo P1 ATL-0041 Balanites aegyptiaca**: WP #747 **draft**, non pubblicata; supporti bozze #749–752, riuso quote #606/#607 e termine ṣŏrî #603, identificazioni controverse #125–128 e citazioni #415–421. **Duke contiene davvero Desert Date pp58–62**, prima catalogato erroneamente come assente; Moldenke voce 47 **p55**. Kew accetta Balanites aegyptiaca (L.) Delile e famiglia Zygophyllaceae (Balanitaceae storica in Duke). Audit SEO WP #747: unica issue **immagine in evidenza assente**, pertanto mantenere draft fino alla corretta tavola botanica original WebP, verifica SHA, ALT, audit 0, publish e QA. Tentativi di immagini riassuntive non specifiche respinti, non pubblicati. [Dossier Balanites](ATL-0041_BALANITES_AEGYPTIACA_DOSSIER_2026-11-18.md) · [Registro](ATL-0018_0041_PROGRESSI_2026-11-18.md).
+
+**QA browser desktop/mobile indipendente** dei post pubblicati non ancora completata: il fetch pubblico non è disponibile in questo ambiente, la conferma MCP di status/media/SEO non sostituisce screenshot. L'**automazione programmata resta sospesa**, non riattivata da questa sessione manuale.
