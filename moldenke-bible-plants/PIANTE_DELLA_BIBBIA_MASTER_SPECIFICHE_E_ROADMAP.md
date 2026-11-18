@@ -567,7 +567,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0054 · *Carthamus tinctorius*** — **Cartamo / zafferano bastardo**; **M p. 87 (nella voce Crocus sativus) · D pp. 80–83 + Natural History p. 84**; fonti: Moldenke + Duke + Kew + lessico H3750 + Dafni/Böck 2019 + Bai et al. 2025; **stato: PUBBLICATA (18/11/2026)**; WP: #905; featured Media #906; Cantico 4:14 #717 riutilizzato; identificazione botanica del karkôm **controversa**.
 
-- [ ] **ATL-0056 · *Centaurea calcitrapa*** — nome italiano da definire; **M voce 56, p. 70 · D p. 86**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0056 · *Centaurea calcitrapa*** — **Calcatreppola / cardo stellato**; **M voci 56–59 pp. 70–72 (+ rimandi 149, 198, 244) · D «Purple Star Thistle» pp. 86–88**; Kew POWO specie accettata *C. calcitrapa* L., distinta dall'omonimo *C. calcitrapa* M.Bieb. (sin. *C. iberica* subsp. *iberica*). **Stato: PUBBLICATA 18/11/2026**, WP #922, immagine WebP #923; dardar H1863, tribolos G5146; Genesi 3:18, Osea 10:8, Ebrei 6:8 e 2 Re 14:9 collegati con status controverso.
 
 - [ ] **ATL-0057 · *Centaurea iberica*** — nome italiano da definire; **M voce 57, p. 70 · D p. 88**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1330,3 +1330,14 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Supporti pubblicati: Kew #907, Dafni–Böck 2019 #908, revisione Bai 2025 #909, medicina #911. **Tavola WebP originale Media #906** con ALT, provenance, featured image e checksum verificati.
 - Ultimo **pdb/seo-audit: zero issue** per #905; totale piante pubblicate **28**. Rimane la QA visiva effettiva su desktop/mobile; audit SEO non sostituisce l'ispezione grafica.
 - Prossimo record non completato (ATL-0055 già completato): **ATL-0056 *Centaurea calcitrapa***, con verifica dell'assenza di duplicati prima della scheda.
+
+
+### ATL-0056 — Calcatreppola, pubblicata e revisionata il 18 novembre 2026
+- WordPress **#922**: https://piantedellabibbia.altervista.org/piante/calcatreppola-centaurea-calcitrapa-spine-bibbia/ ; tavola botanica WebP **Media #923** originale digitale, featured e ALT verificati.
+- Moldenke 1952: voci 56–59 pp70–72 con Centaurea calcitrapa, iberica, verutum e Silybum; richiami pp149,198,244. Duke 2008 Purple Star Thistle pp86–88, con **esplicita riserva dell'autore** sulla presunta identificazione biblica; Zohary considera C. iberica più plausibile.
+- Kew POWO: *Centaurea calcitrapa* L. è accettata, dall'areale Macaronesia/Mediterraneo al Medio Oriente; *C. calcitrapa* M.Bieb. rinvia a *C. iberica* subsp. iberica. *C. verutum* è un altro taxon accettato. Non unificare i tre record.
+- Lessico dardar **H1863** (Genesi 3:18 / Osea 10:8) e tribolos **G5146** (Mt 7:16 / Ebrei 6:8) non determinano una specie. Le relazioni con Calcatreppola sono **controverse**. 2 Re 14:9 #293 già pubblicato, riutilizzato.
+- Supporti WordPress: fonti #924–926, lemma H1863 #927, medicina #928, passi #929–931; identificazioni #153–156, citazioni bibliografiche #513–522.
+- Audit SEO automatico 0 issue sulla scheda prima della pubblicazione; layout reale desktop/mobile ancora da testare. La voce generale #778 era in bozza e con media mancante, problema separato.
+- Cartamo ATL-0054 #905 ulteriormente integrato con codice storico di sicurezza «Class 2b–2d» e natural history Duke pp83–84, senza modificare il giudizio controverso sul karkom.
+- Prossima specie aperta: **ATL-0057 *Centaurea iberica*** (Moldenke voce 57 p70 ss; Duke «Spanish Thistle» da p88), distinta anche dall'omonimo *C. calcitrapa* M.Bieb.
