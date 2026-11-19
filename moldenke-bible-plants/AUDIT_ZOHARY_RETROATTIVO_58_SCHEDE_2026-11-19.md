@@ -8,6 +8,10 @@
 
 **Verifica della fonte:** indice/TOC dell'edizione 1982 accessibili e indicizzati all'URL [PDF Silene](https://www.silene.ong/wp-content/uploads/2018/10/Plants-of-the-Bible-Michael-Zohary.pdf); sezioni e pagine indicate qui sono **riferimenti dell'indice**, non prova di aver letto integralmente le relative pagine. In questa sessione il download del PDF integrale (~29,6 MB) non è riuscito. Gli abbinamenti a sinonimi, cultivar e voci di categoria sono **ipotesi di confronto**, non equivalenze automatiche. Consultazione alternativa: [Internet Archive](https://archive.org/details/plantsofbiblec00zoha/page/n5/mode/2up).
 
+## Stato applicazione retroattiva al 19 novembre 2026
+
+**1 di 58 schede revisionate su WordPress**: olivo *Olea europaea*, WP #129, con bibliografia Zohary pp. 56–57, confronto *etz shemen* p. 114, audit SEO 0. [Dossier completo](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md). **57 restanti**; prossima **#143 *Vitis vinifera***, in ordine cronologico di inserimento. I conteggi 21/37 sono la fotografia testuale **precedente all'aggiornamento** e non rappresentano più lo stato corrente.
+
 ## Risultati e priorità
 
 - **58 schede censite**; 29 con voce diretta corrispondente nell'indice, 25 da confrontare con voce affine/di gruppo, 4 prive di una voce omonima rilevata nel sommario consultabile (ciò **non dimostra** assenza nel volume completo).
@@ -75,7 +79,7 @@
 | 212 | *Punica granatum* | No | voce Pomegranate, p. 62 | frutto, ornamenti del Tempio e sette specie | Indice diretto |
 | 152 | *Ficus carica* | No | voce Fig, p. 58 | fruttificazione, fico nella Torah e Vangeli; distinguerlo dal sicomoro | Indice diretto |
 | 143 | *Vitis vinifera* | No | voce Vine, p. 54 | agricoltura, vino e vigna, simboli biblici | Indice diretto |
-| 129 | *Olea europaea* | No | voce Olive, p. 56 | olivicoltura, rituali e simbolismo del ramo | Indice diretto |
+| 129 | *Olea europaea* | **Integrata su WP 19/11** | letta Olive pp. 56–57; etz shemen p. 114 e p. 123; iconografia p. 48 | oleastro, frantoi, Getsemani, Neemia 8:15 distinto da Romani 11; [dossier #1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 
 ## Protocollo di completamento, per ogni specie
 
