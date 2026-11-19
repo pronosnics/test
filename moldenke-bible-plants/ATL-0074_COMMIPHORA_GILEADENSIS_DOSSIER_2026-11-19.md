@@ -65,3 +65,13 @@ Sicurezza: distinguere prodotti alimentari/usi di profumeria, medicina etnobotan
 - Verificati WordPress `publish` #1307, featured #1308, meta 15 campi, canonical e OG, assenza noindex, fonti e passi compilati, 24 link, audit **0 issue** post-pubblicazione.
 - Screenshot desktop/mobile dal browser grafico **non eseguiti**: controllo residuale indipendente, non dichiarato come fatto.
 - Conteggio complessivo **46**. **PROSSIMA ATL-0075 *Commiphora habessinica* (O.Berg) Engl.**, da avviare solo manualmente a nuova richiesta dell'utente. **Automazione oraria disattivata**, non ripristinarla senza istruzione espressa.
+
+
+## Revisione finale incrociata con ATL-0075 (19/11/2026)
+
+- Controllo WordPress 19/11: **#1307 publish**, featured **#1308**, Yoast title/metadescription/canonical, OG e robots index confermati; `pdb/seo-audit` nuovamente **0 criticità**. Le sette identificazioni bibliche #195–201 sono rimaste tutte **controverse** e non è stata creata alcuna citazione duplicata.
+- **Lacuna reale individuata e corretta:** nel paragrafo Duke «Balm of Gilead» la monografia che segue, «Abyssinian Myrrh», era indicata come *Commiphora habessinica* senza il nome accettato moderno. Ora la scheda spiega che secondo **Kew POWO** *C. habessinica* (O.Berg) Engl. è un **sinonimo di *Commiphora kua* (R.Br. ex Royle) Vollesen**, e che *C. kua* non è un sinonimo di *C. gileadensis*. Link alla nota di raccordo bibliografico **WordPress #1321**: https://piantedellabibbia.altervista.org/fonti-bibliografiche/mirra-abissina-commiphora-habessinica-e-sinonimo-di-commiphora-kua/ .
+- Citazione strutturata di distinzione: `source_citations #780` verso #1307 (WP #1321). Non si modifica la sinonimia valida *Commiphora opobalsamum* → *C. gileadensis* già accertata; non si applicano a balsamo di Galaad gli usi della mirra abissina di Duke pp130–131.
+- Fonti controllate: Kew https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458349-2 e https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:913830-1 , Duke «Abyssinian Myrrh» pp130–131, Moldenke discussione su mirra a p82. Repertori secondari come ITIS possono seguire tassonomie più vecchie: si esplicita l'autorità Kew.
+- **ATL-0075 chiusa come raccordo sinonimico** senza pianta nuova né immagine: totale resta **46 specie botaniche**. Dossier GitHub `ATL-0075_COMMIPHORA_HABESSINICA_RACCORDO_2026-11-19.md`, prossimo ATL-0076 *Commiphora myrrha*. Automazione ancora sospesa.
+- Nessun altro problema sostanziale rilevato nel confronto p82–84 Moldenke, pp128–130 Duke e ricerca moderna 2024/2026. Screenshot indipendenti desktop/mobile restano non eseguiti.
