@@ -1,5 +1,7 @@
 # Fonte bibliografica — Michael Zohary, *Plants of the Bible* (1982)
 
+**Registro multi-fonte ora canonico:** [fonti bibliografiche master per tutte le schede](FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md), incluse le sei opere aggiunte il 19/11/2026. Questa pagina resta il dossier **specifico di Zohary**, non il catalogo generale delle fonti.
+
 **Autore:** Michael Zohary  
 **Titolo:** *Plants of the Bible*  
 **Editore:** Cambridge University Press  
