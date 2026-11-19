@@ -20,6 +20,9 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 ## Stato operativo corrente — 19 novembre 2026
 
+**IN LAVORAZIONE: ATL-0071 — Anguria (*Citrullus lanatus*)**. Bozza WordPress #1257 creata il 19 novembre, dossier GitHub presente. Immagine originale generata ma non ancora caricata; metadati/relazioni e audit finali da completare prima di pubblicare. **Conteggio invariato: 42 specie pubblicate.**
+
+
 **ULTIMA SPECIE COMPLETATA: ATL-0070 — *Citrullus colocynthis* (L.) Schrad. (Coloquintide), WordPress #1227, tavola botanica originale WebP featured #1228. TOTALE 42 SPECIE BOTANICHE PUBBLICATE.** SEO audit #1227 senza criticità, status WP publish, canonical/meta Yoast e featured image verificati.
 - **Moldenke** 1952 voce 73, **pp.78–80**, fig54; termina su p80 prima della voce 74 anguria / 75 melone. **Duke** 2008 «Colocynth», **pp.115–118**, note/nomi/Activities/Indications/Dosages/Downsides/Natural History/Extracts. La severa tossicità della polpa/cucurbitacine è documentata da case report clinici, NON proporre rimedi/posologie storiche.
 - **Bibbia**: 2 Re 4:39–40 **H6498 paqqu'ot** zucche selvatiche #1236; identificazione a *C. colocynthis* plausibile e tradizionale ma non certa. **1 Re 6:18 #1237, 1 Re 7:24 #1238** usano il DIVERSO lemma **H6497 peqa'im** per ornamenti del Tempio, possibili zucche ma secondo Kinowski 2026 (*Biblica*) può essere **Lagenaria siceraria**. Deut 32:32 «vite di Sodoma» citazione condivisa già esistente #879, candidato alternativo *Calotropis procera*, metafora non taxon certo. Gli altri passi con «fiele» o rōš NON sono menzioni di specie certe.
@@ -600,7 +603,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0069 · *Cistus villosus* L.** — **CHIUSA 19/11/2026 come VOCE NOMENCLATURALE**, non nuova pianta. Moldenke n.72 **p.77**, Duke Ladanum pp113–115 nella sinonimia; Kew POWO: sinonimo di ***Cistus creticus* subsp. *creticus***. WP nota di raccordo fonte #1224, backlink alla specie accettata ATL-0067 WP #1167 e citazione #714; nessuna duplicazione di tavola o citazioni, **conteggio 41 specie invariato**. Dossier GitHub ATL-0069_CISTUS_VILLOSUS_SINONIMIA_2026-11-19.md. **Prossima ATL-0070 *Citrullus colocynthis*.**
 
-- [ ] **ATL-0071 · *Citrullus lanatus*** — nome italiano da definire; **M voce 74, p. 80 · D p. 118**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0071 · *Citrullus lanatus*** — Anguria; **M voce 74–75, pp.80–81 · D «Watermelon» pp.118–121**; fonte: Moldenke + Duke + Kew + archeogenomica; **stato: BOZZA DA COMPLETARE (immagine featured, relazioni, SEO e pubblicazione)**; WP: `#1257` (draft). Dossier: `ATL-0071_CITRULLUS_LANATUS_DOSSIER_2026-11-19.md`. **NON AVANZARE a ATL-0072 finché la 0071 non è pubblicata e verificata**.
 
 - [ ] **ATL-0073 · *Commiphora africana*** — nome italiano da definire; **M voce 76, p. 81 · D p. 126**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
