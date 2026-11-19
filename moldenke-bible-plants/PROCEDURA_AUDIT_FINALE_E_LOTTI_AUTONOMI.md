@@ -1,5 +1,7 @@
 # Atlante Piante della Bibbia — procedura per lotti autonomi e audit delle fonti
 
+**TRISTRAM & POST — acquisizione 19/11/2026:** individuate le scansioni pubbliche di **Tristram 1867 (532 pagine)** e **Post 1896 (936 pagine)**; non è stato possibile acquisire pagine originali leggibili mediante i servizi disponibili. Pertanto **nessuna delle 62 schede è stata ancora revisionata direttamente con questi due libri**, e nessun aggiornamento WordPress viene rivendicato. [Registro di tentativi, link originali e piano di lotti](AUDIT_TRISTRAM_POST_62_SCHEDE_2026-11-19.md). Per sbloccare la collazione è necessaria una copia PDF scaricata e resa disponibile nella Libreria.
+
 **AUDIT NUOVE FONTI DEL 19/11/2026:** [matrice integrale 62 schede, 39 aggiornate e 23 senza nuove integrazioni](AUDIT_NUOVE_FONTI_62_SPECIE_2026-11-19.md). Sono stati esaminati direttamente Dafni–Böck, Balfour, Frumin e Dafni–Levy–Lev; per **Tristram 1867** e **Post 1896** servono ancora PDF integrali effettivamente accessibili. Non attribuire alle 23 voci assenza di dati in testi non letti.
 
 ## Registro bibliografico permanente — aggiornamento 19 novembre 2026
