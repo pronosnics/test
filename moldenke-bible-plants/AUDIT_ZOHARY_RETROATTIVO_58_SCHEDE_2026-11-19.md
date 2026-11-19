@@ -6,16 +6,16 @@
 
 **Rettifica indice scientifico (19/11):** è stato individuato anche l'indice alfabetico dei taxa: *Carthamus tinctorius* p. 207, *Boswellia sacra* p. 197, *Aloe succotrina* p. 204, *Cucumis sativus* p. 86, *C. iberica* p. 159. Le categorie di priorità mantengono la distinzione editoriale fra trattazione autonoma e confronto controverso.
 
-**Verifica della fonte:** indice/TOC dell'edizione 1982 accessibili e indicizzati all'URL [PDF Silene](https://www.silene.ong/wp-content/uploads/2018/10/Plants-of-the-Bible-Michael-Zohary.pdf); sezioni e pagine indicate qui sono **riferimenti dell'indice**, non prova di aver letto integralmente le relative pagine. In questa sessione il download del PDF integrale (~29,6 MB) non è riuscito. Gli abbinamenti a sinonimi, cultivar e voci di categoria sono **ipotesi di confronto**, non equivalenze automatiche. Consultazione alternativa: [Internet Archive](https://archive.org/details/plantsofbiblec00zoha/page/n5/mode/2up).
+**Verifica della fonte:** questa matrice nasce come riscontro dall'indice/TOC del volume 1982; **dal 19 novembre 2026 il PDF integrale di 226 pagine è stato caricato dall'utente**. Le sezioni marcate «COMPLETATA» hanno ora lettura diretta delle pagine, confronto con WP, aggiornamento e audit SEO. Le altre righe restano da collazionare direttamente, senza considerare l'indice una prova di lettura. Gli abbinamenti a sinonimi, cultivar e voci di categoria sono **ipotesi di confronto**, non equivalenze automatiche. Consultazione alternativa: [Internet Archive](https://archive.org/details/plantsofbiblec00zoha/page/n5/mode/2up).
 
 ## Stato applicazione retroattiva al 19 novembre 2026
 
-**1 di 58 schede revisionate su WordPress**: olivo *Olea europaea*, WP #129, con bibliografia Zohary pp. 56–57, confronto *etz shemen* p. 114, audit SEO 0. [Dossier completo](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md). **57 restanti**; prossima **#143 *Vitis vinifera***, in ordine cronologico di inserimento. I conteggi 21/37 sono la fotografia testuale **precedente all'aggiornamento** e non rappresentano più lo stato corrente.
+**2 di 58 schede revisionate su WordPress**: olivo *Olea europaea*, WP #129, [dossier #1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md), e vite *Vitis vinifera*, WP #143, [dossier #2](AUDIT_ZOHARY_02_VITE_2026-11-19.md). Entrambe pubblicate con bibliografia Zohary e audit SEO 0. **56 restanti**; prossima **#152 *Ficus carica*** (fico), in ordine crescente di ID WordPress. I conteggi 21/37 sono la fotografia testuale **precedente all'aggiornamento** e non rappresentano più lo stato corrente.
 
 ## Risultati e priorità
 
 - **58 schede censite**; 29 con voce diretta corrispondente nell'indice, 25 da confrontare con voce affine/di gruppo, 4 prive di una voce omonima rilevata nel sommario consultabile (ciò **non dimostra** assenza nel volume completo).
-- **21** menzionano già Zohary; **37** non lo menzionano. Stato del controllo **retroattivo: inventario concluso, collazione del testo Zohary e integrazioni WP ancora da completare**.
+- **21/37** è la fotografia prima delle modifiche delle schede: non rappresenta più i conteggi correnti. **Stato retroattivo: 2/58 completate su WP e 56 da lavorare**.
 - Priorità alta: cinque specie delle colture fondamentali (*Vitis*, *Olea*, *Ficus carica*, *Punica*, *Phoenix*) e le schede con conflitti botanico-filologici (cetriolo/melone, zafferano/cartamo/curcuma, cicorie ed erbe amare, resine, aloe/agarwood, cardi, sicomoro/ficus, terebinti). Non attribuire a Zohary informazioni dedotte esclusivamente dal titolo della voce.
 
 ## Matrice completa per WordPress
@@ -78,7 +78,7 @@
 | 266 | *Cedrus libani* | No | voce Cedar, p. 104 | legname del Tempio, areale storico, cedro vs altre conifere | Indice diretto |
 | 212 | *Punica granatum* | No | voce Pomegranate, p. 62 | frutto, ornamenti del Tempio e sette specie | Indice diretto |
 | 152 | *Ficus carica* | No | voce Fig, p. 58 | fruttificazione, fico nella Torah e Vangeli; distinguerlo dal sicomoro | Indice diretto |
-| 143 | *Vitis vinifera* | No | voce Vine, p. 54 | agricoltura, vino e vigna, simboli biblici | Indice diretto |
+| 143 | *Vitis vinifera* | **Integrata su WP 19/11** | lette Vine pp. 54–55, arte pp. 48–49, agricoltura p. 40 | lessico gefen/kerem/anavim; vendemmia, Amos 9:13 e Isaia 16:10, iconografia; [dossier #2](AUDIT_ZOHARY_02_VITE_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 129 | *Olea europaea* | **Integrata su WP 19/11** | letta Olive pp. 56–57; etz shemen p. 114 e p. 123; iconografia p. 48 | oleastro, frantoi, Getsemani, Neemia 8:15 distinto da Romani 11; [dossier #1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 
 ## Protocollo di completamento, per ogni specie
