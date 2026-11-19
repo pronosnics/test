@@ -51,3 +51,11 @@ Tavola digitale originale contemporanea (NON riproduzione di tavola storica). JP
 - `pdb/seo-audit`: **zero issue** dopo pubblicazione.
 - Controllo indipendente **screenshot browser desktop/mobile non effettuato**, e come tale non dichiarato.
 - **PROSSIMA ATL-0074 *Commiphora gileadensis***, da iniziare soltanto nella prossima esecuzione. La sua monografia Duke «Balm of Gilead» comincia nella seconda parte di p128 e non deve ereditare materiali di African Myrrh. Revisione finale di ATL-0073 all'inizio del prossimo task.
+
+## Revisione conclusiva prima di ATL-0074 (19/11/2026)
+
+Confronto rinnovato con le fonti Moldenke n.76 **p.81** (Gen 2:12 e Num 11:7), Duke «African Myrrh» **pp.126–128**, Kew POWO *Commiphora africana* e Kew MPNS «bdellium». **Nessuna omissione sostanziale** negli argomenti tassonomici, biblici, storico-commerciali, medicinali e di sicurezza: fonte africana/indiana del bdellio, alternative *Borassus* e *Commiphora wightii*, H916, diverse rese della Settanta, specie distinte di mirra, limiti clinici già trattati. Verificati ancora WordPress #1287 `publish`, featured #1288 e audit SEO senza issue. Dossier precedente di ATL-0073 e le relazioni bibliche sono mantenuti senza duplicazioni.
+
+**Piccola criticità visiva registrata, da non nascondere:** nel disegno originale #1288 i fiori appaiono molto chiari; le descrizioni floristiche riprese da Kew li danno generalmente **rossastri**. Il testo della pagina li descrive correttamente rossastri/verdastri e la tavola mostra correttamente foglie trifogliate, spine, corteccia, frutti e resina. **L'immagine non è stata sostituita** in questa revisione: tenere aperto un controllo cromatico/artistico distinto dall'audit SEO, senza cambiare lo stato editoriale pubblicato.
+
+Il passaggio ad ATL-0074 è stato eseguito manualmente su richiesta esplicita; l'automazione oraria è stata disattivata il 19/11/2026. La nuova specie è stata pubblicata #1307, featured #1308 e audit 0, con dossier `ATL-0074_COMMIPHORA_GILEADENSIS_DOSSIER_2026-11-19.md`.
