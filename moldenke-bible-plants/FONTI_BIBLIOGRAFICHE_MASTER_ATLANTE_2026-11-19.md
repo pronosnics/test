@@ -8,18 +8,18 @@ source_sets:
   foundational: [Moldenke_1952, Duke_2008, Zohary_1982, Grilli_Caiola_2013]
   additions_2026_11_19: [Dafni_Bock_2019, Balfour_1857, Tristram_1867, Post_1896, Dafni_Levy_Lev_2005, Frumin_et_al_2024]
   taxonomy: [Kew_POWO]
-status: "REGISTRO ATTIVO; 62 schede verificate con Balfour integrale; Tristram/Post da collazionare"
+status: "REGISTRO ATTIVO; Balfour confrontato; originali Tristram e Post ACQUISITI, audit 62 specie DA FARE"
 ---
 
 # FONTI BIBLIOGRAFICHE MASTER — Atlante delle Piante della Bibbia
 
 **BALFOUR 1857 — AUDIT INTEGRALE COMPLETATO (19/11/2026):** [registro 96 pagine / tutte le 62 schede](AUDIT_BALFOUR_INTEGRALE_96_PAGINE_62_SPECIE_2026-11-19.md). Testo dei capitoli principali, appendice e menzioni minori confrontati con l'inventario WordPress; viste anche le tavole botaniche. Risultati aggiuntivi **6 integrazioni pubblicate e verificate** (olivo #129, vite #143, fico #152, mandorlo #467, mirra #1326, fungo di Malta #1598), **10 schede già integrate** con Balfour nella fase precedente, **46 senza ulteriori aggiunte non ridondanti**. L'audit non elimina l'attesa di lettura diretta delle opere di **Tristram 1867** e **Post 1896**.
 
-**TRISTRAM & POST — acquisizione 19/11/2026:** individuate le scansioni pubbliche di **Tristram 1867 (532 pagine)** e **Post 1896 (936 pagine)**; non è stato possibile acquisire pagine originali leggibili mediante i servizi disponibili. Pertanto **nessuna delle 62 schede è stata ancora revisionata direttamente con questi due libri**, e nessun aggiornamento WordPress viene rivendicato. [Registro di tentativi, link originali e piano di lotti](AUDIT_TRISTRAM_POST_62_SCHEDE_2026-11-19.md). Per sbloccare la collazione è necessaria una copia PDF scaricata e resa disponibile nella Libreria.
+**FONTI FISSE TRISTRAM E POST — 19/11/2026:** entrambe le copie originali sono **ora caricate e verificate nella Libreria dell'Atlante**: Tristram (1867), **532 pagine**, e Post (1896), **936 pagine**, nella cartella `/PIANTE DELLA BIBBIA/Fonti bibliografiche/`. I PDF sono ricercabili (OCR da verificare sui facsimili); lo stato delle fonti è **ACQUISITE**, mentre la collazione completa contro le **62 schede pubblicate** è **DA ESEGUIRE**. Percorsi esatti, checksum, identificativi e indici di capitolo: [scheda originale delle due opere acquisite](FONTI_STORICHE_ORIGINALI_TRISTRAM_1867_POST_1896.md). **Nessuna integrazione WordPress è automaticamente implicata dal caricamento.**
 
 ## Stato del confronto retroattivo — 19 novembre 2026
 
-**Primo confronto completato per le fonti direttamente leggibili:** [audit di tutte le 62 schede pubblicate](AUDIT_NUOVE_FONTI_62_SPECIE_2026-11-19.md), **39 con integrazioni pubblicate** (testo, bibliografia e campo fonti, rilette e verificate), **23 senza aggiunte non ridondanti**. **62/62** con audit SEO senza criticità. Consultati direttamente i PDF di **Dafni–Böck 2019** e **Balfour 1857** e gli articoli integrali **Frumin et al. 2024** e **Dafni–Levy–Lev 2005**. **Ancora da collazionare integralmente:** **Tristram 1867** e **Post 1896**, poiché PDF/pagine botaniche non ottenuti in modo affidabile. Quindi il confronto con tutte e sei le fonti **non è ancora concluso**. Non dichiarare «nessuna informazione» per i due libri non letti.
+**Primo confronto completato per le fonti direttamente leggibili:** [audit di tutte le 62 schede pubblicate](AUDIT_NUOVE_FONTI_62_SPECIE_2026-11-19.md), **39 con integrazioni pubblicate** (testo, bibliografia e campo fonti, rilette e verificate), **23 senza aggiunte non ridondanti**. **62/62** con audit SEO senza criticità. Consultati direttamente i PDF di **Dafni–Böck 2019** e **Balfour 1857** e gli articoli integrali **Frumin et al. 2024** e **Dafni–Levy–Lev 2005**. **Ancora da collazionare integralmente:** **Tristram 1867** e **Post 1896**, con i PDF integrali adesso disponibili nella Libreria. Quindi il confronto con tutte e sei le fonti **non è ancora concluso**. Non dichiarare «nessuna informazione» per i due libri non letti.
 
 **Documento canonico da consultare prima di ogni scheda nuova e in ogni audit delle schede già pubblicate.** La presenza di un'opera in questo catalogo **non significa che contenga informazioni sulla singola specie**: citare soltanto pagine e informazioni controllate nell'originale. Ultima verifica: **19 novembre 2026**.
 
@@ -53,7 +53,7 @@ status: "REGISTRO ATTIVO; 62 schede verificate con Balfour integrale; Tristram/P
 - **PDF storico digitalizzato:** https://archive.org/download/dli.granth.70875/70875.pdf
 - **Scheda del PDF:** https://archive.org/details/dli.granth.70875
 - **Copia alternativa Wikmedia Commons (scansione storica 532 pp):** https://commons.wikimedia.org/wiki/File:The_Natural_History_of_the_Bible;_being_a_Review_of_the_Physical_Geography,_Geology_and_Meteorology_of_the_Holy_Land;_with_a_description_of_every_Animal_and_Plant_mentioned_in_Holy_Scripture_(IA_dli.granth.70875).pdf
-- **Disponibilità:** collegamento digitale pubblico verificato come riferimento bibliografico; **PDF non ancora acquisito nella Libreria del progetto e non ancora collazionato per specie**.
+- **Disponibilità:** **PDF integrale verificato e archiviato nella Libreria**; file 532 pagine; indice botanico in PDF pp. 11–12, capitoli a pp. 342 e 431. **Audit delle 62 schede non ancora completato.** Percorso e SHA nel [registro dei due originali](FONTI_STORICHE_ORIGINALI_TRISTRAM_1867_POST_1896.md).
 - **Utilità:** osservazioni naturalistiche ottocentesche, toponimi, condizioni ambientali, nomi popolari e confronti con i passi biblici. Le località e la distribuzione geografica descrivono soprattutto la conoscenza dell'epoca; non sono prova della distribuzione attuale.
 - **Uso:** consultare per specie e passo, citare pagina della stampa effettivamente letta e segnare eventuali divergenze con Balfour, Post, Moldenke, Zohary e la tassonomia 2026.
 
@@ -64,7 +64,7 @@ status: "REGISTRO ATTIVO; 62 schede verificate con Balfour integrale; Tristram/P
 - **Bibliografia BHL:** https://www.biodiversitylibrary.org/bibliography/20319
 - **Altra edizione/scheda:** https://www.biodiversitylibrary.org/item/60244
 - **Copia alternativa Wikimedia Commons (scansione storica 936 pp):** https://commons.wikimedia.org/wiki/File:Flora_of_Syria,_Palestine,_and_Sinai_-_from_the_Taurus_to_Ras_Muhammas_and_from_the_Mediterranean_sea_to_the_Syrian_desert_(IA_floraofsyriapalest00post).pdf
-- **Disponibilità:** collegamenti del catalogo verificati; **non ancora acquisito o letto integralmente**. Le edizioni e i volumi possono differire: annotare volume, pagina e nomenclatura del testimone effettivamente letto.
+- **Disponibilità:** **PDF integrale verificato e archiviato nella Libreria**; file 936 pagine, dotato di Addenda e OCR ricercabile. **Audit delle 62 schede non ancora completato.** Percorso e SHA nel [registro dei due originali](FONTI_STORICHE_ORIGINALI_TRISTRAM_1867_POST_1896.md). Le edizioni e i volumi possono differire: annotare volume, pagina e nomenclatura effettivamente letta.
 - **Utilità:** flora regionale, località storiche, habitat, morfologia, sinonimi usati nel XIX secolo. **Non** prova da sola che una specie sia identificabile in un versetto biblico.
 - **Uso:** affiancare alle attestazioni moderne di Kew POWO e alle fonti di flora regionale correnti; segnalare conflitti geografici e tassonomici, non sostituire nomi accettati.
 
@@ -124,7 +124,7 @@ status: "REGISTRO ATTIVO; 62 schede verificate con Balfour integrale; Tristram/P
 ## D. Revisione retroattiva: cosa significa per le schede già pubblicate
 
 - **Punto di partenza documentato:** [audit Zohary delle 58 schede presenti alla fotografia del 19/11/2026](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md): 47 integrazioni WP da Zohary, 11 senza nuova fonte diretta. **Non è il totale di tutte le schede eventualmente pubblicate dopo** quella fotografia.
-- **Nuovo audit con le sei fonti di sezione A:** **NON ANCORA ESEGUITO**. Occorre eseguire una nuova matrice comparativa per ID WP / taxon, iniziando da Dafni–Böck e Balfour, recuperando dati nuovi o contrastanti; non dichiarare che i 47 aggiornamenti Zohary siano già confrontati con queste opere.
+- **Nuovo audit con le sei fonti di sezione A:** **ESEGUITO per Dafni–Böck, Balfour e gli articoli specialistici, ma ancora APERTO per Tristram/Post**. La matrice di 62 schede è nel dossier generale; avviare il confronto diretto dei due originali appena acquisiti, annotando pagina ed esito per ID.
 - **Primo lotto consigliato, senza anticipare la conclusione:** fico *Ficus carica*, *Commiphora gileadensis*, *C. myrrha*, issopo *Origanum syriacum*, mirto, lentisco, terebinto, cedro, cannella/cassia; e per Balfour il bosso *Buxus sempervirens*, che non aveva monografia diretta in Zohary.
 - **Schede successive alla fotografia 58:** incluse, con identico protocollo; evitare duplicazioni tra taxa, sinonimi e varianti.
 - **Risultato per ciascuna specie:** una riga `WP_ID | taxon accettato | fonte | pagine | dato nuovo / discordanza | confidenza | azione WP (sì/no) | revisione e verifica`, con link ai dossier.
@@ -135,13 +135,13 @@ status: "REGISTRO ATTIVO; 62 schede verificate con Balfour integrale; Tristram/P
 |---|---|---|---|
 | Dafni–Böck 2019 | **SÌ, PDF 14 pp** | PDF editore verificato | Possibile **CC BY 4.0** con attribuzione |
 | Balfour 1857 | **SÌ, scansione 96 pp** | BHL confermata | Opera storica generalmente PD; verificare note della scansione |
-| Tristram 1867 | No | Internet Archive | Opera storica generalmente PD; verificare esemplare |
-| Post 1896 | No | BHL | Opera storica generalmente PD; verificare edizione |
+| Tristram 1867 | **SÌ, PDF 532 pp nella Libreria** | Internet Archive / Wikimedia Commons | Opera storica generalmente PD; verificare esemplare |
+| Post 1896 | **SÌ, PDF 936 pp nella Libreria** | BHL / Wikimedia Commons | Opera storica generalmente PD; verificare edizione |
 | Dafni–Levy–Lev 2005 | No | PDF editore verificato | Possibile **CC BY 2.0** con attribuzione |
 | Frumin et al. 2024 | No | Testo completo PMC | Possibile **CC BY 4.0** con attribuzione e note su figure |
 | Moldenke 1952 / Duke 2008 / Zohary 1982 / Grilli Caiola 2013 | Fonti possedute o già referenziate in Libreria/conversazioni | Vedere registri specifici | **Non ridistribuire PDF senza permessi** |
 
-**Decisione tecnica:** GitHub contiene il **registro Markdown, i link e i dossier originali**; i due PDF caricati dall'utente sono stati salvati nella **Libreria ChatGPT** indicata, non caricati su GitHub. In future sessioni aprire prima le copie in Libreria quando disponibili, oppure le pagine originali citate; non fingere di aver letto un PDF non effettivamente aperto.
+**Decisione tecnica:** GitHub contiene il **registro Markdown, i link e i dossier originali**; i quattro PDF caricati dall'utente (Dafni–Böck, Balfour, Tristram e Post) sono conservati nella **Libreria ChatGPT** indicata, non duplicati su GitHub. In future sessioni aprire prima le copie in Libreria quando disponibili, oppure le pagine originali citate; non fingere di aver letto un PDF non effettivamente aperto.
 
 ---
 
