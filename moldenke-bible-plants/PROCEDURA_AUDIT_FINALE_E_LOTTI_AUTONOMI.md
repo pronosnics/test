@@ -1,10 +1,20 @@
 # Atlante Piante della Bibbia — procedura per lotti autonomi e audit delle fonti
 
+## Registro bibliografico permanente — aggiornamento 19 novembre 2026
+
+**PRIMA di ogni nuova scheda e di ogni revisione retroattiva** aprire il [registro bibliografico canonico](FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md). Il confronto di base resta Moldenke–Duke–Zohary–Grilli Caiola + Kew; da oggi si deve inoltre **verificare la pertinenza** delle sei fonti aggiunte: Dafni–Böck (2019), Balfour (1857), Tristram (1867), Post (1896), Dafni–Levy–Lev (2005) e Frumin et al. (2024).
+
+- Per specie o usi detti medicinali: ricercare **prima** nelle tabelle 1–4 dell'articolo Dafni–Böck 2019 e registrare esattamente se uso *biblico diretto*, *indiretto*, *postbiblico* o *egizio/mesopotamico*. Le 45 specie proposte **non** rappresentano 45 citazioni bibliche medicinali dirette.
+- Alberi/arbusti: consultare Balfour e Tristram quando pertinenti; controllare sinonimi/nomenclatura con Kew. Flora storica locale: Post. Tradizioni del giuggiolo di Cristo: Dafni–Levy–Lev. Reperti/rituali di Gat: Frumin et al.
+- Per **ognuna delle fonti pertinenti**, annotare pagina effettivamente letta, identificazione e grado di certezza; se non pertinente segnalarlo soltanto nell'audit interno. Non aggiungere bibliografie decorative in WordPress e non pubblicare frasi del tipo «questa fonte non cita la pianta».
+- Due PDF sono archiviati nella Libreria `/PIANTE DELLA BIBBIA/Fonti bibliografiche/` e gli altri sono raggiungibili tramite URL nel registro canonico. In una nuova chat **verificare accessibilità dei file**: non inventare percorsi locali.
+- **PREGRESSO:** il controllo delle 58 specie con Zohary è concluso (47 integrazioni WP, 11 senza novità). Il **nuovo audit delle sei opere** è un incarico distinto, ancora da svolgere e da documentare per lotti; non confondere i due stati.
+
 ## Aggiornamento obbligatorio Zohary — 19 novembre 2026
 
 **Da ATL-0089 in avanti**, ogni audit della specie deve consultare per impostazione predefinita **quattro fonti**: Moldenke, Duke, Grilli Caiola–Guarrera–Travaglini e Michael Zohary, *Plants of the Bible* (1982). La verifica di Zohary precede il publish e può concludersi in tre modi documentati: **voce letta e integrata con pagine**; **voce letta ma nessuna integrazione necessaria**; **non trattata / non verificabile**. È vietato inserire una citazione per riempire il campo bibliografico senza lettura della pagina originale. Traduzione italiana di lavoro dei passaggi pertinenti, sintesi originale pubblicabile e distinzione fra ipotesi, specie e sinonimi.
 
-**Pregresso:** [matrice retroattiva delle 58 specie pubblicate al 19/11/2026](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md), da chiudere voce per voce con conferma WordPress e SEO. **Fonte e PDF esterno:** [scheda Zohary](FONTE_ZOHARY_PLANTS_OF_THE_BIBLE.md). La prossima specie ATL-0089, *Cupressus sempervirens*, ha un riferimento iniziale Zohary «Evergreen Cypress» p. 106, da leggere prima dell'integrazione.
+**Pregresso:** [matrice retroattiva delle 58 specie pubblicate al 19/11/2026](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md), **già conclusa per Zohary** (47 WP integrate, 11 senza nuova integrazione). **Fonte e PDF esterno:** [scheda Zohary](FONTE_ZOHARY_PLANTS_OF_THE_BIBLE.md). La prossima specie ATL-0089, *Cupressus sempervirens*, ha un riferimento iniziale Zohary «Evergreen Cypress» p. 106, da leggere prima dell'integrazione.
 
 
 ## Caso verificato: lotti Allium Cipolla e Aglio, 17/11/2026
