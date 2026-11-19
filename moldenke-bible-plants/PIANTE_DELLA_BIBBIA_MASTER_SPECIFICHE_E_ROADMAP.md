@@ -8,7 +8,8 @@ reference_plugin: "pdb-atlante 0.2.4"
 source_registry:
   moldenke: "Moldenke.pdf"
   duke: "(ebook) Duke's Handbook of Medicinal Plants of the Bible by James A. Duke.pdf"
-  grilli_caiola: "Grilli Caiola, Guarrera, Travaglini, Le piante nella Bibbia (2013), fotografie parziali acquisite 2026-11-18"
+  grilli_caiola: "Grilli Caiola, Guarrera, Travaglini, Le piante nella Bibbia (2013)"
+  zohary: "Michael Zohary, Plants of the Bible (1982) — link PDF e controllo da FONTE_ZOHARY_PLANTS_OF_THE_BIBLE.md"
   crosswalk: "atlante_catalogo_piante_2026.csv"
   indexes:
     - "atlante_moldenke_230.csv"
@@ -17,6 +18,8 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 ---
 
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
+
+**AGGIORNAMENTO FONTI ZOHARY — 19 NOVEMBRE 2026.** Inventario WordPress completo: **58 piante pubblicate**, di cui **21 con menzione Zohary nel testo** e **37 senza**. La corrispondenza con l'indice di Zohary 1982 è documentata in [AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md): **29 voci dell'indice corrispondenti, 25 confronti tassonomici/tematici, 4 senza voce individuata**. Collazione testuale e integrazione WordPress **ancora da completare**; il riferimento nell'indice non equivale a pagina letta. **Per la prossima ATL-0089 e tutte le successive: consultazione di Zohary obbligatoria insieme a Moldenke, Duke e Grilli Caiola**, con eventuale «non trattata» motivata; seguire [PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md). Zohary, «Evergreen Cypress», p. 106 è il punto di partenza per ATL-0089. Non forzare citazioni né inventare integrazioni dalla sola voce del sommario.
 
 ## Stato operativo corrente — 19 novembre 2026
 
