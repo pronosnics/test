@@ -59,3 +59,11 @@ I giardini balsamiferi di Gerico ed En Gedi sono attestati nella tradizione stor
 ## Prossima voce
 
 **ATL-0077 CHIUSA COME SINONIMO, nessuna nuova specie.** Conteggio finale = **47 specie botaniche pubblicate**. La successiva numerica da valutare è **ATL-0078 — *Conium maculatum* L. (cicuta maggiore)**, presente nella monografia Duke «Poison Hemlock» da p.135; *non avviata*. Richiede rigorose cautele tossicologiche e confronto con il biblico *rōʾš*, spesso botanicamente non attribuibile in modo diretto. Nessuna ricetta, dose o uso medico per piante tossiche.
+
+## Revisione finale precedente alla pubblicazione di ATL-0078
+
+**19 novembre 2026 — Nessuna ulteriore lacuna sostanziale individuata.** La revisione effettuata prima di ATL-0078 ha confermato direttamente tramite WordPress MCP: ATL-0074 `Commiphora gileadensis` #1307 ancora `publish`, featured #1308, bibliografia Moldenke voce79 **pp84–86 e nota n79 p281** realmente presenti nella pagina, datazione Duke Balm of Gilead pp128–130 invariata, taxon accettato Kew e sinonimo eterotipico `Commiphora opobalsamum` corretti. Il record di fonte già esistente `pdb_source` #1309 è `publish`; non si è creata una nuova pianta, non si è duplicata la fonte o la featured. L'audit WP del #1307 è rimasto **0 criticità**.
+
+**Rimane solo una criticità di manutenzione dei registri non visibile nell'articolo:** `source_citations #767` conserva l'antica paginazione 82–84; sono in essere le relazioni corrette #794–797, prevalenti editorialmente. L'API MCP disponibile per le relazioni consente solo lettura e creazione e non ha fornito una modifica/cancellazione; il vecchio record non è stato rimosso. Non conteggiare come omissione della scheda pubblica, che è stata corretta.
+
+**ATL-0078 `Conium maculatum` è stata pubblicata in seguito** come specie distinta WordPress #1358 featured #1359, con giustificazione del basso grado di certezza del vocabolo biblico `rōʾš` e apposito dossier `ATL-0078_CONIUM_MACULATUM_DOSSIER_2026-11-19.md`. Totale **48 specie**; prossima ATL-0079 `Coriandrum sativum`. Automazione disattivata.
