@@ -1,5 +1,7 @@
 # Audit retroattivo Zohary — 58 schede WordPress (19 novembre 2026)
 
+**Altre sei fonti da considerare nei futuri controlli retroattivi:** [registro bibliografico master](FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md) — Dafni–Böck 2019, Balfour 1857, Tristram 1867, Post 1896, Dafni–Levy–Lev 2005 e Frumin et al. 2024. **Questo registro Zohary non dimostra che l'audit dei sei nuovi testi sia già stato svolto.**
+
 **Fonte:** Michael Zohary, *Plants of the Bible*, Cambridge University Press, 1982, ISBN 0-521-24926-0.
 
 **Inventario effettivo WordPress:** interrogazione MCP `pdb/atlas-list`, tipo `pdb_plant`, stato `publish`, 58 record; ciascun record esaminato mediante `pdb/atlas-get(mode=content)` per individuare la presenza letterale di «Zohary» nel testo pubblicato. **21/58** contengono una menzione, **37/58** no. Una menzione non certifica confronto diretto né citazione puntuale del volume; spesso è una citazione indiretta attraverso Duke.
