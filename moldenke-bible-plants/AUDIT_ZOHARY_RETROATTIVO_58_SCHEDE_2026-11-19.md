@@ -10,7 +10,7 @@
 
 ## Stato applicazione retroattiva al 19 novembre 2026
 
-**21/58 schede WordPress revisionate** con confronto diretto sul PDF completo Zohary; **37 restanti**. Olivo [#1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md), vite [#2](AUDIT_ZOHARY_02_VITE_2026-11-19.md), [otto schede #3–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) e [undici schede #11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md). Per tutte **publish confermato e audit SEO 0 criticità**. *Pistacia lentiscus* #597 non marcata come aggiornata: nessuna trattazione specifica diretta trovata nelle monografie consultate. Il conteggio delle menzioni testuali 21/37 in apertura è la fotografia **prima della revisione**, non quello attuale.
+**33/58 schede WordPress revisionate**, **25 da valutare**. Per tutte le 33 voci concluse: testo Zohary consultato, sezioni e fonte strutturata verificate in WordPress, `publish`, SEO 0 issue. Lotti: [#1 Olivo](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md), [#2 Vite](AUDIT_ZOHARY_02_VITE_2026-11-19.md), [#3–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md), [#11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md), [#22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md). Le specie non presenti direttamente nel testo integrale vanno marcate **non documentate nella fonte**, non coperte da citazioni artificiali.
 
 ## Risultati e priorità
 
@@ -38,21 +38,21 @@
 | 1287 | *Commiphora africana* | No | voci Myrrh / Balm, pp. 198–200 | bdellio distinto dalla mirra; verificare se taxon presente | Confronto / taxon da accertare |
 | 1271 | *Citrus medica* | No | voce Citron, p. 123 | etrog, identificazione e uso liturgico senza proiezioni anacronistiche | Indice diretto |
 | 1257 | *Citrullus lanatus* | No | voce Watermelon, p. 85 | distinzione anguria/melone/cetriolo nel testo di Numeri 11:5 | Indice diretto |
-| 1227 | *Citrullus colocynthis* | No | voce Wild Gourd, p. 185 | zucche selvatiche e 2 Re 4:39; tossicità | Indice diretto |
+| 1227 | *Citrullus colocynthis* | **Integrata WP 19/11** | Zohary letto: Wild Gourd p. 185 | 2 Re 4, identificazione e tossicità; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 1198 | *Cistus salviifolius* | No | voce Ladanum, p. 194 | identificare specie produttrice della resina; distinguere dal cisto cretese | Confronto / taxon da accertare |
-| 1167 | *Cistus creticus* | No | voce Ladanum, p. 194 | ladano, prodotti commerciali e identità di lōṭ | Confronto / taxon da accertare |
-| 1133 | *Cinnamomum verum* | No | voce Ceylon Cinnamon, p. 202 | provenienza della cannella e commercio delle spezie | Indice diretto |
-| 1104 | *Cinnamomum aromaticum* | Sì, richiamo da ricontrollare | voce Cassia, p. 203 | distinguere qiddāh e qəṣîʿōt: identificazione controversa | Confronto / taxon da accertare |
-| 1084 | *Cichorium intybus* | Sì, richiamo da ricontrollare | voce Dwarf Chicory, p. 100 | erbe amare spontanee vs cicoria comune | Confronto / taxon da accertare |
-| 1057 | *Cichorium endivia* | Sì, richiamo da ricontrollare | voce Dwarf Chicory, p. 100 | evitare equiparare l'indivia coltivata all'erba amara originale | Confronto / taxon da accertare |
-| 1031 | *Cicer arietinum* | Sì, richiamo da ricontrollare | voce Chick-pea, p. 83 | rileggere hāmiṣ e Isaia 30:24, distinguendo ipotesi da lessico certo | Indice diretto |
+| 1167 | *Cistus creticus* | **Integrata WP 19/11** | Zohary letto: Ladanum p. 194, confronto | C. incanus/creticus e lōṭ, resina diversa da mirra; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 1133 | *Cinnamomum verum* | **Integrata WP 19/11** | Zohary letto: Ceylon Cinnamon p. 202 | nome storico, spezia importata; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 1104 | *Cinnamomum aromaticum* | **Integrata WP 19/11** | Zohary letto: Cassia p. 203 | qiddah e ketziah controversi; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 1084 | *Cichorium intybus* | **Integrata WP 19/11** | Zohary letto: Dwarf Chicory p. 100, confronto | C. pumilum e Reichardia come erbe amare; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 1057 | *Cichorium endivia* | **Integrata WP 19/11** | Zohary letto: Dwarf Chicory p. 100, confronto | merorim collettivo, non indivia esclusiva; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 1031 | *Cicer arietinum* | **Integrata WP 19/11** | Zohary letto: Chick-pea p. 83 | hamitz Isaia 30:24 posizione di Zohary; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 1014 | *Cercis siliquastrum* | Sì, richiamo da ricontrollare | nessuna voce omonima nell'indice tematico | tradizioni medievali dell'albero di Giuda: non attribuirle a Zohary senza prova | Non individuata |
-| 992 | *Ceratonia siliqua* | No | voce Carob, p. 63 | baccelli in Luca 15:16, uso alimentare e ambiente | Indice diretto |
-| 973 | *Cephalaria syriaca* | Sì, richiamo da ricontrollare | voce Syrian Scabious / Darnel, p. 161 | zizzanie: semi contaminanti vs Lolium temulentum | Confronto / taxon da accertare |
+| 992 | *Ceratonia siliqua* | **Integrata WP 19/11** | Zohary letto: Carob p. 63 | baccelli Luca 15, locuste Giovanni Battista ipotesi; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 973 | *Cephalaria syriaca* | **Integrata WP 19/11** | Zohary letto: Darnel/Syrian Scabious p. 161 | zizzania confrontata con Lolium; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 957 | *Centaurea verutum* | Sì, richiamo da ricontrollare | voci sui cardi pp. 158–160 | verificare specie esatta e collegamento ebraico dardar | Confronto / taxon da accertare |
-| 942 | *Centaurea iberica* | Sì, richiamo da ricontrollare | voce Spanish Thistle, p. 159 | candidata per dardar, incertezza filologica | Indice diretto |
-| 922 | *Centaurea calcitrapa* | Sì, richiamo da ricontrollare | voce Spanish Thistle, p. 159 (confronto) | distinguerla da C. iberica, che Zohary preferisce | Confronto / taxon da accertare |
-| 905 | *Carthamus tinctorius* | Sì, richiamo da ricontrollare | indice scientifico: *Carthamus tinctorius*, p. 207; confronto Saffron Crocus p. 206 | cartamo come alternativa per karkôm, non equipararlo allo zafferano | Confronto / taxon da accertare |
+| 942 | *Centaurea iberica* | **Integrata WP 19/11** | Zohary letto: Spanish Thistle p. 159 | dardar e kotz, limiti del contesto agricolo; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 922 | *Centaurea calcitrapa* | **Integrata WP 19/11** | Zohary letto: Spanish Thistle p. 159, confronto | Zohary preferisce C. iberica, non calcitrapa; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 905 | *Carthamus tinctorius* | **Integrata WP 19/11** | Zohary letto: Turmeric/Saffron Crocus pp. 206–207 | cartamo come alternativa a curcuma/zafferano; [dossier lotto 22–33](AUDIT_ZOHARY_LOTTO_22_33_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 889 | *Capparis spinosa* | **WP integrata 19/11/2026** | **Caperbush, p. 98** (PDF direttamente consultato) | avionah ed ezov ipotesi concorrenti; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 874 | *Calotropis procera* | **WP integrata 19/11/2026** | **Apple of Sodom, p. 122** (PDF direttamente consultato) | Giuseppe Flavio vs riferimento biblico; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 850 | *Buxus sempervirens* | No | nessuna monografia dedicata nel sommario; indice cita «Boxtree», p. 14, taxon non verificato | verificare se compare solo come confronto; no citazione automatica | Non individuata |
