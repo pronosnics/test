@@ -48,6 +48,7 @@ status: "REGISTRO ATTIVO; nuovo confronto retroattivo delle 58 specie da eseguir
 - **Citazione:** Tristram, H. B. (1867). *The Natural History of the Bible: Being a Review of the Physical Geography, Geology and Meteorology of the Holy Land; with a Description of Every Animal and Plant Mentioned in Holy Scripture*. London: Society for Promoting Christian Knowledge.
 - **PDF storico digitalizzato:** https://archive.org/download/dli.granth.70875/70875.pdf
 - **Scheda del PDF:** https://archive.org/details/dli.granth.70875
+- **Copia alternativa Wikmedia Commons (scansione storica 532 pp):** https://commons.wikimedia.org/wiki/File:The_Natural_History_of_the_Bible;_being_a_Review_of_the_Physical_Geography,_Geology_and_Meteorology_of_the_Holy_Land;_with_a_description_of_every_Animal_and_Plant_mentioned_in_Holy_Scripture_(IA_dli.granth.70875).pdf
 - **Disponibilità:** collegamento digitale pubblico verificato come riferimento bibliografico; **PDF non ancora acquisito nella Libreria del progetto e non ancora collazionato per specie**.
 - **Utilità:** osservazioni naturalistiche ottocentesche, toponimi, condizioni ambientali, nomi popolari e confronti con i passi biblici. Le località e la distribuzione geografica descrivono soprattutto la conoscenza dell'epoca; non sono prova della distribuzione attuale.
 - **Uso:** consultare per specie e passo, citare pagina della stampa effettivamente letta e segnare eventuali divergenze con Balfour, Post, Moldenke, Zohary e la tassonomia 2026.
@@ -58,6 +59,7 @@ status: "REGISTRO ATTIVO; nuovo confronto retroattivo delle 58 specie da eseguir
 - **Edizione digitalizzata, BHL, accesso PDF dalla scheda:** https://www.biodiversitylibrary.org/item/60242
 - **Bibliografia BHL:** https://www.biodiversitylibrary.org/bibliography/20319
 - **Altra edizione/scheda:** https://www.biodiversitylibrary.org/item/60244
+- **Copia alternativa Wikimedia Commons (scansione storica 936 pp):** https://commons.wikimedia.org/wiki/File:Flora_of_Syria,_Palestine,_and_Sinai_-_from_the_Taurus_to_Ras_Muhammas_and_from_the_Mediterranean_sea_to_the_Syrian_desert_(IA_floraofsyriapalest00post).pdf
 - **Disponibilità:** collegamenti del catalogo verificati; **non ancora acquisito o letto integralmente**. Le edizioni e i volumi possono differire: annotare volume, pagina e nomenclatura del testimone effettivamente letto.
 - **Utilità:** flora regionale, località storiche, habitat, morfologia, sinonimi usati nel XIX secolo. **Non** prova da sola che una specie sia identificabile in un versetto biblico.
 - **Uso:** affiancare alle attestazioni moderne di Kew POWO e alle fonti di flora regionale correnti; segnalare conflitti geografici e tassonomici, non sostituire nomi accettati.
