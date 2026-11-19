@@ -10,7 +10,7 @@
 
 ## Stato applicazione retroattiva al 19 novembre 2026
 
-**2 di 58 schede revisionate su WordPress**: olivo *Olea europaea*, WP #129, [dossier #1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md), e vite *Vitis vinifera*, WP #143, [dossier #2](AUDIT_ZOHARY_02_VITE_2026-11-19.md). Entrambe pubblicate con bibliografia Zohary e audit SEO 0. **56 restanti**; prossima **#152 *Ficus carica*** (fico), in ordine crescente di ID WordPress. I conteggi 21/37 sono la fotografia testuale **precedente all'aggiornamento** e non rappresentano più lo stato corrente.
+**21/58 schede WordPress revisionate** con confronto diretto sul PDF completo Zohary; **37 restanti**. Olivo [#1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md), vite [#2](AUDIT_ZOHARY_02_VITE_2026-11-19.md), [otto schede #3–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) e [undici schede #11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md). Per tutte **publish confermato e audit SEO 0 criticità**. *Pistacia lentiscus* #597 non marcata come aggiornata: nessuna trattazione specifica diretta trovata nelle monografie consultate. Il conteggio delle menzioni testuali 21/37 in apertura è la fotografia **prima della revisione**, non quello attuale.
 
 ## Risultati e priorità
 
@@ -53,31 +53,31 @@
 | 942 | *Centaurea iberica* | Sì, richiamo da ricontrollare | voce Spanish Thistle, p. 159 | candidata per dardar, incertezza filologica | Indice diretto |
 | 922 | *Centaurea calcitrapa* | Sì, richiamo da ricontrollare | voce Spanish Thistle, p. 159 (confronto) | distinguerla da C. iberica, che Zohary preferisce | Confronto / taxon da accertare |
 | 905 | *Carthamus tinctorius* | Sì, richiamo da ricontrollare | indice scientifico: *Carthamus tinctorius*, p. 207; confronto Saffron Crocus p. 206 | cartamo come alternativa per karkôm, non equipararlo allo zafferano | Confronto / taxon da accertare |
-| 889 | *Capparis spinosa* | No | voce Caperbush, p. 98 | Ecclesiaste 12:5 e specie locali/sinonimie | Indice diretto |
-| 874 | *Calotropis procera* | Sì, richiamo da ricontrollare | voce Apple of Sodom, p. 122 | distinguere tradizione del pomo di Sodoma dai testi biblici | Indice diretto |
+| 889 | *Capparis spinosa* | **WP integrata 19/11/2026** | **Caperbush, p. 98** (PDF direttamente consultato) | avionah ed ezov ipotesi concorrenti; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 874 | *Calotropis procera* | **WP integrata 19/11/2026** | **Apple of Sodom, p. 122** (PDF direttamente consultato) | Giuseppe Flavio vs riferimento biblico; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 850 | *Buxus sempervirens* | No | nessuna monografia dedicata nel sommario; indice cita «Boxtree», p. 14, taxon non verificato | verificare se compare solo come confronto; no citazione automatica | Non individuata |
 | 849 | *Buxus balearica* | No | nessuna monografia dedicata; «Boxtree», p. 14, non prova di identità specifica | verificare se compare solo come confronto; no citazione automatica | Non individuata |
 | 831 | *Butomus umbellatus* | No | voci piante palustri pp. 127–137, non identificazione | controllare davvero Butomus; non confondere con Lake Rush | Confronto / taxon da accertare |
-| 807 | *Brassica nigra* | No | voce Black Mustard, p. 93 | parabole evangeliche e confronto con senapi diverse | Indice diretto |
-| 760 | *Boswellia sacra* | No | indice scientifico: *Boswellia sacra*, p. 197 (Frankincense) | specie botanica fonte dell'incenso, commercio arabo e lessico | Confronto / taxon da accertare |
+| 807 | *Mutarda nigra* | **WP integrata 19/11/2026** | **Black Mustard, p. 93** (PDF direttamente consultato) | sinapi probabilmente B. nigra; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 760 | *Boswellia sacra* | **WP integrata 19/11/2026** | **Frankincense, p. 197** (PDF direttamente consultato) | levonah e pluralità Boswellia; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 747 | *Balanites aegyptiaca* | Sì, richiamo da ricontrollare | voce Balm, p. 198 (confronto) | balsamo: ipotesi Balanites vs Commiphora; non affermare identità | Confronto / taxon da accertare |
-| 737 | *Aloe succotrina* | No | indice scientifico: *Aloe succotrina*, p. 204; necessario confronto con Eaglewood | distinguere Aloe botanica da legno d'agar / ohalim | Confronto / taxon da accertare |
-| 700 | *Aquilaria malaccensis* | No | voce Eaglewood, p. 204 | aloè aromatico legnoso distinto da Aloe vera | Indice diretto |
-| 699 | *Anemone coronaria* | No | voce Crown Anemone, p. 170 | fiori dei campi e gigli evangelici: lettura non univoca | Indice diretto |
+| 737 | *Aloe succotrina* | **WP integrata 19/11/2026** | **Aloe, p. 204** (PDF direttamente consultato) | tassonomia storica vs specie moderna; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 700 | *Aquilaria malaccensis* | **WP integrata 19/11/2026** | **Eaglewood, p. 204** (PDF direttamente consultato) | ahaloth, Aquilaria vs Aloe; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 699 | *Anemone coronaria* | **WP integrata 19/11/2026** | **Crown Anemone, p. 170** (PDF direttamente consultato) | gigli del campo non univoci; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 667 | *Anastatica hierochuntica* | No | nessuna voce omonima nell'indice tematico | gulgal / rosa di Gerico: evitare attribuzione diretta senza verifica | Non individuata |
-| 666 | *Aloe vera* | Sì, richiamo da ricontrollare | voce Aloe, p. 204 | distinguere aloe succulenta e aloe aromatico; Giovanni 19:39 | Confronto / taxon da accertare |
-| 628 | *Allium sativum* | No | voce Garlic, p. 80 | cibi desiderati in Egitto, Numeri 11:5 | Indice diretto |
-| 627 | *Allium cepa* | No | voce Onion, p. 80 | cibi desiderati in Egitto e lessico cebālîm | Indice diretto |
+| 666 | *Aloe vera* | **WP integrata 19/11/2026** | **Aloe/Eaglewood, p. 204** (PDF direttamente consultato) | Aloe vs legno d'agar, Giovanni 19; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 628 | *Allium sativum* | **WP integrata 19/11/2026** | **Garlic, p. 80** (PDF direttamente consultato) | shummim, propagazione, origine storica; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 627 | *Allium cepa* | **WP integrata 19/11/2026** | **Onion, p. 80** (PDF direttamente consultato) | betzalim, Allium, Numeri 11; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 597 | *Pistacia lentiscus* | No | presente nell'indice, pp. 31–33 | mastice vs terebinto; attenzione a resine e gruppi tassonomici | Confronto / taxon da accertare |
-| 557 | *Pistacia terebinthus* | Sì, richiamo da ricontrollare | voce Terebinth, p. 110 | confrontare P. palaestina, P. atlantica e P. terebinthus | Confronto / taxon da accertare |
-| 525 | *Myrtus communis* | No | voce Common Myrtle, p. 119 | festa delle Capanne, Isaia 55:13 e distribuzione | Indice diretto |
-| 467 | *Prunus amygdalus* | No | voce Almond, p. 66 | Numeri 17 e Geremia 1; simbologia e fenologia | Indice diretto |
-| 427 | *Cyperus papyrus* | No | voce Papyrus, p. 137 | arca di Mosè, barche e scrittura; termini palustri | Indice diretto |
-| 367 | *Ficus sycomorus* | Sì, richiamo da ricontrollare | voce Sycomore, p. 68 | coltivazione antica, Amos e Zaccheo; distinto dal fico comune | Indice diretto |
-| 308 | *Phoenix dactylifera* | No | voce Date Palm, p. 60 | Gerico, palma rituale e sette specie: distinguere termini | Indice diretto |
-| 266 | *Cedrus libani* | No | voce Cedar, p. 104 | legname del Tempio, areale storico, cedro vs altre conifere | Indice diretto |
-| 212 | *Punica granatum* | No | voce Pomegranate, p. 62 | frutto, ornamenti del Tempio e sette specie | Indice diretto |
-| 152 | *Ficus carica* | No | voce Fig, p. 58 | fruttificazione, fico nella Torah e Vangeli; distinguerlo dal sicomoro | Indice diretto |
+| 557 | *Pistacia terebinthus* | **WP integrata 19/11/2026** | **Terebinth, pp. 110–111** (PDF direttamente consultato) | P. atlantica/palaestina vs P. terebinthus; [dossier lotto 11–21](AUDIT_ZOHARY_LOTTO_11_21_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 525 | *Myrtus communis* | **WP integrata 19/11/2026** | **Common Myrtle, p. 119** (PDF direttamente consultato) | hadas, Hadassah, riti e areale; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 467 | *Prunus amygdalus* | **WP integrata 19/11/2026** | **Almond, pp. 66–67** (PDF direttamente consultato) | shaqed/luz, Crataegus congettura; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 427 | *Cyperus papyrus* | **WP integrata 19/11/2026** | **Papyrus, p. 137** (PDF direttamente consultato) | gomeh e gemi, suph distinto; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 367 | *Ficus sycomorus* | **WP integrata 19/11/2026** | **Sycomore, pp. 68–69** (PDF direttamente consultato) | origine controversa, caulifloria, Amos; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 308 | *Phoenix dactylifera* | **WP integrata 19/11/2026** | **Date Palm, pp. 60–61** (PDF direttamente consultato) | dvash, impollinazione e polloni; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 266 | *Cedrus libani* | **WP integrata 19/11/2026** | **Cedar, pp. 104–105** (PDF direttamente consultato) | erez, alternative rituali e conifere; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 212 | *Punica granatum* | **WP integrata 19/11/2026** | **Pomegranate, p. 62** (PDF direttamente consultato) | Gezer, rimmon e classificazione storica; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
+| 152 | *Ficus carica* | **WP integrata 19/11/2026** | **Fig, pp. 58–59** (PDF direttamente consultato) | fico, develah, caprificazione e partenocarpia; [dossier lotto 03–10](AUDIT_ZOHARY_LOTTO_03_10_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 143 | *Vitis vinifera* | **Integrata su WP 19/11** | lette Vine pp. 54–55, arte pp. 48–49, agricoltura p. 40 | lessico gefen/kerem/anavim; vendemmia, Amos 9:13 e Isaia 16:10, iconografia; [dossier #2](AUDIT_ZOHARY_02_VITE_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 | 129 | *Olea europaea* | **Integrata su WP 19/11** | letta Olive pp. 56–57; etz shemen p. 114 e p. 123; iconografia p. 48 | oleastro, frantoi, Getsemani, Neemia 8:15 distinto da Romani 11; [dossier #1](AUDIT_ZOHARY_01_OLIVO_2026-11-19.md) | **COMPLETATA — SEO 0 issue** |
 
