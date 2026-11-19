@@ -8,10 +8,12 @@ source_sets:
   foundational: [Moldenke_1952, Duke_2008, Zohary_1982, Grilli_Caiola_2013]
   additions_2026_11_19: [Dafni_Bock_2019, Balfour_1857, Tristram_1867, Post_1896, Dafni_Levy_Lev_2005, Frumin_et_al_2024]
   taxonomy: [Kew_POWO]
-status: "REGISTRO ATTIVO; nuovo confronto retroattivo delle 58 specie da eseguire separatamente"
+status: "REGISTRO ATTIVO; 62 schede verificate con Balfour integrale; Tristram/Post da collazionare"
 ---
 
 # FONTI BIBLIOGRAFICHE MASTER — Atlante delle Piante della Bibbia
+
+**BALFOUR 1857 — AUDIT INTEGRALE COMPLETATO (19/11/2026):** [registro 96 pagine / tutte le 62 schede](AUDIT_BALFOUR_INTEGRALE_96_PAGINE_62_SPECIE_2026-11-19.md). Testo dei capitoli principali, appendice e menzioni minori confrontati con l'inventario WordPress; viste anche le tavole botaniche. Risultati aggiuntivi **6 integrazioni pubblicate e verificate** (olivo #129, vite #143, fico #152, mandorlo #467, mirra #1326, fungo di Malta #1598), **10 schede già integrate** con Balfour nella fase precedente, **46 senza ulteriori aggiunte non ridondanti**. L'audit non elimina l'attesa di lettura diretta delle opere di **Tristram 1867** e **Post 1896**.
 
 **TRISTRAM & POST — acquisizione 19/11/2026:** individuate le scansioni pubbliche di **Tristram 1867 (532 pagine)** e **Post 1896 (936 pagine)**; non è stato possibile acquisire pagine originali leggibili mediante i servizi disponibili. Pertanto **nessuna delle 62 schede è stata ancora revisionata direttamente con questi due libri**, e nessun aggiornamento WordPress viene rivendicato. [Registro di tentativi, link originali e piano di lotti](AUDIT_TRISTRAM_POST_62_SCHEDE_2026-11-19.md). Per sbloccare la collazione è necessaria una copia PDF scaricata e resa disponibile nella Libreria.
 
