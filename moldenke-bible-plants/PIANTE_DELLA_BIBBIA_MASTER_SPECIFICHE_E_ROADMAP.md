@@ -6,6 +6,13 @@ created: "2026-11-17"
 last_catalog_check: "2026-11-19"
 reference_plugin: "pdb-atlante 0.2.4"
 source_registry:
+  master: "FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md"
+  dafni_bock_2019: "PDF Libreria: /PIANTE DELLA BIBBIA/Fonti bibliografiche/Dafni_Bock_2019_Medicinal_plants_Bible_revisited.pdf"
+  balfour_1857: "PDF Libreria: /PIANTE DELLA BIBBIA/Fonti bibliografiche/Balfour_1857_Plants_of_the_Bible_Trees_and_Shrubs.pdf"
+  tristram_1867: "link PDF nel registro master"
+  post_1896: "link BHL/PDF nel registro master"
+  dafni_levy_lev_2005: "link PDF nel registro master"
+  frumin_2024: "link articolo/PDF nel registro master"
   moldenke: "Moldenke.pdf"
   duke: "(ebook) Duke's Handbook of Medicinal Plants of the Bible by James A. Duke.pdf"
   grilli_caiola: "Grilli Caiola, Guarrera, Travaglini, Le piante nella Bibbia (2013)"
@@ -19,9 +26,11 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
 
+**REGISTRO BIBLIOGRAFICO CANONICO — 19/11/2026:** [registro master di tutte le fonti](FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md). Aggiunte sei opere: **Dafni–Böck 2019, Balfour 1857, Tristram 1867, Post 1896, Dafni–Levy–Lev 2005 e Frumin et al. 2024**, da considerare in **ogni audit pregresso e futuro**, con citazione solo quando pertinenti e dopo lettura effettiva. I due PDF caricati dall'utente (Dafni–Böck; Balfour) sono conservati in **Libreria /PIANTE DELLA BIBBIA/Fonti bibliografiche/**; gli altri hanno collegamenti ufficiali. **L'audit retroattivo con le sei nuove opere non è ancora stato eseguito**, distinto da quello Zohary già concluso sulle 58 piante storiche. Protocollo operativo in [PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md).
+
 **STATO FINALE AUDIT RETROATTIVO ZOHARY — 19 NOVEMBRE 2026.** **TUTTE LE 58 SCHEDE DEL CATALOGO ESAMINATE**: **47 integrate su WordPress** con sintesi italiana originale e riferimento pagina Zohary 1982, pubblicazione e fonte verificate, **audit SEO zero issue**; **11 esaminate senza nuove citazioni** poiché nessuna trattazione di specie pertinente verificata nell'opera (non confondere con omissioni). [Matrice completa e collegamenti ai dossier](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md), [lotto conclusivo #34–47](AUDIT_ZOHARY_LOTTO_34_47_2026-11-19.md), [11 schede senza monografia](AUDIT_ZOHARY_11_SCHEDE_SENZA_TRATTAZIONE_DIRETTA_2026-11-19.md). **Per ogni nuova specie a partire da ATL-0089, controllare Zohary prima della pubblicazione**; citare solo contenuti/pagine effettivamente verificati. Non pubblicare il PDF integrale nel repository pubblico.
 
-**AGGIORNAMENTO FONTI ZOHARY — 19 NOVEMBRE 2026.** Inventario WordPress completo: **58 piante pubblicate**, di cui **21 con menzione Zohary nel testo** e **37 senza**. La corrispondenza con l'indice di Zohary 1982 è documentata in [AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md): **29 voci dell'indice corrispondenti, 25 confronti tassonomici/tematici, 4 senza voce individuata**. Collazione testuale e integrazione WordPress **ancora da completare**; il riferimento nell'indice non equivale a pagina letta. **Per la prossima ATL-0089 e tutte le successive: consultazione di Zohary obbligatoria insieme a Moldenke, Duke e Grilli Caiola**, con eventuale «non trattata» motivata; seguire [PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md). Zohary, «Evergreen Cypress», p. 106 è il punto di partenza per ATL-0089. Non forzare citazioni né inventare integrazioni dalla sola voce del sommario.
+**AGGIORNAMENTO FONTI ZOHARY — 19 NOVEMBRE 2026.** Inventario WordPress completo: **58 piante pubblicate**, di cui **21 con menzione Zohary nel testo** e **37 senza**. La corrispondenza con l'indice di Zohary 1982 è documentata in [AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md): **29 voci dell'indice corrispondenti, 25 confronti tassonomici/tematici, 4 senza voce individuata**. **Nota storica:** l'inventario qui descritto era preliminare; la collazione Zohary è stata successivamente completata per tutte le 58 schede (47 WP integrate, 11 senza fonte diretta), come documentato nel primo paragrafo e nella matrice. **Per la prossima ATL-0089 e tutte le successive: consultazione di Zohary obbligatoria insieme a Moldenke, Duke e Grilli Caiola**, con eventuale «non trattata» motivata; seguire [PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md). Zohary, «Evergreen Cypress», p. 106 è il punto di partenza per ATL-0089. Non forzare citazioni né inventare integrazioni dalla sola voce del sommario.
 
 ## Stato operativo corrente — 19 novembre 2026
 
