@@ -32,3 +32,6 @@ Numeri 11:5 H20 *ʾăvaṭṭiḥîm*: possibile *Cucumis melo* **o** *Citrullus
 ## Passaggi successivi
 1. Documentare pulizia del trasferimento temporaneo Library dopo verifica definitiva (non conservare blocchi Base64).
 2. Prossima roadmap: **ATL-0087 — *Cucumis sativus* L., cetriolo comune**, Moldenke voce87 p.88, Duke Cucumber pp.151–155. Confrontare in dettaglio specie asiatica, nomi ebraici, cronologia della diffusione e alternative di lettura, **senza duplicare** 0085/0086.
+
+## Verifica e pulizia finale (19 novembre 2026)
+Confermato via `pdb/get-content` che la pianta #1469 è `publish`, `featured_media=1471`, SEO title/meta/keyword presenti. Confermate `pdb_plate_media_id=1471`, ALT in allegato #1471 e provenienza pubblica «Illustrazione botanica originale realizzata per l’Atlante Piante della Bibbia». Audit `pdb/seo-audit`: `issues=[]` sia per #1469 sia per #1456. Staging temporaneo `/Atlante-MCP-Bridge-ATL0086-20261119` **eliminato con successo** da Library dopo verifica. QA responsive fotografico non verificato, separato da audit MCP.
