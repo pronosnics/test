@@ -30,3 +30,6 @@
 - SEO strutturale: completato (0 issue).
 - Immagine: upload/featured/hash completati.
 - Resta separata la verifica visiva effettiva responsive desktop/mobile se un browser autorizzato non è disponibile.
+
+## Revisione conclusiva del 19 novembre — confronto Duke e morfologia
+Verifica successiva: la monografia Duke «Melon», pp.148–151, riferisce **Michael Zohary** come sostenitore dell'identificazione di *qiššuʾîm* e *miqšāh* con meloni orticoli, non come risultato certo e definitivo; aggiunta alla pianta WP #1456. Janick/Paris/Parrish (2007) descrivono il **Chate Group** con giovani frutti spesso allungati con rapporto lunghezza/larghezza indicativo **2:1–3:1**, consumati da immaturi: dato aggiunto al testo pubblico. La tavola di melone generico non è prova diagnostica del Chate. **Confermati** post 1456 publish, featured 1458, provenienza pubblica descrittiva e audit SEO issues=[]; nessuna omissione ulteriore decisiva identificata in Moldenke p88 note52-53 e Duke.
