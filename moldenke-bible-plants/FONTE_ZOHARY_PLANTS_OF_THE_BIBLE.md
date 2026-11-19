@@ -39,3 +39,14 @@ I collegamenti sono riferimenti esterni: non attestano una licenza di redistribu
 
 - [Matrice completa delle 58 schede pubblicate e dei punti di integrazione al 19 novembre 2026](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md).
 - [Procedura aggiornata per tutte le nuove specie](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md): quattro fonti obbligatorie in fase di verifica; eventuale esclusione di Zohary deve essere motivata, non nascosta.
+
+## PDF originale acquisito — 19 novembre 2026
+
+Il PDF integrale di 226 pagine digitali è stato **caricato dall'utente in una conversazione ChatGPT** come `Plants-of-the-Bible-Michael-Zohary.pdf` e letto direttamente per l'audit iniziale. Non è depositato nel repository GitHub pubblico. Questo registro indica la disponibilità al momento del lavoro: in nuove sessioni l'accesso al file deve essere nuovamente verificato nella Libreria o nella conversazione, senza presupporre un percorso locale invariabile.
+
+- Convenzione verificata: pagina stampata 86 = pagina PDF 87; pagina stampata 206 = PDF 207.
+- **Lettura diretta eseguita:** prefazione pp. 9 e seguenti, capitolo identificazioni pp. 12–15, fito-schede selezionate pp. 58–60, 83, 85–86, 200, 202–204 e 206–207.
+- **Risultati confermati:** interpretazione melone-chate per `kishuim/mikshah` (p. 86), distinzione anguria `avatihim` (p. 85), preferenza di Zohary per la curcuma fra i candidati per `karkom` (pp. 206–207), differenza fra legno d'agar e aloe succulenta (p. 204), cautela sulla fonte botanica della mirra (p. 200).
+- [Audit specie aggiornato con riscontri dal testo completo](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md).
+
+**Copyright dell'esemplare:** nella pagina PDF 5 (= frontespizio legale) sono riportati Copyright © 1982 Sadan Publishing House Ltd. e Sadan Publishing House Inc.; la fonte indica «All rights reserved». Non caricare il volume integrale sul GitHub pubblico in assenza di permesso/licenza idonea.
