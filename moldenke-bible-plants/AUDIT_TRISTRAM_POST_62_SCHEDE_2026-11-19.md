@@ -1,5 +1,7 @@
 # Audit Tristram (1867) e Post (1896) — registro di acquisizione e confronto delle 62 specie
-**Data:** 19 novembre 2026. **Stato:** FONTI IDENTIFICATE, TESTO ORIGINALE NON ANCORA LEGGIBILE; **zero interventi WordPress** basati su questi due volumi.
+**AGGIORNAMENTO ACQUISIZIONE — 19 novembre 2026:** i due originali sono ora **ACQUISITI e verificati** nella Libreria (Tristram 532 pp; Post 936 pp). I problemi di accesso descritti sotto sono **storici e risolti** grazie agli upload dell'utente, non rappresentano lo stato attuale. Questa pagina conserva la cronologia dei tentativi; i percorsi stabili, i checksum e i capitoli consultabili sono nel [scheda originale delle due opere acquisite](FONTI_STORICHE_ORIGINALI_TRISTRAM_1867_POST_1896.md). **Audit botanico delle 62 specie: ancora da eseguire.** Nessuna modifica WordPress da questi due testi è stata eseguita solo a seguito dell'archiviazione.
+
+**Data:** 19 novembre 2026. **Stato storico prima dell'upload:** FONTI IDENTIFICATE, TESTO ORIGINALE NON ANCORA LEGGIBILE; **zero interventi WordPress** basati su questi due volumi.
 
 ## Bibliografia individuata e copie autorizzate
 
@@ -42,6 +44,6 @@ La richiesta è un **confronto diretto e completo dei due originali con tutte le
 6. **Lotto D**: specie dubbiamente identificate o non trattate e ultime schede ATL-0089–0092.
 7. **QA per ogni lotto**: leggere pagine originali, confronto del contenuto WP corrente, inserire soltanto novità pertinenti in italiano e bibliografia puntuale, rilettura WordPress e audit SEO; matrice di stato **integrata / già presente / non trattata / fonte non verificata**.
 
-**Progresso di questo audit distinto:** **0/62 schede con Tristram+Post effettivamente collazionati**; libri identificati, fonte materiale ancora non acquisita.
+**Progresso di questo audit distinto:** **0/62 schede con Tristram+Post effettivamente collazionati**; libri acquisiti e disponibili, ancora da esaminare sistematicamente e confrontare.
 
 **Niente contenuti pubblici di tipo "il libro non menziona ..." senza verifica completa; niente aggiornamenti e citazioni inventati.**
