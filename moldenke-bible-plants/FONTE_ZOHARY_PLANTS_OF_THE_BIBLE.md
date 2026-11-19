@@ -24,3 +24,18 @@ I collegamenti sono riferimenti esterni: non attestano una licenza di redistribu
 6. Se il PDF non è accessibile, dichiarare la fonte non verificata per quella voce: mai attribuire a Zohary informazioni senza consultazione diretta.
 
 **Stato:** fonte aggiunta all'elenco operativo; confronto delle singole specie da svolgere progressivamente.
+
+## Indice rapido verificato (pagine stampate)
+
+- **Alberi da frutto:** vite **54**, olivo **56**, fico **58**, palma da dattero **60**, melograno **62**, carrubo **63**, mandorlo **66**, sicomoro **68**.
+- **Colture e ortaggi:** cipolla/aglio **80**, cece **83**, anguria **85**, melone e cetriolo **86**, cumino **88**, coriandolo **92**, senape nera **93**.
+- **Erbe e alberi spontanei:** cappero **98**, cicoria nana **100**, cedro **104**, cipresso comune **106**, terebinto **110**, mirto **119**, pomo di Sodoma **122**, cedro agrume/citron **123**, papiro **137**.
+- **Cardi e fiori:** cardo iberico / Spanish Thistle **159**, Cephalaria syriaca / Syrian Scabious **161**, anemone coronaria **170**.
+- **Resine, aromatiche e altre piante:** cicuta **186**, ladano **194**, incenso **197**, balsamo **198**, mirra **200**, cannella **202**, cassia **203**, legno d'agar e aloe **204**, zafferano **206**, cartamo (*Carthamus tinctorius*) **207**.
+
+**Nota:** pagine ricavate da indice e sommario consultabili, non ancora collazionate integralmente pagina per pagina. Il riferimento di gruppo non equivale alla citazione della singola specie moderna.
+
+## Audit retroattivo delle specie WordPress
+
+- [Matrice completa delle 58 schede pubblicate e dei punti di integrazione al 19 novembre 2026](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md).
+- [Procedura aggiornata per tutte le nuove specie](PROCEDURA_AUDIT_FINALE_E_LOTTI_AUTONOMI.md): quattro fonti obbligatorie in fase di verifica; eventuale esclusione di Zohary deve essere motivata, non nascosta.
