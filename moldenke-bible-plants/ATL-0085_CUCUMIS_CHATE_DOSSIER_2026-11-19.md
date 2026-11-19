@@ -9,7 +9,7 @@
 - **SEO**: titolo, meta description, focus keyword, campi botanici strutturati, e `pdb/seo-audit` restituisce **issues=[]** per #1456 dopo pubblicazione.
 - **Quattro contenuti correlati pubblicati**: passo Isaia 1:8 **#1459**, lemma H7180 qiššuʾîm **#1460**, lemma H4750 miqšāh **#1461**, fonte di confronto Moldenke/Kew/storia orticola **#1462**. Citazione condivisa Numeri 11:5–6 **#626** preesistente, non duplicata.
 - **Nove relazioni aggiunte**: `passage_terms #190-191`, `identifications #220-221` entrambi status **controversa**, `source_citations #866-870`.
-- Staging temporaneo File Library `/Atlante-MCP-Bridge-ATL0085-20261119/` (18 testi codificati) usato esclusivamente per l'upload, da rimuovere dopo conferma finale. NON includere alcun Base64 nel repository o contenuti pubblici.
+- Staging temporaneo File Library `/Atlante-MCP-Bridge-ATL0085-20261119/` (18 testi codificati) usato esclusivamente per l'upload, **ELIMINATO** dalla Libreria dopo verifica `pdb/get-content` (status publish, featured_media 1458) e audit SEO senza issues. NON includere alcun Base64 nel repository o contenuti pubblici.
 
 ## Risultati botanici e nomenclaturali
 - Kew POWO: [*Cucumis chate* Hasselq.](https://powo.science.kew.org/taxon/292160-1), descrizione pubblicata in `Iter Palaest.:491 (1757)`, **sinonimo eterotipico di [*Cucumis melo* L.](https://powo.science.kew.org/taxon/292238-1)**, nome accettato. La forma agricola Chate (Adzhur) non costituisce un'altra specie accettata. USDA GRIN mantiene classificazioni infra-specifiche (var. chate) da citare come trattamenti alternativi.
