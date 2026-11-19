@@ -4,11 +4,13 @@ document_type: "fonti-storiche-pdf-acquisite"
 revision: "2026-11-19"
 source_register: "FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md"
 status_originals: "VERIFICATI E ARCHIVIATI NELLA LIBRERIA"
-status_species_audit: "DA ESEGUIRE — 62 schede pubblicate alla data dell'inventario"
-publication_status: "nessuna scheda WP ancora modificata in base a questi due PDF"
+status_species_audit: "COMPLETATO — 62 schede; 41 integrazioni, 21 nessuna"
+publication_status: "41 schede WordPress integrate dai due PDF e verificate"
 ---
 
 # Due fonti storiche originali, permanenti: Tristram 1867 e Post 1896
+
+**TRISTRAM 1867 + POST 1896 — AUDIT RETROATTIVO COMPLETATO (19/11/2026):** [audit Tristram–Post di tutte le 62 piante](AUDIT_TRISTRAM_POST_RETROATTIVO_62_SCHEDE_2026-11-19.md). **62/62** schede esaminate mediante ricerca nel testo integrale, sinonimi, indici e lettura delle pagine originali pertinenti; **41 schede WordPress integrate**, **21 senza aggiunte giustificate** (**42 nuove sezioni**, due nella scheda #1167); riletture WordPress confermate `publish`, con fonti registrate; **62/62 senza segnalazioni dell'audit SEO**. Corretti durante QA Post *Pistacia terebinthus* var. *palaestina* e *Cynomorium* nell'intestazione storica Euphorbiaceae. Gli originali sono archiviati in Libreria. Le precedenti indicazioni «da acquisire» e «da eseguire» relative **solo a questi PDF e alle 62 specie** sono superate. Non equivale a lettura manuale di ogni riga delle 1.468 pagine.
 
 **Decisione di archiviazione:** tenere i due **PDF integrali** nella **Libreria ChatGPT /PIANTE DELLA BIBBIA/Fonti bibliografiche/** (file persistenti, consultabili per citazioni e confronti); utilizzare **GitHub per il registro bibliografico, i metadati, la procedura e gli audit**. Evitare due grandi copie binarie in Git: la fonte va comunque riletta prima di citarla. Le edizioni originali ottocentesche sono di pubblico dominio, ma non c'è necessità editoriale di duplicare le scansioni nel repository.
 
@@ -79,8 +81,8 @@ L'esempio di *Cuminum* (pagina stampata 369) è nell'**identificazione di genere
 ## 4. Stato operativo e distinzioni importanti
 
 - **ACQUISIZIONE DELLE FONTI: COMPLETATA.** Entrambi i PDF sono stati caricati nella Libreria e riscontrati in elenco, con numero di pagine, dimensione e checksum calcolati sulle copie originali. Il problema tecnico di accesso alle scansioni **è risolto**.
-- **CONSULTAZIONE DI ESEMPI E INDICI: AVVIATA** per accertare la ricercabilità, non ancora collazione completa pagina per pagina.
-- **AUDIT RETROATTIVO CON ENTRAMBI I LIBRI SULLE 62 SCHEDE: DA ESEGUIRE.** Non attribuire a questi due testi gli aggiornamenti già pubblicati derivati da Balfour, Dafni–Böck, Frumin ecc.
+- **CONSULTAZIONE DEI PASSI PERTINENTI: COMPLETATA PER LE 62 SCHEDE** per accertare la ricercabilità, non ancora collazione completa pagina per pagina.
+- **AUDIT RETROATTIVO CON ENTRAMBI I LIBRI SULLE 62 SCHEDE: COMPLETATO.** Non attribuire a questi due testi gli aggiornamenti già pubblicati derivati da Balfour, Dafni–Böck, Frumin ecc.
 - I due file sono **fonti fisse del corpus dell'Atlante**: obbligo di verificare la loro pertinenza per ogni nuova scheda, con riferimento puntuale dopo lettura reale; quando pertinenti, includere in testo e bibliografia.
 - Piano di lavoro pregresso e risultati [AUDIT_TRISTRAM_POST_62_SCHEDE_2026-11-19.md](AUDIT_TRISTRAM_POST_62_SCHEDE_2026-11-19.md).
 
