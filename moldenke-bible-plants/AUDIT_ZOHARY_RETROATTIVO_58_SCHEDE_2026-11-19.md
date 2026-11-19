@@ -4,6 +4,8 @@
 
 **Inventario effettivo WordPress:** interrogazione MCP `pdb/atlas-list`, tipo `pdb_plant`, stato `publish`, 58 record; ciascun record esaminato mediante `pdb/atlas-get(mode=content)` per individuare la presenza letterale di «Zohary» nel testo pubblicato. **21/58** contengono una menzione, **37/58** no. Una menzione non certifica confronto diretto né citazione puntuale del volume; spesso è una citazione indiretta attraverso Duke.
 
+**Rettifica indice scientifico (19/11):** è stato individuato anche l'indice alfabetico dei taxa: *Carthamus tinctorius* p. 207, *Boswellia sacra* p. 197, *Aloe succotrina* p. 204, *Cucumis sativus* p. 86, *C. iberica* p. 159. Le categorie di priorità mantengono la distinzione editoriale fra trattazione autonoma e confronto controverso.
+
 **Verifica della fonte:** indice/TOC dell'edizione 1982 accessibili e indicizzati all'URL [PDF Silene](https://www.silene.ong/wp-content/uploads/2018/10/Plants-of-the-Bible-Michael-Zohary.pdf); sezioni e pagine indicate qui sono **riferimenti dell'indice**, non prova di aver letto integralmente le relative pagine. In questa sessione il download del PDF integrale (~29,6 MB) non è riuscito. Gli abbinamenti a sinonimi, cultivar e voci di categoria sono **ipotesi di confronto**, non equivalenze automatiche. Consultazione alternativa: [Internet Archive](https://archive.org/details/plantsofbiblec00zoha/page/n5/mode/2up).
 
 ## Risultati e priorità
@@ -46,16 +48,16 @@
 | 957 | *Centaurea verutum* | Sì, richiamo da ricontrollare | voci sui cardi pp. 158–160 | verificare specie esatta e collegamento ebraico dardar | Confronto / taxon da accertare |
 | 942 | *Centaurea iberica* | Sì, richiamo da ricontrollare | voce Spanish Thistle, p. 159 | candidata per dardar, incertezza filologica | Indice diretto |
 | 922 | *Centaurea calcitrapa* | Sì, richiamo da ricontrollare | voce Spanish Thistle, p. 159 (confronto) | distinguerla da C. iberica, che Zohary preferisce | Confronto / taxon da accertare |
-| 905 | *Carthamus tinctorius* | Sì, richiamo da ricontrollare | confronto Saffron Crocus, p. 206 | cartamo come alternativa per karkôm, non equipararlo allo zafferano | Confronto / taxon da accertare |
+| 905 | *Carthamus tinctorius* | Sì, richiamo da ricontrollare | indice scientifico: *Carthamus tinctorius*, p. 207; confronto Saffron Crocus p. 206 | cartamo come alternativa per karkôm, non equipararlo allo zafferano | Confronto / taxon da accertare |
 | 889 | *Capparis spinosa* | No | voce Caperbush, p. 98 | Ecclesiaste 12:5 e specie locali/sinonimie | Indice diretto |
 | 874 | *Calotropis procera* | Sì, richiamo da ricontrollare | voce Apple of Sodom, p. 122 | distinguere tradizione del pomo di Sodoma dai testi biblici | Indice diretto |
-| 850 | *Buxus sempervirens* | No | nessuna voce omonima nell'indice tematico | verificare se compare solo come confronto; no citazione automatica | Non individuata |
-| 849 | *Buxus balearica* | No | nessuna voce omonima nell'indice tematico | verificare se compare solo come confronto; no citazione automatica | Non individuata |
+| 850 | *Buxus sempervirens* | No | nessuna monografia dedicata nel sommario; indice cita «Boxtree», p. 14, taxon non verificato | verificare se compare solo come confronto; no citazione automatica | Non individuata |
+| 849 | *Buxus balearica* | No | nessuna monografia dedicata; «Boxtree», p. 14, non prova di identità specifica | verificare se compare solo come confronto; no citazione automatica | Non individuata |
 | 831 | *Butomus umbellatus* | No | voci piante palustri pp. 127–137, non identificazione | controllare davvero Butomus; non confondere con Lake Rush | Confronto / taxon da accertare |
 | 807 | *Brassica nigra* | No | voce Black Mustard, p. 93 | parabole evangeliche e confronto con senapi diverse | Indice diretto |
-| 760 | *Boswellia sacra* | No | voce Frankincense, p. 197 | specie botanica fonte dell'incenso, commercio arabo e lessico | Confronto / taxon da accertare |
+| 760 | *Boswellia sacra* | No | indice scientifico: *Boswellia sacra*, p. 197 (Frankincense) | specie botanica fonte dell'incenso, commercio arabo e lessico | Confronto / taxon da accertare |
 | 747 | *Balanites aegyptiaca* | Sì, richiamo da ricontrollare | voce Balm, p. 198 (confronto) | balsamo: ipotesi Balanites vs Commiphora; non affermare identità | Confronto / taxon da accertare |
-| 737 | *Aloe succotrina* | No | voce Aloe, p. 204 (confronto) | distinguere Aloe botanica da legno d'agar / ohalim | Confronto / taxon da accertare |
+| 737 | *Aloe succotrina* | No | indice scientifico: *Aloe succotrina*, p. 204; necessario confronto con Eaglewood | distinguere Aloe botanica da legno d'agar / ohalim | Confronto / taxon da accertare |
 | 700 | *Aquilaria malaccensis* | No | voce Eaglewood, p. 204 | aloè aromatico legnoso distinto da Aloe vera | Indice diretto |
 | 699 | *Anemone coronaria* | No | voce Crown Anemone, p. 170 | fiori dei campi e gigli evangelici: lettura non univoca | Indice diretto |
 | 667 | *Anastatica hierochuntica* | No | nessuna voce omonima nell'indice tematico | gulgal / rosa di Gerico: evitare attribuzione diretta senza verifica | Non individuata |
