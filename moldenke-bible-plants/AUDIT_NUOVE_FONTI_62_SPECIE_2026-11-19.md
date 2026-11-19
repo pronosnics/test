@@ -1,4 +1,6 @@
 # Audit comparativo delle nuove fonti — inventario di 62 schede WordPress
+**BALFOUR 1857 — AUDIT INTEGRALE COMPLETATO (19/11/2026):** [registro 96 pagine / tutte le 62 schede](AUDIT_BALFOUR_INTEGRALE_96_PAGINE_62_SPECIE_2026-11-19.md). Testo dei capitoli principali, appendice e menzioni minori confrontati con l'inventario WordPress; viste anche le tavole botaniche. Risultati aggiuntivi **6 integrazioni pubblicate e verificate** (olivo #129, vite #143, fico #152, mandorlo #467, mirra #1326, fungo di Malta #1598), **10 schede già integrate** con Balfour nella fase precedente, **46 senza ulteriori aggiunte non ridondanti**. L'audit non elimina l'attesa di lettura diretta delle opere di **Tristram 1867** e **Post 1896**.
+
 **Data:** 19 novembre 2026. **Fonte canonica:** [registro bibliografico master](FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md).
 
 ## Stato verificato
