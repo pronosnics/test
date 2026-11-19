@@ -1,5 +1,12 @@
 # Atlante Piante della Bibbia — procedura per lotti autonomi e audit delle fonti
 
+## Aggiornamento obbligatorio Zohary — 19 novembre 2026
+
+**Da ATL-0089 in avanti**, ogni audit della specie deve consultare per impostazione predefinita **quattro fonti**: Moldenke, Duke, Grilli Caiola–Guarrera–Travaglini e Michael Zohary, *Plants of the Bible* (1982). La verifica di Zohary precede il publish e può concludersi in tre modi documentati: **voce letta e integrata con pagine**; **voce letta ma nessuna integrazione necessaria**; **non trattata / non verificabile**. È vietato inserire una citazione per riempire il campo bibliografico senza lettura della pagina originale. Traduzione italiana di lavoro dei passaggi pertinenti, sintesi originale pubblicabile e distinzione fra ipotesi, specie e sinonimi.
+
+**Pregresso:** [matrice retroattiva delle 58 specie pubblicate al 19/11/2026](AUDIT_ZOHARY_RETROATTIVO_58_SCHEDE_2026-11-19.md), da chiudere voce per voce con conferma WordPress e SEO. **Fonte e PDF esterno:** [scheda Zohary](FONTE_ZOHARY_PLANTS_OF_THE_BIBLE.md). La prossima specie ATL-0089, *Cupressus sempervirens*, ha un riferimento iniziale Zohary «Evergreen Cypress» p. 106, da leggere prima dell'integrazione.
+
+
 ## Caso verificato: lotti Allium Cipolla e Aglio, 17/11/2026
 
 **14 nuove schede WordPress verificate `publish`**: piante #627/#628, passo biblico condiviso #626 (senza duplicati), nomi ebraici #630/#631, medicine #639/#640, fonti #633–638 e #661. **Due tavole WebP originali tramite MCP** Media #629 (Cipolla, 17 blocchi, SHA-256 `154c3e455a601d79ed95e693040cb31375ccda64b1aa4b433b3cf5b41e7740cc`) e #632 (Aglio, 11 blocchi, SHA-256 `6b1b67cf5ac4d3c821c315eba01631361dbbf420f3a66efe8fa2d55f44879a9d`); entrambe featured e ALT, staging eliminato, audit SEO 0, plugin 0.2.4 invariato.
