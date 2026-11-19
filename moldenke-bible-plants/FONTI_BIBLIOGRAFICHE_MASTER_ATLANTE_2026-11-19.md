@@ -89,6 +89,16 @@ status: "REGISTRO ATTIVO; Balfour e Tristram/Post confrontati con le 62 piante"
 - **Limitazione:** reperto archeobotanico presso Gat **non** equivale a menzione nominale della stessa specie nella Bibbia, né prova automaticamente un uso religioso israelita. Separare luogo, periodo, contesto, identificazione del reperto e inferenza degli studiosi.
 - **Stato:** articolo e licenza verificati online; PDF non ancora acquisito in Libreria o applicato alle schede.
 
+### FB-07 — V. Singh (2005), Botanical Survey of India · MONOGRAFIA DEL GENERE *DIOSPYROS*
+
+- **Citazione:** Singh, V. (2005). *Monograph on Indian Diospyros L. (Persimmon, Ebony): Ebenaceae*. Botanical Survey of India, Government of India.
+- **PDF istituzionale integrale:** https://bsi.gov.in/uploads/documents/Public_Information/publication/books/miscellaneous/Monograph%20of%20Indian%20Diospyros%20L.%20%28Persimmon%2C%20Ebony%29%20Ebenaceae.pdf
+- **Trattazione *Diospyros melanoxylon* Roxb.:** **pp. 149–157**, figura 36 e tavole; varietà *tupru* alle **pp. 159–161**. Pubblicazione originale distinta dal libro biblico di Moldenke; dal confronto emergono foglie variabili e pubescenti, fiori maschili/femminili, frutti, anatomia del legno, ecologia, rigenerazione, raccolta fogliare e dati fitochimici.
+- **Stato:** consultazione diretta delle pagine pertinenti del PDF istituzionale tramite estrazione testuale e verifica dei caratteri con Kew/IISc; la resa di screenshot remoto del PDF molto grande non è riuscita, perciò **non dichiarare verifica grafica integrale della tavola**.
+- **Ambito per nuove schede:** fonte **alta priorità per altre specie indiane del genere *Diospyros***, NON una fonte da citare obbligatoriamente per le piante bibliche in generale. Usare la tassonomia Kew POWO per correggere eventuali nomi storici e l'epiteto con autore: *D. melanoxylon* **Roxb.**, non omonimi di Willdenow.
+- **Usi medicinali:** l'opera cita rimedi folklorici e principi estratti ma **non costituisce prova clinica**; non riportare dosi dal repertorio.
+- **Dossier applicazione:** [ATL-0096 *Diospyros melanoxylon* — confronto integrale e WordPress](ATL-0096_DIOSPYROS_MELANOXYLON_DOSSIER_2026-11-20.md).
+
 ## B. Corpus fondamentale già utilizzato nell'Atlante — mantenere e confrontare
 
 | Sigla | Opera / risorsa | Funzione | Accesso stabile e note |
