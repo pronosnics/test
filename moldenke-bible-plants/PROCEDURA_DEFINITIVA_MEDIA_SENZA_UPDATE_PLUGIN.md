@@ -121,3 +121,33 @@ Si può scrivere `MEDIA_OK` **solo** se l'API di WP conferma che la scheda possi
 ### Regola della presentazione pubblica (18/11/2026)
 
 La validazione tecnica di upload WebP (Media ID, SHA-256, byte, Base64, offset, chunk, file di staging) appartiene ESCLUSIVAMENTE ai file di progresso, alle procedure interne e ai metadati di sistema necessari. **Non inserirla nelle didascalie pubbliche, nelle descrizioni dell'immagine, nel testo della pianta o in `pdb_image_provenance`** se questo campo può essere reso dal tema. Didascalia e provenienza pubbliche concise e divulgative; esempio: «Illustrazione botanica originale realizzata per l’Atlante Piante della Bibbia». Preservare l'ALT descrittivo e il meta `pdb_plate_media_id` per il collegamento della tavola. Revisionare anche i campi `plant.sources`, `bible_passages`, `greek_name`, `hebrew_name` e i corpi delle entità correlate: eliminare «WP #», «Media #», «MCP», «SHA-256» e note redazionali di lavorazione. Eseguito 18/11/2026 su Aloe e Anastatica, relativi medicamenti e passo Giovanni 19:39-40; salvare dati tecnici su GitHub, non sulle pagine del sito.
+
+---
+
+## SESTO TEST VERIFICATO — ATL-0083 e ATL-0084, 19/11/2026 (workflow ufficiale fra chat)
+
+**Esito verificato e riproducibile senza alcuna modifica al plugin:** trasferimento di due WebP tramite cartella privata transitoria in ChatGPT Library + MCP `pdb/atlas-media-start` → `pdb/atlas-media-chunk` → `pdb/atlas-media-finish`.
+
+### Risultati reali
+| Scheda | WP Post | WebP | Bytes | Blocchi | SHA-256 | Media/featured |
+|---|---:|---|---:|---:|---|---:|
+| ATL-0083 *Crocus vitellinus* | 1449 | `atl-0083-crocus-vitellinus.webp` | 87578 | 4 | `3667d15b5839e5b05e320bb32d9aa8e12b56392042f622a4f46e6a64a33091ef` | 1454 |
+| ATL-0084 *Crocus kotschyanus* (= *C. zonatus*) | 1452 | `atl-0084-crocus-kotschyanus-zonatus.webp` | 114662 | 5 | `9c4445ece27753b8cdd1c148957f545ecab899539b7d43519964814bb7fd5872` | 1455 |
+
+L'API `atlas-media-finish` ha restituito per entrambe `success=true`, `attachment_id`, `featured_image_id`, URL WordPress e il SHA corrispondente. Conferma indipendente con `pdb/get-content`: `featured_media=1454` e `featured_media=1455`. La cartella temporanea `/Atlante-MCP-Bridge-20261119/`, contenente nove blocchi base64 .txt, è stata eliminata dalla Libreria dopo verifica.
+
+### SOP in una nuova chat (NON richiede password, ZIP o autorizzazioni nuove)
+1. Consultare **questo** file e il master `PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md`. Dal server `mcp__piante_della_bibbia__mcp_adapter_discover_abilities` ricavare le ability già operative; **non** aggiornare il plugin per caricare immagini.
+2. Generare la tavola originale nello stile ottocentesco, diagnostica botanica controllata, senza scritte o note tecniche; convertirla in WebP in `/mnt/data`. Calcolare *sul WebP finale* byte effettivi, SHA-256 e dimensioni; NON passare numeri stimati o tratti da un'immagine preliminare.
+3. In Python dividere i **byte grezzi** del WebP in blocchi contigui da **24.000 byte**. Codificare ciascun blocco separatamente in Base64 con `base64.b64encode(raw[i:i+24000]).decode("ascii")`, ottenendo 32.000 caratteri per blocco completo e uno più breve alla fine. Creare uno staging temporaneo testuale privato. **IMPORTANTE**: se si spezza a livello di file ASCII, non spezzare mai nel mezzo di una sequenza non correttamente allineata; più sicuro un file `.txt` per blocco, come nel test 0083/0084.
+4. Usare `files__manage_library` con `{"operations":[{"operation":"create_folder","path":"/Atlante-MCP-Bridge-<DATA>"}, {"operation":"upload","container_path":".../b00.txt","destination_path":"/Atlante-MCP-Bridge-<DATA>/b00.txt"}, ...]}`. Conservare solo i `file_id` esatti restituiti. La cartella **non** contiene immagini pubbliche, ma Base64 provvisorio.
+5. Avviare `pdb/atlas-media-start` con `post_id`, `filename`, `file_size`, `sha256`, `alt_text`, `caption`. Utilizzare i campi dello schema ricavato da `mcp_adapter_get_ability_info`; conservare `upload_id` e `next_offset=0`.
+6. Per ciascun `file_id` in ordine, fare `files__read` (`mode=full`) e ricostruire il Base64 **senza** newline/whitespace (trim; non mostrare in chat). Chiamare `pdb/atlas-media-chunk` con `upload_id`, `offset=i*24000`, `base64_chunk`; confrontare `accepted_bytes`, `next_offset`, `remaining_bytes`. **Mai parallelizzare** chiamate `chunk` dello stesso upload. In caso di interruzione ripartire da `next_offset`, mai duplicare blocchi.
+7. Quando `remaining_bytes=0`, chiamare `pdb/atlas-media-finish` con `set_featured:true` e `replace_featured:false` (usare `true` soltanto per una sostituzione esplicitamente richiesta). Controllare `success`, `attachment_id`, `featured_image_id`, SHA/URL restituiti. Solo allora dichiarare MEDIA_OK.
+8. Verificare `pdb/get-content` o `pdb/atlas-get`: status, `featured_media` e metadati botanici/SEO; verificare ALT e, se previsti, `pdb_plate_media_id` e provenienza. Eseguire audit SEO e QA grafica come operazioni distinte. Non inserire SHA, offset, media ID o riferimenti MCP nei testi pubblici.
+9. Eliminarne **subito** lo staging privato tramite `files__manage_library` (elimina cartella con `recursive:true`), dopo `finish` e verifica. Non pubblicare il Base64 su GitHub e non conservarlo in materiali editoriali. In caso di upload fallito, usare `pdb/atlas-media-abort` quando necessario.
+
+**Causa del precedente falso blocco:** l'ambiente Python non poteva fare HTTP PUT al dominio, ma il canale **Files Library → read testo → MCP chunk** non richiede alcun HTTP dalla sandbox. Il tentativo `pdb/atlas-media-import-bundled` non importa le nuove tavole generate e NON è la soluzione ordinaria. Questo procedimento va riutilizzato nelle future chat senza ripetere la discussione.
+
+**Regola finale:** aggiornare la roadmap/master e il dossier in GitHub, ma lasciare SOLO contenuti botanici e riferimenti bibliografici nella scheda pubblica.
+
