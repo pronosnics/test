@@ -39,6 +39,12 @@ Arbusto o piccolo albero spinoso di boscaglie secche, nativo **da Eritrea a Zamb
 - **Revisione di ATL-0074** #1307: controllata nuovamente `publish`, featured **#1308**, canonical/Yoast, relazioni di identificazione #195–201 tutte controverse, audit SEO automatico **0 criticità**. Rilevata una lacuna tassonomica specifica: nella sezione di Duke il nome *C. habessinica* appariva senza precisare che Kew lo considera sinonimo di *C. kua*. **Corretto direttamente il testo di #1307**, aggiungendo collegamento alla nota #1321. Nessuna alterazione del numero di specie né delle identificazioni bibliche, nessun cambio di immagine.
 - Il controllo visivo indipendente tramite screenshot desktop/mobile resta una verifica separata non eseguita: non confonderlo con l'audit WordPress.
 
+## Revisione conclusiva incrociata con ATL-0076 — 19/11/2026
+
+**Omissione rilevata e corretta sul sito WordPress #1321:** in James A. Duke, *Duke's Handbook of Medicinal Plants of the Bible* (2008), **p.135** nella sezione `EXTRACTS (MYRRH)` della monografia generale *Myrrh* pp.131–135, viene esplicitamente riferito che **estratti di *C. habessinica*** stimolano la fagocitosi in **topi inoculati con *Escherichia coli***. Questo rinvio specifico a *habessinica* va integrato al raccordo ATL-0075, benché si trovi fuori dall'entrata nominale «Abyssinian Myrrh» pp.130–131. È un **dato sperimentale preclinico**, non una prova di efficacia per infezioni umane; non attribuirlo a *C. myrrha* né trasferire dosi o sicurezza. Il taxon secondo Kew è *C. kua*.
+
+I riferimenti del libro per la voce sinonimica sono pertanto **Duke pp.130–131 più rinvio specifico a p.135**. Le rubriche generali `MYRRH` delle pp.131–135 restano da discutere nella voce ATL-0076 distinguendo sempre i taxa. L'automazione oraria rimane disabilitata e il totale resta 46 prima di ATL-0076.
+
 ## Conclusione
 
 **ATL-0075 CHIUSA COME SINONIMO CON RACCORDO**; una sola specie sottostante *Commiphora kua* senza duplicati nel catalogo attuale. **46 piante pubblicate** restano valide; il prossimo lavoro manuale sarà **ATL-0076 — *Commiphora myrrha* (T.Nees) Engl.** dopo ulteriore conferma della roadmap. Automazione non riattivata.
