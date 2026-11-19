@@ -1,5 +1,7 @@
 # Atlante Piante della Bibbia — procedura per lotti autonomi e audit delle fonti
 
+**AUDIT NUOVE FONTI DEL 19/11/2026:** [matrice integrale 62 schede, 39 aggiornate e 23 senza nuove integrazioni](AUDIT_NUOVE_FONTI_62_SPECIE_2026-11-19.md). Sono stati esaminati direttamente Dafni–Böck, Balfour, Frumin e Dafni–Levy–Lev; per **Tristram 1867** e **Post 1896** servono ancora PDF integrali effettivamente accessibili. Non attribuire alle 23 voci assenza di dati in testi non letti.
+
 ## Registro bibliografico permanente — aggiornamento 19 novembre 2026
 
 **PRIMA di ogni nuova scheda e di ogni revisione retroattiva** aprire il [registro bibliografico canonico](FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md). Il confronto di base resta Moldenke–Duke–Zohary–Grilli Caiola + Kew; da oggi si deve inoltre **verificare la pertinenza** delle sei fonti aggiunte: Dafni–Böck (2019), Balfour (1857), Tristram (1867), Post (1896), Dafni–Levy–Lev (2005) e Frumin et al. (2024).
