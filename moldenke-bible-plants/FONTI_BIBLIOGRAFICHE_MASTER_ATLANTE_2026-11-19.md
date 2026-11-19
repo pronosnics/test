@@ -13,6 +13,10 @@ status: "REGISTRO ATTIVO; nuovo confronto retroattivo delle 58 specie da eseguir
 
 # FONTI BIBLIOGRAFICHE MASTER — Atlante delle Piante della Bibbia
 
+## Stato del confronto retroattivo — 19 novembre 2026
+
+**Primo confronto completato per le fonti direttamente leggibili:** [audit di tutte le 62 schede pubblicate](AUDIT_NUOVE_FONTI_62_SPECIE_2026-11-19.md), **39 con integrazioni pubblicate** (testo, bibliografia e campo fonti, rilette e verificate), **23 senza aggiunte non ridondanti**. **62/62** con audit SEO senza criticità. Consultati direttamente i PDF di **Dafni–Böck 2019** e **Balfour 1857** e gli articoli integrali **Frumin et al. 2024** e **Dafni–Levy–Lev 2005**. **Ancora da collazionare integralmente:** **Tristram 1867** e **Post 1896**, poiché PDF/pagine botaniche non ottenuti in modo affidabile. Quindi il confronto con tutte e sei le fonti **non è ancora concluso**. Non dichiarare «nessuna informazione» per i due libri non letti.
+
 **Documento canonico da consultare prima di ogni scheda nuova e in ogni audit delle schede già pubblicate.** La presenza di un'opera in questo catalogo **non significa che contenga informazioni sulla singola specie**: citare soltanto pagine e informazioni controllate nell'originale. Ultima verifica: **19 novembre 2026**.
 
 ## A. Nuove fonti autorevoli — sei opere, collegamenti e disponibilità
