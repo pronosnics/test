@@ -48,3 +48,12 @@
 - **ATL-0121 PUBBLICATA**, WP #1915 e featured #1917.
 - Prossima specie prevista: **ATL-0122 — <em>Juniperus oxycedrus</em> L. (ginepro coccolone/pungente secondo sottospecie; verificare nome comune)**, non avviare senza richiesta.
 - **Automazione oraria Atlante sospesa**.
+
+
+## CHECK FINALE POST-PUBBLICAZIONE
+- WordPress `pdb/get-content` **#1915** conferma `publish`, featured **#1917**, HTML **19860 caratteri**, due link interni a cedro e cipresso, SEO title/description/keyword/OG presenti.
+- `pdb/seo-audit(limit=100)` dopo pubblicazione conferma **issues=[]** per #1915 e anche per #1910.
+- `ewpa/get-cpt-item` **#1918** conferma `pdb_source` **publish** con permalink e **3049 caratteri** di collazione.
+- Controllo di chiusura **ATL-0120 #1910**: ancora publish e include la nuova analisi lessicale di **Isaia 58:5 (UBS)**.
+- Il file ponte Base64 temporaneo `atl0121_base64_bridge_temp.txt` della Libreria è stato **spostato nel cestino** tramite `files__manage_library`; il file WebP definitivo e la featured WordPress restano intatti.
+- Tentativo browser web di aprire URL pubblici #1915 e #1910 fallito per inaccessibilità dell'host tramite il browser; quindi **nessuna verifica grafica indipendente desktop/mobile né Lighthouse** rivendicata.
