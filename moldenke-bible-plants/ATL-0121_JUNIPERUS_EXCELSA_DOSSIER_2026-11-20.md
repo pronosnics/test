@@ -57,3 +57,11 @@
 - Controllo di chiusura **ATL-0120 #1910**: ancora publish e include la nuova analisi lessicale di **Isaia 58:5 (UBS)**.
 - Il file ponte Base64 temporaneo `atl0121_base64_bridge_temp.txt` della Libreria è stato **spostato nel cestino** tramite `files__manage_library`; il file WebP definitivo e la featured WordPress restano intatti.
 - Tentativo browser web di aprire URL pubblici #1915 e #1910 fallito per inaccessibilità dell'host tramite il browser; quindi **nessuna verifica grafica indipendente desktop/mobile né Lighthouse** rivendicata.
+
+
+## ADDENDUM FONTI INCROCIATE DOPO ATL-0122 (20 novembre 2026)
+- **Post 1896, Flora of Syria Palestine and Sinai p749, PDF Libreria p759, ora direttamente reperita**. Il paragrafo di *Juniperus excelsa* contiene Lizzâb, portamento 5–20 m, rametti e foglie squamiformi, galbuli scuri, habitat alto-montano. **La nota originaria del dossier secondo cui Post non aveva una pagina verificata è SUPERATA da questo addendum**. La scheda WP #1915 è stata aggiornata con la fonte primaria.
+- **Dafni–Böck 2019**, *Medicinal plants of the Bible—revisited*, PDF Libreria pp5,7,11: `berosh` può comprendere *Cupressus* e *Juniperus* e non va attribuito univocamente a *J. excelsa*. Inserita anche nuova sezione in WP #1915.
+- Per *J. oxycedrus* Kew 2026 restringe l'areale a ovest e separa *J. deltoides* (anche Palestina, Libano-Siria). Questi sono **altri due taxa**, distinti da *J. excelsa*; confrontare [ATL-0122](ATL-0122_JUNIPERUS_OXYCEDRUS_DOSSIER_2026-11-20.md).
+- QA WP post-aggiornamento: #1915 publish, `pdb/seo-audit` issues=[].
+- Grilli Caiola non ancora fornito dall'utente; nessuna citazione attribuita.
