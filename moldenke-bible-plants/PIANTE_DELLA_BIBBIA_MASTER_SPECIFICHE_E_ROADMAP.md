@@ -507,7 +507,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0109 · *Gundelia tournefortii* L.** — Gundelia / akkoub; **M voci 29–30, pp. 38–39 · D pp. 201–202 · Zohary p. 163 · Post p. 445**; Kew 210758-1, Hani et al. 2024 pp.3987–3995; **stato: PUBBLICATA 20-11-2026**; WP: `1807` · featured `1808` · galgal H1534 in Salmo 83:13 e Isaia 17:13, specie **controversa**.
 
-- [ ] **ATL-0113 · *Hordeum vulgare*** — Orzo; **M voce 110, p. 111 · D p. 205**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0113 · *Hordeum vulgare* L.** — Orzo, unica scheda canonica, integrate voci 108–110; **M pp.111–113 · D pp.205–210 · Zohary p.76 · Tristram pp.420–422 · Dafni–Böck 2019 tabella 2 p.7**, Kew POWO 405391-1; **stato: PUBBLICATA 20-11-2026**; WP `1834`, featured `1835`, citazioni e medicina pubblicate.
 
 - [ ] **ATL-0118 · *Juglans regia*** — Noce; **M voce 114, p. 119 · D p. 216**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -709,9 +709,9 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0110 · *Hedera helix* L.** — edera comune; **M voce 107 p. 111 · D pp. 202–205 · Zohary p. 121 · Post p. 377 · Tristram p. 449 (solo per traduzione di Giona)**; Kew POWO 90723-1, EMA e storiografia 2 Maccabei; **stato: PUBBLICATA 20-11-2026**; WP: `1819` · Media `1820` · 2 Maccabei 6:7, κισσός, identificazione della specie **controversa**.
 
-- [ ] **ATL-0111 · *Hordeum distichon* L.** — **NOME STORICO / NON SPECIE AUTONOMA Kew 2026**: sinonimo accettato di *Hordeum vulgare* subsp. *distichon*; **M voce 108 p. 111**; **stato: DA_INTEGRARE_CON_ATL-0113, NO POST SEPARATO**; WP: `—`.
+- [x] **ATL-0111 · *Hordeum distichon* L.** — **SINONIMO INTEGRATO 20-11-2026** nel taxon accettato *H. vulgare* subsp. *distichon*; M voce 108 pp. 111–113; **stato: RISOLTA IN ATL-0113, NON POST SEPARATO**; WP pianta canonica `1834`.
 
-- [ ] **ATL-0112 · *Hordeum hexastichon* L.** — **NOME STORICO / NON SPECIE AUTONOMA Kew 2026**: sinonimo di *Hordeum vulgare* subsp. *vulgare*; **M voce 109 p. 111**; **stato: DA_INTEGRARE_CON_ATL-0113, NO POST SEPARATO**; WP: `—`.
+- [x] **ATL-0112 · *Hordeum hexastichon* L.** — **SINONIMO INTEGRATO 20-11-2026** nel taxon accettato *H. vulgare* subsp. *vulgare*; M voce 109 pp. 111–113; **stato: RISOLTA IN ATL-0113, NON POST SEPARATO**; WP pianta canonica `1834`.
 
 - [ ] **ATL-0114 · *Hyacinthus orientalis*** — nome italiano da definire; **M voce 111, p. 114 · D p. 210**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1547,3 +1547,16 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [ ] **Controlli aperti:** revisione integrale libro Grilli Caiola–Guarrera–Travaglini non accessibile dalla Libreria; altre fonti recenti senza voce pertinente non aggiunte artificialmente; QA grafica indipendente desktop/mobile non effettuata (browser web esterno non apre pagina o immagine), diverso dall'audit SEO MCP.
 - [Dossier completo ATL-0110](ATL-0110_HEDERA_HELIX_DOSSIER_2026-11-20.md).
 - **Prossimo ciclo botanico, senza duplicati:** Kew 2026 verifica che `ATL-0111 Hordeum distichon` = *Hordeum vulgare* subsp. *distichon* (sinonimo) e `ATL-0112 Hordeum hexastichon` = *Hordeum vulgare* subsp. *vulgare* (sinonimo). Per entrambi aggiornare stati di sinonimia dopo integrazione; **creare una sola scheda canonica ATL-0113 *Hordeum vulgare* L.**, previa nuova verifica catalogo e fonti. **Automazione oraria sospesa**, non riavviata.
+
+
+## ATL-0111–0113 — orzo canonico Hordeum vulgare L. | CHIUSURA 20 novembre 2026
+
+- [x] **Solo una specie botanica creata**: WP *Hordeum vulgare* L. #1834 `publish`, https://piantedellabibbia.altervista.org/piante/orzo-hordeum-vulgare-l-bibbia-mietitura-e-spighe-a-due-o-sei-file/ .
+- [x] Anti-duplicati WordPress: `search=Hordeum` prima 0 record, dopo 1 (#1834). Le altre specie che menzionano l'orzo nel loro contenuto NON sono duplicati. **ATL-0111 *H. distichon*** = subsp. `distichon`; **ATL-0112 *H. hexastichon*** = subsp. `vulgare`: entrambe registrate e risolte come **nomi storici**, NON pubblicate autonomamente. La specie madre Kew ha anche subsp. spontanea `spontaneum` (antenata selvatica), da non duplicare. Nomenclatura: https://powo.science.kew.org/taxon/405391-1 .
+- [x] Fonti e pagine direttamente lette: Moldenke 1952 **pp.111–113** (voci 108–110); Duke 2008 **pp.205–210**; Zohary 1982 **p.76** e p.26 clima; Tristram 1867 **pp.420–422**; **Dafni–Böck 2019, tabella 2 p.7** registra *Hordeum* sp./seʾorah (fonte recente pertinente!). Kew e Australian OGTR (2021) per morfologia 2/6 file; Frumin et al. 2024 per confronto storico-archeobotanico senza attribuzione di reperti non verificati; studio archeobotanico del 2025 su Gerico/Shiqmim. Balfour 1857 menziona orzo solo nei passi di fico e melograno (PDF pp.29,53); Post 1896 non ha restituito una voce citabile con pagina precisa nella copia ricercabile: **non inventate pagine**.
+- [x] Testi WP: Rut 1:22 **#1836**, Giovanni 6:9 **#1837**, Esodo 9:31–32 **#1838**, lemma ebraico seʾorah H8184 **#1839**, medicina, β-glucani e avvertenza celiachia **#1840**, dossier critico **#1841**. Riusato Deuteronomio 8:8 **#218**, senza duplicarlo. Riusati Moldenke #135, Duke #136 e Zohary #1554. Relazioni `passage_terms #222–225`; `identifications #255–258 probabile` al livello specifico per i passi, identificazione orzo lessicale molto solida ma sottospecie non determinata; `source_citations #1012–1020`.
+- [x] Tavola botanica originale stile XIX secolo **1086×1448 px, WebP 321970 byte, Media featured #1835**; hash SHA-256 `8438a5bafbf272dab2ebc38103bdb983eb1d2a2ec984633b72f1e7ab7f6fb9ec`, identico secondo WordPress. **14 blocchi Base64**, ALT, provenienza e `pdb_plate_media_id=1835` verificati. Tavola composita e illustrativa di forme a due/sei file, non voucher botanico.
+- [x] **QA dopo publish:** `pdb/atlas-get` status `publish` e URL finale; `pdb/get-content` featured, meta SEO title/description/focus keyword/OG e tutti i link; `pdb/seo-audit issues=[]`; Media Library conferma ALT.
+- [ ] **Limitazioni dichiarate:** QA grafica autonoma desktop/mobile non possibile (web.open pagina e WebP non accessibili); fonte Grilli Caiola–Guarrera–Travaglini 2013 non integralmente consultabile per la voce orzo dalla Libreria. Non dichiarare revisione completa di ogni pagina di tutti i volumi.
+- [Dossier finale ATL-0113](ATL-0113_HORDEUM_VULGARE_DOSSIER_2026-11-20.md).
+- **Prossimo taxon** **ATL-0114 — *Hyacinthus orientalis* L.**, giacinto orientale. Ricerca WP `Hyacinthus` preliminare trovava soltanto Anemone coronaria #699 per menzione interna, NON una scheda di Hyacinthus. Ricontrollare prima di creare. **Automazione oraria Atlante sospesa** e non riattivata.
