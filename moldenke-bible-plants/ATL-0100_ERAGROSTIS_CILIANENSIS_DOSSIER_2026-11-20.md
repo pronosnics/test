@@ -25,3 +25,11 @@ Data: 20 novembre 2026. **Stato: BOZZA INCOMPLETA — NON PUBBLICATA.**
 5. Aggiornare questo dossier con ID finali e URL pubblico; solo allora marcare ATL-0100 conclusa e passare alla prima voce vegetale successiva.
 
 **Ripresa obbligatoria:** prossimo ciclo sulla bozza #1738, non creare nuova bozza.
+
+## Ripresa 20 novembre 2026, ore 03:18 — verifica e modifica reale
+- Riletto stato WP con `pdb/atlas-get`: bozza #1738 ancora `draft`, senza immagine `pdb_plate_media_id=0`. Anti-duplicato ripetuto: ricerca Eragrostis ritorna soltanto la bozza #1738.
+- Confronto diretto su copie Libreria: Moldenke 1952 p.28 (voce 13, *E. megastachya*); Moldenke p.305 contiene ulteriore menzione nell'indice, non una seconda trattazione. Tristram 1867, sezione «Grass», PDF p.464, distingue nomi collettivi dell'erba e commenta Nm 22:4 e Gen 1:11–12. Ricerca sul testo integrale di Duke e Zohary non ha trovato «Eragrostis»; non equivale a esclusione assoluta di ogni menzione indiretta. Ricerca integrale Dafni–Böck 2019 non ha trovato «Eragrostis»; la fonte non è citata nella scheda.
+- Dati botanici e sinonimia presenti nel dossier precedente (Kew POWO, Hubbard 1913 pp159–161). Il testo della bozza WP #1738 è stato ampliato con Tristram e precisazione sul livello di certezza; metadati di taxon, autore, sinonimia e morfologia aggiornati e confermati dalla risposta MCP.
+- Tavola illustrata originale generata nel turno precedente, ma ancora NON approvata come fedele ai caratteri diagnostici e NON importata in WP; non è presente un featured, ALT né hash verificato. Non sostituirla con una tavola generica di altra specie.
+- **Ancora aperti:** collazione delle pagine pertinenti Post 1896 e Grilli Caiola–Guarrera–Travaglini; verifica delle altre opere bibliografiche e dei riferimenti indiretti; convalida e trasferimento dell'immagine con checksum; relazioni WordPress; SEO audit finale; status `publish` e QA visivo. Non pubblicare prematuramente.
+- **Prossima specie:** resta ATL-0100 sulla bozza #1738 finché tutti i controlli necessari non sono completati; non avanzare.
