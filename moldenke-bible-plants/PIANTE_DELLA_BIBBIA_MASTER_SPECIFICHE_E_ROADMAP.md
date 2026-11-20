@@ -707,11 +707,11 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0108 · *Gossypium herbaceum* L.** — Cotone del Levante; **M voce 106 pp. 109–110 · D pp. 197–201 · Zohary p. 79 · Tristram pp. 440–441 · Post p. 180**; Kew POWO 559730-1; **stato: PUBBLICATA 20-11-2026**; WP: `1791` · Media `1792` · Ester 1:6 `karpas` identificazione botanica **controversa**.
 
-- [ ] **ATL-0110 · *Hedera helix*** — nome italiano da definire; **M voce 107, p. 111 · D p. 202**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0110 · *Hedera helix* L.** — edera comune; **M voce 107 p. 111 · D pp. 202–205 · Zohary p. 121 · Post p. 377 · Tristram p. 449 (solo per traduzione di Giona)**; Kew POWO 90723-1, EMA e storiografia 2 Maccabei; **stato: PUBBLICATA 20-11-2026**; WP: `1819` · Media `1820` · 2 Maccabei 6:7, κισσός, identificazione della specie **controversa**.
 
-- [ ] **ATL-0111 · *Hordeum distichon*** — nome italiano da definire; **M voce 108, p. 111 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0111 · *Hordeum distichon* L.** — **NOME STORICO / NON SPECIE AUTONOMA Kew 2026**: sinonimo accettato di *Hordeum vulgare* subsp. *distichon*; **M voce 108 p. 111**; **stato: DA_INTEGRARE_CON_ATL-0113, NO POST SEPARATO**; WP: `—`.
 
-- [ ] **ATL-0112 · *Hordeum hexastichon*** — nome italiano da definire; **M voce 109, p. 111 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0112 · *Hordeum hexastichon* L.** — **NOME STORICO / NON SPECIE AUTONOMA Kew 2026**: sinonimo di *Hordeum vulgare* subsp. *vulgare*; **M voce 109 p. 111**; **stato: DA_INTEGRARE_CON_ATL-0113, NO POST SEPARATO**; WP: `—`.
 
 - [ ] **ATL-0114 · *Hyacinthus orientalis*** — nome italiano da definire; **M voce 111, p. 114 · D p. 210**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1534,3 +1534,16 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [Dossier scientifico ATL-0109](ATL-0109_GUNDELIA_TOURNEFORTII_DOSSIER_2026-11-20.md), con fonti esatte, limiti della tassonomia, identificazione e registro verifiche.
 - [x] **Audit supplementare ATL-0108** completato a livello di fonti pertinenti direttamente accessibili e [registrato nel dossier del cotone](ATL-0108_GOSSYPIUM_HERBACEUM_DOSSIER_2026-11-20.md). Persistono la mancanza di Grilli integrale e della QA grafica esterna; nessuna omissione sostanziale direttamente dimostrata.
 - **Prossima specie della roadmap:** **ATL-0110 — *Hedera helix* L.**, edera comune; prima verificare catalogo e Kew, non avviata in questo ciclo. **Automazione 1 specie/ora: SOSPESA**, non riattivarla.
+
+
+## ATL-0110 — Hedera helix L. (20 novembre 2026) | CHIUSURA VERIFICATA
+
+- [x] **Anti-duplicato:** `pdb/atlas-list(search=Hedera/edera)` nessuna pianta; prima di creare il passo, ricerca 2 Maccabei, Dioniso e kissós senza risultati.
+- [x] **Specie:** `pdb_plant #1819` **publish** verificato via MCP dopo pubblicazione. URL https://piantedellabibbia.altervista.org/piante/edera-comune-hedera-helix-l-2-maccabei-67-dioniso-e-botanica/ .
+- [x] **Fonti consultate**: Moldenke 1952 p.111; Duke 2008 pp.202–205; Zohary 1982 p.121; Post 1896 p.377; Tristram 1867 p.449 **solo sulla controversia di Girolamo/Giona**; Kew POWO 90723-1; greco originale 2 Maccabei 6:7, Ory Amitay 2017 *HTR* 110(2):265–279 (abstract/bibliografia visibili), EMA HMPC e review *Plants* 2026 15(17):2610. **Kissós** è vocabolo greco per edera, NON binomio scientifico; la specificazione *Hedera helix* nel rito non è provata da caratteri diagnostici. L'edera di Girolamo in Giona 4:6 è una **traduzione contestata, NON seconda prova botanica**.
+- [x] **Immagine** botanica digitale originale stile Ottocento, WebP **1086×1448, 348830 byte**, SHA256 `244eeb49003ec51b02aeb9c1c9bec177a31954124b7bc2ff2b8236309aa1faca`, **featured Media #1820**, ALT verificato, provenienza e `pdb_plate_media_id=1820`. Trasferiti **15 chunk Base64** via Libreria→MCP, hash sul server coincidente. Il ponte Base64 temporaneo viene eliminato dopo verifica media.
+- [x] **Apparato WordPress pubblicato**: citazione 2 Maccabei 6:7 **#1821**, lemma greco kissós **#1822**, medicina storica/EMA **#1823**, dossier fonti Post/Zohary/Giona **#1824**. `passage_terms #221`, `identifications #254 controversa`, `source_citations #1005–1011`. Riusate fonti Moldenke #135, Duke #136 e Zohary #1554. Non sono state create identificazioni positive di *H. helix* in Giona.
+- [x] **QA WordPress dopo publish:** `pdb/atlas-get` status publish, `pdb/get-content` featured 1820 e link interni a 2 Maccabei, kissós, medicina, dossier, SEO titolo/descrizione/focus keyword e OpenGraph; `pdb/seo-audit issues=[]`.
+- [ ] **Controlli aperti:** revisione integrale libro Grilli Caiola–Guarrera–Travaglini non accessibile dalla Libreria; altre fonti recenti senza voce pertinente non aggiunte artificialmente; QA grafica indipendente desktop/mobile non effettuata (browser web esterno non apre pagina o immagine), diverso dall'audit SEO MCP.
+- [Dossier completo ATL-0110](ATL-0110_HEDERA_HELIX_DOSSIER_2026-11-20.md).
+- **Prossimo ciclo botanico, senza duplicati:** Kew 2026 verifica che `ATL-0111 Hordeum distichon` = *Hordeum vulgare* subsp. *distichon* (sinonimo) e `ATL-0112 Hordeum hexastichon` = *Hordeum vulgare* subsp. *vulgare* (sinonimo). Per entrambi aggiornare stati di sinonimia dopo integrazione; **creare una sola scheda canonica ATL-0113 *Hordeum vulgare* L.**, previa nuova verifica catalogo e fonti. **Automazione oraria sospesa**, non riavviata.
