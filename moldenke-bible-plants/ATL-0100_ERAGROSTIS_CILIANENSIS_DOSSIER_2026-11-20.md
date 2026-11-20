@@ -39,3 +39,10 @@ Data: 20 novembre 2026. **Stato: BOZZA INCOMPLETA — NON PUBBLICATA.**
 - Aggiornato realmente WP #1738 tramite `pdb/atlas-update`, aggiunta sezione Post e bibliografia con pagina esatta, meta distribuzione. Risposta MCP: **draft**, modified_gmt 2026-11-20 03:14:38.
 - Anti-duplicato WordPress `pdb/atlas-list`: unico record Eragrostis #1738, draft.
 - **Non pubblicata:** resta necessaria la collazione Grilli Caiola e ulteriori fonti pertinenti, validazione e caricamento tavola, featured/ALT/checksum, relazioni, audit SEO e QA. Prossimo ciclo deve riprendere #1738, non avanzare.
+
+## Verifica 20 novembre 2026, ore 06:16 locali
+- Verifica WordPress tramite MCP `ewpa/get-cpt-item` e `ewpa/get-cpt-items`: **unico record #1738, ancora draft, featured assente**, SEO Rank Math configurato ma punteggio restituito 0, non equiparabile ad audit positivo; ricerca media Eragrostis vuota.
+- Consultato testo della traduzione italiana editabile di Moldenke in Libreria: **p. 29** distingue i termini ebraici generali per vegetazione, incluso *dešeʾ* in Gen 1:11; supporta il limite filologico, non un'identificazione specifica. Prima di aggiungere citazione definitiva, collazionare la pagina originale.
+- Immagine originale candidata presente in ambiente, ma **non convalidata scientificamente** (dettagli di spighette da confrontare con esemplari botanici); upload diretto verso dominio WordPress bloccato da errore DNS `NameResolutionError` verificato in ambiente. Non usare l'immagine senza QA.
+- Tentativo di aggiornamento CPT con nuova sezione filologica e correzione dell'autorità tassonomica restituisce `McpServerError: Connection failed` (transitorio); **non dichiarare modifiche WP riuscite**.
+- Restano: confronto diretto di Grilli Caiola e ulteriori fonti pertinenti, validazione della tavola, upload featured/ALT/hash, relazioni e audit SEO, status publish e QA visivo. Riprendere #1738, senza creare duplicati o passare a ATL-0101.
