@@ -63,7 +63,7 @@
 - `ewpa/get-media`: media WebP **#1874**, ALT verificato e checksum immagine confermato dall'endpoint di upload.
 - `pdb/seo-audit(limit=25)`: **`issues=[]`** per #1873 DOPO publish; non dichiarare audit PageSpeed o Lighthouse da tale risultato.
 - `pdb/atlas-list(search=Hyoscyamus)`: pianta #1873 + menzione di `Hyoscyamus` nella scheda di *Conium* #1358, **non duplicato**.
-- **Limiti aperti**: testo integrale Grilli Caiola–Guarrera–Travaglini non consultabile; le fonti senza occorrenza (Moldenke/Balfour/Tristram/Dafni–Böck) hanno controllo per lemma, non lettura visiva integrale di ogni pagina; browser esterno Altervista può non essere accessibile: **non attestare QA grafica autonoma desktop/mobile se non verificata**.
+- **Limiti aperti**: testo integrale Grilli Caiola–Guarrera–Travaglini non consultabile; le fonti senza occorrenza (Moldenke/Balfour/Tristram/Dafni–Böck) hanno controllo per lemma, non lettura visiva integrale di ogni pagina; **Verifica esterna effettivamente tentata**: web.open del permalink WordPress e della immagine WebP hanno entrambi restituito «not accessible via this tool»; quindi **QA grafica indipendente desktop/mobile NON eseguita**, non attribuire screenshot o test Lighthouse.
 - Task ricorrente «Atlante Biblico — 1 specie/ora» verificato con `peek` = **enabled=false**, rimane sospeso.
 
 ## 7. Prossimo taxon
