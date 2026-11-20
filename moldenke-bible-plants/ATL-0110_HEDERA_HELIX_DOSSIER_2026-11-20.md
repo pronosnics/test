@@ -35,7 +35,7 @@
 - WordPress risponde **attachment_id=1820, featured_image_id=1820, mime=image/webp, SHA-256 corrispondente**.
 - ALT Media Library: «Tavola botanica originale di Hedera helix: foglie giovanili lobate e adulte intere, radichette adesive, ombrelle di piccoli fiori giallo-verdi e bacche nero-bluastre.»
 - `pdb_plate_media_id=1820`, provenienza illustrativa `pdb_image_provenance` registrata, `pdb/get-content featured_media=1820` verificato. L'immagine riunisce fioritura autunnale e frutti tardivi in un'unica tavola, dunque non è fotografia di un singolo istante; dissezione frutto **artistica**, non preparato istologico. I caratteri generali sono stati confrontati con Kew/Post/Zohary e riferimenti illustrati.
-- Link Base64 temporaneo privato trasferito solo per l'upload; **da eliminare dopo la conferma tecnica**.
+- Link Base64 temporaneo privato trasferito solo per l'upload; **eliminato dalla Libreria dopo la conferma tecnica**.
 
 ## 4. Passo biblico, lessico, medicina, relazioni e link interni
 - **pdb_quote #1821** `publish`, https://piantedellabibbia.altervista.org/citazioni/2-maccabei-67-ledera-nella-processione-di-dioniso/
