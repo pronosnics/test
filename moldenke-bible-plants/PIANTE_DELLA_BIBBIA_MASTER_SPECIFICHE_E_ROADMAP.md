@@ -1587,3 +1587,15 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [ ] **Limiti residui**: Grilli Caiola integrale non collazionato; browser esterno Altervista non certifica QA grafica completa; controllo per altri PDF senza occorrenze è ricerca testuale e non lettura visiva completa di ogni pagina.
 - [Dossier ATL-0115](ATL-0115_HYOSCYAMUS_AUREUS_DOSSIER_2026-11-20.md), bibliografia, pagine, definizioni, avvertenze e verifica omissioni.
 - **Prossima specie** **ATL-0116 — *Hyoscyamus muticus* L. (giusquiamo egiziano)**, dopo nuova verifica anti-duplicati; non fonderla con ATL-0115. **Automazione Atlante 1 specie/ora SOSPESA.**
+
+
+
+## ATL-0116 — *Hyoscyamus muticus* L., giusquiamo egiziano — 20 novembre 2026
+- [x] **Scheda WP avviata come BOZZA**: ID `1892`, controllata specie distinta da *H. aureus* `1873`; meta botanici registrati, bibliografia e confronto. NON è ancora pubblicata.
+- [x] **Fonti confrontate**: Duke (2008) pp.213–214, Zohary (1982) pp.186–187, Post (1896) p.570, Kew POWO 815931-1, PROTA, UAE Flora, Giuseppe Flavio III.7.6, Dafni–Yaniv 1994. Distinzione `H. aureus` dei muri / `H. muticus` desertico; fiori giallo-oro vs bianco-rosa segnati di violetto.
+- [x] **Giosuè 15:11**: Shikkeron è un toponimo, non una menzione diretta botanica. `sakaran` condivide usi popolari con nomi di Conium; rapporto con `rōʾš` non provato. Nessuna identifications assertiva.
+- [x] **Relazioni WP source_citations**: #1034 Duke #136; #1035 Zohary #1554; #1036 dossier comparativo #1878.
+- [x] **Tavola originale disegnata**, PNG nell'ambiente di ChatGPT, non ancora importata: collegamento diretto bloccato per DNS Altervista nel container. **Da completare** caricamento via upload WordPress, ALT, featured image, QA SEO e grafica, quindi pubblicazione.
+- [ ] **Fonti ancora da esaminare integralmente per voce**: Grilli Caiola–Guarrera–Travaglini, Tristram, eventuali ulteriori menzioni non rilevate nei PDF; non inventare citazioni.
+- [Dossier ATL-0116](ATL-0116_HYOSCYAMUS_MUTICUS_DOSSIER_2026-11-20.md).
+- **Prossima specie dopo chiusura ATL-0116: ATL-0117 — *Iris pseudacorus* L.**, previa verifica roadmap. **Automazione oraria: SOSPESA, invariata**.
