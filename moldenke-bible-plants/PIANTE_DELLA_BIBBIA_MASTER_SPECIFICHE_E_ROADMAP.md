@@ -1438,3 +1438,18 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Lighthouse Carrubo mobile prestazioni 95, accessibilità 92, best practices 100, SEO 100, CLS0. Desktop 99/92/100/100 CLS0. Audit interno 0 issue.
 - Tema: identificato lo ZIP Erbario Biblico 1.0.1 nella Libreria e predisposto il tema 1.0.2 con link brand accessibile e testi più leggibili. ZIP validato PHP; non installato sul WordPress perché accesso MCP non dispone della gestione file tema.
 - Prossima ATL-0061: Cercis siliquastrum L.
+
+
+## CHIUSURA ATL-0098 — Olivagno, 20 novembre 2026
+- [x] **ATL-0098 — *Elaeagnus angustifolia* L. (olivagno) COMPLETATA e PUBBLICATA**, WordPress **pianta #1723**: https://piantedellabibbia.altervista.org/piante/olivagno-elaeagnus-angustifolia-l-albero-dellolio-e-bibbia/ . Nessun doppione della specie o dell'Olivo #129.
+- [x] **Fonti direttamente collazionate**: Moldenke 1952 voce 98 **pp.97–98** e nota supplementare pertinente; Duke 2008 «Russian Olive» **pp.178–181**; Tristram 1867 «Oil Tree» **pp.371–372**; Kew POWO 323646-1, Burke Herbarium e PubMed PMID 27330526. Balfour, Post, Zohary, Dafni–Böck consultati per pertinenza, senza attribuire loro pagine sulla specie non documentate. Nota: «albero dell'olio» in Neemia 8:15 e Isaia 41:19 è **identificazione controversa**, alternativa Balanites; non confondere con Olea, né prodotti con taxa.
+- [x] **Featured Media #1725**, PNG botanico originale 540×720, checksum SHA256 `c3382a1fe2d5434d68e1046bdd40aa99088058e0ea699032289a627fc52e36fe`, ALT / featured / `pdb_plate_media_id` verificati. La prima illustrazione scartata non è stata caricata.
+- [x] **Apparato WP senza doppioni**: lemma ebraico #1726, fonte mirata Tristram #1727, usi medici storici #1728, tutti publish; riutilizzate fonti Moldenke #135 e Duke #136, citazioni Neemia #319 e Isaia #531. Relazioni `passage_terms` #211–212, `identifications` controversa #245–246, `source_citations` #962–966.
+- [x] **SEO dopo publish**: `pdb/seo-audit issues=[]`, titolo/descrizione, riferimento biblico e bibliografia, link interni. **Verifica WP MCP dopo publish confermata**.
+- [ ] **QA visiva reale desktop/mobile** non attestata: nessuno screenshot indipendente; verifica pubblica tramite web bloccata, non confonderla con il QA SEO o con la verifica MCP.
+- [Dossier finale ATL-0098](ATL-0098_ELAEAGNUS_ANGUSTIFOLIA_DOSSIER_2026-11-20.md), con fonti e pagine, SHA, relazioni, omissioni e limiti.
+
+### PUNTO DI RIPRESA PER L'AUTOMAZIONE ORARIA: dopo ATL-0098
+1. **ATL-0099 — *Epidermophyton rubrum***: organismo fungino, non creare una scheda di pianta; registrare nel comparto organismi/appendice, evitando duplicazioni.
+2. **ATL-0100 — *Eragrostis megastachya* (Koeler) Link**, prima nuova voce vegetale da verificare, ma **nome sinonimico** secondo GRIN e Kew: la specie attualmente accettata è ***Eragrostis cilianensis* (All.) Vignolo ex Janch.** (Kew: https://powo.science.kew.org/taxon/1104599-2). Prima di scrivere, verificare in WP se `Eragrostis cilianensis` o sinonimi sono già pubblicati; consultare davvero Moldenke voce 13 p.28 e le altre fonti pertinenti, stabilire corrispondenze bibliche con prudenza. Una scheda sola per la specie moderna se assente.
+3. **Non riaprire ATL-0098** nel prossimo task. Conservare limite di una sola specie nuova per esecuzione; ricontrollare la roadmap e lo stato WP all'avvio.
