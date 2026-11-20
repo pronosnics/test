@@ -1599,3 +1599,10 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [ ] **Fonti ancora da esaminare integralmente per voce**: Grilli Caiola–Guarrera–Travaglini, Tristram, eventuali ulteriori menzioni non rilevate nei PDF; non inventare citazioni.
 - [Dossier ATL-0116](ATL-0116_HYOSCYAMUS_MUTICUS_DOSSIER_2026-11-20.md).
 - **Prossima specie dopo chiusura ATL-0116: ATL-0117 — *Iris pseudacorus* L.**, previa verifica roadmap. **Automazione oraria: SOSPESA, invariata**.
+
+
+## AGGIORNAMENTO PUBBLICAZIONI ATL-0116 E ATL-0117 — 20 novembre 2026
+- [x] **ATL-0116 — *Hyoscyamus muticus* L.**, giusquiamo egiziano, **PUBBLICATA**, WP `#1892`, tavola featured `#1895`. URL https://piantedellabibbia.altervista.org/piante/giusquiamo-egiziano-hyoscyamus-muticus-l-shikkeron-botanica-e-tossicita/ . Duke p213, Zohary pp186–187, Post p570, Kew, registro di ipotesi su Shikkeron, collegamenti fonte #1034–1036, SEO audit issues=[]. Transfer Base64 **10 blocchi** checksum confermato. [Dossier](ATL-0116_HYOSCYAMUS_MUTICUS_DOSSIER_2026-11-20.md). La precedente indicazione "in bozza" è superata.
+- [x] **ATL-0117 — *Iris pseudacorus* L.**, giaggiolo acquatico, **PUBBLICATA**, WP `#1897`, tavola featured `#1898`. URL https://piantedellabibbia.altervista.org/piante/giaggiolo-acquatico-iris-pseudacorus-l-il-giglio-di-osea-e-la-botanica-delle-paludi/ . Moldenke pp117–118, Duke pp214–216, Kew, Flora of Israel; Osea 14:5, Siracide 39:14 e 50:8 **identificazione biblica incerta**. Relazioni fonte #1037–1038, SEO audit issues=[]. Transfer Base64 **13 blocchi**, checksum confermato. [Dossier](ATL-0117_IRIS_PSEUDACORUS_DOSSIER_2026-11-20.md).
+- [ ] QA grafica esterna desktop/mobile e lettura esaustiva dei volumi non collazionati restano non certificate; audit MCP strutturale non sostituisce i test visuali. Nessun versetto convertito in identificazione botanica certa.
+- **Automazione oraria ATLANTE SOSPESA, invariata**. Non avviare specie seguente senza nuova richiesta.
