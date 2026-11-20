@@ -27,6 +27,8 @@ status: "specifiche approvate come punto di partenza; tassonomia e pagine da ric
 
 # Piante della Bibbia — MASTER editoriale e piano di sviluppo
 
+**STATO CORRENTE 20/11/2026: ATL-0100 e ATL-0101 PUBBLICATE**. WordPress #1738 (Eragrostis cilianensis) e #1745 (Eruca sativa), featured Media #1741 e #1746 e audit SEO senza avvisi. L'automazione oraria è **SOSPESA SU RICHIESTA DELL'UTENTE** (`is_enabled=false`). Il prossimo taxon distinto da esaminare su richiesta è ATL-0104 *Ferula gummosa* (ATL-0102 è fungo, ATL-0103 sinonimo). La nota storica sulle bozze di ATL-0100, se presente di seguito, è superata dall'appendice di chiusura.
+
 **AGGIORNAMENTO 20/11/2026 ORE 04:13 — ATL-0100 ANCORA IN BOZZA #1738.** Post 1896 ora collazionato direttamente: *Flora of Syria, Palestine and Sinai*, **p. stampata 879 (PDF 889)**, voce *E. megastachya* Link, morfologia, habitat e distribuzione; testo e meta WP aggiornati. Anti-duplicato confermato (unico record #1738). Ancora da completare fonti Grilli Caiola e altre pertinenti, verifica/caricamento featured originale, relazioni, SEO e QA. **NON PASSARE ALLA SPECIE SUCCESSIVA.**
 
 **AGGIORNAMENTO 20/11/2026 ORE 02:18 — ATL-0100 INCOMPLETA, NON PASSARE ALLA SUCCESSIVA.** Anti-duplicati WordPress `pdb/atlas-list` e `pdb/list-content` per *Eragrostis cilianensis* e *E. megastachya*: nessuna scheda preesistente. **Bozza WP #1738**, status `draft`, URL https://piantedellabibbia.altervista.org/?post_type=pdb_plant&p=1738. Kew POWO conferma *Eragrostis cilianensis* (All.) Vignolo ex Janch. accettata e *E. megastachya* (Koeler) Link sinonimo eterotipico; NON creare doppia specie. Moldenke 1952 p.28 letta direttamente: nome storico in elenco di graminacee bibliche, nessuna identificazione specifica provata nei versetti. Hubbard 1913 pp159–161 e Kew consultati. Testo preliminare salvato in bozza. **BLOCCO EDITORIALE:** mancano collazione diretta Duke, Zohary, Grilli Caiola e altri volumi pertinenti, immagine originale verificata e caricata/featured/ALT, relazioni bibliografiche, SEO e QA finale; la tavola generata è solo candidato non approvato, non pubblicata. Non attribuire pagine alle fonti non lette. **PROSSIMO CICLO: riprendere ATL-0100 #1738, completare verifiche e pubblicare solo dopo QA; ATL-0099 è fungo escluso, ATL-0098 chiusa.**
@@ -693,11 +695,11 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0098 · *Elaeagnus angustifolia*** — nome italiano da definire; **M voce 98, p. 97 · D p. 178**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0100 · *Eragrostis megastachya*** — nome italiano da definire; **M voce 13, p. 28 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0100 · *Eragrostis cilianensis* (All.) Vignolo ex Janch.** — sinonimo storico *Eragrostis megastachya*; **M p.28 · Post 1896 p.879**; **stato: PUBBLICATA**; WP: `1738`; Media `1741`; SEO zero issue; [dossier](ATL-0100_ERAGROSTIS_CILIANENSIS_DOSSIER_2026-11-20.md).
 
-- [ ] **ATL-0101 · *Eruca sativa*** — nome italiano da definire; **M — · D p. 181**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0101 · *Eruca sativa* Mill. (rucola)** — **Duke pp.181–185 · Zohary p.101 · Post p.79 · Dafni–Böck 2019 tab.4 p.10**; 2 Re 4:39 orot controverso; **stato: PUBBLICATA**; WP `1745`; Media `1746`; SEO zero issue; [dossier](ATL-0101_ERUCA_SATIVA_DOSSIER_2026-11-20.md).
 
-- [ ] **ATL-0103 · *Ferula galbaniflua*** — nome italiano da definire; **M voce 103, p. 102 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Ferula gummosa; controllare sinonimia/identificazione.
+- [x] **ATL-0103 · *Ferula galbaniflua* Boiss. & Buhse** — **SINONIMO** di *Ferula gummosa* Boiss. secondo Kew POWO/GRIN; integrare nella futura ATL-0104, non creare specie duplicata.
 
 - [ ] **ATL-0104 · *Ferula gummosa*** — nome italiano da definire; **M — · D p. 185**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -979,7 +981,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0099 · *Epidermophyton rubrum* Castell.** — **ESCLUSA DALLE PIANTE: FUNGO DERMATOFITA**, oggi <em>Trichophyton rubrum</em> (Castell.) Sabour., basionimo documentato da Index Fungorum e NCBI. È una voce storica di Moldenke p98, da mantenere nell'indice interdisciplinare ma **non da pubblicare come specie botanica**. https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=254498
 
-- [ ] **ATL-0102 · *Favotrichophyton violaceum*** — nome italiano da definire; **M voce 100, p. 98 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0102 · *Favotrichophyton violaceum* (nome fungino storico)** — sinonimia con *Trichophyton violaceum*; **ESCLUSO dal catalogo botanico** e destinato all'appendice funghi (non creare una scheda pianta).
 
 - [ ] **ATL-0128 · *Lecanora affinis*** — nome italiano da definire; **M voce 123, p. 125 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1472,3 +1474,11 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] SEO title, meta description, focus keyword, citazioni bibliche non-specie-specifiche e bibliografia valorizzate: **`pdb/seo-audit issues=[]`**, ma l'articolo resta **`draft`**. Kew POWO authority URL corretto. Illustrazione originale **interpretativa**; grandi dettagli di spighette non certificati come chiave diagnostica.
 - [ ] **Non segnare ATL-0100 conclusa** prima della revisione finale di tutte le fonti pertinenti e degli eventuali collegamenti, e della verifica pubblicazione (quando effettuata) e QA grafica. La prossima automazione continua da #1738; **non ripetere l'upload** se `featured_media=1741` e ALT già confermati.
 - [Dossier aggiornato ATL-0100](ATL-0100_ERAGROSTIS_CILIANENSIS_DOSSIER_2026-11-20.md).
+
+
+## CHIUSURE 20 novembre 2026 — ATL-0100 e ATL-0101; automazione sospesa
+- **ATL-0100 conclusa e PUBBLICATA**: WP #1738, https://piantedellabibbia.altervista.org/piante/eragrostis-cilianensis-erba-dei-campi-e-nome-storico-eragrostis-megastachya/ ; fonte Post 1896 p.879, Moldenke 1952 p.28, Tristram sezione Grass, Kew. Identificazione biblica solo collettiva; non specifica. Tavola WebP Media #1741, SHA `63365df3ea6dbb524ef25ed263ed5ae548e67c92b673008fa879d5986f830763`, ALT e featured verificati, fonte Post WP #1742, citazioni fonte #970–971, SEO dopo publish `issues=[]`. [Dossier](ATL-0100_ERAGROSTIS_CILIANENSIS_DOSSIER_2026-11-20.md).
+- **ATL-0101 conclusa e PUBBLICATA**: WP #1745, https://piantedellabibbia.altervista.org/piante/rucola-eruca-sativa-mill-2-re-439-%ca%beoro%e1%b9%af-e-botanica/ ; Kew accetta *Eruca sativa* Mill.; fonti direttamente lette: Zohary (1982) «Garden Rocket» p.101 (PDF102), Duke (2008) «Rocket» pp.181–185 (PDF207–211), Post (1896) p.79 (PDF89), Dafni–Böck (2019) tabella 4 (PDF10). 2 Re 4:39 **orot non identifica necessariamente rucola** secondo Zohary; distinguere dalla coloquintide #1227. Tavola originale WebP Media #1746, 1024×1536, 310288 byte, SHA `0db96d5403301bdc6fa35c783b894aa50aaa04be60f4ee6cc96686ccedabdb24`, ALT e featured verificati, passaggio Base64 13 blocchi, ponte temporaneo eliminato dalla Libreria. Supporti WordPress: lemma #1747, medicina #1748, fonte Dafni–Böck #1749, fonte Post condivisa #1742; riusati 2 Re 4:39–40 #1236, Zohary fonte #1554, Duke fonte #136; relazioni #213, #247 controversa, fonti #972–978. Audit SEO dopo publish `issues=[]`. [Dossier](ATL-0101_ERUCA_SATIVA_DOSSIER_2026-11-20.md).
+- **Limiti comuni del controllo**: Grilli Caiola–Guarrera–Travaglini non risulta integralmente leggibile nella Libreria consultata, quindi nessuna pagina inventata e nessuna certificazione di collazione totale. Browser web esterno non apre il sito WordPress, perciò la QA visiva indipendente desktop/mobile non è stata certificata. WP MCP conferma status publish, Media/ALT e SEO; non equiparare questo a Lighthouse o screenshot.
+- **Task ATLANTE orario SOSPESO** con `mcp__Automations__update(is_enabled=false)`. Non riprendere automaticamente.
+- **Taxa successivi della roadmap:** ATL-0102 *Favotrichophyton violaceum* (=fungo, non nuova pianta), ATL-0103 *Ferula galbaniflua* (sinonimo di *Ferula gummosa*) e **ATL-0104 *Ferula gummosa* Boiss.** prima prossima specie botanica distinta. Kew https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:842298-1. Prima di procedere, ricontrollare WP per la presenza del taxon.
