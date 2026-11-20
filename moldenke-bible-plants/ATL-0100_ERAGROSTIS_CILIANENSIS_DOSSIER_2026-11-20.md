@@ -1,6 +1,6 @@
 # ATL-0100 — Eragrostis cilianensis (All.) Vignolo ex Janch.
 
-Data: 20 novembre 2026. **Stato: BOZZA INCOMPLETA — NON PUBBLICATA.**
+Data: 20 novembre 2026. **STATO ATTUALE: PUBBLICATA, WP #1738, verificata.** Le sezioni precedenti descrivono la cronologia delle bozze e sono superate dall'appendice finale.
 
 ## Anti-duplicati
 - WordPress `pdb/atlas-list` con ricerca Eragrostis: zero schede.
@@ -57,3 +57,13 @@ Data: 20 novembre 2026. **Stato: BOZZA INCOMPLETA — NON PUBBLICATA.**
 - Verificata e corretta `pdb_taxon_authority` da URL malformato a `https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1104599-2`. Compilati SEO e campi `bible_references`, `sources`, `identification_notes`; **pdb/seo-audit issues=[]** dopo aggiornamento, ma status **DRAFT**. Le descrizioni non identificano i passi biblici con certezza.
 - **QA botanica dell'immagine:** confronto visivo con fotografie botaniche reali e schede morfologiche Kew POWO, AusGrass e Go Botany: portamento/pannocchie e foglie sono coerenti a livello illustrativo; le spighette ingrandite **non sono una riproduzione diagnostica scientificamente perfetta**. Si presenta quindi come tavola originale **interpretativa**, non come campione d'erbario; QA indipendente grafica desktop/mobile non ancora eseguita.
 - **Da completare prima di pubblicare:** verifica finale delle altre fonti pertinenti (Grilli Caiola e controlli secondari), controllo del testo, eventuali relazioni bibliche documentate senza attribuzioni indebite, QA grafica reale ove possibile. **Non c'è più alcun blocco tecnico per l'immagine**; lo stato di WP #1738 resta `draft` e la successiva specie non deve ancora partire.
+
+## CHIUSURA 20 novembre 2026 — verifica bibliografica e pubblicazione
+- Rilette effettivamente le fonti direttamente pertinenti: **Moldenke (1952) p.28** (elenco storico di graminacee, *Eragrostis megastachya*); **Post (1896) p.879** (PDF p.889, descrizione morfologica e luoghi); **Tristram 1867 sezione «Grass», PDF p.464** per la semantica collettiva dei nomi dell'erba; **Kew POWO** per il binomio accettato *Eragrostis cilianensis* e la sinonimia. Fonti specialistiche Duke, Zohary, Dafni–Böck 2019 ricercate senza voce taxon-specifica; non attribuire loro passi o pagine false. Balfour e gli studi Dafni–Levy–Lev/Frumin non pertinenti a una identificazione di questa graminacea. **Grilli Caiola–Guarrera–Travaglini**: volume integrale non disponibile in copia digitalizzata leggibile in questa esecuzione, revisione completa **non certificata**, non citato in pagina; specificare tale limite nel dossier, non nel testo editoriale.
+- Revisionata la scheda **WP #1738**, con caratteri morfologici, Post p.879, filologia Gen 1:11–12 / Nm22:4 / Dt11:15, livelli di certezza e bibliografia. Nessuna specie biblica puntualmente riconosciuta: il rapporto con le erbe delle Scritture è solo **collettivo e illustrativo**, non una identificazione precisa.
+- **Pubblicazione riuscita**, `pdb/get-content` e `pdb/atlas-get` dopo pubblicazione restituiscono `status=publish`. URL: https://piantedellabibbia.altervista.org/piante/eragrostis-cilianensis-erba-dei-campi-e-nome-storico-eragrostis-megastachya/
+- Featured WebP **Media #1741**, ALT verificato, `pdb_plate_media_id=1741`, SHA-256 **`63365df3ea6dbb524ef25ed263ed5ae548e67c92b673008fa879d5986f830763`**, dimensioni 1024×1536. Tavola illustrativa, dettagli delle spighette non da usare come diagnosi scientifica indipendente.
+- Fonte Post **#1742** pubblicata e condivisa con ATL-0101. Relazioni bibliografiche `source_citations` **#970 (Moldenke #135 p.28)** e **#971 (Post #1742 p.879)**. Non inventati nomi ebraici corrispondenti alla specie né versetti con identificazione specifica.
+- Audit SEO dopo publish **`issues=[]`**, metadati e riferimenti compilati.
+- QA esterna visiva desktop/mobile e screenshot non certificabili: browser web non accede al dominio; esito di WP MCP non equivale a test grafico. È una limitazione separata dalla pubblicazione.
+- **La scheda ATL-0100 è pubblicata e non deve essere ricreata**. ATL-0101 è stata affrontata successivamente come unica nuova specie del ciclo successivo, WP #1745 (vedi [dossier](ATL-0101_ERUCA_SATIVA_DOSSIER_2026-11-20.md)).
