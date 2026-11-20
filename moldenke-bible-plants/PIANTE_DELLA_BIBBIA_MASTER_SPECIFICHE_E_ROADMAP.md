@@ -1616,3 +1616,13 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] SEO titolo, meta, focus e OG, campi biblici e metadati botanici compilati; audit strutturale `issues=[]` prima della pubblicazione; tre relazioni fonte #1039–1041.
 - [ ] QA indipendente grafica desktop/mobile e collazione esaustiva delle altre opere non direttamente pertinenti non certificati.
 - **Automazione oraria SOSPESA, invariata.** Prossima specie roadmap: ATL-0119 *Juncus effusus* L. solo su nuova richiesta.
+
+
+
+## PUBBLICAZIONE ATL-0119 — *Juncus effusus* L. (giunco comune), 20 novembre 2026
+- [x] **PUBBLICATA** WP `pdb_plant #1906`: https://piantedellabibbia.altervista.org/piante/giunco-comune-juncus-effusus-l-i-giunchi-di-giobbe-e-isaia/
+- [x] Confronto **Moldenke pp120–121**, **Duke pp221–224**, **Zohary p33** (menziona in realtà *Juncus acutus*), Kew/WFO/PROSEA e lessico ebraico. **Juncaceae** è la famiglia corretta; **Cyperaceae** in Duke è errore. Testi Giobbe 8:11, Isaia 9:14, 19:6, 19:15, 35:7 e Genesi 41:2 non identificano certamente la specie.
+- [x] Immagine originale featured **WP #1908**, WebP 1024×1536, 396442 byte, SHA256 server `c238b2c1da96d7c89b5f1e2449bfa088247f6c7994d5467dcb90557f1b604d75`, **17 blocchi Base64** verificati. Registrate relazioni fonti **#1042–1044**, SEO audit `issues=[]`, status `publish`.
+- [Dossier completo ATL-0119](ATL-0119_JUNCUS_EFFUSUS_DOSSIER_2026-11-20.md).
+- [ ] QA grafica esterna e lettura esaustiva di tutti i volumi archivio non certificati; non dichiarare identificazione positiva.
+- **Prossima specie ATL-0120 — *Juncus maritimus* Lam.**, solo con nuova richiesta e anti-duplicati. **Automazione oraria SOSPESA**.
