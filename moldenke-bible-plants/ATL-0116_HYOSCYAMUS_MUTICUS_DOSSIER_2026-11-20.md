@@ -35,3 +35,12 @@ Data: 2026-11-20. Stato: **BOZZA WORDPRESS verificata (ID 1892); pubblicazione f
 2. Audit SEO e relazioni finali, poi pubblicare ATL-0116 e aggiornare l'URL canonico.
 3. Prossimo taxon *Iris pseudacorus* L. — **ATL-0117** (Duke p214), solo dopo la chiusura di ATL-0116 e verifica anti-duplicati.
 4. Automazione oraria resta SOSPESA.
+
+
+## ADDENDUM 20 novembre 2026 — CHIUSURA E PUBBLICAZIONE
+- **ATL-0116 PUBBLICATA**, WP plant `#1892`, https://piantedellabibbia.altervista.org/piante/giusquiamo-egiziano-hyoscyamus-muticus-l-shikkeron-botanica-e-tossicita/ .
+- Tavola WebP originale 1024×1536, **225956 byte**, SHA-256 `4b6f9a0bbcb3d7fcd9c0357c8c7411dd954b0635bc27026eacc8e12e5baaf636`; trasferimento Base64 via ponte Library e `pdb/atlas-media-start` / **10 blocchi sequenziali** `pdb/atlas-media-chunk` / `pdb/atlas-media-finish(set_featured:true)`. Attachment **#1895**, featured **#1895**, hash server uguale: https://piantedellabibbia.altervista.org/wp-content/uploads/2026/11/tavola-botanica_hyoscyamus-muticus-atl-0116.webp .
+- Campi botanici WP, `pdb_plate_media_id`, provenienza illustrativa, ALT e Rank Math? SEO del CPT (titolo, meta, focus, OG) verificati. `pdb/seo-audit(limit=100)` restituisce `issues=[]` per ID1892. Stato di pubblicazione `publish` verificato da `pdb/update-content`.
+- Il metodo di upload è identico ad ATL-0115, NON serve un link PUT esterno. La precedente nota del dossier su "media pending" è superata da questo addendum.
+- Limiti: questa è verifica strutturale via MCP, NON test Lighthouse né certificazione desktop/mobile. Nessuna riattivazione dell'automazione oraria.
+- Avviata e poi pubblicata **ATL-0117 Iris pseudacorus**, vedere dossier dedicato.
