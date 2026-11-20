@@ -40,7 +40,7 @@
 - Ponte Base64 temporaneo privato `/atl0113_hordeum_bridge_base64_temp.txt`: **14 blocchi** (13×24000 byte e ultimo 9970), via `files__manage_library(upload)` → `files__read(mode=full,start_line=i,max_lines=1)` → `pdb/atlas-media-start`, **14 `pdb/atlas-media-chunk` in sequenza con offset verificati**, `pdb/atlas-media-finish(set_featured=true)`. Il WP server ha restituito **`attachment_id=1835`, `featured_image_id=1835`, `mime_type=image/webp` e SHA256 corrispondente**.
 - ALT verificato da `ewpa/get-media`: «Tavola botanica dell'orzo Hordeum vulgare: pianta con radici, culmi e foglie, spiga a due file, spiga a sei file, spighette, reste e cariossidi.» `pdb_plate_media_id=1835`, `pdb_image_provenance` presenti.
 - **Tavola illustrativa** che confronta due forme e organi in stati diversi; non voucher d'erbario, singoli dettagli ingranditi non prove diagnostiche autonome.
-- Ponte Base64 temporaneo da **rimuovere dopo verifiche**, senza salvare credenziali.
+- Ponte Base64 temporaneo **eliminato dalla Libreria con esito succeeded dopo la verifica dell'immagine**, senza salvare credenziali.
 
 ## 4. Relazioni e contenuti WordPress: un'unica pianta nuova
 - Nuova **`pdb_plant #1834`** `publish`, collegamenti e categorie SEO corretti.
