@@ -1,0 +1,60 @@
+# ATL-0114 — *Hyacinthus orientalis* L. (giacinto orientale) | PUBBLICATA 20 novembre 2026
+
+## 1. Stato reale, anti-duplicati e tassonomia
+- **Unica nuova specie botanica di questo ciclo:** WordPress `pdb_plant #1855`, **`publish`**, confermato dopo la pubblicazione da `pdb/atlas-get(mode:meta)` e `pdb/get-content`.
+- URL permanente: https://piantedellabibbia.altervista.org/piante/giacinto-orientale-hyacinthus-orientalis-l-il-giglio-delle-valli-nella-bibbia/
+- Controlli preventivi `pdb/atlas-list(pdb_plant,search=Hyacinthus)`, `search=giacinto`: **nessun post autonomo di Hyacinthus**; una menzione in **Anemone coronaria #699**, che è specie diversa. `pdb_source(search=Hyacinthus)` vuoto. `pdb_quote(search=Cantico 2 / Cantico 6:2)` nessun passo specifico già pubblicato. Cantico 6:4 esisteva **#1403**: riutilizzata come citazione separata, senza duplicazione.
+- Nome botanico **`Hyacinthus orientalis L.`**: **ACCETTATO** da Kew POWO https://powo.science.kew.org/taxon/536789-1 , IPNI **536789-1**, **Asparagaceae** (non Liliaceae del vecchio Duke), Linneo `Species Plantarum` (1753) **p.317**.
+- Sinonimia verificata Kew: `Scilla coronaria` Salisb., **omotipico nom. illeg. superfl.** e non un taxon valido separato. Due sottospecie Kew: `Hyacinthus orientalis subsp. chionophilus` Wendelbo e `subsp. orientalis`.
+- ATTENZIONE: `Hyacinthus non-scriptus` L. è sinonimo accettato da Kew di **`Hyacinthoides non-scripta`** (https://powo.science.kew.org/taxon/536785-1); `Muscari racemosum`, «grape hyacinth» di Tristram, è altro genere; nessuna scheda duplicata o identità attribuita per somiglianza dei nomi.
+- Areale nativo secondo Kew: **S. Türkiye to N. Israel**, con unità Iraq, Lebanon-Syria, Palestine, Türkiye. **Flora of Israel** https://flora.org.il/en/plants/hyaori/ dichiara per le popolazioni spontanee **Uncommon** e **Protected**. Non indurre raccolte di bulbi selvatici.
+
+## 2. Fonti consultate e pagine puntuali: materiale della Libreria + verifiche esterne
+| Fonte | Estensione realmente consultata | Uso editoriale e riserva |
+|---|---|---|
+| **H. N. e A. L. Moldenke, *Plants of the Bible* 1952** | **pp.114–116**, voci **111 *Hyacinthus orientalis* e 112 *Lilium candidum***; copia completa delle voci in `Moldenke_Bible_Plants_Traduzione_Italiana.md` con pagina originale, riletta direttamente | Cantico 2:1–2 e 16, 4:5, 6:2–4, lettura Goodspeed «hyacinths» invece di «lilies», diverse proposte di piante, mito di Apollo e Hyakinthos; **non** trasformare ipotesi di traduttore in nome tassonomico presente nel testo ebraico |
+| **J. A. Duke, *Handbook of Medicinal Plants of the Bible* 2008** | **pp.210–211**, PDF Libreria **pp.236–237**; riletta sezione `Hyacinth` e didascalia figura 1.53 | Duke afferma espressamente: «Zohary does not index this species, so I may have to reconsider this as the biblical lily of the valley». Usi del profumo, folklore medicinale, mito classico, nessuna dimostrazione clinica; `Hyacinthus nonscriptus` non è `H. orientalis` nella tassonomia moderna |
+| **M. Zohary, *Plants of the Bible* 1982** | Ricerca nel PDF della Libreria del binomio `Hyacinthus orientalis` / `Hyacinth`; confronto del riferimento di Duke | Nessuna voce specifica indicizzata per la specie: **NON citare Zohary come sostenitore diretto del giacinto in una pagina inventata**; sarebbe falsa attribuzione |
+| **H. B. Tristram, *Natural History of the Bible* 1867** | Discussione «Lily», **pp.463–464**, PDF Libreria **pp.475–476**, letta direttamente | Rassegna di iris, anemoni, tulipani, gladioli, narcisi; un «grape-hyacinth» (`Muscari racemosum`) nominato dall'autore NON è `Hyacinthus orientalis`. Non attribuire a Tristram identificazione positiva con H. orientalis |
+| **G. E. Post, *Flora of Syria, Palestine and Sinai* 1896** | Ricerca testuale nella copia integrale indicizzata per `Hyacinthus` / `Hyacinthus orientalis`, termini alternativi e `Orientalis` | Non recuperata nel PDF una voce con pagina puntuale verificata direttamente per H. orientalis; Moldenke cita Post nelle sue note, **ma non sono state inventate pagine o citazioni di Post** |
+| **J. H. Balfour, *Plants of the Bible: Trees and Shrubs* 1857** | Ricerca nella copia 96 pp, fra gli alberi/arbusti e per `hyacinth` | Nessuna monografia botanica pertinente direttamente verificata: libro focalizzato su alberi e arbusti; non inserito falsamente in bibliografia come fonte di questa specie |
+| **A. Dafni & B. Böck, «Medicinal plants of the Bible—revisited» 2019** | Ricerca nel PDF completo di 14 pp per `Hyacinthus` e vocaboli rilevanti | Nessuna voce specifica recuperata, non citato per medicinali del giacinto; nessuna pagina attribuita senza evidenza |
+| **Dafni–Levy–Lev 2005** | Studio specifico su `Ziziphus spina-christi` controllato per pertinenza | Non direttamente pertinente al giacinto, non citato |
+| **Frumin et al. 2024** | Studio *Plant-related Philistine ritual practices at biblical Gath* controllato per pertinenza della specie | Non verificata occorrenza attribuibile a `Hyacinthus orientalis`; non inventare reperti attribuiti |
+| **Grilli Caiola–Guarrera–Travaglini 2013, *Le piante nella Bibbia*** | Cercata la copia integrale nella Library, autore, titolo e nome della specie | **NON ACCESSIBILE una voce integrale verificabile per Hyacinthus**; non asserire uso completo del volume, né inserire pagine non controllate |
+| **Registro bibliografico master** | GitHub `FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md` letto | Usato per pianificare e non duplicare fonti; non è un'attestazione originale del taxon |
+
+### Fonti esterne consultate (non leggere come PDF integrali se non fatto)
+- **Royal Botanic Gardens, Kew**, POWO https://powo.science.kew.org/taxon/536789-1 ; famiglia, nome accettato, due sottospecie, un sinonimo e distribuzione. Dati IPNI p.317 (1753).
+- **Stephen Harris, Oxford University Plants 400**, https://herbaria.plants.ox.ac.uk/bol/plants400/Profiles/gh/Hyacinthus ; forma spontanea mediterranea con **racemo lasso di pochi fiori (fino a circa dodici) azzurri** vs varietà floricole più dense; selezione orticola post-rinascimentale e XVIII–XIX secolo.
+- **Flora of Israel and adjacent areas**, https://flora.org.il/en/plants/hyaori/ ; pianta spontanea **uncommon/protected**, non semplice dato di commercializzazione delle cultivar.
+- **NET Bible Song 2:1–2**, https://classic.net.bible.org/passage.php/xml/passage.php?passage=Sos+2%3A1%2C2 ; note sullo stato controverso di `שׁוֹשַׁנָּה` e differenza da `חֲבַצֶּלֶת`.
+- **Tennessee Poison Center**, https://www.vumc.org/poison-control/toxicology-question-week/march-2-2009-ahhh-spring-air-any-toxicities-bulbs ; ossalati dei bulbi, irritazione e rischio di ingestione. **ASPCA**, https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/garden-hyacinth ; tossicità nei pet. Una molecola presente nell'essenza non dimostra beneficio terapeutico nell'uomo.
+
+## 3. Esame botanico, tavola illustrativa e upload a blocchi Base64
+- Tavola originale, senza didascalie e in stile naturalistico del XIX secolo, raffigura <em>Hyacinthus orientalis</em> forma selvatica **a racemo non compatto**: rosetta di foglie basali, scapo eretto, fiori azzurro-violetti a perigonio di **sei tepali e sei stami**, bulbo tunicato con radici, dettagli riproduttivi e semi scuri. La tavola **accosta stadi fenologici diversi** e non è un campione d'erbario, né prova di identificazione della pianta del Cantico. Confronto morfologico con Kew, Oxford Plants 400, Flora of Israel e riferimenti botanici.
+- Output **WebP 1086×1448 px, 239516 byte**, SHA256 **`c06167b3c4837277a16e53a699e7479b566e6e0e4b108c5f68577835ba953394`**.
+- File `tavola-botanica_hyacinthus-orientalis-atl-0114.webp`, URL immagine https://piantedellabibbia.altervista.org/wp-content/uploads/2026/11/tavola-botanica_hyacinthus-orientalis-atl-0114.webp.
+- Ponte privato `/atl0114_hyacinthus_bridge_base64_temp.txt` con **10 chunk** (9×24000 byte + 23516 ultimi); `files__manage_library` upload → `files__read` per singola riga → WP `pdb/atlas-media-start` → dieci `pdb/atlas-media-chunk` in sequenza, offset e grandezza verificati, → `pdb/atlas-media-finish(set_featured:true)`.
+- WP **attachment_id #1856**, **featured_image_id #1856**, `mime_type=image/webp`, SHA256 restituito **identico**.
+- WP `ewpa/get-media` conferma ALT: «Tavola botanica originale di Hyacinthus orientalis: bulbo con radici e foglie basali, racemo rado di fiori azzurri, fiore a sei tepali, stami, capsula e semi.»
+- `pdb_plate_media_id=1856` e metadato `pdb_image_provenance` presenti. Il file ponte Base64 **deve essere eliminato dalla Library dopo importazione**.
+
+## 4. Apparato WordPress, relazioni e qualità
+- **Scheda principale #1855**: `publish`, permalink sopra, corpo lungo ~15055 caratteri, titolo SEO, meta-description, keyword focus e OpenGraph compilati.
+- **Citazioni**: Cantico 2:1–2 **#1857** `publish` https://piantedellabibbia.altervista.org/citazioni/cantico-21-2-shoshanah-il-fiore-delle-valli-tra-le-spine/ ; Cantico 6:2–3 **#1858** `publish` https://piantedellabibbia.altervista.org/citazioni/cantico-62-3-il-giardino-e-la-raccolta-dei-gigli/.
+- **Termine ebraico** `shoshannah` **#1859** `publish` https://piantedellabibbia.altervista.org/nomi-biblici/shoshanah-%d7%a9%d7%81%d7%95%d6%b9%d7%a9%d6%b7%d7%81%d7%a0%d6%b8%d6%bc%d7%94-il-giglio-biblico-non-identificato-con-certezza/ .
+- **Medicina/sicurezza** **#1860** `publish` https://piantedellabibbia.altervista.org/usi-medicinali/giacinto-orientale-profumo-medicina-popolare-e-tossicita-del-bulbo/ .
+- **Dossier fonti storico-filologiche** **#1861** `publish` https://piantedellabibbia.altervista.org/fonti-bibliografiche/giacinto-giglio-e-shoshanah-confronto-moldenke-duke-tristram-e-kew/ .
+- **Già esistenti e non duplicati**: Cantico 6:4 #1403, Anemone coronaria #699; anche il confronto con Lilium candidum non ha creato una seconda pianta. Riusate le fonti bibliografiche generali Moldenke **#135** e Duke **#136**, senza ricreare libri già registrati.
+- **Relazioni nel database WP**: `passage_terms #226–227`, `identifications #259–260` entrambe con status **`controversa`**, `source_citations #1021–1027`, fra cui le pagine dirette di Moldenke e Duke e il dossier fonte #1861.
+- **QA WordPress DOPO publish:** `pdb/atlas-get(mode:meta)` #1855 `publish` e URL; `pdb/get-content` #1855 `status=publish`, featured 1856, links interni ai 5 approfondimenti, meta SEO presenti; `pdb/seo-audit(limit=25)` #1855 **`issues=[]`**. ALT dalla Media Library verificato. `web.open` per permalink e WebP non accessibili dall'ambiente web: **nessuna verifica grafica autonoma desktop/mobile o Lighthouse** fatta, non affermarla.
+
+## 5. Riserve / omissioni / specie successiva
+- [x] Collazione di Moldenke 114–116, Duke 210–211, Tristram 463–464; confronto Kew, Oxford, Flora of Israel, note filologiche, safety e mitologia. La testimonianza di Zohary **è l'assenza della voce nell'indice, riportata da Duke**, non una citazione botanica diretta sostitutiva.
+- [x] Correzione classificazione **Liliaceae storico → Asparagaceae Kew**, correzione confusione **Hyacinthus ≠ Muscari ≠ Hyacinthoides**, correzione forma selvatica rado vs cultivar artificiale a spiga densa, sicurezza del bulbo, conservazione.
+- [ ] Libro Grilli Caiola–Guarrera–Travaglini 2013 **non integralmente collazionabile** per specie; altre fonti senza citazione specifica verificabile non attribuite.
+- [ ] Browser esterno non apre dominio Altervista, dunque QA grafica desktop/mobile **non eseguita**. SEO audit WP strutturale senza criticità non equivale a QA grafica.
+- **Prossimo taxon della roadmap: ATL-0115 — *Hyoscyamus aureus* L. (giusquiamo dorato)**, previo nuovo anti-duplicati WP, ricollazione fonti, verifica tossicologia degli alcaloidi tropanici e rapporto con termini biblici problematici. **Non creare in questo ciclo una seconda specie.**
+- L'automazione oraria «Atlante Biblico — 1 specie/ora» resta **SOSPESA (`enabled=false`)**, verificato con `peek`; non modificata.
+
