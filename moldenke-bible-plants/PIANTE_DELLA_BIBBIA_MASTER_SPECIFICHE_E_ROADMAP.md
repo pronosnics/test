@@ -703,7 +703,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0104 · *Ferula gummosa* Boiss.** — Galbano; **M voce 103, p. 102 (sin. Ferula galbaniflua) · D pp. 185–187 · Zohary p. 201**; fonti: Moldenke, Duke, Zohary, Tristram p.447, Post pp.358–359, Dafni–Böck 2019 p.9 (confronto alternativo), Kew; **stato: PUBBLICATA 20-11-2026**; WP: `1756` · Media featured `1757` · relazione botanica al prodotto **controversa**.
 
-- [ ] **ATL-0107 · *Fraxinus ornus*** — nome italiano da definire; **M voce 20, p. 31 · D p. 194**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0107 · *Fraxinus ornus* L.** — orniello / frassino da manna; **M voce 20, pp. 31–32 · D pp. 194–196 · Zohary pp. 142–143 · Post p. 519**; confronto Tristram p. 362, Kew, JRC Caudullo/de Rigo p. 100, Oddo–Sajeva–Bellini 2002 pp. 29–34, Spadaro–Raimondo 2022 pp. 38–48; **stato: PUBBLICATA 20-11-2026**; WP: `1771` · featured `1775` · Baruc 1:10 manna commerciale identificazione `controversa`, Esodo 16 identificazione non dimostrata.
 
 - [ ] **ATL-0108 · *Gossypium herbaceum*** — nome italiano da definire; **M voce 106, p. 109 · D p. 197**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1495,3 +1495,16 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [ ] **Grilli Caiola–Guarrera–Travaglini**: integrale pertinente non direttamente disponibile nel ciclo di lavoro; nessuna pagina inventata. Balfour 1857, Dafni–Levy–Lev 2005 e Frumin 2024 non citati senza pertinenza diretta.
 - [Dossier finale ATL-0104](ATL-0104_FERULA_GUMMOSA_DOSSIER_2026-11-20.md).
 - **Prossima nuova specie del catalogo, se confermata anti-duplicati:** **ATL-0107 — *Fraxinus ornus* L.**, orniello/manna. **ATL-0105 *Ficus carica* WP #152** e **ATL-0106 *Ficus sycomorus* WP #367** sono già pubblicate, non ripubblicarle. **ATL-0108 *Gossypium herbaceum*** viene dopo. **Automazione oraria rimane sospesa**.
+
+
+## ATL-0107 — Fraxinus ornus (20 novembre 2026) | CHIUSURA
+
+- [x] Nuova specie univoca **Fraxinus ornus L.**, anti-duplicato WordPress verificato prima/dopo. Pianta WP **#1771**, permalink: https://piantedellabibbia.altervista.org/piante/orniello-fraxinus-ornus-l-manna-bibbia-e-botanica/ — **publish** riaccertato via MCP.
+- [x] Caratteri botanici Kew POWO 609128-1 e JRC *European Atlas of Forest Tree Species* (Caudullo/de Rigo p.100): foglie opposte imparipennate, 5–9 foglioline dentate, fiori bianco crema con 4 petali, infiorescenze a pannocchia, samare. Manna zuccherina da essudato del tronco, non identica alla manna miracolosa di Esodo.
+- [x] **Fonti collazionate**: Moldenke 1952 pp.31–32, Duke 2008 pp.194–196, Zohary 1982 pp.142–143, Tristram 1867 p.362, **Post 1896 p.519** (descrive esplicitamente *F. ornus* sui monti del Libano fino all'Amanus, a differenza del più ristretto riferimento di Duke a una *Flora of Palestine*), Kew POWO, JRC p.100, Oddo–Sajeva–Bellini 2002 *Plant Biosystems* 136(1):29–34 e Spadaro–Raimondo 2022 *Arch Food Nutr Sci* 6(1):38–48. Non trasporre la presenza floristico-geografica ad attribuzione biblica certa.
+- [x] **WP**: Baruc 1:10 passo **#1776**; lemma *mān* / manna **#1777**; medicina storica e sicurezza **#1778**; dossier Post/Duke **#1779**. Riusata Esodo 16:31 **#1385**, fonti Moldenke **#135**, Duke **#136**, Zohary **#1554**. Relazioni `passage_terms` **#216–217**, `identifications` **#250, controversa per Baruc**, `source_citations` **#985–991**; nessuna identificazione positiva di Fraxinus per Esodo 16.
+- [x] Tavola botanica digitale originale WebP **1086×1448 px, 307408 byte, Media #1775**, SHA-256 `1f0197a83ac57650239951378bc0c02110d10f03b65c1b0789da2deee523510f`. Upload via **13 blocchi Base64** Files→MCP, checksum server identico, `featured_media=1775`, ALT, `pdb_plate_media_id=1775`, provenienza verificati. File ponte privato eliminato dalla Library dopo il trasferimento.
+- [x] Dopo `publish`, `pdb/seo-audit` restituisce **`issues=[]`**; testo, slug, relazioni e link verificati via WP MCP.
+- [ ] **Limiti non superati:** QA visiva indipendente su desktop e mobile non verificata; fonte Grilli Caiola–Guarrera–Travaglini (2013) non integralmente collazionabile dalla Library disponibile. Dafni–Böck 2019, Balfour 1857, Dafni–Levy–Lev 2005 e Frumin 2024 non attribuiti a questa specie senza passo scientifico pertinente.
+- [Dossier ATL-0107](ATL-0107_FRAXINUS_ORNUS_DOSSIER_2026-11-20.md). Revisione delle omissioni di ATL-0104 registrata anche nel [dossier Galbano](ATL-0104_FERULA_GUMMOSA_DOSSIER_2026-11-20.md).
+- **Prima specie botanica successiva non ancora realizzata: ATL-0108 — *Gossypium herbaceum* L. (cotone del Levante).** A ogni ripresa verificare prima WP e Kew. **Automazione oraria resta SOSPESA**, nessuna nuova attivazione o modifica della cadenza.
