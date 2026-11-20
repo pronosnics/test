@@ -1626,3 +1626,14 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [Dossier completo ATL-0119](ATL-0119_JUNCUS_EFFUSUS_DOSSIER_2026-11-20.md).
 - [ ] QA grafica esterna e lettura esaustiva di tutti i volumi archivio non certificati; non dichiarare identificazione positiva.
 - **Prossima specie ATL-0120 — *Juncus maritimus* Lam.**, solo con nuova richiesta e anti-duplicati. **Automazione oraria SOSPESA**.
+
+
+
+## PUBBLICAZIONE ATL-0120 — *Juncus maritimus* Lam. (giunco marittimo), 20 novembre 2026
+- [x] **PUBBLICATA** pianta WordPress `pdb_plant #1910`, permalink https://piantedellabibbia.altervista.org/piante/giunco-marittimo-juncus-maritimus-lam-giunchi-biblici-e-paludi-salmastre/
+- [x] **Tassonomia Kew 2026 verificata:** *J. maritimus* Lam. (443185-1) e *J. rigidus* Desf. (443427-1) sono **due specie distinte e accettate**, non sinonimi come riportato nella nota storica di Moldenke. Entrambe da distinguere da *J. acutus* e *J. effusus*; *Scirpus maritimus* L. = *Bolboschoenus maritimus* (Cyperaceae), non il giunco marittimo.
+- [x] Fonti: **Moldenke 1952 pp.120–121** per le 5 ipotesi sui giunchi; Zohary 1982 p.33 per confronto *J. acutus*; Duke 2008 p.222 confronto *J. effusus*; Kew, World Flora Online, Flora of North America, Herbari Virtual, Museo dell'Intreccio Mediterraneo. Termini Genesi 41:2, Giobbe 8:11, Isaia 9:14, 19:6, 19:15, 35:7 **non identificano certamente J. maritimus**.
+- [x] Tavola WebP originale **1024×1536, 319278 byte**, **14 chunk Base64** trasmessi con offset verificati; **media featured #1912**, server SHA-256 `46e8900feaf35da92dd5415f66a274b403c9984334dfc2b61e62a3ca624c5fbf` corrispondente. SEO titolo, meta, focus e OG; audit WP `issues=[]` in bozza; relazioni `source_citations #1045–1047`.
+- [Dossier ATL-0120](ATL-0120_JUNCUS_MARITIMUS_DOSSIER_2026-11-20.md).
+- [ ] QA grafica indipendente desktop/mobile e collazione esaustiva di ogni pagina delle fonti secondarie non certificati; la verifica WP è strutturale. 
+- **Prossima specie ATL-0121 — *Juniperus excelsa* M.Bieb.** come da sequenza master. **AUTOMAZIONE ORARIA SOSPESA, invariata.**
