@@ -38,7 +38,7 @@
 - Ponte privato `/atl0114_hyacinthus_bridge_base64_temp.txt` con **10 chunk** (9×24000 byte + 23516 ultimi); `files__manage_library` upload → `files__read` per singola riga → WP `pdb/atlas-media-start` → dieci `pdb/atlas-media-chunk` in sequenza, offset e grandezza verificati, → `pdb/atlas-media-finish(set_featured:true)`.
 - WP **attachment_id #1856**, **featured_image_id #1856**, `mime_type=image/webp`, SHA256 restituito **identico**.
 - WP `ewpa/get-media` conferma ALT: «Tavola botanica originale di Hyacinthus orientalis: bulbo con radici e foglie basali, racemo rado di fiori azzurri, fiore a sei tepali, stami, capsula e semi.»
-- `pdb_plate_media_id=1856` e metadato `pdb_image_provenance` presenti. Il file ponte Base64 **deve essere eliminato dalla Library dopo importazione**.
+- `pdb_plate_media_id=1856` e metadato `pdb_image_provenance` presenti. Il file ponte Base64 è stato **eliminato dalla Library con esito succeeded dopo importazione e controllo checksum**.
 
 ## 4. Apparato WordPress, relazioni e qualità
 - **Scheda principale #1855**: `publish`, permalink sopra, corpo lungo ~15055 caratteri, titolo SEO, meta-description, keyword focus e OpenGraph compilati.
