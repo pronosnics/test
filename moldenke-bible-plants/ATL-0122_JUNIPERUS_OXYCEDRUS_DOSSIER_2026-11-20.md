@@ -63,3 +63,14 @@ TUTTE le opere bibliografiche pertinenti sono state cercate per varianti del nom
 - Browser esterno: visualizzazione WordPress pubblico potrebbe essere bloccata, quindi audit strutturale NON certifica desktop/mobile o Lighthouse.
 - Fonte **Grilli Caiola–Guarrera–Travaglini** da ricevere più tardi e **non consultata** in questo ciclo; non attribuirle informazioni.
 - **Prossima specie ATL-0123 — *Juniperus phoenicea* L. in nomenclatura storica e *J. turbinata* Guss. per popolazioni levantine attuali**, da trattare dopo esplicita richiesta e verifica anti-duplicati. Automazione oraria SOSPESA.
+
+
+## CHECK FINALE POST-PUBBLICAZIONE
+- `pdb/get-content` **#1922**: `status=publish`, featured `#1927`, URL e title SEO corretti, HTML **23579 caratteri**, 19 sezioni + link interni e dossier.
+- `ewpa/get-cpt-item` **#1930**: fonte bibliografica separata in stato **publish**.
+- `pdb/seo-audit(limit=100)` DOPO publish: `issues=[]` per **#1922** e anche per **#1915**.
+- Revisione precedente **ATL-0121 WP #1915** confermata `publish`, con nuova sezione Dafni–Böck 2019 e tassonomia *oxycedrus/deltoides*, oltre a verifica primaria Post p749 (aggiornato anche dossier ATL-0121).
+- File ponte Base64 `atl0122_base64_bridge_temp.txt` **spostato nel cestino** della Libreria con successo; media WebP definitiva sul sito non modificata.
+- Il browser esterno non ha verificato indipendentemente il rendering mobile/desktop; audit SEO interno non equivale a Lighthouse o test UX.
+- Come richiesto, Grilli Caiola sarà fornito in seguito e NON è trattato come fonte esaminata.
+- Automazione oraria **sospesa**. Prossima ATL-0123 solo dietro richiesta.
