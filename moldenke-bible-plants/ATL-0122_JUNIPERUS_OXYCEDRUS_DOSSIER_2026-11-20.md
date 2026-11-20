@@ -74,3 +74,11 @@ TUTTE le opere bibliografiche pertinenti sono state cercate per varianti del nom
 - Il browser esterno non ha verificato indipendentemente il rendering mobile/desktop; audit SEO interno non equivale a Lighthouse o test UX.
 - Come richiesto, Grilli Caiola sarà fornito in seguito e NON è trattato come fonte esaminata.
 - Automazione oraria **sospesa**. Prossima ATL-0123 solo dietro richiesta.
+
+
+## Riconciliazione anti-duplicati (20 novembre 2026)
+- Nel controllo finale risultavano temporaneamente DUE schede pubblicate dello stesso taxon per esecuzioni sovrapposte: #1922 (19 sezioni, 23579 caratteri, featured #1927, fonte #1930 e relazioni #1052–1055) e #1924 (15 sezioni, 18531 caratteri, featured #1934, fonte #1928 e relazioni #1056–1059).
+- **CANONICA DEFINITIVA**: #1922, verificata migliore per completezza, con citazioni a Post, Tristram, Balfour, Dafni–Böck, Lamonaca 2024 e Kew; tutti i link e la roadmap si riferiscono a questa versione.
+- **Duplicata #1924 spostata nel cestino WordPress**, così come **fonte duplicata #1928**, mediante `ewpa/delete-cpt-item(force_delete:false)`. Non permanenti, recuperabili dal cestino WP. Il ponte Base64 duplicato `atl0122_base64_bridge_temp(1).txt` della Libreria è stato spostato nel cestino. La featured canonica **#1927** non è stata toccata.
+- Il media secondario non canonico **#1934** è stato creato durante il tentativo parallelo e potrebbe permanere in Media Library come asset non pubblicato/associato alla scheda cestinata; per coerenza non usarlo come featured. Le relazioni #1056–1059 appartengono alla bozza cestinata, non alla scheda canonica; mantenere solo #1052–1055 nella pubblicazione e nei report.
+- Conclusione del controllo `pdb/atlas-list(search=oxycedrus,status=publish)`: una sola scheda autonoma pubblicata, #1922. La fonte canonica #1930 resta pubblicata.
