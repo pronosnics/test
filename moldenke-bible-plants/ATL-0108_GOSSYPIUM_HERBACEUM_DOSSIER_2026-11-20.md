@@ -47,3 +47,27 @@ Consultato il registro `FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md` e ver
 ## Prossimo taxon e automazione
 - Roadmap, prima nuova specie presumibilmente **ATL-0109 — *Gundelia tournefortii* L.** (Gundelia; Moldenke voce 30 p.38, Duke p.201), ma va verificata **ancora** presenza WP, POWO e fonti prima di creare post. La ricerca WP `Gundelia` ha restituito la scheda pubblicata #667 `Anastatica hierochuntica` per menzione nel contenuto, **non una pianta autonoma Gundelia**.
 - Automazione oraria **SOSPESA** e non riavviata. Una sola specie creata in questo ciclo.
+
+## Audit bibliografico supplementare su richiesta — 20 novembre 2026, prima di ATL-0109
+
+**Esito:** nessuna omissione sostanziale dimostrata per il cotone nelle fonti pertinenti direttamente collazionate. Non dichiarare «verificate integralmente tutte le opere della biblioteca»: per testi di centinaia di pagine la revisione è mirata alle voci pertinenti e alle menzioni mediante indici/ricerca; la copia integrale Grilli Caiola non è accessibile.
+
+### Matrice di controllo
+| Opera | Controllo effettivo | Risultato |
+| --- | --- | --- |
+| Moldenke 1952 | voce 106 **pp.109–110** riletta da copia editabile con numerazione originale | Ester 1:5–6, `karpas`, differenza tessuto/pianta; già incluso |
+| Duke 2008 | sezione Levant Cotton **pp.197–201**, PDF pp223–227, lettura testo principale e note di rischio | fonti mediche spesso riferite a diverse specie di `Gossypium`, gossypolo, usi storici; già incluso, non trascritti rimedi rischiosi |
+| Zohary 1982 | «Cotton» **p.79**, PDF p80 | `karpas`, `tzemer-gefen`, fiori/capsule, storia commerciale; già incluso |
+| Tristram 1867 | «Cotton» **pp.440–441**, PDF pp452–453 | traduzione `karpas` e coltivazione ottocentesca; già incluso |
+| Post 1896 | Malvaceae coltivate **p.180**, PDF p190 | `Gossypium herbaceum` elencato fra colture, NON prova biblica; già incluso |
+| Balfour 1857 | ricerca in PDF 96 pp per `Cotton`, nome scientifico | nessuna trattazione specifica accertata; ricerca testuale, non certifica ogni pagina |
+| Dafni–Böck 2019 | ricerca nel PDF 14 pp per `Gossypium`, `cotton` | nessuna voce pertinente accertata; non aggiungere senza pagine |
+| Dafni–Levy–Lev 2005 | verifica titolo/abstract/testo esterno, studio su `Ziziphus spina-christi` | nessun contributo accertato a `Gossypium`; non citare nella bibliografia della pianta |
+| Frumin et al. 2024 | studio *Plant-related Philistine ritual practices at biblical Gath*; ricerca testuale per `Gossypium`, `cotton` | nessuna occorrenza trovata, non attribuire reperti di cotone |
+| Grilli Caiola–Guarrera–Travaglini 2013 | cercata nuovamente la copia integrale in Library con autore, titolo, `Gossypium`, `cotone` | **NON DISPONIBILE** la voce integrale da collazionare; mantenere limite aperto, non inventare pagine |
+| Kew POWO, PROTA, studi genomici 2016/2022 | riconfronto nomi/tema e fonti bibliografiche già collegate | nome accettato; la denominazione del tessuto non identifica specie precisa |
+
+### Non duplicare evidenze
+Il primo storico di una coltivazione ottocentesca in Post non deve spostarsi cronologicamente all'epoca della Persia di Ester; la definizione lessicale `karpas` in BDB include cotone o lino fine e non garantisce `G. herbaceum` in particolare. Rimane appropriata la relazione WordPress **`identifications #251` stato controversa**. La pagina WordPress **#1791** resta `publish` con featured **#1792**. Nessun intervento sul contenuto privo di riscontro. QA visiva esterna resta non eseguita.
+
+**Conclusione metodologica:** per il controllo di omissioni «completo» delle fonti disponibili dobbiamo distinguere la collazione esaustiva delle **voci pertinenti direttamente accessibili** dalla lettura delle **opere integrali**. La seconda non è stata eseguita per ogni opera, e soprattutto non per Grilli Caiola. Questo vincolo è registrato anche per ATL-0109.
