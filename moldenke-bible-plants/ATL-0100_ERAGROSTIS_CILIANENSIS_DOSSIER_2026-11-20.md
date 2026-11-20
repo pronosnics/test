@@ -33,3 +33,9 @@ Data: 20 novembre 2026. **Stato: BOZZA INCOMPLETA — NON PUBBLICATA.**
 - Tavola illustrata originale generata nel turno precedente, ma ancora NON approvata come fedele ai caratteri diagnostici e NON importata in WP; non è presente un featured, ALT né hash verificato. Non sostituirla con una tavola generica di altra specie.
 - **Ancora aperti:** collazione delle pagine pertinenti Post 1896 e Grilli Caiola–Guarrera–Travaglini; verifica delle altre opere bibliografiche e dei riferimenti indiretti; convalida e trasferimento dell'immagine con checksum; relazioni WordPress; SEO audit finale; status `publish` e QA visivo. Non pubblicare prematuramente.
 - **Prossima specie:** resta ATL-0100 sulla bozza #1738 finché tutti i controlli necessari non sono completati; non avanzare.
+
+## Ripresa 20 novembre 2026, ore 04:13 locali — fonte Post direttamente collazionata
+- Consultato PDF originale in Libreria *Post, Flora of Syria, Palestine and Sinai* (1896), **pagina stampata 879, pagina PDF 889**. Voce esplicita **«2. E. megastachya, Link»**: altezza 0,15–0,5 m, pannocchia ovato-oblunga 0,05–0,15 m, spighette 0,006–0,015 m, 11–29 fiori, campi dalla costa alle zone montane intermedie, altopiani interni e Ghor-es-Safieh. Il testo originale è stato letto, non dedotto dalla sola ricerca. Fonte storica floristica, NON prova biblica.
+- Aggiornato realmente WP #1738 tramite `pdb/atlas-update`, aggiunta sezione Post e bibliografia con pagina esatta, meta distribuzione. Risposta MCP: **draft**, modified_gmt 2026-11-20 03:14:38.
+- Anti-duplicato WordPress `pdb/atlas-list`: unico record Eragrostis #1738, draft.
+- **Non pubblicata:** resta necessaria la collazione Grilli Caiola e ulteriori fonti pertinenti, validazione e caricamento tavola, featured/ALT/checksum, relazioni, audit SEO e QA. Prossimo ciclo deve riprendere #1738, non avanzare.
