@@ -53,3 +53,11 @@
 - L'URL pubblico tentato tramite web.open non è accessibile dallo strumento; **non dichiarare verifica grafica desktop/mobile o Lighthouse**.
 - Aggiornare la roadmap per ATL-0120, poi controllare il prossimo nome registrato (**ATL-0121 — *Juniperus excelsa***).
 - Automazione oraria Atlante resta **SOSPESA** e NON deve essere riattivata.
+
+
+## ADDENDUM VERIFICA OMISSIONI — 20 novembre 2026
+- Su esplicita richiesta di controllare anche le altre fonti oltre Moldenke, Duke e Zohary, sono stati ricontrollati Tristram, le traduzioni storiche e le risorse di traduzione UBS.
+- **Fonte aggiuntiva specifica: UBS / TIPs, «Rush»** https://tips.translation.bible/tip_term/rush/ . La pagina include **Isaia 58:5**, similitudine dell'inchinare il capo come un giunco, e dichiara che più piante (Juncus, Scirpus e altri) possono soddisfare il referente; NON prova l'identificazione di *Juncus maritimus*.
+- **Azione su WordPress #1910**: inserita nella scheda già pubblicata una sezione «Verifica integrativa delle fonti: Isaia 58:5 e i nomi generici», con cautela tassonomica e richiamo al valore poetico generale. Stato publish preservato.
+- Il controllo testuale di **H. B. Tristram, *Natural History of the Bible*** non ha rivelato una voce primaria attestata direttamente per *J. maritimus* in questo ciclo, pur confermando discussioni sui nomi comuni di piante palustri. Nessuna pagina fittizia attribuita.
+- Conclusione: **nessuna nuova identificazione certa**, ma una integrazione lessicale/filologica che migliora l'esaustività. Resta non certificato l'esame integrale di tutti gli ulteriori volumi (in particolare Grilli Caiola–Guarrera–Travaglini).
