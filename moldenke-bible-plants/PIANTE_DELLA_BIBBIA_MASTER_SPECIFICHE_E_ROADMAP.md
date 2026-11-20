@@ -705,7 +705,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0107 · *Fraxinus ornus* L.** — orniello / frassino da manna; **M voce 20, pp. 31–32 · D pp. 194–196 · Zohary pp. 142–143 · Post p. 519**; confronto Tristram p. 362, Kew, JRC Caudullo/de Rigo p. 100, Oddo–Sajeva–Bellini 2002 pp. 29–34, Spadaro–Raimondo 2022 pp. 38–48; **stato: PUBBLICATA 20-11-2026**; WP: `1771` · featured `1775` · Baruc 1:10 manna commerciale identificazione `controversa`, Esodo 16 identificazione non dimostrata.
 
-- [ ] **ATL-0108 · *Gossypium herbaceum*** — nome italiano da definire; **M voce 106, p. 109 · D p. 197**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0108 · *Gossypium herbaceum* L.** — Cotone del Levante; **M voce 106 pp. 109–110 · D pp. 197–201 · Zohary p. 79 · Tristram pp. 440–441 · Post p. 180**; Kew POWO 559730-1; **stato: PUBBLICATA 20-11-2026**; WP: `1791` · Media `1792` · Ester 1:6 `karpas` identificazione botanica **controversa**.
 
 - [ ] **ATL-0110 · *Hedera helix*** — nome italiano da definire; **M voce 107, p. 111 · D p. 202**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1508,3 +1508,16 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [ ] **Limiti non superati:** QA visiva indipendente su desktop e mobile non verificata; fonte Grilli Caiola–Guarrera–Travaglini (2013) non integralmente collazionabile dalla Library disponibile. Dafni–Böck 2019, Balfour 1857, Dafni–Levy–Lev 2005 e Frumin 2024 non attribuiti a questa specie senza passo scientifico pertinente.
 - [Dossier ATL-0107](ATL-0107_FRAXINUS_ORNUS_DOSSIER_2026-11-20.md). Revisione delle omissioni di ATL-0104 registrata anche nel [dossier Galbano](ATL-0104_FERULA_GUMMOSA_DOSSIER_2026-11-20.md).
 - **Prima specie botanica successiva non ancora realizzata: ATL-0108 — *Gossypium herbaceum* L. (cotone del Levante).** A ogni ripresa verificare prima WP e Kew. **Automazione oraria resta SOSPESA**, nessuna nuova attivazione o modifica della cadenza.
+
+
+## ATL-0108 — Gossypium herbaceum (20 novembre 2026) | CHIUSURA VERIFICATA
+
+- [x] **Unica specie nuova, anti-duplicati WP**: `pdb_plant #1791` **publish**, https://piantedellabibbia.altervista.org/piante/cotone-del-levante-gossypium-herbaceum-l-ester-16-karpas-e-botanica/ . Ricerca `Gossypium` prima della creazione 0 record, dopo 1 record #1791.
+- [x] **Tassonomia**: *Gossypium herbaceum* L., Malvaceae, Kew POWO taxon 559730-1 accettato, 2 sottospecie *africanum* e *herbaceum*. I nomi commerciali del cotone e le altre specie (*G. arboreum*, *G. hirsutum*, *G. barbadense*) non creano doppi post.
+- [x] **Fonti collazionate direttamente**: Moldenke 1952 pp.109–110, Duke 2008 pp.197–201, Zohary 1982 p.79, Tristram 1867 pp.440–441, Post 1896 p.180 («Gossypium herbaceum» fra le Malvaceae coltivate), Kew POWO, Brown–Driver–Briggs karpas H3768, PROTA, Renny-Byfield et al. 2016 GBE 8(6):1940–1947, studio 2022 GBE 14(12):evac170, tossicologia Merck gossypol. **Est 1:5–6 = attestazione di karpas quale tessuto, NON conferma del taxon**; livello `controversa`.
+- [x] **Tavola botanica originale** WebP 1024×1536 px, **258698 byte**, SHA256 `4c67f681c63e8e709e22a6570768ef6ff57fa0802f867481f7922697a8135e3d`, **Media #1792**, featured 1792, ALT e provenienza `pdb_plate_media_id=1792` verificati. Trasferimento Files→MCP con **11 blocchi Base64**, checksum server identico. Ponte privato temporaneo eliminato dalla Library.
+- [x] **Apparato WP** pubblicato: Ester 1:5–6 `pdb_quote #1793`; karpas H3768 `pdb_term #1794`; medicina storica/gossipolo `pdb_medicine #1795`; fonte comparativa `pdb_source #1796`. Riutilizzate le fonti generali Moldenke #135, Duke #136 e Zohary #1554. Relazioni `passage_terms #218`, `identifications #251 controversa`, `source_citations #992–998`.
+- [x] **Verifica dopo publish**: WP `pdb/atlas-get` status publish e URL definitivo; `pdb/get-content` featured, SEO title/description/focus keyword e link interni; Media Library immagine WebP ALT presente; `pdb/seo-audit issues=[]`.
+- [ ] **Limiti non superati:** QA grafica indipendente desktop/mobile non eseguita; Grilli Caiola–Guarrera–Travaglini 2013 non integralmente accessibile per la voce sul cotone. Balfour 1857 e Dafni–Böck 2019 cercati senza riferimenti diretti pertinenti, Dafni–Levy–Lev 2005/Frumin 2024 esclusi per mancanza di menzioni specifiche verificabili. Nessuna fonte senza pagina inventata.
+- [Dossier ATL-0108](ATL-0108_GOSSYPIUM_HERBACEUM_DOSSIER_2026-11-20.md).
+- **Prima prossima specie della roadmap: ATL-0109 — *Gundelia tournefortii* L.**, da verificare nuovamente contro WP e Kew prima della creazione (WP ricerca `Gundelia` restituisce una menzione nell'Anastatica #667, non un taxon Gundelia). **Automazione oraria resta SOSPESA**.
