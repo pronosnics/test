@@ -1606,3 +1606,13 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] **ATL-0117 — *Iris pseudacorus* L.**, giaggiolo acquatico, **PUBBLICATA**, WP `#1897`, tavola featured `#1898`. URL https://piantedellabibbia.altervista.org/piante/giaggiolo-acquatico-iris-pseudacorus-l-il-giglio-di-osea-e-la-botanica-delle-paludi/ . Moldenke pp117–118, Duke pp214–216, Kew, Flora of Israel; Osea 14:5, Siracide 39:14 e 50:8 **identificazione biblica incerta**. Relazioni fonte #1037–1038, SEO audit issues=[]. Transfer Base64 **13 blocchi**, checksum confermato. [Dossier](ATL-0117_IRIS_PSEUDACORUS_DOSSIER_2026-11-20.md).
 - [ ] QA grafica esterna desktop/mobile e lettura esaustiva dei volumi non collazionati restano non certificate; audit MCP strutturale non sostituisce i test visuali. Nessun versetto convertito in identificazione botanica certa.
 - **Automazione oraria ATLANTE SOSPESA, invariata**. Non avviare specie seguente senza nuova richiesta.
+
+
+
+## PUBBLICAZIONE ATL-0118 — *Juglans regia* L. (noce comune), 20 novembre 2026
+- [x] **PUBBLICATA** scheda WP `pdb_plant #1901`, https://piantedellabibbia.altervista.org/piante/noce-comune-juglans-regia-l-il-giardino-dei-noci-nel-cantico-611/
+- [x] **Duke 2008 pp216–221, Zohary 1982 p64, Moldenke 1952 pp119–120**, Kew POWO, RHS, Virginia Tech e lessici biblici; `egoz` Cantico 6:11 = noce, da NON fondere con `botnim` Genesi 43:11 = pistacchi.
+- [x] **Featured media WordPress #1904**, WebP 1024×1536, 375396 byte, SHA256 server verificato `c3125d1a78b9e454d72e9ab77b900f89c4127b5a1db9d1d6af99c5851f2e01c0`; trasferimento Base64 **16 blocchi** (24 KB, finale residuo). Dossier [ATL-0118](ATL-0118_JUGLANS_REGIA_DOSSIER_2026-11-20.md).
+- [x] SEO titolo, meta, focus e OG, campi biblici e metadati botanici compilati; audit strutturale `issues=[]` prima della pubblicazione; tre relazioni fonte #1039–1041.
+- [ ] QA indipendente grafica desktop/mobile e collazione esaustiva delle altre opere non direttamente pertinenti non certificati.
+- **Automazione oraria SOSPESA, invariata.** Prossima specie roadmap: ATL-0119 *Juncus effusus* L. solo su nuova richiesta.
