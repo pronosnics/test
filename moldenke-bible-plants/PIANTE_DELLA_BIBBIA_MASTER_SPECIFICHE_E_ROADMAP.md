@@ -701,7 +701,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0103 · *Ferula galbaniflua* Boiss. & Buhse** — **SINONIMO** di *Ferula gummosa* Boiss. secondo Kew POWO/GRIN; integrare nella futura ATL-0104, non creare specie duplicata.
 
-- [ ] **ATL-0104 · *Ferula gummosa*** — nome italiano da definire; **M — · D p. 185**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0104 · *Ferula gummosa* Boiss.** — Galbano; **M voce 103, p. 102 (sin. Ferula galbaniflua) · D pp. 185–187 · Zohary p. 201**; fonti: Moldenke, Duke, Zohary, Tristram p.447, Post pp.358–359, Dafni–Böck 2019 p.9 (confronto alternativo), Kew; **stato: PUBBLICATA 20-11-2026**; WP: `1756` · Media featured `1757` · relazione botanica al prodotto **controversa**.
 
 - [ ] **ATL-0107 · *Fraxinus ornus*** — nome italiano da definire; **M voce 20, p. 31 · D p. 194**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1482,3 +1482,16 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - **Limiti comuni del controllo**: Grilli Caiola–Guarrera–Travaglini non risulta integralmente leggibile nella Libreria consultata, quindi nessuna pagina inventata e nessuna certificazione di collazione totale. Browser web esterno non apre il sito WordPress, perciò la QA visiva indipendente desktop/mobile non è stata certificata. WP MCP conferma status publish, Media/ALT e SEO; non equiparare questo a Lighthouse o screenshot.
 - **Task ATLANTE orario SOSPESO** con `mcp__Automations__update(is_enabled=false)`. Non riprendere automaticamente.
 - **Taxa successivi della roadmap:** ATL-0102 *Favotrichophyton violaceum* (=fungo, non nuova pianta), ATL-0103 *Ferula galbaniflua* (sinonimo di *Ferula gummosa*) e **ATL-0104 *Ferula gummosa* Boiss.** prima prossima specie botanica distinta. Kew https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:842298-1. Prima di procedere, ricontrollare WP per la presenza del taxon.
+
+
+## ATL-0104 — CHIUSURA VERIFICATA: Ferula gummosa Boiss. (galbano), 20 novembre 2026
+
+- [x] **Una sola specie botanica, nessun duplicato:** WP `pdb_plant #1756` **publish**, https://piantedellabibbia.altervista.org/piante/galbano-ferula-gummosa-boiss-resina-esodo-3034-e-botanica/ . `Ferula galbaniflua` (ATL-0103) è sinonimo Kew, integrato in questa stessa voce.
+- [x] **Fonti direttamente collazionate**: Moldenke p.102 (voce 103); Duke pp.185–187 (PDF pp.211–213); Zohary p.201 (PDF p.202); Tristram p.447 (PDF p.459); Post pp.358–359 (PDF pp.368–369, confronto con altre Ferula levantine); Dafni–Böck 2019 tabella 3 p.9 (`Ferula asa-foetida` sotto «Helbena» in fonti postbibliche, senza identità certa con galbano del testo); Kew POWO, Brown–Driver–Briggs H2464, Encyclopaedia Iranica e Mortazaienezhad–Sadeghian 2006 pp.905–906. Distinguere *pianta*, *resina commerciale*, nome ebraico e prodotti concorrenti. L'identificazione specifica del galbano di Esodo 30:34 resta **controversa**.
+- [x] **Featured tavola originale digitale** WebP Media **#1757**, 1086×1448, 305738 byte, SHA-256 `a3e4b70fa6dd93d86549734d81cc21399ca82299b28bf1c8f33912494b7ed983`; **13 blocchi Base64** via ponte privato Files→MCP; checksum server identico. ALT, `featured_media=1757`, `pdb_plate_media_id=1757`, provenienza confermati. Ponte Base64 temporaneo eliminato dalla Libreria.
+- [x] **Apparato WP pubblicato:** lemma `ḥelbənāh` / H2464 **#1758**, usi medicinali storici e sicurezza **#1759**, dossier scientifico **#1760**. Riutilizzati Esodo 30:34–38 **#768**, Siracide 24:15 **#1144**, Moldenke fonte **#135**, Duke **#136**, Zohary **#1554** senza duplicati. Relazioni `passage_terms` **#214–215**, identificazioni `controversa` **#248–249**, citazioni fonti **#979–984**. Link interni a lemma, medicina, fonti, incenso e mirra.
+- [x] **Verifiche dopo publish:** `pdb/atlas-get` conferma status `publish`, `pdb/get-content` conferma featured e SEO; `pdb/seo-audit issues=[]`. ALT da Media Library.
+- [ ] **QA visuale esterna mobile/desktop** non certificata: URL pubblico non accessibile tramite web browser remoto, pur risultando pubblicato in MCP. La tavola è illustrativa (non voucher diagnostico).
+- [ ] **Grilli Caiola–Guarrera–Travaglini**: integrale pertinente non direttamente disponibile nel ciclo di lavoro; nessuna pagina inventata. Balfour 1857, Dafni–Levy–Lev 2005 e Frumin 2024 non citati senza pertinenza diretta.
+- [Dossier finale ATL-0104](ATL-0104_FERULA_GUMMOSA_DOSSIER_2026-11-20.md).
+- **Prossima nuova specie del catalogo, se confermata anti-duplicati:** **ATL-0107 — *Fraxinus ornus* L.**, orniello/manna. **ATL-0105 *Ficus carica* WP #152** e **ATL-0106 *Ficus sycomorus* WP #367** sono già pubblicate, non ripubblicarle. **ATL-0108 *Gossypium herbaceum*** viene dopo. **Automazione oraria rimane sospesa**.
