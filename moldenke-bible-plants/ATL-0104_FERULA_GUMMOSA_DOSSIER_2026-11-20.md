@@ -48,3 +48,19 @@
 - [ ] Collazione completa dell'opera Grilli Caiola–Guarrera–Travaglini: materiale non accessibile integralmente in questo ciclo. Conservare come limite metodologico, senza bloccare la pubblicazione della sintesi già ancorata alle fonti direttamente lette.
 - **Automazione oraria sospesa**, non riattivare.
 - **Prossimo taxon botanico non ancora schedato secondo la roadmap master: ATL-0107 — *Fraxinus ornus* L.**, orniello/manna da frassino (Moldenke voce 20 p.31; Duke p.194). Verifica WordPress per Fraxinus: nessuna scheda preesistente. **ATL-0105 — *Ficus carica*** già pubblicata WP #152 e **ATL-0106 — *Ficus sycomorus*** già pubblicata WP #367: non creare duplicati. **ATL-0108 — *Gossypium herbaceum*** cotone del Levante viene dopo *Fraxinus ornus* nella roadmap. Al prossimo incarico ricontrollare la roadmap ed il catalogo.
+
+## 20-11-2026 — Revisione supplementare di omissioni richiesta prima di ATL-0107
+
+Riaperta la scheda WordPress #1756 `publish` e ricontrollato il registro `FONTI_BIBLIOGRAFICHE_MASTER_ATLANTE_2026-11-19.md` con particolare attenzione ai PDF acquisiti negli ultimi giorni. Risultato per fonte:
+- **Moldenke 1952 p.102**: nome storico `Ferula galbaniflua`, resina acquistabile, incertezza sulle specie: già nel testo; nessuna omissione sostanziale.
+- **Duke 2008 pp.185–187**: impieghi etnobotanici, composizione aromatica ed estratti sperimentali; già distinti dalle cure clinicamente validate. Nessuna dose terapeutica in sito.
+- **Zohary 1982 p.201**: fonte commerciale principale `F. gummosa`, importazione e identificazione biblica non definitiva: già distinto.
+- **Tristram 1867 p.447**: dubbio sul taxon originario del galbano commercializzato: già nel testo.
+- **Post 1896 pp.358–359**: specie di `Ferula` levantine; non implica che `F. gummosa` fosse locale. Già contrapposto ai dati Kew.
+- **Dafni–Böck 2019, tabella 3 p.9 (PDF acquisito)**: `Ferula asa-foetida` menzionata sotto `Helbena` in contesti postbiblici/rabbinici, non prova di identità col galbano di Esodo. **Verificato ed era già integrato in corpo e bibliografia**.
+- **Balfour 1857 (PDF 96 pp)**: ricerca per `Galbanum` senza passaggio pertinente con pagina verificata; non aggiunto artificialmente.
+- **Dafni–Levy–Lev 2005** (studio specifico su `Ziziphus spina-christi`): non direttamente pertinente a `Ferula gummosa`. Pubblicazione esterna verificata: https://doi.org/10.1186/1746-4269-1-8.
+- **Frumin et al. 2024, *Plant-related Philistine ritual practices at biblical Gath***: studio archeobotanico sulle piante dei templi filistei, senza reperti di galbano o `F. gummosa` accertati nelle specie elencate; non pertinente a identificazione del prodotto di Esodo. https://doi.org/10.1038/s41598-024-52974-9.
+- **Grilli Caiola–Guarrera–Travaglini 2013**: dati bibliografici e descrizione delle 110 schede confermati, ma **testo integrale della pertinente voce galbano non reperito nella Library accessibile**. Non dichiarare una collazione esaustiva né attribuire pagina. Opera https://art.torvergata.it/handle/2108/107027.
+
+**Risultato**: nessuna lacuna sostanziale dimostrata dalle fonti direttamente verificabili; restano il controllo integrale Grilli Caiola e il QA visivo desktop/mobile. Scheda #1756, featured #1757 e SEO già verificati. Nessuna nuova versione pubblicata per non fare modifiche prive di riscontro, nessuna fonte senza pagina inventata.
