@@ -35,3 +35,19 @@ Verificati: specie moderna contro le forme storiche, foglie/squame, perianzio 4-
 ## Stato del prossimo ciclo, senza sovrapposizioni
 - **ATL-0099** *Epidermophyton rubrum* è **fungo** e non specie botanica: segnare «appendice organismi/non nuova pianta», non creare doppione come pianta.
 - **ATL-0100** *Eragrostis megastachya* (Koeler) Link: **prima voce vegetale da esaminare nel prossimo task orario**. È sinonimo storico del taxon Kew-accettato ***Eragrostis cilianensis* (All.) Vignolo ex Janch.**, secondo POWO e USDA GRIN (verifiche preliminari). Controllare ancora anti-duplicati WP, Moldenke voce 13 p. 28 e l'intera bibliografia pertinente. Creare una sola scheda canonica se assente, non due post per sinonimi.
+
+
+## Addendum di verifica retrospettiva delle fonti — 20 novembre 2026
+**Correzione sostanziale dopo revisione del PDF Zohary:** Michael Zohary, *Plants of the Bible* (1982), voce «Aleppo Pine» **p. 114 (PDF p. 115)**, sostiene esplicitamente che l'ebraico *ʿēṣ šemen* va inteso come **pino d'Aleppo (*Pinus halepensis* Mill.)**, con argomento legato alla continuità del nome presso comunità ebraiche del Kurdistan (dove cresce *P. brutia*). La stessa posizione ricompare alla voce «Citron» **p. 123 (PDF p. 124)** per Neemia 8:15. Questa proposta contrasta direttamente con Moldenke pp.97–98 e Tristram pp.371–372 (olivagno). Non attribuire unanimità a nessuna identificazione. Le due pagine sono state lette dal PDF integrale, non soltanto ricavate da un indice.
+
+**Azione WordPress già eseguita:** integrato un paragrafo di confronto Zohary/Moldenke/Tristram nel post #1723 e nella voce del lemma #1726; inserita bibliografia Zohary pp.114,123; riutilizzata la fonte WordPress Zohary **#1554**; nuove `source_citations` **#967** (pianta, p.114), **#968** (termine, p.114), **#969** (pianta, p.123). Nessuna scheda di specie aggiuntiva.
+
+**Altre fonti: verifica esatta e limiti**:
+- Balfour, *Plants of the Bible* (1857), PDF **p.18, pagina stampata p.4** nella trattazione del bosso: usa l'espressione «oil-tree [olive-tree]» citando Isaia 41:19, senza identificare *Elaeagnus angustifolia*. Non autorizza attribuzione a olivagno.
+- Post 1896, *Flora of Syria, Palestine and Sinai*: ricerche su `Elaeagnus`, `Eleagnus`, `E. angustifolia`, `oleaster` e `angustifolia` non hanno prodotto una voce attendibile di *Elaeagnus* nel testo estratto. **Non equivale a dimostrare assenza dall'intero volume o da scansioni imperfect OCR.** Non citato nella bibliografia della pianta.
+- Dafni–Böck 2019, PDF completo: nessuna occorrenza testuale `Elaeagn`; altre menzioni di *Balanites* sono in contesti medicinali differenti. Non citare come prova dell'identificazione.
+- Grilli Caiola–Guarrera–Travaglini, *Le piante nella Bibbia* (2013): il libro è riportato nel registro come fonte di progetto, ma **una voce integrale direttamente pertinente all'olivagno non è stata recuperata e letta nella presente revisione**. Non dichiarare effettuata la collazione né attribuire pagine non certe; la sola documentazione già lavorata per la Terra Promessa non dimostra il trattamento di *Elaeagnus*.
+- Dafni–Levy–Lev 2005 (*Ziziphus spina-christi*) e Frumin et al. 2024 (flora archeobotanica filistea): nessuna pertinenza specifica attestata per questa identificazione; non citati.
+- La letteratura clinica include più ricerche preliminari su formulazioni diverse, ad es. PMID 27330526; ciò non produce prescrizioni né una valutazione clinica conclusiva.
+
+**Stato scientifico:** posizione di Zohary recepita e commentata; resta la limitazione della non-collazione integrale di tutte le opere disponibili e la QA visiva indipendente desktop/mobile non attestata. Distinguere il completamento editoriale / pubblicazione WP dal controllo di ogni singola fonte di biblioteca. Questa verifica non modifica la scelta del prossimo task: ATL-0100, una sola nuova specie.
