@@ -46,7 +46,7 @@
 - Media pubblico: https://piantedellabibbia.altervista.org/wp-content/uploads/2026/11/tavola-botanica_hyoscyamus-aureus-atl-0115.webp .
 - Procedura provata: PNG→WebP Pillow qualità 81 → generazione ponte Base64 `/atl0115_hyoscyamus_bridge_base64_temp.txt` 12 righe (11×24000 byte raw + 9126 byte finali) → upload temporaneo Library → 12× `files__read` un rigo → `pdb/atlas-media-start` → 12× `pdb/atlas-media-chunk` sequenziali con offset verificati → `pdb/atlas-media-finish(set_featured:true)`. Risultato WordPress **attachment_id #1874**, **featured_image_id #1874**, `image/webp`, SHA server **coincidente**.
 - ALT verificato con `ewpa/get-media`: «Tavola botanica originale di Hyoscyamus aureus: foglie dentate e vischiose, fiori giallo-oro con gola porpora, stami e stilo sporgenti, calici pelosi, capsule e semi.»
-- Metadati `pdb_plate_media_id=1874` e `pdb_image_provenance` salvati e riletti. **Il ponte Base64 temporaneo va eliminato dalla Library dopo le verifiche**.
+- Metadati `pdb_plate_media_id=1874` e `pdb_image_provenance` salvati e riletti. **Il ponte Base64 temporaneo è stato eliminato dalla Library con esito succeeded dopo verifica dei 12 blocchi e checksum**.
 
 ## 5. WordPress: post e relazioni pubblicati senza doppioni
 - **Pianta principale #1873 `publish`**: https://piantedellabibbia.altervista.org/piante/giusquiamo-dorato-hyoscyamus-aureus-l-shikkeron-botanica-e-tossicita/
