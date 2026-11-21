@@ -1417,10 +1417,21 @@
     },
     {
       "legacy_code": "ATL-0191",
-      "scientific_name_working": "Quercus ithaburensis",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 838
+      "scientific_name_working": "Quercus ithaburensis Decne. subsp. ithaburensis (Kew accepted autonym; legacy Quercus ithaburensis)",
+      "checkbox_from_master": true,
+      "live_status": "published_wp2540_media2541_medicine2548_identification342_controversa",
+      "source_line": 838,
+      "scientific_name_accepted": "Quercus ithaburensis Decne. subsp. ithaburensis",
+      "operational_code": "ATL-0171-QT",
+      "wordpress_id": 2540,
+      "medicine_id": 2548,
+      "medicine_status": "publish",
+      "media_id": 2541,
+      "family_id": 26,
+      "sha256": "ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-del-tabor-quercus-ithaburensis-subsp-ithaburensis-botanica-e-bibbia/",
+      "verified_at": "2026-11-21",
+      "note": "Published nominotypical ithaburensis Levant; macrolepis already WP2455. 17/17 specialist/11/11 legacy; 17 plant &6 medicine citations; 5 published new sources; identification #342 controversial, SEO indexed; frontend visual not certified."
     },
     {
       "legacy_code": "ATL-0192",
@@ -2453,6 +2464,24 @@
       "source": "STATO_ATLANTE_ATL0170_QI_QUERCUS_ILEX_2026-11-21.md",
       "automation": "paused",
       "date": "2026-11-21"
+    },
+    "ATL-0171-QT": {
+      "legacy": "ATL-0191",
+      "taxon": "Quercus ithaburensis Decne. subsp. ithaburensis",
+      "wp_id": 2540,
+      "status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-del-tabor-quercus-ithaburensis-subsp-ithaburensis-botanica-e-bibbia/",
+      "media_id": 2541,
+      "medicine_id": 2548,
+      "medicine_status": "publish",
+      "identification_id": 342,
+      "identification_status": "controversa",
+      "family_id": 26,
+      "source_citations_plant": "1592-1608",
+      "source_citations_medicine": "1609-1614",
+      "qa_visual": "not_certified",
+      "next_legacy": "ATL-0192 Quercus lusitanica",
+      "automation": "paused"
     }
   },
   "run_20261121_1835": {
