@@ -2213,5 +2213,17 @@
       "next_candidate": "ATL-0168 / legacy ATL-0188 Quercus coccifera",
       "automation": "same unique hourly enabled, no schedule changes"
     }
+  },
+  "run_20261121_1835": {
+    "taxon": "ATL-0168",
+    "legacy": "ATL-0188",
+    "name": "Quercus coccifera L.",
+    "kew_accepted": true,
+    "kew_id": "295963-1",
+    "synonym": "Quercus calliprinos Webb",
+    "wp_status": "not_created",
+    "media_gate": "COOLDOWN_BLOCKED_LIBRARY_TRUST_403",
+    "next": "ATL-0168",
+    "historical_sources": "not collated in this run"
   }
 }
