@@ -1310,19 +1310,21 @@
       "legacy_code": "ATL-0181",
       "scientific_name_working": "Populus alba",
       "checkbox_from_master": false,
-      "live_status": "draft",
+      "live_status": "published",
       "source_line": 824,
       "operational_code": "ATL-0163",
       "verified_at": "2026-11-21",
-      "note": "Populus alba L. next, do Kew and live WP anti-dup, Moldenke p181 and Duke p348; not created during ATL-0162 run.",
+      "note": "Backend publish verified ATL-0163 WP#2391; specialist 17/17 and legacy 11/11; family Salicaceae#23, featured WebP#2397, SHA local=server; 2 controversial identifications of livneh; LXX Gen30:37 STORACE vs Hosea4:13 PIOPPO. No duplicate. See STATO_ATLANTE_ATL0163_POPULUS_ALBA_2026-11-21.md.",
       "wordpress_id": 2391
     },
     {
       "legacy_code": "ATL-0182",
       "scientific_name_working": "Populus euphratica",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 826
+      "live_status": "next_unverified",
+      "source_line": 826,
+      "operational_code": "ATL-0164",
+      "note": "NEXT planned after published Populus alba WP#2391. No page created in ATL-0163 run. Must verify WP/Kew live, synonyms and existing drafts first; one species per run."
     },
     {
       "legacy_code": "ATL-0183",
@@ -1846,6 +1848,54 @@
       "next": "ATL-0163 Populus alba",
       "image_rule": "No text inside generated botanical plates",
       "qa_visual": "frontend uncertified; original plate inspected no text"
+    },
+    "ATL-0163": {
+      "legacy": "ATL-0181",
+      "taxon": "Populus alba L.",
+      "wp_id": 2391,
+      "live_status": "published",
+      "url": "https://piantedellabibbia.altervista.org/piante/pioppo-bianco-populus-alba-l-il-livneh-biblico-fra-pioppo-e-storace/",
+      "date": "2026-11-21",
+      "family_id": 23,
+      "media_id": 2397,
+      "original_sha256": "811c2d11d97770a82aad690b6481f517416c687b783e562be0412de6c567870c",
+      "media_size": 496048,
+      "media_dimensions": [
+        1024,
+        1536
+      ],
+      "specialist_meta": "17/17",
+      "legacy_meta": "11/11",
+      "sources_new": [
+        2393,
+        2394,
+        2401
+      ],
+      "source_citations": "1417–1434",
+      "source_citations_count": 18,
+      "hebrew_term_id": 2395,
+      "medicine_id": 2396,
+      "quotes_reused": [
+        473,
+        569
+      ],
+      "passage_terms": [
+        269,
+        270
+      ],
+      "identifications": [
+        318,
+        319
+      ],
+      "identification_status": "controversa",
+      "scientific_note": "LXX Gen30:37 STORACE στυρακίνην; Os4:13 PIOPPO λεύκης; not species-unique; Moldenke pp181–183, Duke348–350, Zohary132, Post744–745, Tristram389–390, Balfour51, Kew and BDB.",
+      "seo": "setter+getter valid, noindex=false",
+      "qa_visual_frontend": "QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "library_original": "/PIANTE DELLA BIBBIA/atl-0163-populus-alba-tavola-senza-scritte.webp",
+      "library_temps": "preflight and base64 bridge eliminated",
+      "next_candidate": "ATL-0164 / legacy ATL-0182 Populus euphratica Oliv.",
+      "automation_schedule_changed": false,
+      "plugins_themes_changed": false
     }
   }
 }
