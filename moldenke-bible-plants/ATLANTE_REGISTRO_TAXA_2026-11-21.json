@@ -269,8 +269,11 @@
       "legacy_code": "ATL-0184",
       "scientific_name_working": "Prunus amygdalus",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 542
+      "live_status": "published",
+      "source_line": 542,
+      "wordpress_id": 467,
+      "verified_at": "2026-11-21",
+      "note": "Mandorlo Prunus amygdalus WordPress #467 PUBLISHED checked via backend search on ATL0165 run. Do not duplicate as another botanical sheet."
     },
     {
       "legacy_code": "ATL-0186",
@@ -1332,17 +1335,21 @@
       "legacy_code": "ATL-0183",
       "scientific_name_working": "Prunus armeniaca",
       "checkbox_from_master": false,
-      "live_status": "next_manual_candidate_unverified",
+      "live_status": "published",
       "source_line": 828,
       "operational_code": "ATL-0165",
-      "note": "Albiccoco candidate only; no plant autonomous found in preliminary WordPress search on 21/11. Automation paused; do NOT create without explicit user request and live anti-duplicate/Kew check."
+      "note": "Prunus armeniaca L. #2420 PUBLISHED backend, genus Rosaceae#24, 17/17 meta specialistici 11/11 legacy, 16737 caratteri, WebP originale featured#2421 SHA256 local=WP, 6 identifications controversa, 24 citations. Kew Asia centrale/Cina nativa, Lebanon-Syria introduced; Hansen et al 2025 late-antique Levante archeobotany; EFSA semi amigdalina; non farne frutto certo Genesi. Dossier ATL0165. Automation disabled.",
+      "wordpress_id": 2420,
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0185",
       "scientific_name_working": "Pterocarpus santalinus",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 830
+      "live_status": "next_manual_unverified",
+      "source_line": 830,
+      "operational_code": "ATL-0166",
+      "note": "NEXT candidate ONLY upon explicit manual user request. Check Kew and WP anti-duplicate first; no page created by ATL0165. Automation paused."
     },
     {
       "legacy_code": "ATL-0187",
@@ -1978,6 +1985,85 @@
         "requested_pause": true
       },
       "next_candidate": "ATL-0165 Prunus armeniaca L. MANUAL only"
+    },
+    "ATL-0165": {
+      "legacy": "ATL-0183",
+      "taxon": "Prunus armeniaca L.",
+      "wp_id": 2420,
+      "live_status": "published",
+      "url": "https://piantedellabibbia.altervista.org/piante/albicocco-prunus-armeniaca-l-il-tappua%e1%b8%a5-biblico-tra-tradizione-e-archeobotanica/",
+      "date": "2026-11-21",
+      "content_chars": 16737,
+      "family_id": 24,
+      "media_id": 2421,
+      "media_sha256": "d6b35569edc4c3f9466563a056c669dd1bc338707f675e4eed757335ac1b3fee",
+      "media_bytes": 385480,
+      "media_dimensions": [
+        1024,
+        1536
+      ],
+      "library_original": "/PIANTE DELLA BIBBIA/atl-0165-prunus-armeniaca-tavola-senza-scritte.webp",
+      "library_temp": "preflight WebP and Base64 bridge removed",
+      "specialist_meta": "17/17",
+      "legacy_meta": "11/11",
+      "medicine_id": 2429,
+      "medicine_meta": "16/16",
+      "term_id": 2428,
+      "term_meta": "8/8",
+      "quote_new": [
+        2430,
+        2431,
+        2432,
+        2433,
+        2434
+      ],
+      "quote_reused": [
+        222
+      ],
+      "source_new": [
+        2423,
+        2424,
+        2425,
+        2426,
+        2427
+      ],
+      "source_reused": [
+        135,
+        136,
+        1554,
+        2042,
+        2043,
+        2069
+      ],
+      "source_citations": "1466–1489 (24)",
+      "passage_terms": [
+        276,
+        277,
+        278,
+        279,
+        280,
+        281
+      ],
+      "identifications": [
+        324,
+        325,
+        326,
+        327,
+        328,
+        329
+      ],
+      "identification_status": "all controversial",
+      "archaeobotany": "Hansen et al 2025 online/2026 volume DOI10.1007/s00334-025-01060-9 Petra IV ce, Caesarea IV–VI ce, Iron Age City of David possible intrusive",
+      "science_review": "Moldenke 184–188; Duke 352–355; Tristram334–335 favors apricot, Zohary70 favors Malus, Balfour53–54 favors Citrus; no Genesis fruit certainty; Kew accepted; EFSA 2016 cyanogenic raw kernels; Dafni-Böck method only; Grilli Caiola not read",
+      "seo": "Yoast getter title/description/focus validated noindex=false",
+      "qa_visual_frontend": "QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "qa_previous": "ATL-0164 #2402 reviewed without critical omissions, DOI verified, no post change",
+      "automation": {
+        "id": "6b00cb7b5a988191877878d9f84bebad",
+        "enabled": false,
+        "schedule_changed": false
+      },
+      "next_candidate": "ATL-0166 / legacy ATL-0185 Pterocarpus santalinus L.f. MANUAL ONLY"
     }
   }
 }
