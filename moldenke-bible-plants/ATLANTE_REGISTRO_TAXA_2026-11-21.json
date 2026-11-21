@@ -1,0 +1,1691 @@
+{
+  "schema": "legacy-checklist-v2",
+  "updated": "2026-11-21",
+  "scope": "Extracted from main master checklist; names, checkbox statuses and non-live records remain to validate taxonomically and against backend",
+  "count": 239,
+  "records": [
+    {
+      "legacy_code": "ATL-0105",
+      "scientific_name_working": "Ficus carica",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 462
+    },
+    {
+      "legacy_code": "ATL-0161",
+      "scientific_name_working": "Olea europaea",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 464
+    },
+    {
+      "legacy_code": "ATL-0276",
+      "scientific_name_working": "Vitis vinifera",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 466
+    },
+    {
+      "legacy_code": "ATL-0015",
+      "scientific_name_working": "Allium cepa",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 474
+    },
+    {
+      "legacy_code": "ATL-0017",
+      "scientific_name_working": "Allium sativum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 476
+    },
+    {
+      "legacy_code": "ATL-0019",
+      "scientific_name_working": "Aloe vera",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 478
+    },
+    {
+      "legacy_code": "ATL-0022",
+      "scientific_name_working": "Anastatica hierochuntica",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 480
+    },
+    {
+      "legacy_code": "ATL-0024",
+      "scientific_name_working": "Anemone coronaria",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 482
+    },
+    {
+      "legacy_code": "ATL-0028",
+      "scientific_name_working": "Aquilaria agallocha",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 484
+    },
+    {
+      "legacy_code": "ATL-0041",
+      "scientific_name_working": "Balanites aegyptiaca",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 486
+    },
+    {
+      "legacy_code": "ATL-0045",
+      "scientific_name_working": "Boswellia sacra",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 488
+    },
+    {
+      "legacy_code": "ATL-0047",
+      "scientific_name_working": "Brassica nigra",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 490
+    },
+    {
+      "legacy_code": "ATL-0053",
+      "scientific_name_working": "Capparis spinosa",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 492
+    },
+    {
+      "legacy_code": "ATL-0055",
+      "scientific_name_working": "Cedrus libani",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 494
+    },
+    {
+      "legacy_code": "ATL-0060",
+      "scientific_name_working": "Ceratonia siliqua",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 496
+    },
+    {
+      "legacy_code": "ATL-0065",
+      "scientific_name_working": "Cinnamomum aromaticum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 498
+    },
+    {
+      "legacy_code": "ATL-0066",
+      "scientific_name_working": "Cinnamomum verum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 500
+    },
+    {
+      "legacy_code": "ATL-0070",
+      "scientific_name_working": "Citrullus colocynthis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 502
+    },
+    {
+      "legacy_code": "ATL-0072",
+      "scientific_name_working": "Citrus medica",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 504
+    },
+    {
+      "legacy_code": "ATL-0074",
+      "scientific_name_working": "Commiphora gileadensis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 506
+    },
+    {
+      "legacy_code": "ATL-0076",
+      "scientific_name_working": "Commiphora myrrha",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 508
+    },
+    {
+      "legacy_code": "ATL-0079",
+      "scientific_name_working": "Coriandrum sativum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 510
+    },
+    {
+      "legacy_code": "ATL-0082",
+      "scientific_name_working": "Crocus sativus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 512
+    },
+    {
+      "legacy_code": "ATL-0088",
+      "scientific_name_working": "Cuminum cyminum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 514
+    },
+    {
+      "legacy_code": "ATL-0093",
+      "scientific_name_working": "Cyperus papyrus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 516
+    },
+    {
+      "legacy_code": "ATL-0106",
+      "scientific_name_working": "Ficus sycomorus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 518
+    },
+    {
+      "legacy_code": "ATL-0109",
+      "scientific_name_working": "Gundelia tournefortii",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 520
+    },
+    {
+      "legacy_code": "ATL-0113",
+      "scientific_name_working": "Hordeum vulgare",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 522
+    },
+    {
+      "legacy_code": "ATL-0118",
+      "scientific_name_working": "Juglans regia",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 524
+    },
+    {
+      "legacy_code": "ATL-0131",
+      "scientific_name_working": "Lens culinaris",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 526
+    },
+    {
+      "legacy_code": "ATL-0132",
+      "scientific_name_working": "Lilium candidum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 528
+    },
+    {
+      "legacy_code": "ATL-0141",
+      "scientific_name_working": "Mandragora officinarum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 530
+    },
+    {
+      "legacy_code": "ATL-0147",
+      "scientific_name_working": "Myrtus communis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 532
+    },
+    {
+      "legacy_code": "ATL-0149",
+      "scientific_name_working": "Nardostachys grandiflora",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 534
+    },
+    {
+      "legacy_code": "ATL-0170",
+      "scientific_name_working": "Phoenix dactylifera",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 536
+    },
+    {
+      "legacy_code": "ATL-0176",
+      "scientific_name_working": "Pistacia lentiscus",
+      "checkbox_from_master": true,
+      "live_status": "published",
+      "source_line": 538,
+      "wordpress_id": 597
+    },
+    {
+      "legacy_code": "ATL-0177",
+      "scientific_name_working": "Pistacia terebinthus",
+      "checkbox_from_master": true,
+      "live_status": "published",
+      "source_line": 540,
+      "wordpress_id": 557
+    },
+    {
+      "legacy_code": "ATL-0184",
+      "scientific_name_working": "Prunus amygdalus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 542
+    },
+    {
+      "legacy_code": "ATL-0186",
+      "scientific_name_working": "Punica granatum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 544
+    },
+    {
+      "legacy_code": "ATL-0188",
+      "scientific_name_working": "Quercus coccifera",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 546
+    },
+    {
+      "legacy_code": "ATL-0196",
+      "scientific_name_working": "Ricinus communis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 548
+    },
+    {
+      "legacy_code": "ATL-0236",
+      "scientific_name_working": "Sinapis arvensis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 550
+    },
+    {
+      "legacy_code": "ATL-0238",
+      "scientific_name_working": "Solanum incanum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 552
+    },
+    {
+      "legacy_code": "ATL-0251",
+      "scientific_name_working": "Tamarix mannifera",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 554
+    },
+    {
+      "legacy_code": "ATL-0260",
+      "scientific_name_working": "Triticum aestivum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 556
+    },
+    {
+      "legacy_code": "ATL-0275",
+      "scientific_name_working": "Vitis orientalis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 558
+    },
+    {
+      "legacy_code": "ATL-0280",
+      "scientific_name_working": "Ziziphus spina-christi",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 560
+    },
+    {
+      "legacy_code": "ATL-0001",
+      "scientific_name_working": "Abies cilicica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 568
+    },
+    {
+      "legacy_code": "ATL-0002",
+      "scientific_name_working": "Acacia nilotica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 570
+    },
+    {
+      "legacy_code": "ATL-0003",
+      "scientific_name_working": "Acacia seyal",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 572
+    },
+    {
+      "legacy_code": "ATL-0004",
+      "scientific_name_working": "Acacia tortilis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 574
+    },
+    {
+      "legacy_code": "ATL-0005",
+      "scientific_name_working": "Acanthus syriacus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 576
+    },
+    {
+      "legacy_code": "ATL-0010",
+      "scientific_name_working": "Aegilops variabilis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 578
+    },
+    {
+      "legacy_code": "ATL-0011",
+      "scientific_name_working": "Agrostemma githago",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 580
+    },
+    {
+      "legacy_code": "ATL-0012",
+      "scientific_name_working": "Alcea rosea",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 582
+    },
+    {
+      "legacy_code": "ATL-0013",
+      "scientific_name_working": "Alhagi maurorum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 584
+    },
+    {
+      "legacy_code": "ATL-0014",
+      "scientific_name_working": "Allium ascalonicum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 586
+    },
+    {
+      "legacy_code": "ATL-0016",
+      "scientific_name_working": "Allium porrum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 588
+    },
+    {
+      "legacy_code": "ATL-0018",
+      "scientific_name_working": "Aloe succotrina",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 590
+    },
+    {
+      "legacy_code": "ATL-0020",
+      "scientific_name_working": "Alopecurus anthoxanthoides",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 592
+    },
+    {
+      "legacy_code": "ATL-0021",
+      "scientific_name_working": "Anabasis articulata",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 594
+    },
+    {
+      "legacy_code": "ATL-0023",
+      "scientific_name_working": "Andropogon aromaticus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 596
+    },
+    {
+      "legacy_code": "ATL-0025",
+      "scientific_name_working": "Anethum graveolens",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 598
+    },
+    {
+      "legacy_code": "ATL-0026",
+      "scientific_name_working": "Anthemis cotula",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 600
+    },
+    {
+      "legacy_code": "ATL-0027",
+      "scientific_name_working": "Anthemis palaestina",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 602
+    },
+    {
+      "legacy_code": "ATL-0029",
+      "scientific_name_working": "Aquilaria malaccensis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 604
+    },
+    {
+      "legacy_code": "ATL-0030",
+      "scientific_name_working": "Armoracia rusticana",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 606
+    },
+    {
+      "legacy_code": "ATL-0031",
+      "scientific_name_working": "Artemisia herba-alba",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 608
+    },
+    {
+      "legacy_code": "ATL-0032",
+      "scientific_name_working": "Artemisia judaica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 610
+    },
+    {
+      "legacy_code": "ATL-0033",
+      "scientific_name_working": "Arundo donax",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 612
+    },
+    {
+      "legacy_code": "ATL-0034",
+      "scientific_name_working": "Astragalus gummifer",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 614
+    },
+    {
+      "legacy_code": "ATL-0035",
+      "scientific_name_working": "Astragalus tragacantha",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 616
+    },
+    {
+      "legacy_code": "ATL-0036",
+      "scientific_name_working": "Atriplex dimorphostegia",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 618
+    },
+    {
+      "legacy_code": "ATL-0037",
+      "scientific_name_working": "Atriplex halimus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 620
+    },
+    {
+      "legacy_code": "ATL-0038",
+      "scientific_name_working": "Atriplex rosea",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 622
+    },
+    {
+      "legacy_code": "ATL-0039",
+      "scientific_name_working": "Atriplex tatarica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 624
+    },
+    {
+      "legacy_code": "ATL-0040",
+      "scientific_name_working": "Avena sterilis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 626
+    },
+    {
+      "legacy_code": "ATL-0042",
+      "scientific_name_working": "Balanites aegyptiacus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 628
+    },
+    {
+      "legacy_code": "ATL-0043",
+      "scientific_name_working": "Boswellia carterii",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 630
+    },
+    {
+      "legacy_code": "ATL-0044",
+      "scientific_name_working": "Boswellia papyrifera",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 632
+    },
+    {
+      "legacy_code": "ATL-0046",
+      "scientific_name_working": "Boswellia thurifera",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 634
+    },
+    {
+      "legacy_code": "ATL-0048",
+      "scientific_name_working": "Butomus umbellatus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 636
+    },
+    {
+      "legacy_code": "ATL-0049",
+      "scientific_name_working": "Buxus longifolia",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 638
+    },
+    {
+      "legacy_code": "ATL-0050",
+      "scientific_name_working": "Buxus sempervirens",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 640
+    },
+    {
+      "legacy_code": "ATL-0051",
+      "scientific_name_working": "Calotropis procera",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 642
+    },
+    {
+      "legacy_code": "ATL-0052",
+      "scientific_name_working": "Capparis sicula",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 644
+    },
+    {
+      "legacy_code": "ATL-0054",
+      "scientific_name_working": "Carthamus tinctorius",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 646
+    },
+    {
+      "legacy_code": "ATL-0056",
+      "scientific_name_working": "Centaurea calcitrapa",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 648
+    },
+    {
+      "legacy_code": "ATL-0057",
+      "scientific_name_working": "Centaurea iberica",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 650
+    },
+    {
+      "legacy_code": "ATL-0058",
+      "scientific_name_working": "Centaurea verutum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 652
+    },
+    {
+      "legacy_code": "ATL-0059",
+      "scientific_name_working": "Cephalaria syriaca",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 654
+    },
+    {
+      "legacy_code": "ATL-0061",
+      "scientific_name_working": "Cercis siliquastrum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 656
+    },
+    {
+      "legacy_code": "ATL-0062",
+      "scientific_name_working": "Cicer arietinum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 658
+    },
+    {
+      "legacy_code": "ATL-0063",
+      "scientific_name_working": "Cichorium endivia",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 660
+    },
+    {
+      "legacy_code": "ATL-0064",
+      "scientific_name_working": "Cichorium intybus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 662
+    },
+    {
+      "legacy_code": "ATL-0067",
+      "scientific_name_working": "Cistus creticus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 664
+    },
+    {
+      "legacy_code": "ATL-0068",
+      "scientific_name_working": "Cistus salviifolius",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 666
+    },
+    {
+      "legacy_code": "ATL-0069",
+      "scientific_name_working": "Cistus villosus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 668
+    },
+    {
+      "legacy_code": "ATL-0071",
+      "scientific_name_working": "Citrullus lanatus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 670
+    },
+    {
+      "legacy_code": "ATL-0073",
+      "scientific_name_working": "Commiphora africana",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 672
+    },
+    {
+      "legacy_code": "ATL-0075",
+      "scientific_name_working": "Commiphora habessinica",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 674
+    },
+    {
+      "legacy_code": "ATL-0077",
+      "scientific_name_working": "Commiphora opobalsamum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 676
+    },
+    {
+      "legacy_code": "ATL-0078",
+      "scientific_name_working": "Conium maculatum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 678
+    },
+    {
+      "legacy_code": "ATL-0080",
+      "scientific_name_working": "Crocus damascenus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 680
+    },
+    {
+      "legacy_code": "ATL-0081",
+      "scientific_name_working": "Crocus hyemalis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 682
+    },
+    {
+      "legacy_code": "ATL-0083",
+      "scientific_name_working": "Crocus vitellinus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 684
+    },
+    {
+      "legacy_code": "ATL-0084",
+      "scientific_name_working": "Crocus zonatus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 686
+    },
+    {
+      "legacy_code": "ATL-0085",
+      "scientific_name_working": "Cucumis chate",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 688
+    },
+    {
+      "legacy_code": "ATL-0086",
+      "scientific_name_working": "Cucumis melo",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 690
+    },
+    {
+      "legacy_code": "ATL-0087",
+      "scientific_name_working": "Cucumis sativus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 692
+    },
+    {
+      "legacy_code": "ATL-0089",
+      "scientific_name_working": "Cupressus sempervirens",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 694
+    },
+    {
+      "legacy_code": "ATL-0090",
+      "scientific_name_working": "Curcuma longa",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 696
+    },
+    {
+      "legacy_code": "ATL-0091",
+      "scientific_name_working": "Cymbopogon martini",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 698
+    },
+    {
+      "legacy_code": "ATL-0092",
+      "scientific_name_working": "Cynomorium coccineum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 700
+    },
+    {
+      "legacy_code": "ATL-0094",
+      "scientific_name_working": "Diospyros ebenaster",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 702
+    },
+    {
+      "legacy_code": "ATL-0095",
+      "scientific_name_working": "Diospyros ebenum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 704
+    },
+    {
+      "legacy_code": "ATL-0096",
+      "scientific_name_working": "Diospyros melanoxylon",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 706
+    },
+    {
+      "legacy_code": "ATL-0098",
+      "scientific_name_working": "Elaeagnus angustifolia",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 708
+    },
+    {
+      "legacy_code": "ATL-0100",
+      "scientific_name_working": "Eragrostis cilianensis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 710
+    },
+    {
+      "legacy_code": "ATL-0101",
+      "scientific_name_working": "Eruca sativa",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 712
+    },
+    {
+      "legacy_code": "ATL-0103",
+      "scientific_name_working": "Ferula galbaniflua",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 714
+    },
+    {
+      "legacy_code": "ATL-0104",
+      "scientific_name_working": "Ferula gummosa",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 716
+    },
+    {
+      "legacy_code": "ATL-0107",
+      "scientific_name_working": "Fraxinus ornus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 718
+    },
+    {
+      "legacy_code": "ATL-0108",
+      "scientific_name_working": "Gossypium herbaceum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 720
+    },
+    {
+      "legacy_code": "ATL-0110",
+      "scientific_name_working": "Hedera helix",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 722
+    },
+    {
+      "legacy_code": "ATL-0111",
+      "scientific_name_working": "Hordeum distichon",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 724
+    },
+    {
+      "legacy_code": "ATL-0112",
+      "scientific_name_working": "Hordeum hexastichon",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 726
+    },
+    {
+      "legacy_code": "ATL-0114",
+      "scientific_name_working": "Hyacinthus orientalis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 728
+    },
+    {
+      "legacy_code": "ATL-0115",
+      "scientific_name_working": "Hyoscyamus aureus",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 730
+    },
+    {
+      "legacy_code": "ATL-0116",
+      "scientific_name_working": "Hyoscyamus muticus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 732
+    },
+    {
+      "legacy_code": "ATL-0117",
+      "scientific_name_working": "Iris pseudacorus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 734
+    },
+    {
+      "legacy_code": "ATL-0119",
+      "scientific_name_working": "Juncus effusus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 736
+    },
+    {
+      "legacy_code": "ATL-0120",
+      "scientific_name_working": "Juncus maritimus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 738
+    },
+    {
+      "legacy_code": "ATL-0121",
+      "scientific_name_working": "Juniperus excelsa",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 740
+    },
+    {
+      "legacy_code": "ATL-0122",
+      "scientific_name_working": "Juniperus oxycedrus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 742
+    },
+    {
+      "legacy_code": "ATL-0123",
+      "scientific_name_working": "Juniperus phoenicia",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 744
+    },
+    {
+      "legacy_code": "ATL-0124",
+      "scientific_name_working": "Lactuca sativa",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 746
+    },
+    {
+      "legacy_code": "ATL-0125",
+      "scientific_name_working": "Lagenaria siceraria",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 748
+    },
+    {
+      "legacy_code": "ATL-0126",
+      "scientific_name_working": "Laurus nobilis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 750
+    },
+    {
+      "legacy_code": "ATL-0127",
+      "scientific_name_working": "Lawsonia inermis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 752
+    },
+    {
+      "legacy_code": "ATL-0133",
+      "scientific_name_working": "Lilium chalcedonicum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 754
+    },
+    {
+      "legacy_code": "ATL-0134",
+      "scientific_name_working": "Linum usitatissimum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 756
+    },
+    {
+      "legacy_code": "ATL-0135",
+      "scientific_name_working": "Liquidambar orientalis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 758
+    },
+    {
+      "legacy_code": "ATL-0136",
+      "scientific_name_working": "Lolium temulentum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 760
+    },
+    {
+      "legacy_code": "ATL-0137",
+      "scientific_name_working": "Loranthus acaciae",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 762
+    },
+    {
+      "legacy_code": "ATL-0138",
+      "scientific_name_working": "Lycium europaeum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 764
+    },
+    {
+      "legacy_code": "ATL-0139",
+      "scientific_name_working": "Malus domestica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 766
+    },
+    {
+      "legacy_code": "ATL-0140",
+      "scientific_name_working": "Malva sylvestris",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 768
+    },
+    {
+      "legacy_code": "ATL-0142",
+      "scientific_name_working": "Mentha longifolia",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 770
+    },
+    {
+      "legacy_code": "ATL-0143",
+      "scientific_name_working": "Morus nigra",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 772
+    },
+    {
+      "legacy_code": "ATL-0148",
+      "scientific_name_working": "Narcissus tazetta",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 774
+    },
+    {
+      "legacy_code": "ATL-0150",
+      "scientific_name_working": "Nardostachys jatamansi",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 776
+    },
+    {
+      "legacy_code": "ATL-0151",
+      "scientific_name_working": "Nardurus orientalis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 778
+    },
+    {
+      "legacy_code": "ATL-0152",
+      "scientific_name_working": "Nasturtium officinale",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 780
+    },
+    {
+      "legacy_code": "ATL-0154",
+      "scientific_name_working": "Nerium oleander",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 782
+    },
+    {
+      "legacy_code": "ATL-0155",
+      "scientific_name_working": "Nigella sativa",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 784
+    },
+    {
+      "legacy_code": "ATL-0157",
+      "scientific_name_working": "Notobasis syriaca",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 786
+    },
+    {
+      "legacy_code": "ATL-0158",
+      "scientific_name_working": "Nymphaea alba",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 788
+    },
+    {
+      "legacy_code": "ATL-0159",
+      "scientific_name_working": "Nymphaea caerulea",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 790
+    },
+    {
+      "legacy_code": "ATL-0160",
+      "scientific_name_working": "Nymphaea lotus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 792
+    },
+    {
+      "legacy_code": "ATL-0162",
+      "scientific_name_working": "Origanum maru",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 794
+    },
+    {
+      "legacy_code": "ATL-0163",
+      "scientific_name_working": "Origanum syriacum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 796
+    },
+    {
+      "legacy_code": "ATL-0164",
+      "scientific_name_working": "Ornithogalum umbellatum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 798
+    },
+    {
+      "legacy_code": "ATL-0165",
+      "scientific_name_working": "Paliurus spina-christi",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 800
+    },
+    {
+      "legacy_code": "ATL-0166",
+      "scientific_name_working": "Pancratium maritimum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 802
+    },
+    {
+      "legacy_code": "ATL-0167",
+      "scientific_name_working": "Panicum miliaceum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 804
+    },
+    {
+      "legacy_code": "ATL-0168",
+      "scientific_name_working": "Papaver somniferum",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 806
+    },
+    {
+      "legacy_code": "ATL-0171",
+      "scientific_name_working": "Phragmites australis",
+      "checkbox_from_master": true,
+      "live_status": "not_verified_this_run",
+      "source_line": 808
+    },
+    {
+      "legacy_code": "ATL-0172",
+      "scientific_name_working": "Pinus brutia",
+      "checkbox_from_master": true,
+      "live_status": "published",
+      "source_line": 810,
+      "wordpress_id": 2260,
+      "operational_code": "ATL-0156"
+    },
+    {
+      "legacy_code": "ATL-0173",
+      "scientific_name_working": "Pinus halepensis",
+      "checkbox_from_master": false,
+      "live_status": "draft_blocked_media",
+      "source_line": 812,
+      "wordpress_id": 2271,
+      "operational_code": "ATL-0157"
+    },
+    {
+      "legacy_code": "ATL-0174",
+      "scientific_name_working": "Pinus pinea",
+      "checkbox_from_master": false,
+      "live_status": "draft_source_review",
+      "source_line": 814,
+      "wordpress_id": 2272,
+      "operational_code": "ATL-0158"
+    },
+    {
+      "legacy_code": "ATL-0175",
+      "scientific_name_working": "Pistacia atlantica",
+      "checkbox_from_master": false,
+      "live_status": "candidate",
+      "source_line": 816,
+      "wordpress_id": null,
+      "operational_code": "ATL-0159 proposed"
+    },
+    {
+      "legacy_code": "ATL-0178",
+      "scientific_name_working": "Pistacia vera",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 818
+    },
+    {
+      "legacy_code": "ATL-0179",
+      "scientific_name_working": "Platanus orientalis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 820
+    },
+    {
+      "legacy_code": "ATL-0180",
+      "scientific_name_working": "Polypogon monspeliensis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 822
+    },
+    {
+      "legacy_code": "ATL-0181",
+      "scientific_name_working": "Populus alba",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 824
+    },
+    {
+      "legacy_code": "ATL-0182",
+      "scientific_name_working": "Populus euphratica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 826
+    },
+    {
+      "legacy_code": "ATL-0183",
+      "scientific_name_working": "Prunus armeniaca",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 828
+    },
+    {
+      "legacy_code": "ATL-0185",
+      "scientific_name_working": "Pterocarpus santalinus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 830
+    },
+    {
+      "legacy_code": "ATL-0187",
+      "scientific_name_working": "Quercus aegilops",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 832
+    },
+    {
+      "legacy_code": "ATL-0189",
+      "scientific_name_working": "Quercus coccifera var",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 834
+    },
+    {
+      "legacy_code": "ATL-0190",
+      "scientific_name_working": "Quercus ilex",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 836
+    },
+    {
+      "legacy_code": "ATL-0191",
+      "scientific_name_working": "Quercus ithaburensis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 838
+    },
+    {
+      "legacy_code": "ATL-0192",
+      "scientific_name_working": "Quercus lusitanica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 840
+    },
+    {
+      "legacy_code": "ATL-0193",
+      "scientific_name_working": "Ranunculus asiaticus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 842
+    },
+    {
+      "legacy_code": "ATL-0194",
+      "scientific_name_working": "Retama raetam",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 844
+    },
+    {
+      "legacy_code": "ATL-0195",
+      "scientific_name_working": "Rhamnus palaestinas",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 846
+    },
+    {
+      "legacy_code": "ATL-0199",
+      "scientific_name_working": "Rosa canina",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 848
+    },
+    {
+      "legacy_code": "ATL-0200",
+      "scientific_name_working": "Rosa phoenicia",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 850
+    },
+    {
+      "legacy_code": "ATL-0201",
+      "scientific_name_working": "Rubia tinctorium",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 852
+    },
+    {
+      "legacy_code": "ATL-0202",
+      "scientific_name_working": "Rubus sanctus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 854
+    },
+    {
+      "legacy_code": "ATL-0203",
+      "scientific_name_working": "Rubus ulmifolius",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 856
+    },
+    {
+      "legacy_code": "ATL-0204",
+      "scientific_name_working": "Rumex acetosella",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 858
+    },
+    {
+      "legacy_code": "ATL-0205",
+      "scientific_name_working": "Ruscus aculeatus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 860
+    },
+    {
+      "legacy_code": "ATL-0206",
+      "scientific_name_working": "Ruta chalepensis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 862
+    },
+    {
+      "legacy_code": "ATL-0207",
+      "scientific_name_working": "Ruta graveolens",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 864
+    },
+    {
+      "legacy_code": "ATL-0210",
+      "scientific_name_working": "Saccharum officinarum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 866
+    },
+    {
+      "legacy_code": "ATL-0211",
+      "scientific_name_working": "Salicornia europea",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 868
+    },
+    {
+      "legacy_code": "ATL-0212",
+      "scientific_name_working": "Salicornia fruticosa",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 870
+    },
+    {
+      "legacy_code": "ATL-0213",
+      "scientific_name_working": "Salicornia herbacea",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 872
+    },
+    {
+      "legacy_code": "ATL-0214",
+      "scientific_name_working": "Salix acmophylla",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 874
+    },
+    {
+      "legacy_code": "ATL-0215",
+      "scientific_name_working": "Salix alba",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 876
+    },
+    {
+      "legacy_code": "ATL-0216",
+      "scientific_name_working": "Salix babylonica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 878
+    },
+    {
+      "legacy_code": "ATL-0217",
+      "scientific_name_working": "Salix fragilis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 880
+    },
+    {
+      "legacy_code": "ATL-0218",
+      "scientific_name_working": "Salix safsaf",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 882
+    },
+    {
+      "legacy_code": "ATL-0219",
+      "scientific_name_working": "Salsola inermis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 884
+    },
+    {
+      "legacy_code": "ATL-0220",
+      "scientific_name_working": "Salsola kali",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 886
+    },
+    {
+      "legacy_code": "ATL-0221",
+      "scientific_name_working": "Salvadora persica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 888
+    },
+    {
+      "legacy_code": "ATL-0222",
+      "scientific_name_working": "Salvia judaica",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 890
+    },
+    {
+      "legacy_code": "ATL-0223",
+      "scientific_name_working": "Santalum album",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 892
+    },
+    {
+      "legacy_code": "ATL-0224",
+      "scientific_name_working": "Sarcopoterium spinosum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 894
+    },
+    {
+      "legacy_code": "ATL-0225",
+      "scientific_name_working": "Saussurea costus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 896
+    },
+    {
+      "legacy_code": "ATL-0226",
+      "scientific_name_working": "Schoenoplectus lacustris",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 898
+    },
+    {
+      "legacy_code": "ATL-0227",
+      "scientific_name_working": "Scirpus holoschoenus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 900
+    },
+    {
+      "legacy_code": "ATL-0228",
+      "scientific_name_working": "Scirpus maritimus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 902
+    },
+    {
+      "legacy_code": "ATL-0229",
+      "scientific_name_working": "Scolymus hispanicus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 904
+    },
+    {
+      "legacy_code": "ATL-0230",
+      "scientific_name_working": "Scolymus maculatus",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 906
+    },
+    {
+      "legacy_code": "ATL-0231",
+      "scientific_name_working": "Senna alexandrina",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 908
+    },
+    {
+      "legacy_code": "ATL-0235",
+      "scientific_name_working": "Silybum marianum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 910
+    },
+    {
+      "legacy_code": "ATL-0237",
+      "scientific_name_working": "Solanum anguivi",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 912
+    },
+    {
+      "legacy_code": "ATL-0239",
+      "scientific_name_working": "Sorghum bicolor",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 914
+    },
+    {
+      "legacy_code": "ATL-0240",
+      "scientific_name_working": "Sorghum vulgare",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 916
+    },
+    {
+      "legacy_code": "ATL-0245",
+      "scientific_name_working": "Styrax benzoin",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 918
+    },
+    {
+      "legacy_code": "ATL-0246",
+      "scientific_name_working": "Styrax officinalis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 920
+    },
+    {
+      "legacy_code": "ATL-0247",
+      "scientific_name_working": "Suaeda spp",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 922
+    },
+    {
+      "legacy_code": "ATL-0248",
+      "scientific_name_working": "Tamaris articulata",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 924
+    },
+    {
+      "legacy_code": "ATL-0249",
+      "scientific_name_working": "Tamaris pentandra",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 926
+    },
+    {
+      "legacy_code": "ATL-0250",
+      "scientific_name_working": "Tamarix aphylla",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 928
+    },
+    {
+      "legacy_code": "ATL-0252",
+      "scientific_name_working": "Tamarix tetragyna",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 930
+    },
+    {
+      "legacy_code": "ATL-0253",
+      "scientific_name_working": "Taraxacum officinale",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 932
+    },
+    {
+      "legacy_code": "ATL-0254",
+      "scientific_name_working": "Tetraclinis articulata",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 934
+    },
+    {
+      "legacy_code": "ATL-0255",
+      "scientific_name_working": "Tetraena dumosa",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 936
+    },
+    {
+      "legacy_code": "ATL-0256",
+      "scientific_name_working": "Thymelaea hirsuta",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 938
+    },
+    {
+      "legacy_code": "ATL-0259",
+      "scientific_name_working": "Trigonella foenum-graecum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 940
+    },
+    {
+      "legacy_code": "ATL-0261",
+      "scientific_name_working": "Triticum compositum",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 942
+    },
+    {
+      "legacy_code": "ATL-0262",
+      "scientific_name_working": "Tulipa montana",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 944
+    },
+    {
+      "legacy_code": "ATL-0263",
+      "scientific_name_working": "Tulipa sharonensis",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 946
+    },
+    {
+      "legacy_code": "ATL-0264",
+      "scientific_name_working": "Tulipa spp",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 948
+    },
+    {
+      "legacy_code": "ATL-0265",
+      "scientific_name_working": "Typha angustata",
+      "checkbox_from_master": false,
+      "live_status": "not_verified_this_run",
+      "source_line": 950
+    }
+  ]
+}
