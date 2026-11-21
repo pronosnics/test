@@ -1194,26 +1194,28 @@
     {
       "legacy_code": "ATL-0173",
       "scientific_name_working": "Pinus halepensis",
-      "checkbox_from_master": false,
-      "live_status": "draft_blocked_media",
+      "checkbox_from_master": true,
+      "live_status": "published",
       "source_line": 812,
       "wordpress_id": 2271,
-      "operational_code": "ATL-0157"
+      "operational_code": "ATL-0157",
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0174",
       "scientific_name_working": "Pinus pinea",
-      "checkbox_from_master": false,
-      "live_status": "draft_source_review",
+      "checkbox_from_master": true,
+      "live_status": "published",
       "source_line": 814,
       "wordpress_id": 2272,
-      "operational_code": "ATL-0158"
+      "operational_code": "ATL-0158",
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0175",
       "scientific_name_working": "Pistacia atlantica",
       "checkbox_from_master": false,
-      "live_status": "candidate",
+      "live_status": "candidate_not_started",
       "source_line": 816,
       "wordpress_id": null,
       "operational_code": "ATL-0159 proposed"
