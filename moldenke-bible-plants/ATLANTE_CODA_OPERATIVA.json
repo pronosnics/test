@@ -649,7 +649,7 @@
       "legacy": "ATL-0188",
       "wp_id": 2464,
       "taxon": "Quercus coccifera L.",
-      "state": "DRAFT_MEDIA_READY_ONLY_BAD_RELATION_339",
+      "state": "DRAFT_MEDIA_COMPLETE_AWAITING_ADMIN_DELETE_LINK_339",
       "next_retry_not_before": null,
       "dossier": "STATO_ATLANTE_ATL0168_QUERCUS_COCCIFERA_2026-11-21.md",
       "last_manual_recovery": "2026-11-21",
@@ -661,7 +661,8 @@
       "featured": 2494,
       "med_draft_id": 2476,
       "remaining_gate": "Unauthorized wrong link #339 must be deleted using permitted administrative path, not raw SQL without approval",
-      "media_trust_403_resolved": true
+      "media_trust_403_resolved": true,
+      "relation_339_resolution": "Existing WP admin UI native delete available; user must delete #339 then backend verify, keep #340"
     }
   ],
   "last_attempted": "ATL-0168",
@@ -785,5 +786,17 @@
     "temporary_bridge_cleanup": "success",
     "automation_enabled": false,
     "frontend_visual_qa": "unverified_external_host_unreachable"
+  },
+  "admin_delete_discovered_20261121": {
+    "code": "ATL-0168",
+    "bad_relation_id": 339,
+    "preserve_relation_id": 340,
+    "route": "https://piantedellabibbia.altervista.org/wp-admin/admin.php?page=pdba-relazioni",
+    "source": "Plugin ZIP 0.2.8 includes/admin.php pdba_handle_delete_link() native admin-post guarded by manage_options and nonce",
+    "available_via_mcp": false,
+    "requires_user_wp_admin_click": true,
+    "latest_backend_status": "WP2464 draft with featured+plate2494, medicine2476 draft; relation339 still present",
+    "publish_gate": "Only after relation339 absent and 340 present, reread image/seo/family, then publish plant and medicine",
+    "automation": "paused"
   }
 }
