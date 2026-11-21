@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0166",
-      "legacy": "ATL-0185",
-      "taxon": "Pterocarpus santalinus L.f.",
+      "code": "ATL-0167",
+      "legacy": "ATL-0187",
+      "taxon": "Quercus aegilops L.",
       "wp_id": null,
       "state": "NEXT_CANDIDATE_MANUAL_ONLY_AUTOMATION_PAUSED",
-      "next": "ONLY upon new explicit manual request; read live GitHub master/queue/workflow/registry/last dossier; check Kew accepted/synonyms and WP draft/publish anti-duplicate before creation; source-by-source collation and original no-text WebP Library preflight; do not recreate published albicocco #2420 or mandorlo #467."
+      "next": "User must explicitly request next manual run. Read live master/coda/workflow/registro/dossier; check Kew accepted name/synonyms, WP draft/publish anti-duplicates incl Quercus macrolepis/ithaburensis before any creation. 1 taxon only, complete sources and true WebP Library preflight. DO NOT duplicate published Pterocarpus santalinus #2441 or Punica granatum #212."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -54,9 +54,17 @@
     {
       "taxon": "Malus domestica",
       "wp_id": 1995
+    },
+    {
+      "taxon": "Pterocarpus santalinus",
+      "wp_id": 2441
+    },
+    {
+      "taxon": "Punica granatum",
+      "wp_id": 212
     }
   ],
-  "next_candidate": "ATL-0166",
+  "next_candidate": "ATL-0167",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -433,18 +441,76 @@
       "qa": "backend publish verified, Yoast getter noindex=false; original WebP SHA server=local; original Library retained, bridge/preflight deleted; QA_VISIVA_FRONTEND_NON_CERTIFICATA",
       "date": "2026-11-21",
       "automation": "paused; schedule unchanged"
+    },
+    {
+      "code": "ATL-0166",
+      "legacy": "ATL-0185",
+      "taxon": "Pterocarpus santalinus L.f.",
+      "wp_id": 2441,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/sandalo-rosso-pterocarpus-santalinus-l-f-il-legno-almug-e-algum-di-salomone/",
+      "featured_media": 2442,
+      "sha256": "34c095c30fca98fd9344ca245a0be91278a6faa46a14d71d9f852bb18c58f63b",
+      "size_bytes": 404626,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "family_id": 25,
+      "sources_new": [
+        2444,
+        2445,
+        2446,
+        2447
+      ],
+      "sources_reused": [
+        135,
+        136,
+        1554,
+        2042,
+        2043,
+        2069
+      ],
+      "term_ids": [
+        2448,
+        2449
+      ],
+      "medicine_id": 2450,
+      "quote_ids_new": [
+        2451,
+        2452,
+        2453
+      ],
+      "passage_terms": [
+        282,
+        283,
+        284
+      ],
+      "identifications": [
+        330,
+        331,
+        332
+      ],
+      "identification_status": "all controversial",
+      "source_citations": "1490–1511",
+      "source_citations_count": 22,
+      "metas": "17/17 specialist + 11/11 legacy; medicine16/16; two terms8/8; three quotes15/15",
+      "science": "Kew accepted 516570-1 native India; Zohary p125 typo santolinus; Moldenke188–189 contrast almug Ofir vs algum Lebanon; Tristram331–332 pro Pterocarpus; Balfour49 pro Santalum album; Duke360–362 mentions P.indicus mixed therapeutic claims; CITES Appendix II modern, no biblical proof.",
+      "qa": "backend publish + original WebP SHA local=server + Yoast getter noindex=false; Library original retained/preflight and bridge deleted; QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "date": "2026-11-21",
+      "automation": "paused; hourly unchanged"
     }
   ],
-  "last_verified_published": "ATL-0165",
+  "last_verified_published": "ATL-0166",
   "blocked_items": [],
-  "run_rule": "Automation 6b00cb7b5a988191877878d9f84bebad remains DISABLED by user, hourly schedule unchanged. NEXT only if user requests: ATL-0166 / legacy ATL-0185 Pterocarpus santalinus L.f.; one species per run; check backend for duplicates and full gates. ATL-0165 Prunus armeniaca #2420 PUBLISHED, do not duplicate.",
+  "run_rule": "Automation hourly id 6b00cb7b5a988191877878d9f84bebad remains DISABLED (is_enabled=false), schedule unchanged, no new tasks. Next ONLY if user explicitly requests ATL-0167 legacy ATL-0187 Quercus aegilops L. after Kew/WP anti-dup. ATL-0166 Pterocarpus santalinus WP#2441 PUBLISHED; legacy ATL-0186 Punica granatum already WP#212 PUBLISHED, SKIP.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
     "frequency": "FREQ=HOURLY",
     "schedule_changed": false,
     "checked": "2026-11-21",
-    "pause_reason": "User explicitly requested suspension before manual ATL-0164; no reactivation for ATL-0165",
+    "pause_reason": "User requested suspension; manual ATL-0166 performed without restart",
     "next_run_time": null
   }
 }
