@@ -589,7 +589,7 @@
         "kew_source": 2460,
         "trees_and_shrubs_source": 2461
       },
-      "note": "WordPress backend writable; ChatGPT Library trusted-producer policy is only media gate. No image/sha, no publication. Do not retry preflight before timestamp absent changed producer conditions."
+      "note": "Il preflight è stato rifiutato dal gate Library LPE trusted producer per QUEL file/produttore: non è provato outage globale della Libreria. Backend WP scrivibile; nessuna immagine/SHA/publication. Non riprovare prima del timestamp da medesimo produttore salvo condizioni reali mutate."
     }
   ],
   "last_attempted": "ATL-0167",
