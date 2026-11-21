@@ -1469,17 +1469,29 @@
     },
     {
       "legacy_code": "ATL-0194",
-      "scientific_name_working": "Retama raetam",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 844
+      "scientific_name_working": "Retama raetam (Forssk.) Webb & Berthel.",
+      "checkbox_from_master": true,
+      "live_status": "published_wp2610_media2613_medicine2612_identifications344_345_346",
+      "source_line": 844,
+      "scientific_name_accepted": "Retama raetam (Forssk.) Webb & Berthel.",
+      "operational_code": "ATL-0174-RR",
+      "wordpress_id": 2610,
+      "medicine_id": 2612,
+      "medicine_status": "publish",
+      "media_id": 2613,
+      "family_id": 25,
+      "sha256": "64d0177a0ec7bf83b5210ed8c6a29f03e504c7479d763d675964b945f820e571",
+      "url": "https://piantedellabibbia.altervista.org/piante/ginestra-bianca-retama-raetam-forssk-webb-berthel-bibbia/",
+      "verified_at": "2026-11-21",
+      "note": "PUBLISHED Retama raetam Kew accepted species three subspecies; WP2610 image2613 original SHA verified, family Fabaceae25, 17/17+9/9 specialist/legacy, medicine2612 traditional, 21+8+9 citations and 3 qualified identifications. Visual frontend not certified."
     },
     {
       "legacy_code": "ATL-0195",
       "scientific_name_working": "Rhamnus palaestinas",
       "checkbox_from_master": false,
       "live_status": "not_verified_this_run",
-      "source_line": 846
+      "source_line": 846,
+      "taxonomy_note": "Legacy spelling Rhamnus palaestinas uncertain; Kew name Rhamnus palaestina Boiss. is synonym of Rhamnus lycioides subsp. graeca; verify WP live before any new species to avoid duplicate."
     },
     {
       "legacy_code": "ATL-0199",
@@ -2530,6 +2542,27 @@
       "next_legacy": "ATL-0194 Retama raetam",
       "automation": "paused",
       "qa_visual": "not certified"
+    },
+    "ATL-0174-RR": {
+      "legacy": "ATL-0194",
+      "taxon": "Retama raetam (Forssk.) Webb & Berthel.",
+      "wp_id": 2610,
+      "status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/ginestra-bianca-retama-raetam-forssk-webb-berthel-bibbia/",
+      "media_id": 2613,
+      "sha256": "64d0177a0ec7bf83b5210ed8c6a29f03e504c7479d763d675964b945f820e571",
+      "medicine_id": 2612,
+      "medicine_status": "publish",
+      "identifications": {
+        "344": "probabile",
+        "345": "probabile",
+        "346": "controversa"
+      },
+      "citations": "21 plant + 8 med + 9 biblical",
+      "family_id": 25,
+      "qa_visual": "not_certified",
+      "next_legacy": "ATL-0195 Rhamnus palaestinas taxonomic verify",
+      "automation": "paused"
     }
   },
   "run_20261121_1835": {
