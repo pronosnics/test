@@ -9,9 +9,9 @@
       "code": "ATL-0159",
       "legacy": "ATL-0175",
       "taxon": "Pistacia atlantica Desf.",
-      "wp_id": null,
-      "state": "NEXT_CANDIDATE",
-      "next": "repeat live anti-duplicate; Kew accepted; Duke pp337-339 and historical sources"
+      "wp_id": 2291,
+      "state": "DRAFT_QA_PENDING",
+      "next": "Resume existing draft #2291; verify media checksum and all publish gates; Yoast getter positive; do not duplicate"
     }
   ],
   "known_published_not_to_duplicate": [
@@ -51,5 +51,5 @@
   ],
   "last_verified_published": "ATL-0158",
   "blocked_items": [],
-  "run_rule": "Each run read master, queue and dossier; check WP live for duplicates, one species/run, preserve QA. Previous media 403 solved for ATL0157/0158; do not treat as global fix. Next candidate ATL0159 Pistacia atlantica after Kew/WP check."
+  "run_rule": "Resume existing WP draft #2291 before advancing; media and backend publish gate must be certified. One taxon per run."
 }
