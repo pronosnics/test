@@ -6,22 +6,6 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0157",
-      "legacy": "ATL-0173",
-      "taxon": "Pinus halepensis Mill.",
-      "wp_id": 2271,
-      "state": "BLOCKED_LIBRARY_TRUST_403_AND_NEEDS_SOURCES",
-      "next": "retry media only after trusted WebP preflight; complete sources, relations, Yoast and QA"
-    },
-    {
-      "code": "ATL-0158",
-      "legacy": "ATL-0174",
-      "taxon": "Pinus pinea L.",
-      "wp_id": 2272,
-      "state": "DRAFT_NEEDS_SOURCES_RELATIONS_MEDIA_SEO_QA",
-      "next": "finish sources and textual/filological review, then media, claims, legacy, QA"
-    },
-    {
       "code": "ATL-0159",
       "legacy": "ATL-0175",
       "taxon": "Pistacia atlantica Desf.",
@@ -40,5 +24,32 @@
       "wp_id": 557
     }
   ],
-  "next_candidate": "ATL-0159"
+  "next_candidate": "ATL-0159",
+  "completed_recent": [
+    {
+      "code": "ATL-0157",
+      "legacy": "ATL-0173",
+      "taxon": "Pinus halepensis Mill.",
+      "wp_id": 2271,
+      "wp_status": "publish",
+      "featured_media": 2273,
+      "sha256": "0adfa0cc5a7e7d2d699222e056a1f2ab92bd62bd8e05471989e853b6b2ef5c03",
+      "qa": "backend_verified; frontend_visual_unverified",
+      "date": "2026-11-21"
+    },
+    {
+      "code": "ATL-0158",
+      "legacy": "ATL-0174",
+      "taxon": "Pinus pinea L.",
+      "wp_id": 2272,
+      "wp_status": "publish",
+      "featured_media": 2274,
+      "sha256": "b1f0fe95547eafb237c589460cab96fff75540d3a31517e95184e8a8c50de302",
+      "qa": "backend_verified; frontend_visual_unverified",
+      "date": "2026-11-21"
+    }
+  ],
+  "last_verified_published": "ATL-0158",
+  "blocked_items": [],
+  "run_rule": "Each run read master, queue and dossier; check WP live for duplicates, one species/run, preserve QA. Previous media 403 solved for ATL0157/0158; do not treat as global fix. Next candidate ATL0159 Pistacia atlantica after Kew/WP check."
 }
