@@ -1,0 +1,14 @@
+# WORKFLOW ATLANTE V2 — 21/11/2026
+
+Fonte di verità: leggere ad ogni corsa master, ATLANTE_CODA_OPERATIVA.json, dossier più recente, e confrontare gli stati con WordPress live. Il registro strutturato censisce le caselle legacy, ma i record non verificati LIVE non sono certificazioni.
+Una sola automazione ID 6b00cb7b5a988191877878d9f84bebad, attiva, ora e frequenza invariate. UNA sola specie botanica per corsa. Nessun nuovo task, nessun plugin/tema modificato.
+
+Pipeline: CANDIDATE -> DRAFT_RESEARCH -> SOURCE_REVIEW -> META_RELATIONS_QA -> MEDIA_VERIFIED -> SEO_QA -> PUBLISHED_VERIFIED.
+La bozza in blocco resta in coda di recupero e non impedisce di lavorare il taxon successivo. Verificare la coda ad ogni run, riprovare blocchi persistenti non più di una volta ogni 24h salvo novità tecnica. Soglia: non oltre CINQUE bozze non pubblicabili prima di dedicare nuovi run alla chiusura del debito.
+Una specie=un nome accettato Kew + sinonimi, anti-duplicato obbligatorio in draft/publish. Non ricreare post, versetti, fonti, medicine, termini, immagini o relazioni.
+Fonti: lettura diretta prima di citare Moldenke, Duke, Zohary, Post, Tristram, Balfour, Dafni–Böck e altri studi pertinenti; Grilli Caiola solo se pagine effettivamente disponibili. Distinguere pagina stampata, pagina PDF, claim e grado di prova. Non chiamare certa una identificazione controversa.
+Media: riusare se pertinente, altrimenti preflight REALE WebP con produttore fidato; se 403 Library trust sospendere media senza bypass, cambiare directory, modificare plugin o usare PUT diretto. Evitare di generare immagini prima del preflight. In caso successo, una tavola originale WebP in Libreria, SHA locale=server, featured, ALT; ponte Base64 solo temporaneo e privato.
+Pubblicazione: solo contenuto scientifico completo, meta specialistici e legacy, famiglie, source_citations motivate, passage_terms, identifications controverse se non dimostrate, media verificata, getter e setter Yoast positivi, nessun noindex e post status publish ricontrollato. QA visiva frontend non verificabile = stato separato e NON CERTIFICATO.
+Ogni run aggiorna dossier, master e coda; la numerazione operativa resta distinta dalla legacy. Aggiornare prompt automazione solo quando necessario, non mutare l'orario.
+
+Stati 21/11/2026: ATL-0156 Pinus brutia WP #2260 publish; ATL-0157 Pinus halepensis #2271 draft blocked; ATL-0158 Pinus pinea #2272 draft; prossimo ATL-0159 Pistacia atlantica. Pistacia lentiscus #597 e P. terebinthus #557 sono pubblicate, quindi saltate.
