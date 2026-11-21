@@ -1,5 +1,8 @@
 # Procedura definitiva: immagini botaniche senza aggiornare il plugin
 
+> **AGGIORNAMENTO AUTOMAZIONI (21/11/2026) — LEGGE DI PRIORITÀ.** In un'esecuzione automatica l'upload del ponte Base64 può fallire con `HTTP 403 — Library LPE indexing requires a trusted producer` anche quando il formato Base64 è corretto. Non aggirare l'errore cambiando directory: prima cerca un **`source_file_ref.file_id` generato da un'esportazione di file autorizzata** e usa `files__manage_library` con `source_file_ref` invece del solo `container_path`. **Dopo ogni upload in Libreria, chiama `files__list` e riscopri il file prima di `files__read`**: un file appena caricato può non essere ancora visibile tramite il suo ID. In Code Mode invia non più di 3 coppie read/chunk per orchestrazione. Per diagnostica, preflight e recupero ATL-0148, **leggi prima** [PDB_MEDIA_RECOVERY_AUTOMATION_2026-11-21.md](./PDB_MEDIA_RECOVERY_AUTOMATION_2026-11-21.md). Un test interattivo riuscito non prova automaticamente le autorizzazioni del runtime delle automazioni.
+
+
 ## QUARTO TEST — due specie Allium, 17/11/2026
 
 **Cipolla** `tavola-botanica_allium-cepa.webp` **1086×1448, 384150 byte**, hash `154c3e455a601d79ed95e693040cb31375ccda64b1aa4b433b3cf5b41e7740cc` importata direttamente via MCP in **17 blocchi**, Media #629/featured pianta #627.
