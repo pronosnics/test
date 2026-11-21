@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0161",
-      "legacy": "ATL-0179",
-      "taxon": "Platanus orientalis L.",
-      "wp_id": 2336,
-      "state": "DRAFT_RESEARCH",
-      "next": "Draft #2336 created; complete Kew and Post direct checks, all specialist and legacy meta, source citations/terms/quote/identifications, medicine, genuine WebP Library preflight, media SHA and Yoast gates before publish. Do not duplicate draft."
+      "code": "ATL-0162",
+      "legacy": "ATL-0180",
+      "taxon": "Polypogon monspeliensis (L.) Desf.",
+      "wp_id": null,
+      "state": "NEXT_CANDIDATE_NEEDS_LIVE_ANTI_DUP",
+      "next": "Kew accepted urn 1048074-2; family Poaceae to verify WP. Moldenke p28 species in generalized Genesis1:11–12 grasses list, not named in Bible. Check sources and no species-specific identification, use photo-plate NO TEXT."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -30,9 +30,13 @@
     {
       "taxon": "Pistacia vera",
       "wp_id": 2312
+    },
+    {
+      "taxon": "Platanus orientalis",
+      "wp_id": 2336
     }
   ],
-  "next_candidate": "ATL-0161",
+  "next_candidate": "ATL-0162",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -154,11 +158,61 @@
       "qa": "backend_verified; media_original_sha256_server_equals_local; yoast_setter_getter_verified; full_source_review; frontend_visual_unverified",
       "note": "Post 1896 p206 direct description of cultivated P. vera at Ain-et-Tineh: corrected text and source post #2041. Source citation #1358 brief 'comparison/exclusion' claim now editorially abbreviated, in-place update not exposed; document future fine tune, no duplicate relation.",
       "date": "2026-11-21"
+    },
+    {
+      "code": "ATL-0161",
+      "legacy": "ATL-0179",
+      "taxon": "Platanus orientalis L.",
+      "wp_id": 2336,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/platano-orientale-platanus-orientalis-l-%ca%bfarmon-e-bibbia/",
+      "featured_media": 2337,
+      "sha256": "b9d1240da84716d357cba100ede7cc9df2979d3c197012341398306146cee0b4",
+      "family_id": 22,
+      "medicine_id": 2357,
+      "terms": [
+        2351,
+        2359
+      ],
+      "quote_ids": [
+        473,
+        2353,
+        2051
+      ],
+      "identifications": [
+        315,
+        316,
+        317
+      ],
+      "passage_terms": [
+        264,
+        265,
+        266,
+        267
+      ],
+      "sources_new": [
+        2339,
+        2340,
+        2341,
+        2342,
+        2343,
+        2344
+      ],
+      "source_citations": {
+        "plant": "1373–1385",
+        "medicine": "1386–1388",
+        "hebrew": "1389–1392",
+        "greek": "1393–1394",
+        "quote": "1395–1401"
+      },
+      "meta_completeness": "plant 17/17 specialist + 11/11 legacy; medicine 16/16; terms 8/8 each; new quote 15/15",
+      "qa": "backend_publish_verified, original WebP SHA server=local, Yoast getter noindex=false, frontend visual QA not certified",
+      "date": "2026-11-21"
     }
   ],
-  "last_verified_published": "ATL-0160",
+  "last_verified_published": "ATL-0161",
   "blocked_items": [],
-  "run_rule": "ONE TAXON PER RUN. ATL0160 Pistacia vera WP#2312 already PUBLISHED: never duplicate and never reopen as draft. Next proposed ATL0161 legacy ATL0179 Platanus orientalis subject to Kew and WP LIVE anti-dup; preserve existing hourly automation unchanged. Real WebP preflight before image; if Library 403, block without bypass; maintain maximum five nonpublishable drafts. QA visual frontend not certified.",
+  "run_rule": "ONE PLANT PER RUN. ATL-0161 WP#2336 published; do not duplicate. NEXT ATL-0162 Polypogon monspeliensis (L.) Desf. after live WP anti-dup, taxonomy and source QA. SPECIAL IMAGE RULE FROM USER: absolutely NO visible TEXT/letters/labels/captions/numbers/watermarks within new botanical plates; put labels only in WordPress text and media metadata. Existing hourly task unchanged.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": true,
