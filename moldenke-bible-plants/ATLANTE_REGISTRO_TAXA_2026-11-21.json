@@ -1241,17 +1241,40 @@
       "legacy_code": "ATL-0178",
       "scientific_name_working": "Pistacia vera",
       "checkbox_from_master": false,
-      "live_status": "next_candidate",
+      "live_status": "published",
       "source_line": 818,
-      "operational_code": "ATL-0160 proposed",
-      "verified_at": "2026-11-21"
+      "operational_code": "ATL-0160",
+      "verified_at": "2026-11-21",
+      "wordpress_id": 2312,
+      "taxonomy_kew": "accepted name 70280-1",
+      "family_id": 21,
+      "featured_media": 2326,
+      "sha256": "a6e9a959185a7dc5d56c89e5362c25ee22ac22d4850bb492b56c88d288bdcf72",
+      "science_review": "Moldenke179–180, Duke343–345, Zohary65, Tristram366–367, Balfour44, Post206–207, Kew, Sorokin2018, Agronomy2022, Plants2022, BDB H992, LXX; boṭnîm CONTROVERSO.",
+      "identifications": [
+        314
+      ],
+      "passage_terms": [
+        263
+      ],
+      "quoted_passage_id": 474,
+      "term_id": 2324,
+      "medicine_id": 2327,
+      "source_citation_count_plant": 14,
+      "backend_status": "publish",
+      "qa_visual_frontend": "QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "note": "Post p206 directly describes cultivated P. vera, corrected in WP; current citation #1358 abbreviated, no duplicate relation."
     },
     {
       "legacy_code": "ATL-0179",
       "scientific_name_working": "Platanus orientalis",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 820
+      "live_status": "next_candidate_needs_live_anti_dup",
+      "source_line": 820,
+      "operational_code": "ATL-0161 proposed",
+      "verified_at": "2026-11-21",
+      "taxonomy_kew": "accepted name 685873-1",
+      "note": "WP title search Platanus orientalis/platano without clear matching plant; full synonym and draft search required before creating."
     },
     {
       "legacy_code": "ATL-0180",
@@ -1727,6 +1750,30 @@
         "next_run_time": "2026-11-21T15:01:00+01:00",
         "schedule_changed": false
       }
+    },
+    "ATL-0160": {
+      "legacy": "ATL-0178",
+      "taxon": "Pistacia vera L.",
+      "wp_id": 2312,
+      "live_status": "published",
+      "checked_at": "2026-11-21",
+      "featured_media": 2326,
+      "original_sha256": "a6e9a959185a7dc5d56c89e5362c25ee22ac22d4850bb492b56c88d288bdcf72",
+      "family_id": 21,
+      "identification_status": "controversa",
+      "source_citations_plant": 14,
+      "term_id": 2324,
+      "quote_reused_id": 474,
+      "medicine_id": 2327,
+      "next_candidate": "ATL-0161 / legacy ATL-0179 Platanus orientalis L.",
+      "automation_verified": {
+        "id": "6b00cb7b5a988191877878d9f84bebad",
+        "is_enabled": true,
+        "schedule": "FREQ=HOURLY",
+        "next_run_time": "2026-11-21T15:01:00+01:00",
+        "schedule_changed": false
+      },
+      "qa_visual_frontend": "QA_VISIVA_FRONTEND_NON_CERTIFICATA"
     }
   }
 }
