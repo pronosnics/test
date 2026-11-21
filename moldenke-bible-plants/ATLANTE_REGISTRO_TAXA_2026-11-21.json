@@ -2366,6 +2366,20 @@
       "temporary_bridge_cleanup": "done",
       "next_candidate": "ATL-0168",
       "remaining_dependency": "delete wrong identification 339 via authorized admin path"
+    },
+    "ADMIN_RELATION_DELETE_DISCOVERED_20261121": {
+      "wp_plugin_source": "pdb-atlante 0.2.8 includes/admin.php",
+      "route": "/wp-admin/admin.php?page=pdba-relazioni",
+      "native_delete": "pdba_handle_delete_link; nonce and manage_options",
+      "bad_id": 339,
+      "bad_id_status": "present",
+      "correct_id": 340,
+      "correct_id_status": "present",
+      "plant_2464_status": "draft",
+      "plant_2464_featured": 2494,
+      "medicine_2476_status": "draft",
+      "next": "admin deletes #339 via UI, then QA and publish",
+      "automation": "paused"
     }
   },
   "run_20261121_1835": {
