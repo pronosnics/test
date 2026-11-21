@@ -75,6 +75,29 @@
       "source_citations": "plant 1567–1582=16; medicine 1583–1588=6; quote/term 1589–1591=3",
       "qa_visual": "not_certified",
       "next": "COMPLETE; next legacy ATL-0191 Quercus ithaburensis, anti-duplicate vs WP2455 subsp macrolepis"
+    },
+    {
+      "code": "ATL-0171-QT",
+      "legacy": "ATL-0191",
+      "taxon": "Quercus ithaburensis Decne. subsp. ithaburensis",
+      "wp_id": 2540,
+      "state": "PUBLISHED_BACKEND_VERIFIED_ORIGINAL_MEDIA_SHA",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-del-tabor-quercus-ithaburensis-subsp-ithaburensis-botanica-e-bibbia/",
+      "media_id": 2541,
+      "featured_media": 2541,
+      "sha256": "ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100",
+      "library_file_id": "libfile_1002352428ac81918dbcc237cfd7d2a2",
+      "family_id": 26,
+      "medicine_id": 2548,
+      "medicine_status": "publish",
+      "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/quercia-del-tabor-quercus-ithaburensis-tannini-usi-storici-e-limiti-clinici/",
+      "source_citations": "1592–1608 (17 plant); 1609–1614 (6 medicine)",
+      "identifications": [
+        342
+      ],
+      "identification_status": "controversa",
+      "qa_visual": "not_certified",
+      "next": "COMPLETE. Legacy ATL-0192 Q. lusitanica, verify accepted taxon and WP duplicates before draft."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -156,10 +179,37 @@
         "Quercus rotundifolia Lam. is a DISTINCT accepted species",
         "Quercus coccifera and Q.pseudococcifera distinct"
       ]
+    },
+    {
+      "taxon": "Quercus ithaburensis Decne. subsp. ithaburensis",
+      "wp_id": 2540,
+      "code": "ATL-0171-QT",
+      "legacy": "ATL-0191",
+      "note": "Separate accepted nominotypical subsp from macrolepis WP2455"
     }
   ],
-  "next_candidate": "ATL-0191",
+  "next_candidate": "ATL-0192",
   "completed_recent": [
+    {
+      "code": "ATL-0171-QT",
+      "legacy": "ATL-0191",
+      "taxon": "Quercus ithaburensis Decne. subsp. ithaburensis",
+      "wp_id": 2540,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-del-tabor-quercus-ithaburensis-subsp-ithaburensis-botanica-e-bibbia/",
+      "featured_media": 2541,
+      "sha256": "ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100",
+      "family_id": 26,
+      "medicinal_record": 2548,
+      "medicinal_record_status": "publish",
+      "source_citations": "17 plant + 6 medicine",
+      "identifications": [
+        342
+      ],
+      "meta": "17/17 specialist +11/11 legacy; 16/16 medicine",
+      "qa": "backend publish verified, Library original present, SHA matched by authenticated media, Yoast noindex=false; frontend visual not certified",
+      "date": "2026-11-21"
+    },
     {
       "code": "ATL-0170-QI",
       "legacy": "ATL-0190",
@@ -674,19 +724,22 @@
     }
   ],
   "last_verified_published": {
-    "code": "ATL-0170-QI",
-    "legacy": "ATL-0190",
-    "wp_id": 2525,
+    "code": "ATL-0171-QT",
+    "legacy": "ATL-0191",
+    "taxon": "Quercus ithaburensis Decne. subsp. ithaburensis",
+    "wp_id": 2540,
     "wp_status": "publish",
-    "url": "https://piantedellabibbia.altervista.org/piante/leccio-quercus-ilex-l-botanica-susanna-e-identificazioni-bibliche/",
-    "media_id": 2530,
-    "sha256": "22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25",
-    "medicine_wp_id": 2529,
+    "url": "https://piantedellabibbia.altervista.org/piante/quercia-del-tabor-quercus-ithaburensis-subsp-ithaburensis-botanica-e-bibbia/",
+    "featured_media": 2541,
+    "media_sha256": "ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100",
+    "medicine_id": 2548,
     "medicine_status": "publish",
-    "verified": "2026-11-21"
+    "identification_id": 342,
+    "identification_status": "controversa",
+    "verified_at": "2026-11-21"
   },
   "blocked_items": [],
-  "run_rule": "Automation paused manual-only. Completed ATL-0169/legacy-0189 and ATL-0170-QI/legacy-0190. NEXT legacy-0191 Quercus ithaburensis verify relation to previously published Q.ithaburensis subsp.macrolepis WP2455, do not duplicate. One new species per manual run.",
+  "run_rule": "Manual-only. No scheduled automation. Last published ATL-0171-QT legacy ATL-0191 WP2540, featured2541, medicine2548. Next validate legacy ATL-0192 Quercus lusitanica; do not create duplicate.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
@@ -706,7 +759,7 @@
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "manual_only_automation_paused",
-    "source_of_next": "ATL-0170-QI Q.ilex published; NEXT legacy ATL-0191 Quercus ithaburensis: Kew + WP anti-duplicate vs Q.ithaburensis subsp.macrolepis WP2455 REQUIRED. Automation remains paused.",
+    "source_of_next": "ATL-0171-QT nominotypical Q.ithaburensis published as WP2540, distinct from macrolepis WP2455. NEXT legacy ATL-0192 Quercus lusitanica; verify Kew accepted name/synonyms and WP live anti-dupe first. No task activation.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -756,8 +809,8 @@
     "status": "PAUSED_BY_USER_CONFIRMED_2026-11-21"
   },
   "blocked_drafts": [],
-  "last_attempted": "ATL-0170-QI",
-  "last_attempt_status": "PUBLISHED_Q_ILEX_WP2525_MEDICINE2529_ORIGINAL_WEBP_SHA_QA",
+  "last_attempted": "ATL-0171-QT",
+  "last_attempt_status": "PUBLISHED_WP2540_MEDIA2541_MEDICINE2548_LINK342_CONTROVERSA",
   "last_run": {
     "at": "2026-11-21T18:35:39+01:00",
     "taxon": "ATL-0168",
@@ -772,9 +825,14 @@
   "manual_recovery_priority": [],
   "future_taxa_to_verify": [
     {
-      "legacy": "ATL-0190",
-      "taxon": "Quercus ilex L.",
-      "note": "Still unverified. Do not reuse operational ATL-0170: historical Phoenix dactylifera used ATL-0170, published WP308. Assign a non-conflicting new code after live duplicate and taxonomy review."
+      "legacy": "ATL-0192",
+      "taxon": "Quercus lusitanica",
+      "status": "UNVERIFIED: Kew name/author/synonym, WP live anti-duplicate before new draft"
+    },
+    {
+      "legacy": "ATL-0193",
+      "taxon": "Ranunculus asiaticus",
+      "status": "only after review of legacy 0192"
     }
   ],
   "manual_qa_latest": {
@@ -959,5 +1017,24 @@
     "frontend_qa": "not_certified",
     "automation_enabled": false,
     "next": "ATL-0191 legacy"
+  },
+  "final_qa_0171qt_20261121": {
+    "plant_id": 2540,
+    "plant_status": "publish",
+    "medicine_id": 2548,
+    "medicine_status": "publish",
+    "media_id": 2541,
+    "sha256": "ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100",
+    "family_id": 26,
+    "meta_specialist": "17/17",
+    "meta_legacy": "11/11",
+    "meta_medicine": "16/16",
+    "citations_plant": "1592-1608",
+    "citations_medicine": "1609-1614",
+    "identification_342": "controversa",
+    "seo_noindex": false,
+    "visual_frontend_qa": "NOT_CERTIFIED",
+    "automation_enabled": false,
+    "next": "ATL-0192"
   }
 }
