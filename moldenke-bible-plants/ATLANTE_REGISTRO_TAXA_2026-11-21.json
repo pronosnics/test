@@ -288,16 +288,19 @@
     {
       "legacy_code": "ATL-0188",
       "scientific_name_working": "Quercus coccifera",
-      "checkbox_from_master": false,
-      "live_status": "draft_wp2464_media_complete_blocked_wrong_link339_only",
+      "checkbox_from_master": true,
+      "live_status": "publish_verified_wp2464_media2494_relations_clean_medicine2476",
       "source_line": 546,
       "operational_code": "ATL-0168",
-      "note": "DRAFT WP2464 Fagaceae26, 17/17+11/11, media2494 WebP original SHA valid, medicine2476 draft; wrong ident #339 (H436, quote572), correct #340 (H424). Delete #339 before publish.",
+      "note": "PUBLISHED #2464; featured+plate2494; Fagaceae26; 17/17 specialist+11/11 legacy; original SHA verified; #339 deleted and #340 preserved; medicina #2476 published; backend checked. Frontend visual QA not certified.",
       "wordpress_id": 2464,
       "scientific_name_accepted": "Quercus coccifera L.",
       "media_id": 2494,
       "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
-      "medicine_id": 2476
+      "medicine_id": 2476,
+      "medicine_status": "publish",
+      "verified_at": "2026-11-21",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/"
     },
     {
       "legacy_code": "ATL-0196",
@@ -2380,6 +2383,23 @@
       "medicine_2476_status": "draft",
       "next": "admin deletes #339 via UI, then QA and publish",
       "automation": "paused"
+    },
+    "ATL_0168_PUBLISHED_FINAL_20261121": {
+      "code": "ATL-0168",
+      "legacy": "ATL-0188",
+      "taxon": "Quercus coccifera L.",
+      "wp_id": 2464,
+      "status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
+      "media_id": 2494,
+      "medicine_id": 2476,
+      "medicine_status": "publish",
+      "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/quercia-spinosa-quercus-coccifera-tannini-insetto-kermes-e-limiti-clinici/",
+      "relation_339": "deleted_verified",
+      "relation_340": "present_verified",
+      "next": "ATL-0169 / legacy ATL-0189, verify taxonomy/duplicates",
+      "automation": "paused",
+      "qa_visual": "not certified"
     }
   },
   "run_20261121_1835": {
