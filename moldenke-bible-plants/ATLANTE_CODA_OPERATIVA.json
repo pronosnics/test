@@ -598,7 +598,8 @@
         "kew_source": 2460,
         "trees_and_shrubs_source": 2461
       },
-      "note": "Il preflight è stato rifiutato dal gate Library LPE trusted producer per QUEL file/produttore: non è provato outage globale della Libreria. Backend WP scrivibile; nessuna immagine/SHA/publication. Non riprovare prima del timestamp da medesimo produttore salvo condizioni reali mutate."
+      "note": "Il preflight è stato rifiutato dal gate Library LPE trusted producer per QUEL file/produttore: non è provato outage globale della Libreria. Backend WP scrivibile; nessuna immagine/SHA/publication. Non riprovare prima del timestamp da medesimo produttore salvo condizioni reali mutate.",
+      "latest_manual_qa": "Post1896 p740 species-specific; Isa44:14 allon H437; WP content and 4 specialist meta updated, still draft/media0"
     },
     {
       "code": "ATL-0168",
@@ -609,7 +610,8 @@
       "next_retry_not_before": "2026-11-22T18:02:38+01:00",
       "dossier": "STATO_ATLANTE_ATL0168_QUERCUS_COCCIFERA_2026-11-21.md",
       "last_manual_recovery": "2026-11-21",
-      "scientific_content": "11914 HTML, 16/17 specialist (media0), 11/11 legacy, 17 citations, sources #2466–2470 publish, medicine #2476 draft16/16, identifications #336–339 controversial, corrected #340, #339 MUST BE DELETED BEFORE PUBLICATION"
+      "scientific_content": "11914 HTML, 16/17 specialist (media0), 11/11 legacy, 17 citations, sources #2466–2470 publish, medicine #2476 draft16/16, identifications #336–339 controversial, corrected #340, #339 MUST BE DELETED BEFORE PUBLICATION",
+      "latest_manual_qa": "Judges6:11 ha-elah H424 visible body/meta corrected; link #339 still present and MUST be deleted via supported authorized operation; link #340 correct; still draft/media0"
     }
   ],
   "last_attempted": "ATL-0168",
@@ -643,5 +645,28 @@
       "taxon": "Quercus ilex L.",
       "note": "Later after manual closure of blocked 167/168; verify Kew & WP."
     }
-  ]
+  ],
+  "manual_qa_latest": {
+    "date": "2026-11-21",
+    "automation_enabled": false,
+    "verified_wp": [
+      {
+        "id": 2455,
+        "status": "draft",
+        "plate": 0,
+        "changes": "Post1896 species-specific p740; Isa44:14 masoretic allon H437; related specialist meta verified"
+      },
+      {
+        "id": 2464,
+        "status": "draft",
+        "plate": 0,
+        "changes": "Judges6:11 ha-elah H424 verified; identification #339 incorrect remains; #340 correct"
+      }
+    ],
+    "blocked": "MEDIA_TRUST_403_ORIGINALS_NOT_CREATED; RELATION_339_NEEDS_SUPPORTED_DELETION",
+    "source_qa": "post1896_p740_specific_coccifera_p739",
+    "deletion_route": "no dedicated ability or pdb/v1 REST DELETE, no raw db access or plugin change permitted",
+    "next": "recover the two existing drafts; do not create new plant",
+    "readback": "live backend verified"
+  }
 }
