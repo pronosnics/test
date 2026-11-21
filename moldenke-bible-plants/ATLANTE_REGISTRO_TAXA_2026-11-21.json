@@ -2277,6 +2277,41 @@
       "plant_draft_total": 2,
       "blocker_library_trust_403_until": "2026-11-22T18:02:38+01:00",
       "no_new_plant": true
+    },
+    "MANUAL_LXX_BIBLICAL_QA_2026_11_21": {
+      "automation": "paused",
+      "atl_0167": {
+        "wp_id": 2455,
+        "status": "draft",
+        "media": 0,
+        "mt_isa44": "tirzah H8645, allon H437",
+        "lxx_isa44": "ἀγριοβάλανον δρῦν",
+        "source": 2489,
+        "links": [
+          1542,
+          1543
+        ],
+        "quote_updated_1562": "publish"
+      },
+      "atl_0168": {
+        "wp_id": 2464,
+        "status": "draft",
+        "media": 0,
+        "mt_judg6_11": "ha-elah H424",
+        "lxx_a": "δρῦν",
+        "lxx_b": "τερέμινθον",
+        "source": 2490,
+        "links": [
+          1544,
+          1545
+        ],
+        "quote_updated_572": "publish",
+        "bad_identification_339": "still present",
+        "correct_identification_340": "present"
+      },
+      "no_media_producer_retry": true,
+      "automation_disabled": true,
+      "no_new_plant_created": true
     }
   },
   "run_20261121_1835": {
