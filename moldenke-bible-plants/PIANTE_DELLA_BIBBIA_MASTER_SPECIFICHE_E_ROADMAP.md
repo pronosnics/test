@@ -1,3 +1,5 @@
+**STATO NUOVO 21/11/2026 — ATL-0151 *Paliurus spina-christi* Mill. PUBBLICATA:** WP #2159, featured #2160, immagine SHA server=locale, fonti e link strutturati, Yoast direttamente verificato. Vedi dossier [ATL-0151](STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0151.md). Prossimo candidato distinto legacy ATL-0166 *Pancratium maritimum* L., codice operativo previsto ATL-0152 solo previa verifica live. Automazione oraria esistente mantenuta attiva, non duplicare. QA visiva frontend ancora separata.
+
 **AGGIORNAMENTO OPERATIVO 21/11/2026, ore 10:09 Europe/Rome:** ATL-0150 *Ornithogalum umbellatum* L. WP #2154 è pubblicata, featured #2155 e Yoast verificati. Il vecchio ATL-0164 è lo stesso taxon (non creare duplicato). Prossimo candidato legacy ATL-0165 *Paliurus spina-christi* Mill., da verificare nomenclatura Kew, bozze e pubblicati prima di creare; ricerca WordPress `pdb_plant` su Paliurus/spina-christi non ha trovato una scheda omonima, ma ha restituito *Lycium europaeum* #1990 come confronto nel testo. La numerazione master è legacy, NON usarla per i codici operativi. Automazione oraria 6b00cb7b5a988191877878d9f84bebad attiva, prossimo 11:01 Europe/Rome. QA grafica frontend non ancora certificata.
 
 ---
@@ -787,9 +789,9 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0164 (legacy) / ATL-0150 (operativo) · *Ornithogalum umbellatum* L.** — stella di Betlemme; **PUBBLICATA 21/11/2026, WP #2154, featured #2155**; Moldenke pp.162–163, Duke pp.312–314, Tristram pp.443–444, Post pp.801–803; Kew #2156; citazioni #1198–1203; 2 Re 6:25 #1039, lemma #1042, identificazione controversa #283. Dossier STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0150.md. Non duplicare.
 
-- [ ] **ATL-0165 · *Paliurus spina-christi*** — nome italiano da definire; **M voce 154, p. 165 · D p. 315**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0165 (legacy) / ATL-0151 (operativo) · *Paliurus spina-christi* Mill.** — marruca, spinocristi; **PUBBLICATA 21/11/2026, WP #2159**, featured WebP #2160, Rhamnaceae #16, nuove fonti #2162–2164, passi #2165–2168, lemmi #2169–2170, medicina #2171; citazioni strutturate #1204–1220, identificazioni tutte controverse #284–287, passi-lemmi #245–248. Dossier STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0151.md; SHA 30a70c2086f6874b8aa2c27deea2fe50f13d7236a4b1c45b98beb72d4fa95b14. Non duplicare.
 
-- [ ] **ATL-0166 · *Pancratium maritimum*** — nome italiano da definire; **M — · D p. 316**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0166 (legacy), candidato operativo ATL-0152 · *Pancratium maritimum* L.** — giglio di mare; **prossimo candidato per automazione oraria**, non ancora creato. Duke 2008 pp.316–317 da collazionare direttamente; Kew POWO conferma taxon accettato, Amaryllidaceae e sin. *Hymenocallis maritima*. Anti-duplicati WP status any: nessuna scheda omonima, ricerca contenuto ha restituito soltanto *Narcissus tazetta* #2016 come taxon distinto. Verificare nuovamente tutto all'inizio della corsa; massima una specie per run.
 
 - [ ] **ATL-0167 · *Panicum miliaceum*** — nome italiano da definire; **M voce 155, p. 166 · D p. 317**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
