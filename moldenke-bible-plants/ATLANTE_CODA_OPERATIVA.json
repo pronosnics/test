@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0165",
-      "legacy": "ATL-0183",
-      "taxon": "Prunus armeniaca L.",
+      "code": "ATL-0166",
+      "legacy": "ATL-0185",
+      "taxon": "Pterocarpus santalinus L.f.",
       "wp_id": null,
       "state": "NEXT_CANDIDATE_MANUAL_ONLY_AUTOMATION_PAUSED",
-      "next": "ONLY after explicit user request. Automation ID 6b00cb7b5a988191877878d9f84bebad is DISABLED; do not restart. At next manual run verify WordPress drafts/published and Kew accepted/synonyms before creating. Moldenke voce167 p184+, Duke apricot p352+, Zohary, Post, Tristram, Balfour, Dafni–Böck where relevant, modern studies. Real WebP Library preflight before media; original without words."
+      "next": "ONLY upon new explicit manual request; read live GitHub master/queue/workflow/registry/last dossier; check Kew accepted/synonyms and WP draft/publish anti-duplicate before creation; source-by-source collation and original no-text WebP Library preflight; do not recreate published albicocco #2420 or mandorlo #467."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -42,9 +42,21 @@
     {
       "taxon": "Populus euphratica",
       "wp_id": 2402
+    },
+    {
+      "taxon": "Prunus armeniaca",
+      "wp_id": 2420
+    },
+    {
+      "taxon": "Prunus amygdalus",
+      "wp_id": 467
+    },
+    {
+      "taxon": "Malus domestica",
+      "wp_id": 1995
     }
   ],
-  "next_candidate": "ATL-0165",
+  "next_candidate": "ATL-0166",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -362,18 +374,77 @@
       "qa": "backend_publish_verified; frontend_visual_unverified",
       "date": "2026-11-21",
       "automation": "paused; schedule unchanged"
+    },
+    {
+      "code": "ATL-0165",
+      "legacy": "ATL-0183",
+      "taxon": "Prunus armeniaca L.",
+      "wp_id": 2420,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/albicocco-prunus-armeniaca-l-il-tappua%e1%b8%a5-biblico-tra-tradizione-e-archeobotanica/",
+      "featured_media": 2421,
+      "sha256": "d6b35569edc4c3f9466563a056c669dd1bc338707f675e4eed757335ac1b3fee",
+      "size_bytes": 385480,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "family_id": 24,
+      "sources_new": [
+        2423,
+        2424,
+        2425,
+        2426,
+        2427
+      ],
+      "term_id": 2428,
+      "medicine_id": 2429,
+      "quotes_created": [
+        2430,
+        2431,
+        2432,
+        2433,
+        2434
+      ],
+      "quote_reused": [
+        222
+      ],
+      "passage_terms": [
+        276,
+        277,
+        278,
+        279,
+        280,
+        281
+      ],
+      "identifications": [
+        324,
+        325,
+        326,
+        327,
+        328,
+        329
+      ],
+      "identification_status": "all controversial",
+      "source_citations": "1466–1489",
+      "source_citations_count": 24,
+      "meta": "17/17 specialist, 11/11 legacy, medicine 16/16, term 8/8, quotes 15/15",
+      "science": "Moldenke pp184–188; Duke352–355; Tristram334–335; Zohary70 pro Malus; Balfour53–54 pro Citrus; Kew Prunus 729463-1; EFSA2016 cyanogenic kernels; Hansen et al 2025/2026 Petra and Caesarea late-antique archaeological evidence",
+      "qa": "backend publish verified, Yoast getter noindex=false; original WebP SHA server=local; original Library retained, bridge/preflight deleted; QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "date": "2026-11-21",
+      "automation": "paused; schedule unchanged"
     }
   ],
-  "last_verified_published": "ATL-0164",
+  "last_verified_published": "ATL-0165",
   "blocked_items": [],
-  "run_rule": "MANUAL ONLY while automation remains disabled by user. Next suggested species ATL-0165 / legacy ATL-0183 Prunus armeniaca L., pending fresh live anti-duplicate and taxonomy. Do not schedule, run now, or reenable automation unless user requests. WP published ATL-0164 Populus euphratica #2402; never duplicate it.",
+  "run_rule": "Automation 6b00cb7b5a988191877878d9f84bebad remains DISABLED by user, hourly schedule unchanged. NEXT only if user requests: ATL-0166 / legacy ATL-0185 Pterocarpus santalinus L.f.; one species per run; check backend for duplicates and full gates. ATL-0165 Prunus armeniaca #2420 PUBLISHED, do not duplicate.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
     "frequency": "FREQ=HOURLY",
     "schedule_changed": false,
     "checked": "2026-11-21",
-    "pause_reason": "Explicit user request to suspend hourly automation before manual ATL-0164",
+    "pause_reason": "User explicitly requested suspension before manual ATL-0164; no reactivation for ATL-0165",
     "next_run_time": null
   }
 }
