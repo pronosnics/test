@@ -1719,7 +1719,14 @@
       "featured_media": 2292,
       "science_review": "Completed with more contextual verses, leaf variation and clinically cautious reference to two RCTs; 2 new published sources, 5 additional source citation links.",
       "followup": "Id #313 source locator p337–339 comparative, should be shortened to p337–338 for P. atlantica; relation-edit ability unavailable. Frontend visual QA remains unverified.",
-      "next_candidate": "ATL-0160 Pistacia vera L."
+      "next_candidate": "ATL-0160 Pistacia vera L.",
+      "automation_verified": {
+        "id": "6b00cb7b5a988191877878d9f84bebad",
+        "is_enabled": true,
+        "frequency": "FREQ=HOURLY",
+        "next_run_time": "2026-11-21T15:01:00+01:00",
+        "schedule_changed": false
+      }
     }
   }
 }
