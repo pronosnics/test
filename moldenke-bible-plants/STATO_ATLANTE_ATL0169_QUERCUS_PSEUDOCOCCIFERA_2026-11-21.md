@@ -45,3 +45,9 @@
 - Antiduplicati WP: la ricerca pseudococcifera restituisce solo pianta #2508 per il taxon nuovo; altra pianta #2464 è coccifera e non duplicato. Nessuna identificazione false-positive.
 - **QA_VISIVA_FRONTEND_NON_CERTIFICATA:** controllo pubblico via web restituisce URL non accessibile; non si rivendica screenshot/funzionalità grafiche verificate.
 - **NEXT taxon** da controllare live e non creato: **`Quercus ilex` L., legacy `ATL-0190`**. Conflitto **codice `ATL-0170` già usato storicamente per `Phoenix dactylifera` WP#308** (dossier e registro). Prima di assegnare un nuovo codice operativo, risolvere collisione, verificare tassonomia Kew, sinonimi e WordPress. Automazione manual-only, pausata.
+
+
+## Revisione supplementare dopo pubblicazione ATL-0170-QI — 21/11/2026
+- Rilette in sorgente PDF di Moldenke le pp193–197; alla **p.195 nota121** Michael Evenari giudica molto dubbia l'antica varietà *Q.coccifera* var. *pseudococcifera*. Questa omissione pertinente è stata corretta nel corpo HTML della pianta pubblicata **#2508** e nel meta storico con `ewpa/search-replace` e `pdb/atlas-update`; backend conferma **publish**, featured #2509, contenuto e chiave aggiornati. Non equivale a rifiutare la specie *Q.pseudococcifera* Desf. oggi accettata Kew per W/C Mediterranean.
+- Revisione interna conferma 16 citazioni source plant #1546–1561, 5 medicina #1562–1566, lectotipo MNHN, due sottospecie Kew, nessuna identification species-specific forzata nel Levante e nessun avviso «BOZZA» nel corpo.
+- Aperta e completata separatamente **ATL-0170-QI *Quercus ilex*** con codice legacy ATL-0190, non la stessa specie; rimando al dossier STATO_ATLANTE_ATL0170_QI_QUERCUS_ILEX_2026-11-21.md. Nessuna automazione riattivata.
