@@ -503,25 +503,26 @@
   ],
   "last_verified_published": "ATL-0166",
   "blocked_items": [],
-  "run_rule": "User explicitly requests reactivation of the ONE pre-existing hourly automation, starting 21 Nov 2026 at 18:00 Europe/Rome (18:00/19:00/20:00 ...). No duplicate task. Next first automatic run ATL-0167 / legacy ATL-0187 Quercus aegilops only after Kew/WP anti-duplicate. After each run choose one next taxon dynamically from master/registry/WordPress and save dossier, master, queue, registry. Previously legacy ATL-0186 Punica granatum WP#212 already published. Older notes saying manual-only/paused are historical.",
+  "run_rule": "ONE taxon per run. Before images, genuine WebP preflight from TRUSTED LIBRARY producer; forbidden attempts during persistent 403 cooldown. When blocked, complete science/meta/SEO of existing drafts and choose next independent taxon only up to 5 nonpublishable draft plants. Do not duplicate. Existing ATL-0167 #2455 BLOCKED_MEDIA, next upload eligible 2026-11-22 18:02 Rome, not before; NEXT ATL-0168 verify Kew + WP.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": true,
     "frequency": "FREQ=HOURLY",
     "timing_mode": "exact_schedule",
     "timezone": "Europe/Rome",
-    "schedule_changed": true,
+    "schedule_changed": false,
     "checked": "2026-11-21",
     "schedule": "BEGIN:VEVENT\nDTSTART:20261121T180000\nRRULE:FREQ=HOURLY\nEND:VEVENT",
     "first_run_time": "2026-11-21T18:00:00+01:00",
-    "next_run_time": "2026-11-21T18:00:00+01:00",
+    "next_run_time": "2026-11-21T19:00:00+01:00",
     "prompt_version": "atlante_v2_dynamic_2026-11-21",
-    "note": "Confirmed with Automations update success; schedule verified but first future run NOT YET independently confirmed completed."
+    "note": "18:00 run confirmed complete but botanical draft #2455 blocked by Library 403. Manual recovery advanced scientific/SEO apparatus, no media; same task hourly.",
+    "last_run_time": "2026-11-21T18:02:37+01:00"
   },
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "automatic_one_taxon_per_hour",
-    "source_of_next": "items[0] next candidate unless an older recoverable draft is eligible; after each run update GitHub queue, registry, master, species dossier with actual backend state and next candidate",
+    "source_of_next": "Live WP + master/queue/registry. If blocked draft preflight cooldown active, DO NOT retry that draft, choose next independent valid taxon, max five botanical drafts, preserve blocked. When trusted media available, return and publish only after all gates.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -579,9 +580,18 @@
       "state": "BLOCKED_LIBRARY_TRUST_403",
       "first_attempt": "2026-11-21T18:02:38+01:00",
       "next_retry_not_before": "2026-11-22T18:02:38+01:00",
-      "dossier": "STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md"
+      "dossier": "STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md",
+      "last_manual_recovery": "2026-11-21T18:30:00+01:00",
+      "scientific_content": "8668 chars HTML; 16/17 botanist meta (no media), 11/11 legacy; Fagaceae #26; terms #563 #562 reused; cited sources 1512-1524; identifications 333-335 controversial; Yoast getter noindex=false",
+      "supporting_posts": {
+        "quote_isaiah2_13": 2457,
+        "medicine_draft": 2459,
+        "kew_source": 2460,
+        "trees_and_shrubs_source": 2461
+      },
+      "note": "WordPress backend writable; ChatGPT Library trusted-producer policy is only media gate. No image/sha, no publication. Do not retry preflight before timestamp absent changed producer conditions."
     }
   ],
   "last_attempted": "ATL-0167",
-  "last_attempt_status": "DRAFT_WP_2455_BLOCKED_LIBRARY_TRUST_403"
+  "last_attempt_status": "DRAFT_WP2455_SCIENCE_QA_ADVANCED_BLOCKED_LIBRARY_TRUST_403"
 }
