@@ -279,8 +279,11 @@
       "legacy_code": "ATL-0186",
       "scientific_name_working": "Punica granatum",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 544
+      "live_status": "published",
+      "source_line": 544,
+      "wordpress_id": 212,
+      "verified_at": "2026-11-21",
+      "note": "Punica granatum L. backend WordPress #212 PUBLISHED confirmed on ATL-0166 run; DO NOT duplicate; legacy line skipped operationally."
     },
     {
       "legacy_code": "ATL-0188",
@@ -1346,17 +1349,21 @@
       "legacy_code": "ATL-0185",
       "scientific_name_working": "Pterocarpus santalinus",
       "checkbox_from_master": false,
-      "live_status": "next_manual_unverified",
+      "live_status": "published",
       "source_line": 830,
       "operational_code": "ATL-0166",
-      "note": "NEXT candidate ONLY upon explicit manual user request. Check Kew and WP anti-duplicate first; no page created by ATL0165. Automation paused."
+      "note": "Pterocarpus santalinus L.f. PUBLISHED WP#2441, 16005 characters, Fabaceae25, WebP featured2442 SHA local/server matched, 17/17 specialist 11/11 legacy, medicine#2450, Hebrew terms2448/2449, quote2451–2453, 3 identification330–332 controversial, 22 citations1490–1511. Kew 516570-1 native S India; Moldenke188–189/Tristram331–332/Zohary125/Balfour49, distinguish Ophir vs Lebanon + alternative Juniperus excelsa WP1915. CITES II govt India 2025 modern only. Automation DISABLED.",
+      "wordpress_id": 2441,
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0187",
       "scientific_name_working": "Quercus aegilops",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 832
+      "live_status": "next_manual_candidate_unverified",
+      "source_line": 832,
+      "operational_code": "ATL-0167",
+      "note": "NEXT only if user requests. Kew taxonomy and WP anti-duplicates (Quercus aegilops and synonyms such as Q.macrolepis/Q.ithaburensis as appropriate) must be checked; do not create now. Automation paused."
     },
     {
       "legacy_code": "ATL-0189",
@@ -2064,6 +2071,83 @@
         "schedule_changed": false
       },
       "next_candidate": "ATL-0166 / legacy ATL-0185 Pterocarpus santalinus L.f. MANUAL ONLY"
+    },
+    "ATL-0166": {
+      "legacy": "ATL-0185",
+      "taxon": "Pterocarpus santalinus L.f.",
+      "wp_id": 2441,
+      "live_status": "published",
+      "url": "https://piantedellabibbia.altervista.org/piante/sandalo-rosso-pterocarpus-santalinus-l-f-il-legno-almug-e-algum-di-salomone/",
+      "date": "2026-11-21",
+      "content_chars": 16005,
+      "family_id": 25,
+      "media_id": 2442,
+      "media_sha256": "34c095c30fca98fd9344ca245a0be91278a6faa46a14d71d9f852bb18c58f63b",
+      "media_bytes": 404626,
+      "media_dimensions": [
+        1024,
+        1536
+      ],
+      "library_original": "/PIANTE DELLA BIBBIA/atl-0166-pterocarpus-santalinus-tavola-senza-scritte.webp",
+      "library_temps": "preflight WebP & Base64 bridge deleted",
+      "specialist_meta": "17/17",
+      "legacy_meta": "11/11",
+      "medicine_id": 2450,
+      "medicine_meta": "16/16",
+      "term_ids": [
+        2448,
+        2449
+      ],
+      "term_meta": "8/8 each",
+      "source_ids_new": [
+        2444,
+        2445,
+        2446,
+        2447
+      ],
+      "source_ids_reused": [
+        135,
+        136,
+        1554,
+        2042,
+        2043,
+        2069
+      ],
+      "quotes_created": [
+        2451,
+        2452,
+        2453
+      ],
+      "quote_meta": "15/15 each",
+      "passage_terms": [
+        282,
+        283,
+        284
+      ],
+      "identifications": [
+        330,
+        331,
+        332
+      ],
+      "identification_status": "controversa",
+      "source_citations": "1490–1511",
+      "source_citations_count": 22,
+      "science_review": "Moldenke188–189, Duke360–362, Zohary125 typo santolinus, Tristram331–332, Balfour49 pro Santalum album, Kew native S India, India PIB 2025 CITES II, lex H484/H418; not botanical certainty",
+      "seo": "Yoast setter/getter title+description+focus, noindex=false",
+      "frontend_qa": "QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "qa_previous": "ATL-0165 #2420 further reviewed, no material errors or omissions found or edits needed",
+      "already_published_next_legacy": {
+        "legacy": "ATL-0186",
+        "taxon": "Punica granatum",
+        "wp_id": 212
+      },
+      "next_candidate": "ATL-0167 / legacy ATL-0187 Quercus aegilops L. MANUAL only",
+      "automation": {
+        "id": "6b00cb7b5a988191877878d9f84bebad",
+        "enabled": false,
+        "schedule_changed": false
+      },
+      "plugins_or_themes_changed": false
     }
   }
 }
