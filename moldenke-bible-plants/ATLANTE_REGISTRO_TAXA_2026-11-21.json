@@ -1689,5 +1689,15 @@
       "live_status": "not_verified_this_run",
       "source_line": 950
     }
-  ]
+  ],
+  "operational_updates": {
+    "ATL-0159": {
+      "legacy": "ATL-0175",
+      "taxon": "Pistacia atlantica Desf.",
+      "wp_id": 2291,
+      "live_status": "draft",
+      "checked_at": "2026-11-21 14:01 Europe/Rome",
+      "note": "Yoast verified, publication QA pending; resume draft; no duplicate"
+    }
+  }
 }
