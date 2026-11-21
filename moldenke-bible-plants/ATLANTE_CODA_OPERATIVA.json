@@ -9,9 +9,9 @@
       "code": "ATL-0161",
       "legacy": "ATL-0179",
       "taxon": "Platanus orientalis L.",
-      "wp_id": null,
-      "state": "NEXT_CANDIDATE_NEEDS_LIVE_ANTIDUP",
-      "next": "Kew POWO accepted 685873-1; recheck backend draft/publish/synonyms Platanus orientalis, oriental plane, platano orientale, platano; scientific reference Moldenke/Duke/Zohary/Post/Tristram/Balfour to read directly. Do not duplicate existing Pistacia plants or existing Platanus."
+      "wp_id": 2336,
+      "state": "DRAFT_RESEARCH",
+      "next": "Draft #2336 created; complete Kew and Post direct checks, all specialist and legacy meta, source citations/terms/quote/identifications, medicine, genuine WebP Library preflight, media SHA and Yoast gates before publish. Do not duplicate draft."
     }
   ],
   "known_published_not_to_duplicate": [
