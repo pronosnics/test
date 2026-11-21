@@ -1292,19 +1292,29 @@
       "legacy_code": "ATL-0180",
       "scientific_name_working": "Polypogon monspeliensis",
       "checkbox_from_master": false,
-      "live_status": "next_candidate_needs_live_anti_dup",
+      "live_status": "published",
       "source_line": 822,
       "operational_code": "ATL-0162",
       "verified_at": "2026-11-21",
-      "taxonomy_kew": "accepted Polypogon monspeliensis (L.) Desf. 1048074-2",
-      "note": "Moldenke p28 genus/grass Genesis1:11–12 is a general passage, not species-specific. USER RULE images no inscriptions."
+      "taxonomy_kew": "Polypogon monspeliensis (L.) Desf. accepted; Agrostis monspeliensis 2025 is synonym (not duplicate species)",
+      "note": "Moldenke pp28–29 includes one of six grasses plausible collectively for generic Biblical grasses; no species-specific identifications; scientific update 2025 cited via published source WP2388; WP publisher provenance states WebP SHA original equals WP server, Yoast noindex=false, backend published; no inscriptions in image; frontend HTML visual unverified.",
+      "wp_id": 2363,
+      "wp_status": "publish",
+      "wp_url": "https://piantedellabibbia.altervista.org/piante/polipogone-di-montpellier-polypogon-monspeliensis-l-desf-e-le-erbe-bibliche/",
+      "family_id": 18,
+      "featured_media": 2365,
+      "sha256": "66fb096d6a676c252f32117a42516c9f4b963e62511b43a31bbcd1d6792ca888",
+      "source_citations": "1402–1409;1416"
     },
     {
       "legacy_code": "ATL-0181",
       "scientific_name_working": "Populus alba",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 824
+      "live_status": "next_candidate_needs_live_anti_dup",
+      "source_line": 824,
+      "operational_code": "ATL-0163",
+      "verified_at": "2026-11-21",
+      "note": "Populus alba L. next, do Kew and live WP anti-dup, Moldenke p181 and Duke p348; not created during ATL-0162 run."
     },
     {
       "legacy_code": "ATL-0182",
@@ -1805,6 +1815,36 @@
       "next": "ATL-0162 Polypogon monspeliensis",
       "image_rule": "New botanical plates NO TEXT within image",
       "qa_visual": "uncertified"
+    },
+    "ATL-0162": {
+      "taxon": "Polypogon monspeliensis (L.) Desf.",
+      "legacy": "ATL-0180",
+      "wp_id": 2363,
+      "live_status": "published",
+      "url": "https://piantedellabibbia.altervista.org/piante/polipogone-di-montpellier-polypogon-monspeliensis-l-desf-e-le-erbe-bibliche/",
+      "date": "2026-11-21",
+      "media_id": 2365,
+      "sha256": "66fb096d6a676c252f32117a42516c9f4b963e62511b43a31bbcd1d6792ca888",
+      "family_id": 18,
+      "meta": "17/17 specialist + 11/11 legacy",
+      "source_citation_plant": 9,
+      "sources_new": [
+        2366,
+        2367,
+        2368,
+        2369,
+        2370,
+        2371,
+        2388
+      ],
+      "source_2025_and_link": {
+        "source": 2388,
+        "citation": 1416
+      },
+      "identifications": "none: Biblical passages refer only to grass generically",
+      "next": "ATL-0163 Populus alba",
+      "image_rule": "No text inside generated botanical plates",
+      "qa_visual": "frontend uncertified; original plate inspected no text"
     }
   }
 }
