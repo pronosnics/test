@@ -1362,13 +1362,13 @@
       "legacy_code": "ATL-0187",
       "scientific_name_working": "Quercus aegilops",
       "checkbox_from_master": false,
-      "live_status": "draft_blocked_library_trust_403",
+      "live_status": "draft_science_qa_advanced_blocked_library_trust_403",
       "source_line": 832,
       "operational_code": "ATL-0167",
-      "note": "Kew Q. aegilops L. nom rej synonym of Q. ithaburensis subsp. macrolepis; WP draft #2455 created; genuine WebP Library preflight HTTP403 trusted producer. No image generated, no publication; source and full meta gates incomplete. Recover draft #2455, do not duplicate. Dossier STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md.",
+      "note": "WP #2455 unchanged draft. HTML 8668 chars, Fagaceae #26, meta botanical 16/17 + legacy11/11, 13 source-citations #1512–1524, 3 controversial identifications #333–335, quote Is2:13 #2457 publish, medicine #2459 draft; Yoast getter positive; no WebP (Library trust 403). Retry after 22 Nov18:02 unless conditions changed. Taxon accepted macrolepis; synonyms Q.aegilops L./Q.macrolepis. No duplicate.",
       "scientific_name_accepted": "Quercus ithaburensis subsp. macrolepis (Kotschy) Hedge & Yalt.",
       "wordpress_id": 2455,
-      "verified_at": "2026-11-21"
+      "verified_at": "2026-11-21T18:30:00+01:00"
     },
     {
       "legacy_code": "ATL-0189",
@@ -2174,6 +2174,44 @@
       "schedule": "DTSTART:20261121T180000;RRULE:FREQ=HOURLY",
       "prompt_version": "V2 dynamic live GitHub + WordPress",
       "manual_only": false
+    },
+    "ATL-0167": {
+      "legacy": "ATL-0187",
+      "accepted": "Quercus ithaburensis subsp. macrolepis (Kotschy) Hedge & Yalt.",
+      "synonyms": [
+        "Quercus aegilops L.",
+        "Quercus macrolepis Kotschy"
+      ],
+      "wp_id": 2455,
+      "status": "draft",
+      "media_gate": "BLOCKED_LIBRARY_TRUST_403",
+      "next_retry": "2026-11-22T18:02:38+01:00",
+      "content_chars": 8668,
+      "family_id": 26,
+      "source_citations": "1512–1524 (13)",
+      "passage_terms": [
+        285,
+        286,
+        287
+      ],
+      "identifications": [
+        333,
+        334,
+        335
+      ],
+      "identification_status": "controversa",
+      "sources_new": [
+        2460,
+        2461
+      ],
+      "quote_published": 2457,
+      "medicine_draft": 2459,
+      "legacy_meta": "11/11",
+      "specialist_meta": "16/17 including media empty",
+      "seo": "Yoast setter/getter noindex=false",
+      "qa": "backend verified; media missing; frontend visual not certified",
+      "next_candidate": "ATL-0168 / legacy ATL-0188 Quercus coccifera",
+      "automation": "same unique hourly enabled, no schedule changes"
     }
   }
 }
