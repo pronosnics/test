@@ -599,7 +599,8 @@
         "trees_and_shrubs_source": 2461
       },
       "note": "Il preflight è stato rifiutato dal gate Library LPE trusted producer per QUEL file/produttore: non è provato outage globale della Libreria. Backend WP scrivibile; nessuna immagine/SHA/publication. Non riprovare prima del timestamp da medesimo produttore salvo condizioni reali mutate.",
-      "latest_manual_qa": "Post1896 p740 species-specific; Isa44:14 allon H437; WP content and 4 specialist meta updated, still draft/media0"
+      "latest_manual_qa": "Post1896 p740 species-specific; Isa44:14 allon H437; WP content and 4 specialist meta updated, still draft/media0",
+      "filological_recovery": "MT Isaiah44:14 H8645/H437 + LXX ἀγριοβάλανον/δρῦν; quote1562 published updated, source2489 published, citations1542/1543; still draft without media"
     },
     {
       "code": "ATL-0168",
@@ -611,7 +612,8 @@
       "dossier": "STATO_ATLANTE_ATL0168_QUERCUS_COCCIFERA_2026-11-21.md",
       "last_manual_recovery": "2026-11-21",
       "scientific_content": "11914 HTML, 16/17 specialist (media0), 11/11 legacy, 17 citations, sources #2466–2470 publish, medicine #2476 draft16/16, identifications #336–339 controversial, corrected #340, #339 MUST BE DELETED BEFORE PUBLICATION",
-      "latest_manual_qa": "Judges6:11 ha-elah H424 visible body/meta corrected; link #339 still present and MUST be deleted via supported authorized operation; link #340 correct; still draft/media0"
+      "latest_manual_qa": "Judges6:11 ha-elah H424 visible body/meta corrected; link #339 still present and MUST be deleted via supported authorized operation; link #340 correct; still draft/media0",
+      "filological_recovery": "MT Judges6:11 H424 + Greek A δρῦν / B τερέμινθον; quote572 published updated, source2490 published, citations1544/1545; #339 still BAD relation; still draft without media"
     }
   ],
   "last_attempted": "ATL-0168",
@@ -668,5 +670,44 @@
     "deletion_route": "no dedicated ability or pdb/v1 REST DELETE, no raw db access or plugin change permitted",
     "next": "recover the two existing drafts; do not create new plant",
     "readback": "live backend verified"
+  },
+  "manual_filological_recovery_20261121": {
+    "automation_enabled": false,
+    "performed": [
+      {
+        "plant": "ATL-0167",
+        "id": 2455,
+        "status": "draft",
+        "hebrew": "Isa44:14 tirzah H8645 + allon H437",
+        "lxx": "ἀγριοβάλανον + δρῦν",
+        "new_source_id": 2489,
+        "source_citation_id": 1542,
+        "updated_quote_id": 1562,
+        "quote_citation_id": 1543,
+        "media_id": 0
+      },
+      {
+        "plant": "ATL-0168",
+        "id": 2464,
+        "status": "draft",
+        "hebrew": "Judg6:11 ha-elah H424",
+        "lxx_a": "δρῦν",
+        "lxx_b": "τερέμινθον",
+        "new_source_id": 2490,
+        "source_citation_id": 1544,
+        "updated_quote_id": 572,
+        "quote_citation_id": 1545,
+        "media_id": 0
+      }
+    ],
+    "remaining": [
+      "delete erroneous relation #339, preserve #340",
+      "genuine trusted WebP source and media with SHA",
+      "verify publication gate and visual"
+    ],
+    "next_candidate": "ATL-0167",
+    "other_sources_status": "new pdb_source 2489 and 2490 PUBLISHED; existing quote 1562, 572 PUBLISHED",
+    "no_plants_published": true,
+    "no_new_species": true
   }
 }
