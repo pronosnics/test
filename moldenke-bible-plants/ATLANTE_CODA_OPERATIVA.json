@@ -1,0 +1,44 @@
+{
+  "schema": "pdb-queue-v2",
+  "updated": "2026-11-21",
+  "automation_id": "6b00cb7b5a988191877878d9f84bebad",
+  "max_unpublishable_drafts": 5,
+  "one_taxon_per_run": true,
+  "items": [
+    {
+      "code": "ATL-0157",
+      "legacy": "ATL-0173",
+      "taxon": "Pinus halepensis Mill.",
+      "wp_id": 2271,
+      "state": "BLOCKED_LIBRARY_TRUST_403_AND_NEEDS_SOURCES",
+      "next": "retry media only after trusted WebP preflight; complete sources, relations, Yoast and QA"
+    },
+    {
+      "code": "ATL-0158",
+      "legacy": "ATL-0174",
+      "taxon": "Pinus pinea L.",
+      "wp_id": 2272,
+      "state": "DRAFT_NEEDS_SOURCES_RELATIONS_MEDIA_SEO_QA",
+      "next": "finish sources and textual/filological review, then media, claims, legacy, QA"
+    },
+    {
+      "code": "ATL-0159",
+      "legacy": "ATL-0175",
+      "taxon": "Pistacia atlantica Desf.",
+      "wp_id": null,
+      "state": "NEXT_CANDIDATE",
+      "next": "repeat live anti-duplicate; Kew accepted; Duke pp337-339 and historical sources"
+    }
+  ],
+  "known_published_not_to_duplicate": [
+    {
+      "taxon": "Pistacia lentiscus",
+      "wp_id": 597
+    },
+    {
+      "taxon": "Pistacia terebinthus",
+      "wp_id": 557
+    }
+  ],
+  "next_candidate": "ATL-0159"
+}
