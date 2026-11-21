@@ -811,5 +811,19 @@
     "automation_enabled": false,
     "next_candidate": "ATL-0169",
     "readback": "verified"
+  },
+  "postpublication_text_correction_20261121": {
+    "code": "ATL-0168",
+    "wp_id": 2464,
+    "status": "publish",
+    "editorial_stale_draft_notice": "removed_from_post_content",
+    "editorial_stale_bad_relation_notice": "removed_from_post_content",
+    "relation_339": "absent",
+    "relation_340": "present",
+    "wordpress_content_readback": "verified",
+    "wp_post_cache": "purged",
+    "external_cache": "not_certified",
+    "frontend_visual_qa": "not_certified",
+    "automation": "paused"
   }
 }
