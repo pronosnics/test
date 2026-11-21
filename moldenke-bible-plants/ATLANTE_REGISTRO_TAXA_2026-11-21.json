@@ -1383,12 +1383,20 @@
     },
     {
       "legacy_code": "ATL-0189",
-      "scientific_name_working": "Quercus coccifera var. pseudococcifera (Desf.) Boiss. (Moldenke historical name)",
-      "checkbox_from_master": false,
-      "live_status": "historic_label_resolved_kew_species_distinct_NOT_CREATED",
+      "scientific_name_working": "Quercus pseudococcifera Desf. (Moldenke1952 p193 historical Q.coccifera var.pseudococcifera (Desf.) Boiss.)",
+      "checkbox_from_master": true,
+      "live_status": "published_wp2508_original_media2509_medicine2511_claims_verified",
       "source_line": 834,
       "scientific_name_accepted": "Quercus pseudococcifera Desf.",
-      "note": "Moldenke1952 printed p193 explicit legacy 172. Kew accepted Q.pseudococcifera Desf. distinct from Q.coccifera L.; Kew varietal combination formally (Desf.) A.DC. Old Levant pseudo-coccifera references in Tristram/Post not automatically accepted western species. Future autonomous candidate manual only, not WP created."
+      "note": "PUBLISHED WP2508; Kew Desf accepted separate from Q.coccifera, W/C Medit. MNHN Algeria lectotype P00667225; old Tristram/Post Levant homonym not proof. 17/17 specialist +11/11 legacy, image original #2509 Sha verified, medicine #2511 published 16/16, citations 1546–1566 (16 plant+5 medicine), zero identifications species-specific, frontend visual not certified.",
+      "operational_code": "ATL-0169",
+      "wordpress_id": 2508,
+      "medicine_id": 2511,
+      "medicine_status": "publish",
+      "media_id": 2509,
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-pseudococcifera-quercus-pseudococcifera-desf-tassonomia-botanica-e-bibbia/",
+      "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0190",
@@ -2400,6 +2408,24 @@
       "next": "ATL-0169 / legacy ATL-0189, verify taxonomy/duplicates",
       "automation": "paused",
       "qa_visual": "not certified"
+    },
+    "ATL_0169_PUBLISHED_20261121": {
+      "legacy": "ATL-0189",
+      "taxon": "Quercus pseudococcifera Desf.",
+      "wp_id": 2508,
+      "status": "publish",
+      "medicine_id": 2511,
+      "medicine_status": "publish",
+      "media_id": 2509,
+      "family_id": 26,
+      "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
+      "source_citations_plant": "1546–1561",
+      "source_citations_medicine": "1562–1566",
+      "identifications": 0,
+      "original_private_library": "libfile_df89539df30c8191ba15a86f97d32281",
+      "next_legacy": "ATL-0190 Quercus ilex",
+      "next_operational": "TBD, because ATL-0170 already Phoenix dactylifera",
+      "automation_enabled": false
     }
   },
   "run_20261121_1835": {
