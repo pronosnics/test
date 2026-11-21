@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0160",
-      "legacy": "ATL-0178",
-      "taxon": "Pistacia vera L.",
+      "code": "ATL-0161",
+      "legacy": "ATL-0179",
+      "taxon": "Platanus orientalis L.",
       "wp_id": null,
       "state": "NEXT_CANDIDATE_NEEDS_LIVE_ANTIDUP",
-      "next": "Reconfirm Kew and WordPress draft/publish by Pistacia vera, pistacchio vero, common/synonyms; Moldenke entry 163 p.179, Duke Pistachio p.343 ff; do not recreate related atlantica #2291, lentiscus #597, terebinthus #557"
+      "next": "Kew POWO accepted 685873-1; recheck backend draft/publish/synonyms Platanus orientalis, oriental plane, platano orientale, platano; scientific reference Moldenke/Duke/Zohary/Post/Tristram/Balfour to read directly. Do not duplicate existing Pistacia plants or existing Platanus."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -22,9 +22,17 @@
     {
       "taxon": "Pistacia terebinthus",
       "wp_id": 557
+    },
+    {
+      "taxon": "Pistacia atlantica",
+      "wp_id": 2291
+    },
+    {
+      "taxon": "Pistacia vera",
+      "wp_id": 2312
     }
   ],
-  "next_candidate": "ATL-0160",
+  "next_candidate": "ATL-0161",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -91,11 +99,66 @@
         "quote": 3
       },
       "outstanding_editorial_note": "Identification #313 comparative Duke p337–339 locator: p339 belongs to P. lentiscus, pending in-place relation locator edit when supported; not a new or certain identification."
+    },
+    {
+      "code": "ATL-0160",
+      "legacy": "ATL-0178",
+      "taxon": "Pistacia vera L.",
+      "wp_id": 2312,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/pistacchio-vero-pistacia-vera-l-bo%e1%b9%adnim-genesi-4311-e-botanica/",
+      "featured_media": 2326,
+      "sha256": "a6e9a959185a7dc5d56c89e5362c25ee22ac22d4850bb492b56c88d288bdcf72",
+      "family": 21,
+      "source_ids_new": [
+        2314,
+        2315,
+        2316,
+        2317,
+        2318,
+        2329,
+        2330
+      ],
+      "term_id": 2324,
+      "medicine_id": 2327,
+      "quote_reused": 474,
+      "passage_terms": [
+        263
+      ],
+      "identifications": [
+        314
+      ],
+      "citations": {
+        "plant_ids": "1351–1364",
+        "medicine_ids": [
+          1365,
+          1366
+        ],
+        "term_ids": [
+          1367,
+          1368,
+          1369,
+          1370
+        ],
+        "quote_ids": [
+          1371,
+          1372
+        ]
+      },
+      "metas": {
+        "specialist_plant": "17/17",
+        "legacy_plant": "11/11",
+        "medicine": "16/16",
+        "term": "8/8"
+      },
+      "qa": "backend_verified; media_original_sha256_server_equals_local; yoast_setter_getter_verified; full_source_review; frontend_visual_unverified",
+      "note": "Post 1896 p206 direct description of cultivated P. vera at Ain-et-Tineh: corrected text and source post #2041. Source citation #1358 brief 'comparison/exclusion' claim now editorially abbreviated, in-place update not exposed; document future fine tune, no duplicate relation.",
+      "date": "2026-11-21"
     }
   ],
-  "last_verified_published": "ATL-0159",
+  "last_verified_published": "ATL-0160",
   "blocked_items": [],
-  "run_rule": "One taxon per run; ATL0159 #2291 remains publish after scientific QA, source posts #2308/#2309 published; no duplicate. NEXT ATL0160 Pistacia vera after live anti-duplicates; only existing hourly automation, unchanged schedule. Media WebP preflight per runtime. QA_VISIVA_FRONTEND_NON_CERTIFICATA.",
+  "run_rule": "ONE TAXON PER RUN. ATL0160 Pistacia vera WP#2312 already PUBLISHED: never duplicate and never reopen as draft. Next proposed ATL0161 legacy ATL0179 Platanus orientalis subject to Kew and WP LIVE anti-dup; preserve existing hourly automation unchanged. Real WebP preflight before image; if Library 403, block without bypass; maintain maximum five nonpublishable drafts. QA visual frontend not certified.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": true,
