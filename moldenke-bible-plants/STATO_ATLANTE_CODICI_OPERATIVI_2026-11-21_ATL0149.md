@@ -27,7 +27,7 @@
 - Scheda medicinali tradizionali separata **#2152**: https://piantedellabibbia.altervista.org/usi-medicinali/origano-siriaco-usi-medicinali-tradizionali/ ; no promesse terapeutiche.
 
 ## Aspetti tecnici residui e correzione del workflow
-- I file temporanei privati di una corsa precedente `/atl0149_preflight_20261121.txt` e `/atl0149_bridge_private_20261121.txt` avevano restituito `401 Unauthorized` in cancellazione. Nella presente verifica non risultano dai risultati di ricerca né nella prima pagina dell'elenco root della Library: **non è confermata la loro eliminazione**, né un loro contenuto accessibile. Non scambiare 401 cleanup per errore di upload o contenuto.
+- La pulizia è stata nuovamente verificata usando i due percorsi esatti su `files__manage_library` in data 21/11/2026: **ENTRAMBI i file temporanei risultano GIÀ ASSENTI** (`status=skipped, error_code=not_found, File was already absent`). I 401 dell'esecuzione precedente non sono più un blocco né rimangono file da cancellare. L'assenza è verificata; il momento e l'autore dell'eliminazione non sono noti.
 - La nuova automazione deve usare `file_id`/`library_file_id` esatto, verificare `status=succeeded` nei tool, tentare cleanup **una volta** dopo `finish` e, in caso di 401, registrare e proseguire se media/SHA/SEO/bibliografia sono completi; per i soli file temporanei la pulizia è problema tecnico non bloccante per la pubblicazione.
 - Una nuova scheda non va creata quando esiste draft di quella specie; verificare in WordPress publish/draft e la roadmap, scegliere una sola specie per esecuzione.
 - Plugin e tema invariati.
