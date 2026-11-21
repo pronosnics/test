@@ -289,12 +289,15 @@
       "legacy_code": "ATL-0188",
       "scientific_name_working": "Quercus coccifera",
       "checkbox_from_master": false,
-      "live_status": "draft_wp2464_blocked_media_and_relation339",
+      "live_status": "draft_wp2464_media_complete_blocked_wrong_link339_only",
       "source_line": 546,
       "operational_code": "ATL-0168",
-      "note": "WP2464 DRAFT 11914 chars HTML, family26, 16/17 botanical (media0), legacy11/11, 17 source citations 1525-1541, medicine2476 draft 16/16, Yoast valid. Identifications 336-339 controversial, corrected 340 Judges6:11 H424 vs wrong339 H436. DELETE #339 before publish. Image trust 403, no media; automation paused.",
+      "note": "DRAFT WP2464 Fagaceae26, 17/17+11/11, media2494 WebP original SHA valid, medicine2476 draft; wrong ident #339 (H436, quote572), correct #340 (H424). Delete #339 before publish.",
       "wordpress_id": 2464,
-      "scientific_name_accepted": "Quercus coccifera L."
+      "scientific_name_accepted": "Quercus coccifera L.",
+      "media_id": 2494,
+      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+      "medicine_id": 2476
     },
     {
       "legacy_code": "ATL-0196",
@@ -1364,13 +1367,16 @@
       "legacy_code": "ATL-0187",
       "scientific_name_working": "Quercus aegilops",
       "checkbox_from_master": false,
-      "live_status": "draft_blocked_media_trust_403",
+      "live_status": "publish_verified_wp2455_original_media_sha",
       "source_line": 832,
       "operational_code": "ATL-0167",
-      "note": "WP#2455 DRAFT; 16/17 specialist media0, 11/11 legacy, Fagaceae #26, medicine#2459 16/16 traditional DRAFT; Yoast valid, source review direct, featured0; automation paused; not published.",
+      "note": "PUBLISHED WP2455 Fagaceae26 17/17 specialist 11/11 legacy medicine2459 published; media2493 original Library SHA local=server verified; no duplication; frontend visual unverified.",
       "scientific_name_accepted": "Quercus ithaburensis subsp. macrolepis (Kotschy) Hedge & Yalt.",
       "wordpress_id": 2455,
-      "verified_at": "2026-11-21T18:30:00+01:00"
+      "verified_at": "2026-11-21T18:30:00+01:00",
+      "media_id": 2493,
+      "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
+      "medicine_id": 2459
     },
     {
       "legacy_code": "ATL-0189",
@@ -2187,8 +2193,8 @@
         "Quercus macrolepis Kotschy"
       ],
       "wp_id": 2455,
-      "status": "draft",
-      "media_gate": "BLOCKED_LIBRARY_TRUST_403",
+      "status": "publish",
+      "media_gate": "RESOLVED_REAL_TRUSTED_PRODUCER",
       "next_retry": "2026-11-22T18:02:38+01:00",
       "content_chars": 8668,
       "family_id": 26,
@@ -2211,11 +2217,15 @@
       "quote_published": 2457,
       "medicine_draft": 2459,
       "legacy_meta": "11/11",
-      "specialist_meta": "16/17 including media empty",
-      "seo": "Yoast setter/getter noindex=false",
-      "qa": "backend verified; media missing; frontend visual not certified",
-      "next_candidate": "ATL-0168 / legacy ATL-0188 Quercus coccifera",
-      "automation": "same unique hourly enabled, no schedule changes"
+      "specialist_meta": "17/17",
+      "seo": "getter noindex=false",
+      "qa": "backend WordPress publish URL media SHA and family verified; frontend visual not certified",
+      "next_candidate": "ATL-0168 draft #2464",
+      "automation": "paused",
+      "media_id": 2493,
+      "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
+      "medicine_id": 2459,
+      "medicine_status": "publish"
     },
     "MANUAL_PAUSE_AND_RECOVERY_2026_11_21": {
       "automation_id": "6b00cb7b5a988191877878d9f84bebad",
@@ -2312,6 +2322,50 @@
       "no_media_producer_retry": true,
       "automation_disabled": true,
       "no_new_plant_created": true
+    },
+    "ATL-0168": {
+      "legacy": "ATL-0188",
+      "accepted": "Quercus coccifera L.",
+      "synonym": "Quercus calliprinos Webb",
+      "wp_id": 2464,
+      "status": "draft",
+      "media_gate": "RESOLVED_REAL_TRUSTED_PRODUCER",
+      "media_id": 2494,
+      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+      "medicine_id": 2476,
+      "medicine_status": "draft",
+      "specialist_meta": "17/17",
+      "legacy_meta": "11/11",
+      "seo": "getter noindex=false",
+      "relation_339": "present WRONG H436 quote572",
+      "relation_340": "present CORRECT H424 quote572",
+      "qa": "BLOCKED_ONLY_PENDING_DELETION_339; media original WordPress verified",
+      "automation": "paused"
+    },
+    "MANUAL_MEDIA_PUBLICATION_RECOVERY_20261121": {
+      "automation": "disabled",
+      "atl0167": {
+        "status": "publish",
+        "wp": 2455,
+        "media": 2493,
+        "medicine": 2459,
+        "medicine_status": "publish",
+        "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871"
+      },
+      "atl0168": {
+        "status": "draft",
+        "wp": 2464,
+        "media": 2494,
+        "medicine": 2476,
+        "medicine_status": "draft",
+        "bad_relation": 339,
+        "good_relation": 340,
+        "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e"
+      },
+      "trusted_webp_preflight": "succeeded",
+      "temporary_bridge_cleanup": "done",
+      "next_candidate": "ATL-0168",
+      "remaining_dependency": "delete wrong identification 339 via authorized admin path"
     }
   },
   "run_20261121_1835": {
