@@ -289,8 +289,10 @@
       "legacy_code": "ATL-0188",
       "scientific_name_working": "Quercus coccifera",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 546
+      "live_status": "next_automated_candidate_unverified",
+      "source_line": 546,
+      "operational_code": "ATL-0168",
+      "note": "NEXT only after live Kew/WP anti-dup. ATL-0167 draft #2455 blocked Library trusted producer; no repeated upload within 24h."
     },
     {
       "legacy_code": "ATL-0196",
@@ -1360,10 +1362,13 @@
       "legacy_code": "ATL-0187",
       "scientific_name_working": "Quercus aegilops",
       "checkbox_from_master": false,
-      "live_status": "next_automatic_pending_wp_kew_verification",
+      "live_status": "draft_blocked_library_trust_403",
       "source_line": 832,
       "operational_code": "ATL-0167",
-      "note": "Next automated run scheduled 2026-11-21 18:00 Europe/Rome, one taxon per hour. Check Kew accepted/name Quercus macrolepis and WP draft/published anti-dup before creation. If same published taxon skip. Automation enabled verified."
+      "note": "Kew Q. aegilops L. nom rej synonym of Q. ithaburensis subsp. macrolepis; WP draft #2455 created; genuine WebP Library preflight HTTP403 trusted producer. No image generated, no publication; source and full meta gates incomplete. Recover draft #2455, do not duplicate. Dossier STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md.",
+      "scientific_name_accepted": "Quercus ithaburensis subsp. macrolepis (Kotschy) Hedge & Yalt.",
+      "wordpress_id": 2455,
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0189",
