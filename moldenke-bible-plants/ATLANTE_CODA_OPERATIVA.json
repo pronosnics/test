@@ -10,8 +10,8 @@
       "legacy": "ATL-0188",
       "taxon": "Quercus coccifera L.",
       "wp_id": null,
-      "state": "NEXT_AUTOMATED_Kew_WP_ANTIDUP_REQUIRED",
-      "next": "Check live WP/Kew and pre-existing drafts first; only one species. Existing ATL-0167 draft #2455 blocked by Library trust 403; do not retry upload until 24h unless changed conditions."
+      "state": "RESEARCH_QA_Kew_ACCEPTED_WP_NO_AUTONOMOUS_POST_CONFIRMED_MEDIA_COOLDOWN",
+      "next": "Finish firsthand historical sources and specialist metadata; do not create draft or media until producer trust gate permits legitimate preflight after 2026-11-22 18:02:38 Europe/Rome unless documented producer change"
     }
   ],
   "known_published_not_to_duplicate": [
@@ -593,5 +593,16 @@
     }
   ],
   "last_attempted": "ATL-0167",
-  "last_attempt_status": "DRAFT_WP2455_SCIENCE_QA_ADVANCED_BLOCKED_LIBRARY_TRUST_403"
+  "last_attempt_status": "DRAFT_WP2455_SCIENCE_QA_ADVANCED_BLOCKED_LIBRARY_TRUST_403",
+  "last_run": {
+    "at": "2026-11-21T18:35:39+01:00",
+    "taxon": "ATL-0168",
+    "status": "RESEARCH_ONLY_BLOCKED_LIBRARY_TRUST_403_COOLDOWN",
+    "wp_created": false,
+    "published": false,
+    "kew": "accepted IPNI 295963-1",
+    "synonym": "Quercus calliprinos Webb",
+    "prior_draft_2455": "draft confirmed",
+    "next": "ATL-0168"
+  }
 }
