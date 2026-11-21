@@ -30,3 +30,9 @@
 - **ATL-0172-QL (legacy ATL-0192) Quercus lusitanica WP #2567** revisionata e PUBLISHED, medicina #2569 PUBLISHED, immagine #2570; dossier separato `STATO_ATLANTE_ATL0172_QL_QUERCUS_LUSITANICA_2026-11-21.md`.
 - **NEXT legacy ATL-0194 — *Retama raetam***, da verificare live tassonomia e sinonimi (es. trattamento Kew), eventuali schede WP e codici, **non iniziare un'altra specie in questa esecuzione**.
 - Automazione unica `6b00cb7b5a988191877878d9f84bebad` **DISATTIVATA** (`is_enabled=false` verificato), schedule invariato.
+
+
+## Revisione finale aggiuntiva 21/11/2026
+- WP #2585 pianta e #2587 medicina riletti `publish`; media #2588 e famiglia Ranunculaceae #11 confermati, 19 citazioni alla pianta e 9 alla medicina, relazione #343 con Matteo6:28–30 `controversa`, Yoast `noindex=false` su entrambi.
+- Corretta nel testo WordPress pianta #2585 una residua sequenza Markdown letterale `**controverse**`, ora HTML valido `<strong>controverse</strong>` tramite search/replace 1 occorrenza, mantenuto lo status PUBLISHED e tutto il resto invariato.
+- Fonti Moldenke1952 p43, Post1896 p39, Zohary1982 p174, Tristram1867 pp463–465 e Duke2008 pp369–371 già collazionate; non modificata l'incertezza sulla categoria evangelica dei «gigli dei campi». Nessuna nuova scheda/relazione per Ranunculus.
