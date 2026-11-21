@@ -1310,11 +1310,12 @@
       "legacy_code": "ATL-0181",
       "scientific_name_working": "Populus alba",
       "checkbox_from_master": false,
-      "live_status": "next_candidate_needs_live_anti_dup",
+      "live_status": "draft",
       "source_line": 824,
       "operational_code": "ATL-0163",
       "verified_at": "2026-11-21",
-      "note": "Populus alba L. next, do Kew and live WP anti-dup, Moldenke p181 and Duke p348; not created during ATL-0162 run."
+      "note": "Populus alba L. next, do Kew and live WP anti-dup, Moldenke p181 and Duke p348; not created during ATL-0162 run.",
+      "wordpress_id": 2391
     },
     {
       "legacy_code": "ATL-0182",
