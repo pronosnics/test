@@ -1360,10 +1360,10 @@
       "legacy_code": "ATL-0187",
       "scientific_name_working": "Quercus aegilops",
       "checkbox_from_master": false,
-      "live_status": "next_auto_pending_kew_wp_verification",
+      "live_status": "next_automatic_pending_wp_kew_verification",
       "source_line": 832,
       "operational_code": "ATL-0167",
-      "note": "FIRST automated candidate for 21 Nov 2026 18:00 Europe/Rome, user explicitly reauthorised only pre-existing hourly automation. Must re-check accepted Kew scientific name incl Quercus macrolepis, synonyms, WP draft/publish; one plant per run. If equivalent published SKIP. Not yet created."
+      "note": "Next automated run scheduled 2026-11-21 18:00 Europe/Rome, one taxon per hour. Check Kew accepted/name Quercus macrolepis and WP draft/published anti-dup before creation. If same published taxon skip. Automation enabled verified."
     },
     {
       "legacy_code": "ATL-0189",
@@ -2151,8 +2151,8 @@
     },
     "AUTOMATION_2026-11-21_1800": {
       "request": "Reactivate the same unique automation id 6b00cb7b5a988191877878d9f84bebad at 18:00 Italy and hourly, one species each run",
-      "state": "pending_tool_verification",
-      "next_candidate": "ATL-0167 legacy ATL-0187 Quercus aegilops L.",
+      "state": "enabled_schedule_verified_run_not_yet_verified",
+      "next_candidate": "ATL-0167 / legacy ATL-0187 Quercus aegilops L.",
       "last_verified_published": "ATL-0166 WP#2441 Pterocarpus santalinus",
       "skip": "Legacy ATL-0186 Punica granatum WP#212 published",
       "subsequent": [
@@ -2161,7 +2161,14 @@
         "ATL-0190 Quercus ilex (check)"
       ],
       "authoritative_order": "new top master + queue + workflow + register + species dossier + live WordPress",
-      "rules": "1 taxon per run, no duplicates, max5 blocked drafts, preflight WebP trusted then no-text plate, scientific sources firsthand, full WordPress gates, GitHub state updated after each run"
+      "rules": "1 taxon per run, no duplicates, max5 blocked drafts, preflight WebP trusted then no-text plate, scientific sources firsthand, full WordPress gates, GitHub state updated after each run",
+      "verified_at": "2026-11-21",
+      "enabled": true,
+      "time_zone": "Europe/Rome",
+      "first_run_time": "2026-11-21T18:00:00+01:00",
+      "schedule": "DTSTART:20261121T180000;RRULE:FREQ=HOURLY",
+      "prompt_version": "V2 dynamic live GitHub + WordPress",
+      "manual_only": false
     }
   }
 }
