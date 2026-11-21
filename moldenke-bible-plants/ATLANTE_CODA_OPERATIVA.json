@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0163",
-      "legacy": "ATL-0181",
-      "taxon": "Populus alba L.",
-      "wp_id": 2391,
-      "state": "DRAFT_RESEARCH",
-      "next": "Resume #2391; direct historical source collations, filology, apparatus, full metadata, verified WebP preflight and no-raster-text original, Yoast and publish gates."
+      "code": "ATL-0164",
+      "legacy": "ATL-0182",
+      "taxon": "Populus euphratica Oliv.",
+      "wp_id": null,
+      "state": "NEXT_VERIFY_NO_POST_CREATED",
+      "next": "Next hourly run ONLY: read live master/queue/workflow/register and last dossier; verify Kew accepted/synonyms and WP draft/publish anti-duplicates BEFORE creating anything. Collate Moldenke p183 onward, Duke, Zohary, Post, Tristram, Balfour and LXX with disputed willow/poplar verses. Real WebP Library preflight then image, SHA media and all publish gates. Do NOT re-create already published Populus alba #2391."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -34,9 +34,13 @@
     {
       "taxon": "Platanus orientalis",
       "wp_id": 2336
+    },
+    {
+      "taxon": "Populus alba",
+      "wp_id": 2391
     }
   ],
-  "next_candidate": "ATL-0163",
+  "next_candidate": "ATL-0164",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -249,11 +253,55 @@
       "taxonomy_note": "Agrostis monspeliensis (L.) Romero Zarco & L.Sáez 2025 is homotypic synonym in POWO 2026, not a second taxon",
       "qa": "backend_publish_verified; yoast_getter_noindex_false; original_WebP_SHA_server_equals_local_in_WP_provenance; library_original_retained; frontend_visual_unverified",
       "date": "2026-11-21"
+    },
+    {
+      "code": "ATL-0163",
+      "legacy": "ATL-0181",
+      "taxon": "Populus alba L.",
+      "wp_id": 2391,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/pioppo-bianco-populus-alba-l-il-livneh-biblico-fra-pioppo-e-storace/",
+      "featured_media": 2397,
+      "sha256": "811c2d11d97770a82aad690b6481f517416c687b783e562be0412de6c567870c",
+      "family_id": 23,
+      "term_id": 2395,
+      "medicine_id": 2396,
+      "quotes_reused": [
+        473,
+        569
+      ],
+      "sources_created": [
+        2393,
+        2394,
+        2401
+      ],
+      "sources_reused": [
+        135,
+        136,
+        1554,
+        2041,
+        2042,
+        2043
+      ],
+      "citations": "1417–1434 (18, with comparative LXX)",
+      "passage_terms": [
+        269,
+        270
+      ],
+      "identifications": [
+        318,
+        319
+      ],
+      "meta": "17/17 specialist; 11/11 legacy; Yoast getter positive; noindex=false",
+      "media": "WebP 1024×1536 496048 byte, original Library saved, preflight+bridge deleted; alt/metadata verified",
+      "science": "Moldenke181–183; Duke348–350; Zohary132; Post744–745; Tristram389–390; Balfour51; Kew; BDBH3839; LXX Gen30:37 STORACE vs Osea4:13 PIOPPO; both identifications controversial",
+      "qa": "backend_publish_verified; sha256_local_equals_server; frontend_visual_unverified",
+      "date": "2026-11-21"
     }
   ],
-  "last_verified_published": "ATL-0162",
+  "last_verified_published": "ATL-0163",
   "blocked_items": [],
-  "run_rule": "Resume one taxon ATL-0163 Populus alba L. #2391 draft; do not duplicate; publish gates incomplete; automation unchanged.",
+  "run_rule": "NEXT ONE TAXON ONLY: ATL-0164 / legacy ATL-0182 Populus euphratica Oliv.; no WP post yet known; anti-duplicate live search required; do not touch published Populus alba #2391. Automation existing hourly unchanged; plugin/theme unchanged.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": true,
