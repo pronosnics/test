@@ -33,6 +33,26 @@
       "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/quercia-spinosa-quercus-coccifera-tannini-insetto-kermes-e-limiti-clinici/",
       "bad_relation_339": "deleted_confirmed",
       "good_relation_340": "present_confirmed"
+    },
+    {
+      "code": "ATL-0169",
+      "legacy": "ATL-0189",
+      "taxon": "Quercus pseudococcifera Desf.",
+      "wp_id": 2508,
+      "state": "PUBLISHED_BACKEND_VERIFIED_ORIGINAL_WEBP_SHA",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-pseudococcifera-quercus-pseudococcifera-desf-tassonomia-botanica-e-bibbia/",
+      "media_id": 2509,
+      "featured_media": 2509,
+      "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
+      "library_file_id": "libfile_df89539df30c8191ba15a86f97d32281",
+      "medicine_id": 2511,
+      "medicine_status": "publish",
+      "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/quercia-pseudococcifera-tannini-usi-generici-delle-querce-e-limiti-clinici/",
+      "source_citations": "plant 1546–1561 (16), medicine 1562–1566 (5)",
+      "identifications": [],
+      "reason_no_identification": "No reliable evidence Desf species in biblical Levant; historic pseudo-coccifera of Post/Tristram not automatically identical to Algerian lectotype",
+      "qa_visual": "not_certified",
+      "next": "COMPLETE; next candidate legacy ATL-0190 Quercus ilex, avoid historic ATL-0170 Phoenix code collision"
     }
   ],
   "known_published_not_to_duplicate": [
@@ -98,10 +118,36 @@
         "Quercus calliprinos Webb"
       ],
       "wp_id": 2464
+    },
+    {
+      "taxon": "Quercus pseudococcifera Desf.",
+      "synonyms": [
+        "Quercus coccifera var. pseudococcifera (Desf.) A.DC.",
+        "Quercus coccifera subsp. pseudococcifera (Desf.) Arcang."
+      ],
+      "wp_id": 2508
     }
   ],
-  "next_candidate": "ATL-0169",
+  "next_candidate": "ATL-0190",
   "completed_recent": [
+    {
+      "code": "ATL-0169",
+      "legacy": "ATL-0189",
+      "taxon": "Quercus pseudococcifera Desf.",
+      "wp_id": 2508,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-pseudococcifera-quercus-pseudococcifera-desf-tassonomia-botanica-e-bibbia/",
+      "featured_media": 2509,
+      "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
+      "family_id": 26,
+      "medicinal_record": 2511,
+      "medicinal_record_status": "publish",
+      "source_citations": "1546–1561 plant, 1562–1566 medicine",
+      "identifications": [],
+      "meta": "17/17 specialist + 11/11 legacy",
+      "qa": "backend publish verified, 24-chunk WebP SHA, Yoast getter noindex=false, no unsupported species-specific verse attribution, visual frontend unverified",
+      "date": "2026-11-21"
+    },
     {
       "code": "ATL-0168",
       "legacy": "ATL-0188",
@@ -578,19 +624,19 @@
     }
   ],
   "last_verified_published": {
-    "code": "ATL-0168",
-    "legacy": "ATL-0188",
-    "wp_id": 2464,
+    "code": "ATL-0169",
+    "legacy": "ATL-0189",
+    "wp_id": 2508,
     "wp_status": "publish",
-    "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
-    "media_id": 2494,
-    "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
-    "medicine_wp_id": 2476,
+    "url": "https://piantedellabibbia.altervista.org/piante/quercia-pseudococcifera-quercus-pseudococcifera-desf-tassonomia-botanica-e-bibbia/",
+    "media_id": 2509,
+    "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
+    "medicine_wp_id": 2511,
     "medicine_status": "publish",
     "verified": "2026-11-21"
   },
   "blocked_items": [],
-  "run_rule": "AUTOMATION STILL PAUSED, manual-only; ATL-0167/#2455 and ATL-0168/#2464 PUBLISHED with original media, medicine published. Future candidate ATL-0169 legacy 0189 Q.pseudococcifera requires Kew/WP anti-duplicate review. Do not restart automation without explicit request.",
+  "run_rule": "MANUAL ONLY, automation is_enabled=false. ATL-0169 published with original media and medical note, no duplicates. NEXT is legacy ATL-0190 Quercus ilex, operational code TBD due historic ATL-0170 Phoenix dactylifera #308 collision. No new task or species without user direction.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
@@ -610,7 +656,7 @@
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "manual_only_automation_paused",
-    "source_of_next": "Both ATL-0167/0168 are published; next candidate ATL-0169/legacy-0189 distinct Q.pseudococcifera, verify live POWO and WP for duplicates, manual only; do not resume automation.",
+    "source_of_next": "ATL-0169 WP2508 published; next LEGACY ATL-0190 Q.ilex, require fresh Kew/WP antidupe. Operational code NOT assigned: ATL-0170 already historical Phoenix dactylifera WP308. Automation paused.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -660,8 +706,8 @@
     "status": "PAUSED_BY_USER_CONFIRMED_2026-11-21"
   },
   "blocked_drafts": [],
-  "last_attempted": "ATL-0168",
-  "last_attempt_status": "PUBLISHED_VERIFIED_PLANT_2464_MEDICINE_2476_WRONG_LINK_339_REMOVED",
+  "last_attempted": "ATL-0169",
+  "last_attempt_status": "PUBLISHED_WP2508_MEDICINE2511_ORIGINAL_WEBP2509",
   "last_run": {
     "at": "2026-11-21T18:35:39+01:00",
     "taxon": "ATL-0168",
@@ -676,17 +722,9 @@
   "manual_recovery_priority": [],
   "future_taxa_to_verify": [
     {
-      "code": "ATL-0169",
-      "legacy": "ATL-0189",
-      "historical_label": "Quercus coccifera var. pseudococcifera (Desf.) Boiss. (Moldenke1952 p193)",
-      "taxon_accepted": "Quercus pseudococcifera Desf.",
-      "accepted_kew": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296626-1",
-      "note": "Different accepted species W/Central Mediterranean, formal varietal combination in Kew authored (Desf.) A.DC. Must not treat historical Levant pseudo-coccifera as verified modern occurrence. No WP plant created."
-    },
-    {
       "legacy": "ATL-0190",
       "taxon": "Quercus ilex L.",
-      "note": "Later after manual closure of blocked 167/168; verify Kew & WP."
+      "note": "Still unverified. Do not reuse operational ATL-0170: historical Phoenix dactylifera used ATL-0170, published WP308. Assign a non-conflicting new code after live duplicate and taxonomy review."
     }
   ],
   "manual_qa_latest": {
@@ -825,5 +863,26 @@
     "external_cache": "not_certified",
     "frontend_visual_qa": "not_certified",
     "automation": "paused"
+  },
+  "final_qa_0169_20261121": {
+    "wp_id": 2508,
+    "status": "publish",
+    "medicine_wp_id": 2511,
+    "medicine_status": "publish",
+    "family": 26,
+    "media": 2509,
+    "original_private_library": "libfile_df89539df30c8191ba15a86f97d32281",
+    "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
+    "botanical_meta": "17/17",
+    "legacy_meta": "11/11",
+    "medicine_meta": "16/16",
+    "claim_citations_plant": 16,
+    "claim_citations_medicine": 5,
+    "identifications_created": 0,
+    "preflight_and_bridge": "removed; Library original remains",
+    "seo_noindex": false,
+    "frontend_visual": "unverified",
+    "automation_enabled": false,
+    "next_legacy": "ATL-0190 Quercus ilex"
   }
 }
