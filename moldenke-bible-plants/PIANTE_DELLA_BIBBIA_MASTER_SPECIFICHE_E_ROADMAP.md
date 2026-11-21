@@ -817,7 +817,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0174 legacy / ATL-0158 operativo · *Pinus pinea* L.** — PUBBLICATO WP #2272, Media featured #2274, sources Kew/JRC #2276/#2277, citazioni #1319–1327, medicina #2279, identifications controversa #307; SEO getter positivo, SHA verificato. [Dossier](STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0158.md). NO duplicati.
 
-- [x] **ATL-0175 legacy / ATL-0159 operativo · *Pistacia atlantica* Desf.** — PUBBLICATA WordPress #2291, WebP featured #2292 e checksum server=locale, Pinaceae NO: famiglia corretta Anacardiaceae #21; 6 identificazioni controverse e apparati certificati. [Dossier](STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0159.md). NON ricreare.
+- [x] **ATL-0175 legacy / ATL-0159 operativo · *Pistacia atlantica* Desf.** — PUBBLICATA WordPress #2291, WebP featured #2292 e checksum server=locale, famiglia Anacardiaceae #21; 6 identificazioni controverse e apparati certificati. [Dossier](STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0159.md). NON ricreare.
 
 - [ ] **ATL-0178 legacy / ATL-0160 operativo PROPOSTO · *Pistacia vera* L.** — PROSSIMO CANDIDATO (pistacchio vero), Moldenke voce 163 p179, Duke da p343; WP ricerca preliminare solo menzioni, confermare anti-duplicati Kew e WordPress prima di creare. Distinto da P. atlantica #2291, P. lentiscus #597, P. terebinthus #557.
 
