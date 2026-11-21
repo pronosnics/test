@@ -1,5 +1,8 @@
 # WORKFLOW ATLANTE V2 — 21/11/2026
 
+**STATO CANONICO 21/11/2026 — ATL-0160 COMPLETATA:** *Pistacia vera* L. WP #2312 `publish`; Kew accepted 70280-1; originale WebP #2326 SHA locale=server `a6e9a959185a7dc5d56c89e5362c25ee22ac22d4850bb492b56c88d288bdcf72`, privato in Libreria, ponte/preflight eliminati; SEO getter positiva e noindex=false. Apparati: 14 citazioni fonte pianta, 2 medicina, 4 lemma, 2 quote; term `boṭnîm` #2324, medicine #2327, quote Gen43:11 #474 riusata, relation passage_terms #263 e identification #314 `controversa`. Post 1896 p206 descrive direttamente P. vera coltivata vicino Damasco: corretta omissione in scheda, non prova Gen43:11; nessuna falsa certezza filologica; Grilli Caiola non letto. QA frontend visiva non certificata. **PROSSIMO CANDIDATO ATL-0161 / legacy ATL-0179 *Platanus orientalis* L.**, previo anti duplicati live; **ATL-0160 non è più in coda**. Unica automazione ID `6b00cb7b5a988191877878d9f84bebad` verificata attiva, FREQ=HOURLY invariato, prossima 15:01 Europe/Rome. Dossier [ATL0160](STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0160.md); master e coda prevalgono su vecchie note storiche.
+
+
 Fonte di verità: leggere ad ogni corsa master, ATLANTE_CODA_OPERATIVA.json, dossier più recente, e confrontare gli stati con WordPress live. Il registro strutturato censisce le caselle legacy, ma i record non verificati LIVE non sono certificazioni.
 Una sola automazione ID 6b00cb7b5a988191877878d9f84bebad, attiva, ora e frequenza invariate. UNA sola specie botanica per corsa. Nessun nuovo task, nessun plugin/tema modificato.
 
