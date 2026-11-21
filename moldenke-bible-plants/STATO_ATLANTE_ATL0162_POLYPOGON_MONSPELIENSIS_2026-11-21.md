@@ -1,7 +1,16 @@
-# ATL-0162 — *Polypogon monspeliensis* (L.) Desf. — dossier operativo 21/11/2026
+# ATL-0162 — *Polypogon monspeliensis* (L.) Desf. — DOSSIER CHIUSURA 21/11/2026
 
-**Stato backend finale verificato:** WP pianta **#2363 PUBLISHED**, [permalink](https://piantedellabibbia.altervista.org/piante/polipogone-di-montpellier-polypogon-monspeliensis-l-desf-e-le-erbe-bibliche/), riletta dopo il passaggio draft→publish. Il taxon NON è da ricreare. Legacy **ATL-0180**. Taxonomy **Poaceae #18**; 17/17 meta specialistici popolati e 11/11 legacy. Yoast getter per #2363: title, description, keyword, `noindex=false`, `nofollow=false`.
+**STATO CANONICO PUBBLICATO, VERIFICATO SU WORDPRESS DOPO IL PASSAGGIO FINALE: WP pianta #2363 `publish`.** URL: https://piantedellabibbia.altervista.org/piante/polipogone-di-montpellier-polypogon-monspeliensis-l-desf-e-le-erbe-bibliche/ . Legacy ATL-0180 / operativo ATL-0162, famiglia Poaceae #18. `pdb/get-content` e `yoast-seo/get-post-seo-data` riletti dopo publish: corpo HTML 14.561 caratteri, 17/17 meta specialistici e 11/11 legacy pieni, featured #2365, titolo SEO/description/keyphrase, `noindex=false`, `nofollow=false`.
 
+**IMMAGINE SENZA SCRITTE**, confermata da ispezione locale: WebP 1024×1536, **386770 byte**, filename `atl-0162-polypogon-monspeliensis-tavola-senza-scritte.webp`; SHA256 originale `66fb096d6a676c252f32117a42516c9f4b963e62511b43a31bbcd1d6792ca888` **IDENTICO** al digest restituito esplicitamente da **WordPress `pdb/atlas-media-finish`** per attachment/featured #2365. Caricamento 17 righe Base64 raggruppate in 9 blocchi 48000×8 e 2770 byte, offset certificati fino a 386770; originale WebP privato in Libreria `/PIANTE DELLA BIBBIA/atl-0162-polypogon-monspeliensis-tavola-senza-scritte.webp`; bridge temporaneo e preflight eliminati DOPO la verifica; originale NON eliminato. Nessun lettering, titolo, etichetta o watermark nel raster; ALT e didascalia esclusivamente metadati WordPress. **REGOLA PERMANENTE DI WORKFLOW: tutte le nuove immagini senza scritte.**
+
+**APPARATI CHIUSI:** quote generale Genesi1:11–12 **#2378 PUBLISHED, 15/15 meta**, riutilizzabile per altri taxa; lemma ebraico *déšeʾ* H1877 **#2379 PUBLISHED, 8/8 meta**; relazione generica `passage_terms` #268 **NON specie-specifica**; nessuna identificazione botanica inventata (0 `identifications` per #2363). Medicina **#2384 PUBLISHED, 16/16 meta**, registra l'assenza di prove cliniche specie-specifiche senza ricette. Nuove fonti **#2366–2371** (Kew, Flora NZ, PlantNET, VicFlora, Flora Israel, Dryades), fonte lessicale BDB H1877 **#2382**, fonte nomenclaturale Romero-Zarco & Sáez 2025 **#2388**, tutte `publish`. Storiche Moldenke #135 e Post #2041 RIUTILIZZATE. `source_citations` **pianta #1402–1409 e #1416 (9)**, medicina **#1410–1411 (2)**, termine **#1412–1413 (2)**, quote **#1414–1415 (2)**. Post 1896 p841 descrive GENERE Polypogon nella chiave, non la specie; integrato record fonte #2041.
+
+**Esito scientifico:** Kew 2026 accepted *Polypogon monspeliensis* (L.) Desf., *Agrostis monspeliensis* (L.) Romero Zarco & L.Sáez (2025) è un **SINONIMO** secondo Kew, non nuova specie; Moldenke pp28–29 nomina il taxon tra SEI graminacee plausibili genericamente nei testi, **NON identification di Genesi1:11–12**. Duke, Zohary, Tristram, Balfour non attribuiti falsamente. **QA_VISIVA_FRONTEND_NON_CERTIFICATA**: nessuna affermazione di QA responsive/browser della pagina esterna. Automazione unica ID `6b00cb7b5a988191877878d9f84bebad` FREQ=HOURLY **NON MODIFICATA**.
+
+**NEXT candidato:** ATL-0163 / legacy ATL-0181 *Populus alba* L., dopo verifica LIVE WordPress, Kew, fonti, sinonimi e possibili duplicati; non creare nuove specie in questo stesso ciclo.
+
+## Collazione svolta nella fase di ricerca (precedente al publish)
 ## Ricerca scientifica e nuovo dato nomenclaturale
 - Kew POWO **accetta** `Polypogon monspeliensis (L.) Desf.`, identificatore 1048074-2, `Flora Atlantica` 1:66 (1798). Basionimo `Alopecurus monspeliensis` L., 1753. Presenti Palestine, Lebanon-Syria, Sinai nell'areale nativo odierno di Kew, non prova uso nominativo biblico.
 - **Aggiornamento 2025:** Romero-Zarco & Sáez, *Three new nomenclatural combinations in Agrostis L.*, *Acta Botanica Malacitana* 50 (2025), articolo 21009, p.2, DOI https://doi.org/10.24310/abm.v50.2025.21009: combinazione `Agrostis monspeliensis (L.) Romero Zarco & L.Sáez`. Kew POWO 2026 la classifica **SINONIMO** di `Polypogon monspeliensis` (https://powo.science.kew.org/taxon/77357318-1). Non creare un nuovo taxon e non cancellare il titolo sotto il nome accettato da Kew.
@@ -27,3 +36,6 @@
 - Automazione unica `6b00cb7b5a988191877878d9f84bebad` verificata ATTIVA, `FREQ=HOURLY`, prossima run 16:01 Europe/Rome al momento del controllo; non alterata.
 
 **PROSSIMO CANDIDATO:** **ATL-0163 / legacy ATL-0181 *Populus alba* L.**, da verificare ex novo prima di crearne la scheda (anche per sinonimi e citazioni già presenti). **ATL-0162 #2363 PUBLISHED**, non duplicare. Nessun plugin/tema alterato, automazione oraria unica invariata.
+
+
+*Nota: le annotazioni di bozza riportate nella sezione di ricerca sono cronologia del controllo iniziale e non stato attuale.*
