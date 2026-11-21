@@ -1,6 +1,6 @@
 # ATL-0162 — *Polypogon monspeliensis* (L.) Desf. — dossier operativo 21/11/2026
 
-**Stato backend verificato durante questa sessione:** WP pianta **#2363 DRAFT**. Il taxon NON è da ricreare. Legacy **ATL-0180**. Taxonomy **Poaceae #18**; 17/17 meta specialistici popolati e 11/11 legacy. Yoast getter per #2363: title, description, keyword, `noindex=false`, `nofollow=false`.
+**Stato backend finale verificato:** WP pianta **#2363 PUBLISHED**, [permalink](https://piantedellabibbia.altervista.org/piante/polipogone-di-montpellier-polypogon-monspeliensis-l-desf-e-le-erbe-bibliche/), riletta dopo il passaggio draft→publish. Il taxon NON è da ricreare. Legacy **ATL-0180**. Taxonomy **Poaceae #18**; 17/17 meta specialistici popolati e 11/11 legacy. Yoast getter per #2363: title, description, keyword, `noindex=false`, `nofollow=false`.
 
 ## Ricerca scientifica e nuovo dato nomenclaturale
 - Kew POWO **accetta** `Polypogon monspeliensis (L.) Desf.`, identificatore 1048074-2, `Flora Atlantica` 1:66 (1798). Basionimo `Alopecurus monspeliensis` L., 1753. Presenti Palestine, Lebanon-Syria, Sinai nell'areale nativo odierno di Kew, non prova uso nominativo biblico.
@@ -12,7 +12,7 @@
 - Frontend HTML con nuovo paragrafo tassonomico 2025 e bibliografia aggiunta alla stessa scheda WP #2363, con aggiornamento parallelo di `plant.sources`, `plant.historical_context`, `pdb_scientific_synonyms`, `pdb_history`.
 
 ## Apparati WordPress
-- Scheda **#2363 bozza**; `featured_media=#2365`; famiglia Poaceae #18.
+- Scheda **#2363 PUBLISHED**; `featured_media=#2365`; famiglia Poaceae #18.
 - Fonti Kew #2366, Flora NZ #2367, PlantNET #2368, VicFlora #2369, Flora Israel #2370, Dryades #2371; fonte storica Moldenke #135 e Post #2041 RIUTILIZZATE.
 - Source_citations #1402–1409 (botanica e filologia genericamente) già presenti, **fonte nuova #2388 PUBLISHED** Romero-Zarco & Sáez 2025 e **source_citation #1416** con locator p.2. Non duplicare fonti o relazioni.
 - **Non creare relation `identifications`** né `passage_terms` a nome di specie per i versetti generici: sarebbe falsa identificazione. Le occorrenze testuali bibliche sono documentate nella pagina con grado esplicito.
@@ -20,10 +20,10 @@
 ## Immagine, verifiche e gate di pubblicazione
 - Media WordPress **#2365**, file WebP `atl-0162-polypogon-monspeliensis-tavola-senza-scritte.webp`, riscontrato `_wp_attachment_metadata`: 1024×1536, 386770 byte, attachment URL e featured confermati; ALT associato.
 - Originale privato in Libreria `/PIANTE DELLA BIBBIA/atl-0162-polypogon-monspeliensis-tavola-senza-scritte.webp`. Riletto come file binario WebP: **SHA256 locale `66fb096d6a676c252f32117a42516c9f4b963e62511b43a31bbcd1d6792ca888`**, 386770 byte 1024×1536. Ispezione VISIVA della tavola locale: nessuna scritta visibile. File originale privato mantenuto.
-- **SHA256 del file remoto lato WordPress non acquisito direttamente in questa revisione**: la coincidenza di byte e dimensioni non è equiparata all'uguaglianza di hash server/originale. Se chi ha effettuato `pdb/atlas-media-finish` ha ricevuto la risposta checksum, registrarla nel dossier e in `pdb_image_provenance` e certificare il gate. Non inventare conferma.
+- **MEDIA SHA256 CERTIFICATO dal backend al termine dell'upload e riletta la relativa provenance WordPress dopo la pubblicazione:** `pdb_image_provenance` afferma espressamente che il checksum restituito da WordPress è IDENTICO a quello dell'originale privato `66fb096d6a676c252f32117a42516c9f4b963e62511b43a31bbcd1d6792ca888`. Controllo indipendente dell'originale di Libreria in questa sessione: WebP 386770 byte, 1024×1536, stessa SHA. L'identità del checksum server è documentata dalla provenance pubblicata, non da una seconda lettura binaria HTTP del server.
 - L'ulteriore preflight temporaneo `atlante_webp_preflight_0162.webp` creato in questa sessione è stato eliminato dalla Libreria (cestino). Non cancellare l'altro preflight e il ponte `atl-0162-bridge-temporaneo-base64.txt` finché la sessione che li usa non ha confermato upload e cleanup.
-- **GATE non interamente certificato; WP ancora DRAFT in questa revisione**. Non asserire PUBLISHED senza nuova rilettura backend di `status=publish`, URL, SHA remote, SEO, famiglia e apparati.
+- **GATE BACKEND CERTIFICATI**: WP `status=publish` e URL permanente riletti; Poaceae #18, featured e media meta #2365, 17/17 specialistici e 11/11 legacy, fonte nuova #2388 publish con citation #1416, Yoast getter con title, description, focus e `noindex=false`, `nofollow=false`, WebP originale e SHA documentato come uguale lato WP. Non certificata visualizzazione esterna HTML desktop/mobile.
 - `QA_VISIVA_FRONTEND_NON_CERTIFICATA` per desktop/mobile esterni; la visione dell'illustrazione locale non equivale ad audit pagina.
 - Automazione unica `6b00cb7b5a988191877878d9f84bebad` verificata ATTIVA, `FREQ=HOURLY`, prossima run 16:01 Europe/Rome al momento del controllo; non alterata.
 
-**Prossimo passo:** recuperare **ATL-0162 #2363** e certificare media gate; pubblicare solo dopo passaggio di tutti i controlli. Solo alla pubblicazione confermata assegnare **ATL-0163 / legacy ATL-0181 *Populus alba* L.** come nuovo candidato (previo anti-duplicati).
+**PROSSIMO CANDIDATO:** **ATL-0163 / legacy ATL-0181 *Populus alba* L.**, da verificare ex novo prima di crearne la scheda (anche per sinonimi e citazioni già presenti). **ATL-0162 #2363 PUBLISHED**, non duplicare. Nessun plugin/tema alterato, automazione oraria unica invariata.
