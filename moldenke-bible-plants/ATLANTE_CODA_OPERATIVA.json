@@ -71,11 +71,29 @@
         312,
         313
       ],
-      "qa": "backend_verified; yoast_getter_verified; frontend_visual_unverified",
-      "date": "2026-11-21"
+      "qa": "backend_verified; yoast_getter_verified; science_qa_updated; frontend_visual_unverified",
+      "date": "2026-11-21",
+      "source_ids_added_in_audit": [
+        2308,
+        2309
+      ],
+      "source_citations_added_in_audit": [
+        1346,
+        1347,
+        1348,
+        1349,
+        1350
+      ],
+      "science_qa": "2026-11-21 direct source collations and live WP corrections: morphology variability, Josh24:26, 1Chr10:12 v 1Sam31:13, RCT clinical limitations. Publication preserved; no duplicate taxon.",
+      "science_citation_counts": {
+        "plant": 13,
+        "medicine": 5,
+        "quote": 3
+      },
+      "outstanding_editorial_note": "Identification #313 comparative Duke p337–339 locator: p339 belongs to P. lentiscus, pending in-place relation locator edit when supported; not a new or certain identification."
     }
   ],
   "last_verified_published": "ATL-0159",
   "blocked_items": [],
-  "run_rule": "One taxon per run: read current live master, queue, newest dossier and WP. ATL0159 WP#2291 is PUBLISHED, no duplicate; next proposed ATL0160 legacy ATL0178 Pistacia vera, pending live anti-duplicates. Media preflight must be repeated per actual runtime. Keep one hourly task unchanged."
+  "run_rule": "One taxon per run; ATL0159 #2291 remains publish after scientific QA, source posts #2308/#2309 published; no duplicate. NEXT ATL0160 Pistacia vera after live anti-duplicates; only existing hourly automation, unchanged schedule. Media WebP preflight per runtime. QA_VISIVA_FRONTEND_NON_CERTIFICATA."
 }
