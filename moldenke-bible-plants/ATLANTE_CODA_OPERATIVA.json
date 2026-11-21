@@ -10,8 +10,8 @@
       "legacy": "ATL-0187",
       "taxon": "Quercus aegilops L.",
       "wp_id": null,
-      "state": "NEXT_CANDIDATE_MANUAL_ONLY_AUTOMATION_PAUSED",
-      "next": "User must explicitly request next manual run. Read live master/coda/workflow/registro/dossier; check Kew accepted name/synonyms, WP draft/publish anti-duplicates incl Quercus macrolepis/ithaburensis before any creation. 1 taxon only, complete sources and true WebP Library preflight. DO NOT duplicate published Pterocarpus santalinus #2441 or Punica granatum #212."
+      "state": "NEXT_AUTOMATED_PENDING_WP_KEW_CHECK",
+      "next": "AT NEXT AUTOMATION RUN: verify Kew accepted name for Quercus aegilops L. and synonyms (including Quercus macrolepis), WordPress draft+publish/title+metas and duplicates, scientific sources and media preflight; do NOT create another taxonomy record if equivalent post exists; process ONLY one taxon this run."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -503,7 +503,7 @@
   ],
   "last_verified_published": "ATL-0166",
   "blocked_items": [],
-  "run_rule": "Automation hourly id 6b00cb7b5a988191877878d9f84bebad remains DISABLED (is_enabled=false), schedule unchanged, no new tasks. Next ONLY if user explicitly requests ATL-0167 legacy ATL-0187 Quercus aegilops L. after Kew/WP anti-dup. ATL-0166 Pterocarpus santalinus WP#2441 PUBLISHED; legacy ATL-0186 Punica granatum already WP#212 PUBLISHED, SKIP.",
+  "run_rule": "User explicitly requests reactivation of the ONE pre-existing hourly automation, starting 21 Nov 2026 at 18:00 Europe/Rome (18:00/19:00/20:00 ...). No duplicate task. Next first automatic run ATL-0167 / legacy ATL-0187 Quercus aegilops only after Kew/WP anti-duplicate. After each run choose one next taxon dynamically from master/registry/WordPress and save dossier, master, queue, registry. Previously legacy ATL-0186 Punica granatum WP#212 already published. Older notes saying manual-only/paused are historical.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
@@ -512,5 +512,57 @@
     "checked": "2026-11-21",
     "pause_reason": "User requested suspension; manual ATL-0166 performed without restart",
     "next_run_time": null
+  },
+  "selection_policy": {
+    "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
+    "mode": "automatic_one_taxon_per_hour",
+    "source_of_next": "items[0] next candidate unless an older recoverable draft is eligible; after each run update GitHub queue, registry, master, species dossier with actual backend state and next candidate",
+    "priority": [
+      "Recover an unfinished WordPress draft when dependencies unblocked",
+      "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
+      "If accepted name is synonym of published taxon, SKIP and document; never create same plant twice",
+      "If taxonomy entry incomplete/unclear, flag it for resolution and continue with next validated independent taxon; do not fabricate species"
+    ],
+    "after_ATL0167_hints": [
+      {
+        "legacy": "ATL-0188",
+        "taxon": "Quercus coccifera",
+        "status": "UNVERIFIED: check accepted taxonomy/synonyms + WP"
+      },
+      {
+        "legacy": "ATL-0189",
+        "taxon": "Quercus coccifera var",
+        "status": "INCOMPLETE LEGACY LABEL: do not invent an epithet or create a separate species; resolve from original master/sources; skip if synonym/duplicate"
+      },
+      {
+        "legacy": "ATL-0190",
+        "taxon": "Quercus ilex",
+        "status": "UNVERIFIED: check Kew and WordPress"
+      },
+      {
+        "legacy": "ATL-0191+",
+        "taxon": "Continue legacy register in sequence",
+        "status": "ALWAYS verify actual species, synonyms, backend and master before creation"
+      }
+    ],
+    "hard_rules": [
+      "ONE species per run, plus previous-species QA only",
+      "Never create duplicates of plants/quotes/terms/sources/medicine/media/relations",
+      "At most 5 nonpublishable drafts: thereafter prioritize drafts over new posts",
+      "Repeated persistent HTTP403: at most one retry every 24h unless changed conditions, record BLOCKED_LIBRARY_TRUST_403",
+      "Before image generation, Library preflight MUST upload an actual WebP from trusted producer, not TXT; if 403 do not bypass via folder/PUT/plugin/theme",
+      "Original botanical WebP without ANY text in raster, retain private original, if needed temporary Base64 chunks with offset and SHA256 verified",
+      "Never publish until references/science/meta/legacy/media/Yoast getter + WP publish reread gates are passed",
+      "Visual front-end inaccessible => QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "No plugin/theme modification or additional automation"
+    ]
+  },
+  "automation_reactivation_request": {
+    "task_id": "6b00cb7b5a988191877878d9f84bebad",
+    "user_requested_at": "2026-11-21",
+    "first_run_local": "2026-11-21T18:00:00+01:00",
+    "timezone": "Europe/Rome",
+    "recurrence": "FREQ=HOURLY",
+    "status": "REQUESTED_PENDING_TOOL_CONFIRMATION"
   }
 }
