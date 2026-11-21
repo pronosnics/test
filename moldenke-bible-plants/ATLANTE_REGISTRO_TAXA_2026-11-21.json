@@ -1321,17 +1321,21 @@
       "legacy_code": "ATL-0182",
       "scientific_name_working": "Populus euphratica",
       "checkbox_from_master": false,
-      "live_status": "next_unverified",
+      "live_status": "published",
       "source_line": 826,
       "operational_code": "ATL-0164",
-      "note": "NEXT planned after published Populus alba WP#2391. No page created in ATL-0163 run. Must verify WP/Kew live, synonyms and existing drafts first; one species per run."
+      "note": "Populus euphratica Olivier PUBLISHED WP#2402, 17/17 specialist + 11/11 legacy; family Salicaceae23; original no-words WebP featured#2403 SHA verified; 31 citations, 4 controversial identifications, 5 passage_terms; SEO verified. MANUAL run, hourly automation PAUSED on user request; see dossier ATL-0164.",
+      "wordpress_id": 2402,
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0183",
       "scientific_name_working": "Prunus armeniaca",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 828
+      "live_status": "next_manual_candidate_unverified",
+      "source_line": 828,
+      "operational_code": "ATL-0165",
+      "note": "Albiccoco candidate only; no plant autonomous found in preliminary WordPress search on 21/11. Automation paused; do NOT create without explicit user request and live anti-duplicate/Kew check."
     },
     {
       "legacy_code": "ATL-0185",
@@ -1896,6 +1900,84 @@
       "next_candidate": "ATL-0164 / legacy ATL-0182 Populus euphratica Oliv.",
       "automation_schedule_changed": false,
       "plugins_themes_changed": false
+    },
+    "ATL-0164": {
+      "legacy": "ATL-0182",
+      "taxon": "Populus euphratica Olivier",
+      "wp_id": 2402,
+      "live_status": "published",
+      "url": "https://piantedellabibbia.altervista.org/piante/pioppo-delleufrate-populus-euphratica-olivier-i-salici-di-babilonia-e-le-identificazioni-bibliche/",
+      "date": "2026-11-21",
+      "content_chars": 17084,
+      "family_id": 23,
+      "media_id": 2403,
+      "media_sha256": "01ff7dbc1c957f7eeafa3aae1e741b8a478c32d6caf2131c8fdc6fd8806a94cb",
+      "media_bytes": 392092,
+      "media_dimensions": [
+        1024,
+        1536
+      ],
+      "library_original": "/PIANTE DELLA BIBBIA/atl-0164-populus-euphratica-tavola-senza-scritte.webp",
+      "library_temp_files": "bridge and preflight deleted",
+      "specialist_meta": "17/17",
+      "legacy_meta": "11/11",
+      "medicine_id": 2415,
+      "medicine_meta": "16/16",
+      "sources_new": [
+        2404,
+        2405,
+        2406,
+        2407,
+        2418
+      ],
+      "sources_reused": [
+        135,
+        136,
+        1554,
+        2041,
+        2042,
+        2043,
+        2069
+      ],
+      "hebrew_terms": [
+        2408,
+        2409,
+        2410
+      ],
+      "quotes_created": [
+        2411,
+        2412,
+        2413,
+        2414
+      ],
+      "quote_reused": [
+        316
+      ],
+      "source_citations": "1435–1465",
+      "source_citations_count": 31,
+      "passage_terms": [
+        271,
+        272,
+        273,
+        274,
+        275
+      ],
+      "identifications": [
+        320,
+        321,
+        322,
+        323
+      ],
+      "identification_status": "controversa",
+      "seo": "Yoast getter verified title/description/focus, noindex=false",
+      "frontend_qa": "QA_VISIVA_FRONTEND_NON_CERTIFICATA",
+      "automation": {
+        "id": "6b00cb7b5a988191877878d9f84bebad",
+        "enabled": false,
+        "schedule_changed": false,
+        "requested_pause": true
+      },
+      "next_candidate": "ATL-0165 Prunus armeniaca L. MANUAL only"
     }
   }
 }
