@@ -98,6 +98,48 @@
       "identification_status": "controversa",
       "qa_visual": "not_certified",
       "next": "COMPLETE. Legacy ATL-0192 Q. lusitanica, verify accepted taxon and WP duplicates before draft."
+    },
+    {
+      "code": "ATL-0172-QL",
+      "legacy": "ATL-0192",
+      "taxon": "Quercus lusitanica Lam.",
+      "wp_id": 2567,
+      "state": "PUBLISHED_BACKEND_VERIFIED_ORIGINAL_MEDIA_SHA",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-lusitana-quercus-lusitanica-lam-botanica-e-bibbia/",
+      "media_id": 2570,
+      "featured_media": 2570,
+      "sha256": "4bf59e84a3313e5b0a4cf3aafed1a6c3abd6e1014b869691ae740b17bed6b92d",
+      "library_file_id": "libfile_00743c825e988191bc53552d8e38e410",
+      "family_id": 26,
+      "medicine_id": 2569,
+      "medicine_status": "publish",
+      "source_citations": "1615–1634 (20 plant), 1635–1642 (8 medicine)",
+      "identifications": [],
+      "qa_visual": "not_certified",
+      "next": "Complete, no Levant species-specific biblical identification"
+    },
+    {
+      "code": "ATL-0173-RA",
+      "legacy": "ATL-0193",
+      "taxon": "Ranunculus asiaticus L.",
+      "wp_id": 2585,
+      "state": "PUBLISHED_BACKEND_VERIFIED_ORIGINAL_MEDIA_SHA",
+      "url": "https://piantedellabibbia.altervista.org/piante/ranuncolo-asiatico-ranunculus-asiaticus-l-fiori-dei-campi-bibbia/",
+      "media_id": 2588,
+      "featured_media": 2588,
+      "sha256": "df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29",
+      "library_file_id": "libfile_8c57e0e0a3188191b7717b072fdd4a9a",
+      "family_id": 11,
+      "medicine_id": 2587,
+      "medicine_status": "publish",
+      "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/ranuncolo-asiatico-ranunculus-asiaticus-protoanemonina-tossicita-e-limiti-medici/",
+      "source_citations": "1643–1661 (19 plant), 1662–1670 (9 medicine)",
+      "identifications": [
+        343
+      ],
+      "identification_status": "controversa",
+      "qa_visual": "not_certified",
+      "next": "Complete. Next legacy ATL-0194 Retama raetam; validate POWO/WP."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -186,10 +228,60 @@
       "code": "ATL-0171-QT",
       "legacy": "ATL-0191",
       "note": "Separate accepted nominotypical subsp from macrolepis WP2455"
+    },
+    {
+      "taxon": "Quercus lusitanica Lam.",
+      "wp_id": 2567,
+      "code": "ATL-0172-QL",
+      "legacy": "ATL-0192"
+    },
+    {
+      "taxon": "Ranunculus asiaticus L.",
+      "wp_id": 2585,
+      "code": "ATL-0173-RA",
+      "legacy": "ATL-0193"
     }
   ],
-  "next_candidate": "ATL-0192",
+  "next_candidate": "ATL-0194",
   "completed_recent": [
+    {
+      "code": "ATL-0173-RA",
+      "legacy": "ATL-0193",
+      "taxon": "Ranunculus asiaticus L.",
+      "wp_id": 2585,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/ranuncolo-asiatico-ranunculus-asiaticus-l-fiori-dei-campi-bibbia/",
+      "featured_media": 2588,
+      "sha256": "df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29",
+      "family_id": 11,
+      "medicinal_record": 2587,
+      "medicinal_record_status": "publish",
+      "source_citations": "19 plant +9 medicine",
+      "identifications": [
+        343
+      ],
+      "meta": "17/17 specialist, 9 extra legacy, medicine 16/16",
+      "qa": "backend publish, media SHA +private Library, Yoast false noindex, frontend visual not certified",
+      "date": "2026-11-21"
+    },
+    {
+      "code": "ATL-0172-QL",
+      "legacy": "ATL-0192",
+      "taxon": "Quercus lusitanica Lam.",
+      "wp_id": 2567,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-lusitana-quercus-lusitanica-lam-botanica-e-bibbia/",
+      "featured_media": 2570,
+      "sha256": "4bf59e84a3313e5b0a4cf3aafed1a6c3abd6e1014b869691ae740b17bed6b92d",
+      "family_id": 26,
+      "medicinal_record": 2569,
+      "medicinal_record_status": "publish",
+      "source_citations": "20 plant +8 medicine",
+      "identifications": [],
+      "meta": "17/17 specialist +11/11 legacy, medicine 16/16",
+      "qa": "backend and Yoast verified, no stale draft, frontend visual not certified",
+      "date": "2026-11-21"
+    },
     {
       "code": "ATL-0171-QT",
       "legacy": "ATL-0191",
@@ -724,22 +816,22 @@
     }
   ],
   "last_verified_published": {
-    "code": "ATL-0171-QT",
-    "legacy": "ATL-0191",
-    "taxon": "Quercus ithaburensis Decne. subsp. ithaburensis",
-    "wp_id": 2540,
+    "code": "ATL-0173-RA",
+    "legacy": "ATL-0193",
+    "taxon": "Ranunculus asiaticus L.",
+    "wp_id": 2585,
     "wp_status": "publish",
-    "url": "https://piantedellabibbia.altervista.org/piante/quercia-del-tabor-quercus-ithaburensis-subsp-ithaburensis-botanica-e-bibbia/",
-    "featured_media": 2541,
-    "media_sha256": "ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100",
-    "medicine_id": 2548,
+    "url": "https://piantedellabibbia.altervista.org/piante/ranuncolo-asiatico-ranunculus-asiaticus-l-fiori-dei-campi-bibbia/",
+    "featured_media": 2588,
+    "media_sha256": "df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29",
+    "medicine_id": 2587,
     "medicine_status": "publish",
-    "identification_id": 342,
+    "identification_id": 343,
     "identification_status": "controversa",
     "verified_at": "2026-11-21"
   },
   "blocked_items": [],
-  "run_rule": "Manual-only. No scheduled automation. Last published ATL-0171-QT legacy ATL-0191 WP2540, featured2541, medicine2548. Next validate legacy ATL-0192 Quercus lusitanica; do not create duplicate.",
+  "run_rule": "Manual-only; automation paused. Ranunculus asiaticus #2585 and Quercus lusitanica #2567 published with original image/medicine. Check next legacy ATL-0194 Retama raetam before starting.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
@@ -759,7 +851,7 @@
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "manual_only_automation_paused",
-    "source_of_next": "ATL-0171-QT nominotypical Q.ithaburensis published as WP2540, distinct from macrolepis WP2455. NEXT legacy ATL-0192 Quercus lusitanica; verify Kew accepted name/synonyms and WP live anti-dupe first. No task activation.",
+    "source_of_next": "ATL-0172-QL WP2567 and ATL-0173-RA WP2585 both PUBLISHED. Next legacy ATL-0194 Retama raetam, taxonomic accepted/synonyms and WP anti-duplicate required before new plant. Automation remains paused.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -809,8 +901,8 @@
     "status": "PAUSED_BY_USER_CONFIRMED_2026-11-21"
   },
   "blocked_drafts": [],
-  "last_attempted": "ATL-0171-QT",
-  "last_attempt_status": "PUBLISHED_WP2540_MEDIA2541_MEDICINE2548_LINK342_CONTROVERSA",
+  "last_attempted": "ATL-0173-RA",
+  "last_attempt_status": "PUBLISHED_WP2585_MEDIA2588_MEDICINE2587_IDENT343_CONTROVERSA",
   "last_run": {
     "at": "2026-11-21T18:35:39+01:00",
     "taxon": "ATL-0168",
@@ -825,14 +917,14 @@
   "manual_recovery_priority": [],
   "future_taxa_to_verify": [
     {
-      "legacy": "ATL-0192",
-      "taxon": "Quercus lusitanica",
-      "status": "UNVERIFIED: Kew name/author/synonym, WP live anti-duplicate before new draft"
+      "legacy": "ATL-0194",
+      "taxon": "Retama raetam",
+      "status": "UNVERIFIED live: Kew taxonomy, synonyms, anti-duplicate WordPress, scientific sources"
     },
     {
-      "legacy": "ATL-0193",
-      "taxon": "Ranunculus asiaticus",
-      "status": "only after review of legacy 0192"
+      "legacy": "ATL-0195",
+      "taxon": "Rhamnus palaestinas",
+      "status": "Later only, after handling ATL-0194"
     }
   ],
   "manual_qa_latest": {
@@ -1036,5 +1128,32 @@
     "visual_frontend_qa": "NOT_CERTIFIED",
     "automation_enabled": false,
     "next": "ATL-0192"
+  },
+  "final_qa_0172ql_20261121": {
+    "wp_id": 2567,
+    "status": "publish",
+    "medicine_id": 2569,
+    "medicine_status": "publish",
+    "media_id": 2570,
+    "plant_citations": 20,
+    "medicine_citations": 8,
+    "seo_noindex": false,
+    "frontend_visual": "not_certified"
+  },
+  "final_qa_0173ra_20261121": {
+    "wp_id": 2585,
+    "status": "publish",
+    "medicine_id": 2587,
+    "medicine_status": "publish",
+    "media_id": 2588,
+    "sha256": "df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29",
+    "family_id": 11,
+    "plant_citations": 19,
+    "medicine_citations": 9,
+    "identification_343": "controversa",
+    "seo_noindex": false,
+    "frontend_visual": "not_certified",
+    "automation_enabled": false,
+    "next": "ATL-0194"
   }
 }
