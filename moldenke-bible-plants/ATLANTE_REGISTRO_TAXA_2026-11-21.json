@@ -289,10 +289,12 @@
       "legacy_code": "ATL-0188",
       "scientific_name_working": "Quercus coccifera",
       "checkbox_from_master": false,
-      "live_status": "next_automated_candidate_unverified",
+      "live_status": "draft_wp2464_blocked_media_and_relation339",
       "source_line": 546,
       "operational_code": "ATL-0168",
-      "note": "NEXT only after live Kew/WP anti-dup. ATL-0167 draft #2455 blocked Library trusted producer; no repeated upload within 24h."
+      "note": "WP2464 DRAFT 11914 chars HTML, family26, 16/17 botanical (media0), legacy11/11, 17 source citations 1525-1541, medicine2476 draft 16/16, Yoast valid. Identifications 336-339 controversial, corrected 340 Judges6:11 H424 vs wrong339 H436. DELETE #339 before publish. Image trust 403, no media; automation paused.",
+      "wordpress_id": 2464,
+      "scientific_name_accepted": "Quercus coccifera L."
     },
     {
       "legacy_code": "ATL-0196",
@@ -1362,20 +1364,22 @@
       "legacy_code": "ATL-0187",
       "scientific_name_working": "Quercus aegilops",
       "checkbox_from_master": false,
-      "live_status": "draft_science_qa_advanced_blocked_library_trust_403",
+      "live_status": "draft_blocked_media_trust_403",
       "source_line": 832,
       "operational_code": "ATL-0167",
-      "note": "WP #2455 unchanged draft. HTML 8668 chars, Fagaceae #26, meta botanical 16/17 + legacy11/11, 13 source-citations #1512–1524, 3 controversial identifications #333–335, quote Is2:13 #2457 publish, medicine #2459 draft; Yoast getter positive; no WebP (Library trust 403). Retry after 22 Nov18:02 unless conditions changed. Taxon accepted macrolepis; synonyms Q.aegilops L./Q.macrolepis. No duplicate.",
+      "note": "WP#2455 DRAFT; 16/17 specialist media0, 11/11 legacy, Fagaceae #26, medicine#2459 16/16 traditional DRAFT; Yoast valid, source review direct, featured0; automation paused; not published.",
       "scientific_name_accepted": "Quercus ithaburensis subsp. macrolepis (Kotschy) Hedge & Yalt.",
       "wordpress_id": 2455,
       "verified_at": "2026-11-21T18:30:00+01:00"
     },
     {
       "legacy_code": "ATL-0189",
-      "scientific_name_working": "Quercus coccifera var",
+      "scientific_name_working": "Quercus coccifera var. pseudococcifera (Desf.) Boiss. (Moldenke historical name)",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 834
+      "live_status": "historic_label_resolved_kew_species_distinct_NOT_CREATED",
+      "source_line": 834,
+      "scientific_name_accepted": "Quercus pseudococcifera Desf.",
+      "note": "Moldenke1952 printed p193 explicit legacy 172. Kew accepted Q.pseudococcifera Desf. distinct from Q.coccifera L.; Kew varietal combination formally (Desf.) A.DC. Old Levant pseudo-coccifera references in Tristram/Post not automatically accepted western species. Future autonomous candidate manual only, not WP created."
     },
     {
       "legacy_code": "ATL-0190",
@@ -2212,6 +2216,46 @@
       "qa": "backend verified; media missing; frontend visual not certified",
       "next_candidate": "ATL-0168 / legacy ATL-0188 Quercus coccifera",
       "automation": "same unique hourly enabled, no schedule changes"
+    },
+    "MANUAL_PAUSE_AND_RECOVERY_2026_11_21": {
+      "automation_id": "6b00cb7b5a988191877878d9f84bebad",
+      "automation_state": "is_enabled=false VERIFIED by Automations.update",
+      "last_verified_published": "ATL-0166 WP#2441",
+      "drafts": [
+        {
+          "code": "ATL-0167",
+          "wp_id": 2455,
+          "medicine": 2459,
+          "science": "existing 8668 chars 16/17 meta 11/11 legacy",
+          "medical_meta": "16/16 evidence_level=traditional",
+          "media": "BLOCKED_LIBRARY_TRUST_403"
+        },
+        {
+          "code": "ATL-0168",
+          "wp_id": 2464,
+          "medicine": 2476,
+          "science": "new 11914 chars 16/17 meta 11/11 legacy",
+          "source_citations": "1525-1541",
+          "sources_new": [
+            2466,
+            2467,
+            2468,
+            2469,
+            2470
+          ],
+          "identifications": [
+            336,
+            337,
+            338,
+            339,
+            340
+          ],
+          "relation_error": "#339 must be deleted, #340 correct for Judges6:11 ʾēlâ H424",
+          "media": "BLOCKED_LIBRARY_TRUST_403"
+        }
+      ],
+      "taxonomic_correction": "Legacy 0189 = historical Q.coccifera var.pseudococcifera, accepted separate Q.pseudococcifera Desf Kew W/C Med; do not duplicate or equate old Levant usage.",
+      "next": "MANUAL recovery ATL-0167 then ATL-0168; later ATL-0189 distinct only when approved"
     }
   },
   "run_20261121_1835": {
