@@ -1400,10 +1400,20 @@
     },
     {
       "legacy_code": "ATL-0190",
-      "scientific_name_working": "Quercus ilex",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 836
+      "scientific_name_working": "Quercus ilex L.",
+      "checkbox_from_master": true,
+      "live_status": "published_wp2525_media2530_medicine2529_greek_prinos_uncertain",
+      "source_line": 836,
+      "scientific_name_accepted": "Quercus ilex L.",
+      "operational_code": "ATL-0170-QI",
+      "wordpress_id": 2525,
+      "medicine_id": 2529,
+      "medicine_status": "publish",
+      "media_id": 2530,
+      "sha256": "22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25",
+      "url": "https://piantedellabibbia.altervista.org/piante/leccio-quercus-ilex-l-botanica-susanna-e-identificazioni-bibliche/",
+      "verified_at": "2026-11-21",
+      "note": "PUBLISHED WP2525; code ATL-0170-QI not colliding ATL-0170 Phoenix; Fagaceae26, 17/17+11/11 meta, original Media2530 SHA verified, medicine2529 published, source citations 16+6+3, quote605 reused, prinos2527, link identification341 CONTROVERSA, no Levant native per Kew. Frontend visual not certified."
     },
     {
       "legacy_code": "ATL-0191",
@@ -2426,6 +2436,23 @@
       "next_legacy": "ATL-0190 Quercus ilex",
       "next_operational": "TBD, because ATL-0170 already Phoenix dactylifera",
       "automation_enabled": false
+    },
+    "ATL-0170-QI": {
+      "legacy": "ATL-0190",
+      "taxon": "Quercus ilex L.",
+      "wp_id": 2525,
+      "status": "publish",
+      "media_id": 2530,
+      "medicine_id": 2529,
+      "medicine_status": "publish",
+      "term_id": 2527,
+      "quote_id": 605,
+      "identification_id": 341,
+      "identification_status": "controversa",
+      "next_legacy": "ATL-0191 Quercus ithaburensis anti-duplicate with subsp.macrolepis WP2455",
+      "source": "STATO_ATLANTE_ATL0170_QI_QUERCUS_ILEX_2026-11-21.md",
+      "automation": "paused",
+      "date": "2026-11-21"
     }
   },
   "run_20261121_1835": {
