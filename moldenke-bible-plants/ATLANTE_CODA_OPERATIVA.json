@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0164",
-      "legacy": "ATL-0182",
-      "taxon": "Populus euphratica Oliv.",
+      "code": "ATL-0165",
+      "legacy": "ATL-0183",
+      "taxon": "Prunus armeniaca L.",
       "wp_id": null,
-      "state": "NEXT_VERIFY_NO_POST_CREATED",
-      "next": "Next hourly run ONLY: read live master/queue/workflow/register and last dossier; verify Kew accepted/synonyms and WP draft/publish anti-duplicates BEFORE creating anything. Collate Moldenke p183 onward, Duke, Zohary, Post, Tristram, Balfour and LXX with disputed willow/poplar verses. Real WebP Library preflight then image, SHA media and all publish gates. Do NOT re-create already published Populus alba #2391."
+      "state": "NEXT_CANDIDATE_MANUAL_ONLY_AUTOMATION_PAUSED",
+      "next": "ONLY after explicit user request. Automation ID 6b00cb7b5a988191877878d9f84bebad is DISABLED; do not restart. At next manual run verify WordPress drafts/published and Kew accepted/synonyms before creating. Moldenke voce167 p184+, Duke apricot p352+, Zohary, Post, Tristram, Balfour, Dafni–Böck where relevant, modern studies. Real WebP Library preflight before media; original without words."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -38,9 +38,13 @@
     {
       "taxon": "Populus alba",
       "wp_id": 2391
+    },
+    {
+      "taxon": "Populus euphratica",
+      "wp_id": 2402
     }
   ],
-  "next_candidate": "ATL-0164",
+  "next_candidate": "ATL-0165",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -297,17 +301,79 @@
       "science": "Moldenke181–183; Duke348–350; Zohary132; Post744–745; Tristram389–390; Balfour51; Kew; BDBH3839; LXX Gen30:37 STORACE vs Osea4:13 PIOPPO; both identifications controversial",
       "qa": "backend_publish_verified; sha256_local_equals_server; frontend_visual_unverified",
       "date": "2026-11-21"
+    },
+    {
+      "code": "ATL-0164",
+      "legacy": "ATL-0182",
+      "taxon": "Populus euphratica Olivier",
+      "wp_id": 2402,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/pioppo-delleufrate-populus-euphratica-olivier-i-salici-di-babilonia-e-le-identificazioni-bibliche/",
+      "featured_media": 2403,
+      "sha256": "01ff7dbc1c957f7eeafa3aae1e741b8a478c32d6caf2131c8fdc6fd8806a94cb",
+      "media_size": 392092,
+      "media": "WebP1024x1536 sans-raster-text, ALT and SHA verified, original Library retained, preflight and bridge deleted",
+      "family_id": 23,
+      "source_ids_new": [
+        2404,
+        2405,
+        2406,
+        2407,
+        2418
+      ],
+      "term_ids": [
+        2408,
+        2409,
+        2410
+      ],
+      "quote_ids_new": [
+        2411,
+        2412,
+        2413,
+        2414
+      ],
+      "quote_reused_ids": [
+        316
+      ],
+      "medicine_id": 2415,
+      "source_citations": "1435–1465",
+      "source_citations_count": 31,
+      "passage_terms": [
+        271,
+        272,
+        273,
+        274,
+        275
+      ],
+      "identifications": [
+        320,
+        321,
+        322,
+        323
+      ],
+      "identification_status": "all controversial",
+      "metas": {
+        "specialist": "17/17",
+        "legacy": "11/11",
+        "medicine": "16/16",
+        "quotes": "15/15 each"
+      },
+      "seo": "Yoast getter positive noindex=false",
+      "qa": "backend_publish_verified; frontend_visual_unverified",
+      "date": "2026-11-21",
+      "automation": "paused; schedule unchanged"
     }
   ],
-  "last_verified_published": "ATL-0163",
+  "last_verified_published": "ATL-0164",
   "blocked_items": [],
-  "run_rule": "NEXT ONE TAXON ONLY: ATL-0164 / legacy ATL-0182 Populus euphratica Oliv.; no WP post yet known; anti-duplicate live search required; do not touch published Populus alba #2391. Automation existing hourly unchanged; plugin/theme unchanged.",
+  "run_rule": "MANUAL ONLY while automation remains disabled by user. Next suggested species ATL-0165 / legacy ATL-0183 Prunus armeniaca L., pending fresh live anti-duplicate and taxonomy. Do not schedule, run now, or reenable automation unless user requests. WP published ATL-0164 Populus euphratica #2402; never duplicate it.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
-    "is_enabled": true,
+    "is_enabled": false,
     "frequency": "FREQ=HOURLY",
-    "next_run_time": "2026-11-21T15:01:00+01:00",
     "schedule_changed": false,
-    "checked": "2026-11-21"
+    "checked": "2026-11-21",
+    "pause_reason": "Explicit user request to suspend hourly automation before manual ATL-0164",
+    "next_run_time": null
   }
 }
