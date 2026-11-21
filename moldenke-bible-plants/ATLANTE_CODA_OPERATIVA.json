@@ -53,6 +53,28 @@
       "reason_no_identification": "No reliable evidence Desf species in biblical Levant; historic pseudo-coccifera of Post/Tristram not automatically identical to Algerian lectotype",
       "qa_visual": "not_certified",
       "next": "COMPLETE; next candidate legacy ATL-0190 Quercus ilex, avoid historic ATL-0170 Phoenix code collision"
+    },
+    {
+      "code": "ATL-0170-QI",
+      "legacy": "ATL-0190",
+      "taxon": "Quercus ilex L.",
+      "wp_id": 2525,
+      "state": "PUBLISHED_BACKEND_VERIFIED_ORIGINAL_WEBP_SHA",
+      "url": "https://piantedellabibbia.altervista.org/piante/leccio-quercus-ilex-l-botanica-susanna-e-identificazioni-bibliche/",
+      "media_id": 2530,
+      "featured_media": 2530,
+      "sha256": "22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25",
+      "library_file_id": "libfile_5bf9d3a57da08191a11e96cd77a8f86b",
+      "medicine_id": 2529,
+      "medicine_status": "publish",
+      "term_id": 2527,
+      "quote_id": 605,
+      "passage_term_id": 288,
+      "identification_id": 341,
+      "identification_status": "controversa",
+      "source_citations": "plant 1567–1582=16; medicine 1583–1588=6; quote/term 1589–1591=3",
+      "qa_visual": "not_certified",
+      "next": "COMPLETE; next legacy ATL-0191 Quercus ithaburensis, anti-duplicate vs WP2455 subsp macrolepis"
     }
   ],
   "known_published_not_to_duplicate": [
@@ -126,10 +148,38 @@
         "Quercus coccifera subsp. pseudococcifera (Desf.) Arcang."
       ],
       "wp_id": 2508
+    },
+    {
+      "taxon": "Quercus ilex L.",
+      "wp_id": 2525,
+      "synonyms_not_to_misidentify": [
+        "Quercus rotundifolia Lam. is a DISTINCT accepted species",
+        "Quercus coccifera and Q.pseudococcifera distinct"
+      ]
     }
   ],
-  "next_candidate": "ATL-0190",
+  "next_candidate": "ATL-0191",
   "completed_recent": [
+    {
+      "code": "ATL-0170-QI",
+      "legacy": "ATL-0190",
+      "taxon": "Quercus ilex L.",
+      "wp_id": 2525,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/leccio-quercus-ilex-l-botanica-susanna-e-identificazioni-bibliche/",
+      "featured_media": 2530,
+      "sha256": "22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25",
+      "family_id": 26,
+      "medicinal_record": 2529,
+      "medicinal_record_status": "publish",
+      "source_citations": "16 plant+6 medicine+3 term/quote",
+      "identifications": [
+        341
+      ],
+      "meta": "17/17 specialist +11/11 legacy",
+      "qa": "backend publish verified, private Library original SHA, Yoast noindex=false, frontend visual unverified",
+      "date": "2026-11-21"
+    },
     {
       "code": "ATL-0169",
       "legacy": "ATL-0189",
@@ -624,19 +674,19 @@
     }
   ],
   "last_verified_published": {
-    "code": "ATL-0169",
-    "legacy": "ATL-0189",
-    "wp_id": 2508,
+    "code": "ATL-0170-QI",
+    "legacy": "ATL-0190",
+    "wp_id": 2525,
     "wp_status": "publish",
-    "url": "https://piantedellabibbia.altervista.org/piante/quercia-pseudococcifera-quercus-pseudococcifera-desf-tassonomia-botanica-e-bibbia/",
-    "media_id": 2509,
-    "sha256": "4dff57721ffc0b1c6ddd0477580acf6cafe7e2da47ecf741fe60e930249af5b6",
-    "medicine_wp_id": 2511,
+    "url": "https://piantedellabibbia.altervista.org/piante/leccio-quercus-ilex-l-botanica-susanna-e-identificazioni-bibliche/",
+    "media_id": 2530,
+    "sha256": "22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25",
+    "medicine_wp_id": 2529,
     "medicine_status": "publish",
     "verified": "2026-11-21"
   },
   "blocked_items": [],
-  "run_rule": "MANUAL ONLY, automation is_enabled=false. ATL-0169 published with original media and medical note, no duplicates. NEXT is legacy ATL-0190 Quercus ilex, operational code TBD due historic ATL-0170 Phoenix dactylifera #308 collision. No new task or species without user direction.",
+  "run_rule": "Automation paused manual-only. Completed ATL-0169/legacy-0189 and ATL-0170-QI/legacy-0190. NEXT legacy-0191 Quercus ithaburensis verify relation to previously published Q.ithaburensis subsp.macrolepis WP2455, do not duplicate. One new species per manual run.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
@@ -656,7 +706,7 @@
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "manual_only_automation_paused",
-    "source_of_next": "ATL-0169 WP2508 published; next LEGACY ATL-0190 Q.ilex, require fresh Kew/WP antidupe. Operational code NOT assigned: ATL-0170 already historical Phoenix dactylifera WP308. Automation paused.",
+    "source_of_next": "ATL-0170-QI Q.ilex published; NEXT legacy ATL-0191 Quercus ithaburensis: Kew + WP anti-duplicate vs Q.ithaburensis subsp.macrolepis WP2455 REQUIRED. Automation remains paused.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -706,8 +756,8 @@
     "status": "PAUSED_BY_USER_CONFIRMED_2026-11-21"
   },
   "blocked_drafts": [],
-  "last_attempted": "ATL-0169",
-  "last_attempt_status": "PUBLISHED_WP2508_MEDICINE2511_ORIGINAL_WEBP2509",
+  "last_attempted": "ATL-0170-QI",
+  "last_attempt_status": "PUBLISHED_Q_ILEX_WP2525_MEDICINE2529_ORIGINAL_WEBP_SHA_QA",
   "last_run": {
     "at": "2026-11-21T18:35:39+01:00",
     "taxon": "ATL-0168",
@@ -884,5 +934,30 @@
     "frontend_visual": "unverified",
     "automation_enabled": false,
     "next_legacy": "ATL-0190 Quercus ilex"
+  },
+  "final_qa_0170qi_20261121": {
+    "plant": 2525,
+    "status": "publish",
+    "medicine": 2529,
+    "medicine_status": "publish",
+    "term": 2527,
+    "quote_reused": 605,
+    "identity_link": 341,
+    "identity_status": "controversa",
+    "passage_link": 288,
+    "sources": [
+      2515,
+      2516,
+      2517,
+      2518,
+      2519
+    ],
+    "media": 2530,
+    "media_sha256": "22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25",
+    "original_library_file_id": "libfile_5bf9d3a57da08191a11e96cd77a8f86b",
+    "temporary_cleaned": true,
+    "frontend_qa": "not_certified",
+    "automation_enabled": false,
+    "next": "ATL-0191 legacy"
   }
 }
