@@ -253,7 +253,7 @@
   ],
   "last_verified_published": "ATL-0162",
   "blocked_items": [],
-  "run_rule": "ONE PLANT PER RUN. ATL-0161 WP#2336 published; do not duplicate. NEXT ATL-0162 Polypogon monspeliensis (L.) Desf. after live WP anti-dup, taxonomy and source QA. SPECIAL IMAGE RULE FROM USER: absolutely NO visible TEXT/letters/labels/captions/numbers/watermarks within new botanical plates; put labels only in WordPress text and media metadata. Existing hourly task unchanged.",
+  "run_rule": "ONE SPECIES PER RUN: ATL-0162 Polypogon monspeliensis (L.) Desf. WordPress #2363 PUBLISHED; do not duplicate. NEXT ATL-0163 Populus alba L. only after live anti-duplicate search, source/SEO/media gates. User's standing IMAGE RULE: NO RASTER TEXT, letters, labels, titles, captions or watermarks in any newly generated botanical image; names stay ONLY in WordPress page and separate ALT/caption metadata. Biblical Gen1:11–12 is GENERIC grass, no species-specific identification of Polypogon. Preserve single existing hourly automation unchanged.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": true,
