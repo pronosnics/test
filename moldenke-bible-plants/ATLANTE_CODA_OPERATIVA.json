@@ -23,12 +23,16 @@
       "legacy": "ATL-0188",
       "taxon": "Quercus coccifera L. (syn. Q. calliprinos)",
       "wp_id": 2464,
-      "state": "DRAFT_MEDIA_COMPLETE_BLOCKED_RELATION_339",
-      "next": "Delete only incorrect identification #339 with exact predicates quote572, term562, plant2464; preserve correct #340 quote572 term561 plant2464; reread before WP status publish; then publish medicine #2476.",
+      "state": "PUBLISHED_BACKEND_VERIFIED_MEDIA_SHA_RELATION_CLEAN",
+      "next": "COMPLETE. No duplicate. Future ATL-0169 must be verified independently.",
       "media_id": 2494,
       "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
       "medicine_id": 2476,
-      "medicine_status": "draft"
+      "medicine_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
+      "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/quercia-spinosa-quercus-coccifera-tannini-insetto-kermes-e-limiti-clinici/",
+      "bad_relation_339": "deleted_confirmed",
+      "good_relation_340": "present_confirmed"
     }
   ],
   "known_published_not_to_duplicate": [
@@ -87,10 +91,35 @@
         "Quercus macrolepis Kotschy"
       ],
       "wp_id": 2455
+    },
+    {
+      "taxon": "Quercus coccifera L.",
+      "synonyms": [
+        "Quercus calliprinos Webb"
+      ],
+      "wp_id": 2464
     }
   ],
-  "next_candidate": "ATL-0168",
+  "next_candidate": "ATL-0169",
   "completed_recent": [
+    {
+      "code": "ATL-0168",
+      "legacy": "ATL-0188",
+      "taxon": "Quercus coccifera L.",
+      "wp_id": 2464,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
+      "featured_media": 2494,
+      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+      "family_id": 26,
+      "medicinal_record": 2476,
+      "medicinal_record_status": "publish",
+      "source_citations": "1525–1541 + 1544; 1545 quote",
+      "identifications": "336–338 + 340; #339 removed",
+      "meta": "17/17 specialist + 11/11 legacy",
+      "qa": "backend publish verified, media SHA original, Yoast noindex false, invalid identification removed, frontend visual unverified",
+      "date": "2026-11-21"
+    },
     {
       "code": "ATL-0167",
       "legacy": "ATL-0187",
@@ -549,32 +578,19 @@
     }
   ],
   "last_verified_published": {
-    "code": "ATL-0167",
-    "legacy": "ATL-0187",
-    "wp_id": 2455,
+    "code": "ATL-0168",
+    "legacy": "ATL-0188",
+    "wp_id": 2464,
     "wp_status": "publish",
-    "url": "https://piantedellabibbia.altervista.org/piante/quercia-vallonea-quercus-ithaburensis-subsp-macrolepis-sin-quercus-aegilops-l/",
-    "media_id": 2493,
-    "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
-    "medicine_wp_id": 2459,
+    "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
+    "media_id": 2494,
+    "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+    "medicine_wp_id": 2476,
     "medicine_status": "publish",
     "verified": "2026-11-21"
   },
-  "blocked_items": [
-    {
-      "code": "ATL-0168",
-      "wp_id": 2464,
-      "category": "INVALID_IDENTIFICATION",
-      "bad_link_id": 339,
-      "correct_link_id": 340,
-      "quote_id": 572,
-      "wrong_term_id": 562,
-      "correct_term_id": 561,
-      "media_ready": 2494,
-      "status": "BLOCKED_PENDING_ADMIN_DELETE"
-    }
-  ],
-  "run_rule": "Automation PAUSED by user is_enabled=false. Manual priority close ATL-0167 WP#2455 and ATL-0168 WP#2464, media preflight from trusted producer; same producer cooldown until 22 Nov18:02:38 Rome, no bypass or image generation before valid preflight. Correct erroneous relation #339 before publishing ATL-0168; relation #340 is correct. Last published ATL-0166 WP#2441.",
+  "blocked_items": [],
+  "run_rule": "AUTOMATION STILL PAUSED, manual-only; ATL-0167/#2455 and ATL-0168/#2464 PUBLISHED with original media, medicine published. Future candidate ATL-0169 legacy 0189 Q.pseudococcifera requires Kew/WP anti-duplicate review. Do not restart automation without explicit request.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
     "is_enabled": false,
@@ -594,7 +610,7 @@
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "manual_only_automation_paused",
-    "source_of_next": "ATL-0167 published and should never rerun; recover ATL-0168 draft, solely relation 339 correction remaining; image trust resolved; then next valid independent taxon after backend verification.",
+    "source_of_next": "Both ATL-0167/0168 are published; next candidate ATL-0169/legacy-0189 distinct Q.pseudococcifera, verify live POWO and WP for duplicates, manual only; do not resume automation.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -643,30 +659,9 @@
     "recurrence": "FREQ=HOURLY",
     "status": "PAUSED_BY_USER_CONFIRMED_2026-11-21"
   },
-  "blocked_drafts": [
-    {
-      "code": "ATL-0168",
-      "legacy": "ATL-0188",
-      "wp_id": 2464,
-      "taxon": "Quercus coccifera L.",
-      "state": "DRAFT_MEDIA_COMPLETE_AWAITING_ADMIN_DELETE_LINK_339",
-      "next_retry_not_before": null,
-      "dossier": "STATO_ATLANTE_ATL0168_QUERCUS_COCCIFERA_2026-11-21.md",
-      "last_manual_recovery": "2026-11-21",
-      "scientific_content": "Full science/philology, source citations 1525-1541 +1544, 17/17 specialist, 11/11 legacy, Yoast valid; original private Library WebP/sha verified; relation #339 pending ONLY.",
-      "latest_manual_qa": "Judges6:11 ha-elah H424 visible body/meta corrected; link #339 still present and MUST be deleted via supported authorized operation; link #340 correct; still draft/media0",
-      "filological_recovery": "MT Judges6:11 H424 + Greek A δρῦν / B τερέμινθον; quote572 published updated, source2490 published, citations1544/1545; #339 still BAD relation; still draft without media",
-      "media_id": 2494,
-      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
-      "featured": 2494,
-      "med_draft_id": 2476,
-      "remaining_gate": "Unauthorized wrong link #339 must be deleted using permitted administrative path, not raw SQL without approval",
-      "media_trust_403_resolved": true,
-      "relation_339_resolution": "Existing WP admin UI native delete available; user must delete #339 then backend verify, keep #340"
-    }
-  ],
+  "blocked_drafts": [],
   "last_attempted": "ATL-0168",
-  "last_attempt_status": "DRAFT_WP2464_RESEARCH_META_DONE_MEDIA_403_AND_IDENTIFICATION_339_CLEANUP_REQUIRED",
+  "last_attempt_status": "PUBLISHED_VERIFIED_PLANT_2464_MEDICINE_2476_WRONG_LINK_339_REMOVED",
   "last_run": {
     "at": "2026-11-21T18:35:39+01:00",
     "taxon": "ATL-0168",
@@ -678,9 +673,7 @@
     "prior_draft_2455": "draft confirmed",
     "next": "ATL-0168"
   },
-  "manual_recovery_priority": [
-    "ATL-0168 / WP #2464: remove wrong identification #339, keep #340, reread WordPress and then publish; image already complete."
-  ],
+  "manual_recovery_priority": [],
   "future_taxa_to_verify": [
     {
       "code": "ATL-0169",
@@ -772,15 +765,18 @@
     },
     "atl_0168": {
       "wp_id": 2464,
-      "status": "draft",
+      "status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
       "media": 2494,
-      "library_id": "libfile_03cc5659f6d8819199ee3745ce34b37d",
       "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
       "medicine_id": 2476,
-      "medicine_status": "draft",
+      "medicine_status": "publish",
+      "medicine_url": "https://piantedellabibbia.altervista.org/usi-medicinali/quercia-spinosa-quercus-coccifera-tannini-insetto-kermes-e-limiti-clinici/",
       "bad_link_id": 339,
+      "bad_link_status": "deleted_verified",
       "good_link_id": 340,
-      "admin_delete_needed": true
+      "good_link_status": "present_verified",
+      "verified": true
     },
     "media_preflight": "SUCCESS_FROM_AUTHENTIC_MODEL_GENERATED_WEBP_TRUSTED_PRODUCER",
     "temporary_bridge_cleanup": "success",
@@ -797,6 +793,23 @@
     "requires_user_wp_admin_click": true,
     "latest_backend_status": "WP2464 draft with featured+plate2494, medicine2476 draft; relation339 still present",
     "publish_gate": "Only after relation339 absent and 340 present, reread image/seo/family, then publish plant and medicine",
-    "automation": "paused"
+    "automation": "paused",
+    "resolution": "User deleted #339 from native WordPress admin, backend confirmed absent; #340 persists; plant & medicine published."
+  },
+  "final_qa_20261121": {
+    "code": "ATL-0168",
+    "plant_wp_id": 2464,
+    "plant_status": "publish",
+    "medicine_wp_id": 2476,
+    "medicine_status": "publish",
+    "bad_relation_339": "absent",
+    "good_relation_340": "present",
+    "image": 2494,
+    "family": 26,
+    "seo_noindex": false,
+    "visual_frontend_qa": "not_certified",
+    "automation_enabled": false,
+    "next_candidate": "ATL-0169",
+    "readback": "verified"
   }
 }
