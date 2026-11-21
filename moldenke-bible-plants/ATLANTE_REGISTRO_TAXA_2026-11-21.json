@@ -1214,18 +1214,21 @@
     {
       "legacy_code": "ATL-0175",
       "scientific_name_working": "Pistacia atlantica",
-      "checkbox_from_master": false,
-      "live_status": "candidate_not_started",
+      "checkbox_from_master": true,
+      "live_status": "published",
       "source_line": 816,
-      "wordpress_id": null,
-      "operational_code": "ATL-0159 proposed"
+      "wordpress_id": 2291,
+      "operational_code": "ATL-0159",
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0178",
       "scientific_name_working": "Pistacia vera",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 818
+      "live_status": "next_candidate",
+      "source_line": 818,
+      "operational_code": "ATL-0160 proposed",
+      "verified_at": "2026-11-21"
     },
     {
       "legacy_code": "ATL-0179",
