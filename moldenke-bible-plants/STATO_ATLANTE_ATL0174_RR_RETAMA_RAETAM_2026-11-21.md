@@ -46,3 +46,6 @@
 - Ultimo QA **ATL-0173-RA Ranunculus asiaticus**: pianta WP#2585 e medicina#2587 restano pubblicate; HTML corretto il markdown letterale `**controverse**` in `<strong>controverse</strong>`; fam. Ranunculaceae#11, featured2588, metadati e 19+9 citazioni, relazione #343 controversa.
 - **NEXT legacy ATL-0195** etichetta storica `Rhamnus palaestinas`: **da verificare in Kew, possibili errori ortografici/sinonimi e backend WP anti-duplicati** prima di creare la prossima scheda. Non assegnare nuovo codice senza controllo e non avviare ora altra specie.
 - Unica automazione `6b00cb7b5a988191877878d9f84bebad` ancora **sospesa** (is_enabled=false), schedule invariato.
+
+## QA SEO degli apparati (21/11/2026)
+Ultima verifica Yoast setter/getter: nuove fonti **#2592, #2594, #2596, #2598, #2600, #2602**, termine riutilizzato **rōṯem #1603** e citazione riutilizzata **Giobbe30:4 #1601**: titoli SEO, descrizioni, focus keyphrase compilati, tutte le otto voci con `noindex=false` e `nofollow=false`. Si aggiungono a plant#2610, medicina#2612 e alle tre nuove quote#2604/#2606/#2608 già indicizzabili. Nessun contenuto botanico modificato da quest'ultimo controllo.
