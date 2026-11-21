@@ -6,12 +6,20 @@
   "one_taxon_per_run": true,
   "items": [
     {
+      "code": "ATL-0167",
+      "legacy": "ATL-0187",
+      "taxon": "Quercus ithaburensis subsp. macrolepis (syn. Q. aegilops)",
+      "wp_id": 2455,
+      "state": "DRAFT_PENDING_MEDIA_VALIDATED",
+      "next": "Manual recovery: original WebP trusted producer+SHA, SEO/full QA; medicine #2459 16/16 DRAFT, no duplicates."
+    },
+    {
       "code": "ATL-0168",
       "legacy": "ATL-0188",
-      "taxon": "Quercus coccifera L.",
-      "wp_id": null,
-      "state": "RESEARCH_QA_Kew_ACCEPTED_WP_NO_AUTONOMOUS_POST_CONFIRMED_MEDIA_COOLDOWN",
-      "next": "Finish firsthand historical sources and specialist metadata; do not create draft or media until producer trust gate permits legitimate preflight after 2026-11-22 18:02:38 Europe/Rome unless documented producer change"
+      "taxon": "Quercus coccifera L. (syn. Q. calliprinos)",
+      "wp_id": 2464,
+      "state": "DRAFT_PENDING_MEDIA_AND_RELATION_339_DELETE",
+      "next": "Manual QA: delete erroneous identification #339 (H436 on Judges6:11), keep #340 H424, then original no-text WebP trusted producer+SHA and publish gates; medicine #2476 16/16 DRAFT."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -64,7 +72,7 @@
       "wp_id": 212
     }
   ],
-  "next_candidate": "ATL-0168",
+  "next_candidate": "ATL-0167",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -503,10 +511,10 @@
   ],
   "last_verified_published": "ATL-0166",
   "blocked_items": [],
-  "run_rule": "ONE taxon per run. Before images, genuine WebP preflight from TRUSTED LIBRARY producer; forbidden attempts during persistent 403 cooldown. When blocked, complete science/meta/SEO of existing drafts and choose next independent taxon only up to 5 nonpublishable draft plants. Do not duplicate. Existing ATL-0167 #2455 BLOCKED_MEDIA, next upload eligible 2026-11-22 18:02 Rome, not before; NEXT ATL-0168 verify Kew + WP.",
+  "run_rule": "Automation PAUSED by user is_enabled=false. Manual priority close ATL-0167 WP#2455 and ATL-0168 WP#2464, media preflight from trusted producer; same producer cooldown until 22 Nov18:02:38 Rome, no bypass or image generation before valid preflight. Correct erroneous relation #339 before publishing ATL-0168; relation #340 is correct. Last published ATL-0166 WP#2441.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
-    "is_enabled": true,
+    "is_enabled": false,
     "frequency": "FREQ=HOURLY",
     "timing_mode": "exact_schedule",
     "timezone": "Europe/Rome",
@@ -516,13 +524,14 @@
     "first_run_time": "2026-11-21T18:00:00+01:00",
     "next_run_time": "2026-11-21T19:00:00+01:00",
     "prompt_version": "atlante_v2_dynamic_2026-11-21",
-    "note": "18:00 run confirmed complete but botanical draft #2455 blocked by Library 403. Manual recovery advanced scientific/SEO apparatus, no media; same task hourly.",
-    "last_run_time": "2026-11-21T18:02:37+01:00"
+    "note": "User-requested pause confirmed via Automations update; scheduled time may be displayed while disabled but no run active.",
+    "last_run_time": "2026-11-21T18:02:37+01:00",
+    "paused_at": "2026-11-21"
   },
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
-    "mode": "automatic_one_taxon_per_hour",
-    "source_of_next": "Live WP + master/queue/registry. If blocked draft preflight cooldown active, DO NOT retry that draft, choose next independent valid taxon, max five botanical drafts, preserve blocked. When trusted media available, return and publish only after all gates.",
+    "mode": "manual_only_automation_paused",
+    "source_of_next": "First close existing drafts #2455/#2464, resolve media trust and bad relation #339; do not start further taxa until explicit user direction.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -569,7 +578,7 @@
     "first_run_local": "2026-11-21T18:00:00+01:00",
     "timezone": "Europe/Rome",
     "recurrence": "FREQ=HOURLY",
-    "status": "ENABLED_CONFIRMED_SCHEDULED_NOT_YET_EXECUTED"
+    "status": "PAUSED_BY_USER_CONFIRMED_2026-11-21"
   },
   "blocked_drafts": [
     {
@@ -577,12 +586,12 @@
       "legacy": "ATL-0187",
       "wp_id": 2455,
       "taxon": "Quercus ithaburensis subsp. macrolepis (syn. Quercus aegilops)",
-      "state": "BLOCKED_LIBRARY_TRUST_403",
+      "state": "DRAFT_BLOCKED_LIBRARY_TRUST_403",
       "first_attempt": "2026-11-21T18:02:38+01:00",
       "next_retry_not_before": "2026-11-22T18:02:38+01:00",
       "dossier": "STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md",
       "last_manual_recovery": "2026-11-21T18:30:00+01:00",
-      "scientific_content": "8668 chars HTML; 16/17 botanist meta (no media), 11/11 legacy; Fagaceae #26; terms #563 #562 reused; cited sources 1512-1524; identifications 333-335 controversial; Yoast getter noindex=false",
+      "scientific_content": "WP2455 ~8668 HTML, 16/17 specialist, 11/11 legacy, medicine #2459 now 16/16 evidence_level=traditional, 13 citations, 3 controversial identifications, SEO valid; featured0; user paused automation",
       "supporting_posts": {
         "quote_isaiah2_13": 2457,
         "medicine_draft": 2459,
@@ -590,10 +599,21 @@
         "trees_and_shrubs_source": 2461
       },
       "note": "Il preflight è stato rifiutato dal gate Library LPE trusted producer per QUEL file/produttore: non è provato outage globale della Libreria. Backend WP scrivibile; nessuna immagine/SHA/publication. Non riprovare prima del timestamp da medesimo produttore salvo condizioni reali mutate."
+    },
+    {
+      "code": "ATL-0168",
+      "legacy": "ATL-0188",
+      "wp_id": 2464,
+      "taxon": "Quercus coccifera L.",
+      "state": "DRAFT_BLOCKED_LIBRARY_TRUST_403_AND_BAD_RELATION_339",
+      "next_retry_not_before": "2026-11-22T18:02:38+01:00",
+      "dossier": "STATO_ATLANTE_ATL0168_QUERCUS_COCCIFERA_2026-11-21.md",
+      "last_manual_recovery": "2026-11-21",
+      "scientific_content": "11914 HTML, 16/17 specialist (media0), 11/11 legacy, 17 citations, sources #2466–2470 publish, medicine #2476 draft16/16, identifications #336–339 controversial, corrected #340, #339 MUST BE DELETED BEFORE PUBLICATION"
     }
   ],
-  "last_attempted": "ATL-0167",
-  "last_attempt_status": "DRAFT_WP2455_SCIENCE_QA_ADVANCED_BLOCKED_LIBRARY_TRUST_403",
+  "last_attempted": "ATL-0168",
+  "last_attempt_status": "DRAFT_WP2464_RESEARCH_META_DONE_MEDIA_403_AND_IDENTIFICATION_339_CLEANUP_REQUIRED",
   "last_run": {
     "at": "2026-11-21T18:35:39+01:00",
     "taxon": "ATL-0168",
@@ -604,5 +624,24 @@
     "synonym": "Quercus calliprinos Webb",
     "prior_draft_2455": "draft confirmed",
     "next": "ATL-0168"
-  }
+  },
+  "manual_recovery_priority": [
+    "ATL-0167 / WP#2455 (media blocker)",
+    "ATL-0168 / WP#2464 (media blocker and relation #339 correction)"
+  ],
+  "future_taxa_to_verify": [
+    {
+      "code": "ATL-0169",
+      "legacy": "ATL-0189",
+      "historical_label": "Quercus coccifera var. pseudococcifera (Desf.) Boiss. (Moldenke1952 p193)",
+      "taxon_accepted": "Quercus pseudococcifera Desf.",
+      "accepted_kew": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296626-1",
+      "note": "Different accepted species W/Central Mediterranean, formal varietal combination in Kew authored (Desf.) A.DC. Must not treat historical Levant pseudo-coccifera as verified modern occurrence. No WP plant created."
+    },
+    {
+      "legacy": "ATL-0190",
+      "taxon": "Quercus ilex L.",
+      "note": "Later after manual closure of blocked 167/168; verify Kew & WP."
+    }
+  ]
 }
