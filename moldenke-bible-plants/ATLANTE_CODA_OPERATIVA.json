@@ -10,16 +10,25 @@
       "legacy": "ATL-0187",
       "taxon": "Quercus ithaburensis subsp. macrolepis (syn. Q. aegilops)",
       "wp_id": 2455,
-      "state": "DRAFT_PENDING_MEDIA_VALIDATED",
-      "next": "Manual recovery: original WebP trusted producer+SHA, SEO/full QA; medicine #2459 16/16 DRAFT, no duplicates."
+      "state": "PUBLISHED_BACKEND_VERIFIED_MEDIA_SHA",
+      "next": "COMPLETE. Do not duplicate. Link for published WP URL verified",
+      "media_id": 2493,
+      "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
+      "medicine_id": 2459,
+      "medicine_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-vallonea-quercus-ithaburensis-subsp-macrolepis-sin-quercus-aegilops-l/"
     },
     {
       "code": "ATL-0168",
       "legacy": "ATL-0188",
       "taxon": "Quercus coccifera L. (syn. Q. calliprinos)",
       "wp_id": 2464,
-      "state": "DRAFT_PENDING_MEDIA_AND_RELATION_339_DELETE",
-      "next": "Manual QA: delete erroneous identification #339 (H436 on Judges6:11), keep #340 H424, then original no-text WebP trusted producer+SHA and publish gates; medicine #2476 16/16 DRAFT."
+      "state": "DRAFT_MEDIA_COMPLETE_BLOCKED_RELATION_339",
+      "next": "Delete only incorrect identification #339 with exact predicates quote572, term562, plant2464; preserve correct #340 quote572 term561 plant2464; reread before WP status publish; then publish medicine #2476.",
+      "media_id": 2494,
+      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+      "medicine_id": 2476,
+      "medicine_status": "draft"
     }
   ],
   "known_published_not_to_duplicate": [
@@ -70,10 +79,40 @@
     {
       "taxon": "Punica granatum",
       "wp_id": 212
+    },
+    {
+      "taxon": "Quercus ithaburensis subsp. macrolepis",
+      "synonyms": [
+        "Quercus aegilops L.",
+        "Quercus macrolepis Kotschy"
+      ],
+      "wp_id": 2455
     }
   ],
-  "next_candidate": "ATL-0167",
+  "next_candidate": "ATL-0168",
   "completed_recent": [
+    {
+      "code": "ATL-0167",
+      "legacy": "ATL-0187",
+      "taxon": "Quercus ithaburensis subsp. macrolepis (syn. Quercus aegilops)",
+      "wp_id": 2455,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-vallonea-quercus-ithaburensis-subsp-macrolepis-sin-quercus-aegilops-l/",
+      "featured_media": 2493,
+      "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
+      "family_id": 26,
+      "medicinal_record": 2459,
+      "medicinal_record_status": "publish",
+      "source_citations": "1512–1524 + 1542 (plus 1543 quote)",
+      "identifications": [
+        333,
+        334,
+        335
+      ],
+      "meta": "17/17 specialist + 11/11 legacy",
+      "qa": "backend_publish_verified, original_Private_Library_WebP_sha256_server_equals_local, Yoast_getter_noindex_false, frontend_visual_unverified",
+      "date": "2026-11-21"
+    },
     {
       "code": "ATL-0157",
       "legacy": "ATL-0173",
@@ -509,8 +548,32 @@
       "automation": "paused; hourly unchanged"
     }
   ],
-  "last_verified_published": "ATL-0166",
-  "blocked_items": [],
+  "last_verified_published": {
+    "code": "ATL-0167",
+    "legacy": "ATL-0187",
+    "wp_id": 2455,
+    "wp_status": "publish",
+    "url": "https://piantedellabibbia.altervista.org/piante/quercia-vallonea-quercus-ithaburensis-subsp-macrolepis-sin-quercus-aegilops-l/",
+    "media_id": 2493,
+    "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
+    "medicine_wp_id": 2459,
+    "medicine_status": "publish",
+    "verified": "2026-11-21"
+  },
+  "blocked_items": [
+    {
+      "code": "ATL-0168",
+      "wp_id": 2464,
+      "category": "INVALID_IDENTIFICATION",
+      "bad_link_id": 339,
+      "correct_link_id": 340,
+      "quote_id": 572,
+      "wrong_term_id": 562,
+      "correct_term_id": 561,
+      "media_ready": 2494,
+      "status": "BLOCKED_PENDING_ADMIN_DELETE"
+    }
+  ],
   "run_rule": "Automation PAUSED by user is_enabled=false. Manual priority close ATL-0167 WP#2455 and ATL-0168 WP#2464, media preflight from trusted producer; same producer cooldown until 22 Nov18:02:38 Rome, no bypass or image generation before valid preflight. Correct erroneous relation #339 before publishing ATL-0168; relation #340 is correct. Last published ATL-0166 WP#2441.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
@@ -522,16 +585,16 @@
     "checked": "2026-11-21",
     "schedule": "BEGIN:VEVENT\nDTSTART:20261121T180000\nRRULE:FREQ=HOURLY\nEND:VEVENT",
     "first_run_time": "2026-11-21T18:00:00+01:00",
-    "next_run_time": "2026-11-21T19:00:00+01:00",
+    "next_run_time": "2026-11-21T19:34:09+01:00",
     "prompt_version": "atlante_v2_dynamic_2026-11-21",
-    "note": "User-requested pause confirmed via Automations update; scheduled time may be displayed while disabled but no run active.",
+    "note": "Paused means no upcoming run even if next_run_time exists. Do not reactivate.",
     "last_run_time": "2026-11-21T18:02:37+01:00",
     "paused_at": "2026-11-21"
   },
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
     "mode": "manual_only_automation_paused",
-    "source_of_next": "First close existing drafts #2455/#2464, resolve media trust and bad relation #339; do not start further taxa until explicit user direction.",
+    "source_of_next": "ATL-0167 published and should never rerun; recover ATL-0168 draft, solely relation 339 correction remaining; image trust resolved; then next valid independent taxon after backend verification.",
     "priority": [
       "Recover an unfinished WordPress draft when dependencies unblocked",
       "Otherwise resolve first unpublished/nonduplicate taxon from registry in ascending legacy sequence",
@@ -582,38 +645,23 @@
   },
   "blocked_drafts": [
     {
-      "code": "ATL-0167",
-      "legacy": "ATL-0187",
-      "wp_id": 2455,
-      "taxon": "Quercus ithaburensis subsp. macrolepis (syn. Quercus aegilops)",
-      "state": "DRAFT_BLOCKED_LIBRARY_TRUST_403",
-      "first_attempt": "2026-11-21T18:02:38+01:00",
-      "next_retry_not_before": "2026-11-22T18:02:38+01:00",
-      "dossier": "STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md",
-      "last_manual_recovery": "2026-11-21T18:30:00+01:00",
-      "scientific_content": "WP2455 ~8668 HTML, 16/17 specialist, 11/11 legacy, medicine #2459 now 16/16 evidence_level=traditional, 13 citations, 3 controversial identifications, SEO valid; featured0; user paused automation",
-      "supporting_posts": {
-        "quote_isaiah2_13": 2457,
-        "medicine_draft": 2459,
-        "kew_source": 2460,
-        "trees_and_shrubs_source": 2461
-      },
-      "note": "Il preflight è stato rifiutato dal gate Library LPE trusted producer per QUEL file/produttore: non è provato outage globale della Libreria. Backend WP scrivibile; nessuna immagine/SHA/publication. Non riprovare prima del timestamp da medesimo produttore salvo condizioni reali mutate.",
-      "latest_manual_qa": "Post1896 p740 species-specific; Isa44:14 allon H437; WP content and 4 specialist meta updated, still draft/media0",
-      "filological_recovery": "MT Isaiah44:14 H8645/H437 + LXX ἀγριοβάλανον/δρῦν; quote1562 published updated, source2489 published, citations1542/1543; still draft without media"
-    },
-    {
       "code": "ATL-0168",
       "legacy": "ATL-0188",
       "wp_id": 2464,
       "taxon": "Quercus coccifera L.",
-      "state": "DRAFT_BLOCKED_LIBRARY_TRUST_403_AND_BAD_RELATION_339",
-      "next_retry_not_before": "2026-11-22T18:02:38+01:00",
+      "state": "DRAFT_MEDIA_READY_ONLY_BAD_RELATION_339",
+      "next_retry_not_before": null,
       "dossier": "STATO_ATLANTE_ATL0168_QUERCUS_COCCIFERA_2026-11-21.md",
       "last_manual_recovery": "2026-11-21",
-      "scientific_content": "11914 HTML, 16/17 specialist (media0), 11/11 legacy, 17 citations, sources #2466–2470 publish, medicine #2476 draft16/16, identifications #336–339 controversial, corrected #340, #339 MUST BE DELETED BEFORE PUBLICATION",
+      "scientific_content": "Full science/philology, source citations 1525-1541 +1544, 17/17 specialist, 11/11 legacy, Yoast valid; original private Library WebP/sha verified; relation #339 pending ONLY.",
       "latest_manual_qa": "Judges6:11 ha-elah H424 visible body/meta corrected; link #339 still present and MUST be deleted via supported authorized operation; link #340 correct; still draft/media0",
-      "filological_recovery": "MT Judges6:11 H424 + Greek A δρῦν / B τερέμινθον; quote572 published updated, source2490 published, citations1544/1545; #339 still BAD relation; still draft without media"
+      "filological_recovery": "MT Judges6:11 H424 + Greek A δρῦν / B τερέμινθον; quote572 published updated, source2490 published, citations1544/1545; #339 still BAD relation; still draft without media",
+      "media_id": 2494,
+      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+      "featured": 2494,
+      "med_draft_id": 2476,
+      "remaining_gate": "Unauthorized wrong link #339 must be deleted using permitted administrative path, not raw SQL without approval",
+      "media_trust_403_resolved": true
     }
   ],
   "last_attempted": "ATL-0168",
@@ -630,8 +678,7 @@
     "next": "ATL-0168"
   },
   "manual_recovery_priority": [
-    "ATL-0167 / WP#2455 (media blocker)",
-    "ATL-0168 / WP#2464 (media blocker and relation #339 correction)"
+    "ATL-0168 / WP #2464: remove wrong identification #339, keep #340, reread WordPress and then publish; image already complete."
   ],
   "future_taxa_to_verify": [
     {
@@ -709,5 +756,34 @@
     "other_sources_status": "new pdb_source 2489 and 2490 PUBLISHED; existing quote 1562, 572 PUBLISHED",
     "no_plants_published": true,
     "no_new_species": true
+  },
+  "manual_publication_recovery_20261121": {
+    "atl_0167": {
+      "wp_id": 2455,
+      "status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-vallonea-quercus-ithaburensis-subsp-macrolepis-sin-quercus-aegilops-l/",
+      "media": 2493,
+      "library_id": "libfile_be575ba88c14819185f8a6dc0fec3104",
+      "sha256": "f57b344ff7d813e5bb73ce32d8fc63c5df75c9a83fa3627d72f1dfa75abdd871",
+      "medicine_id": 2459,
+      "medicine_status": "publish",
+      "verified": true
+    },
+    "atl_0168": {
+      "wp_id": 2464,
+      "status": "draft",
+      "media": 2494,
+      "library_id": "libfile_03cc5659f6d8819199ee3745ce34b37d",
+      "sha256": "74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e",
+      "medicine_id": 2476,
+      "medicine_status": "draft",
+      "bad_link_id": 339,
+      "good_link_id": 340,
+      "admin_delete_needed": true
+    },
+    "media_preflight": "SUCCESS_FROM_AUTHENTIC_MODEL_GENERATED_WEBP_TRUSTED_PRODUCER",
+    "temporary_bridge_cleanup": "success",
+    "automation_enabled": false,
+    "frontend_visual_qa": "unverified_external_host_unreachable"
   }
 }
