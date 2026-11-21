@@ -1,3 +1,5 @@
+**AGGIORNAMENTO OPERATIVO 21/11/2026, ore 10:09 Europe/Rome:** ATL-0150 *Ornithogalum umbellatum* L. WP #2154 è pubblicata, featured #2155 e Yoast verificati. Il vecchio ATL-0164 è lo stesso taxon (non creare duplicato). Prossimo candidato legacy ATL-0165 *Paliurus spina-christi* Mill., da verificare nomenclatura Kew, bozze e pubblicati prima di creare; ricerca WordPress `pdb_plant` su Paliurus/spina-christi non ha trovato una scheda omonima, ma ha restituito *Lycium europaeum* #1990 come confronto nel testo. La numerazione master è legacy, NON usarla per i codici operativi. Automazione oraria 6b00cb7b5a988191877878d9f84bebad attiva, prossimo 11:01 Europe/Rome. QA grafica frontend non ancora certificata.
+
 ---
 project: "Piante della Bibbia — Atlante integrato"
 document_type: "specifica-editoriale-e-roadmap"
@@ -783,7 +785,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0163 · *Origanum syriacum*** — nome italiano da definire; **M — · D p. 311**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0164 · *Ornithogallum umbellatum*** — nome italiano da definire; **M voce 153, p. 162 · D p. 312**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0164 (legacy) / ATL-0150 (operativo) · *Ornithogalum umbellatum* L.** — stella di Betlemme; **PUBBLICATA 21/11/2026, WP #2154, featured #2155**; Moldenke pp.162–163, Duke pp.312–314, Tristram pp.443–444, Post pp.801–803; Kew #2156; citazioni #1198–1203; 2 Re 6:25 #1039, lemma #1042, identificazione controversa #283. Dossier STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0150.md. Non duplicare.
 
 - [ ] **ATL-0165 · *Paliurus spina-christi*** — nome italiano da definire; **M voce 154, p. 165 · D p. 315**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
