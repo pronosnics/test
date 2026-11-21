@@ -1261,6 +1261,20 @@
     "visual_frontend_qa": "NOT_CERTIFIED",
     "automation_enabled": false,
     "next_candidate": "ATL-0195",
-    "readback": "verified"
+    "readback": "verified",
+    "extra_yoast_qa": {
+      "sources": [
+        2592,
+        2594,
+        2596,
+        2598,
+        2600,
+        2602
+      ],
+      "legacy_term": 1603,
+      "legacy_quote": 1601,
+      "verified_setter_getter": "all 8 noindex=false nofollow=false",
+      "at": "2026-11-21"
+    }
   }
 }
