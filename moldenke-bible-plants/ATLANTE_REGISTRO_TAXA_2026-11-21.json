@@ -1435,17 +1435,37 @@
     },
     {
       "legacy_code": "ATL-0192",
-      "scientific_name_working": "Quercus lusitanica",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 840
+      "scientific_name_working": "Quercus lusitanica Lam.",
+      "checkbox_from_master": true,
+      "live_status": "published_wp2567_media2570_medicine2569_no_biblical_identification",
+      "source_line": 840,
+      "scientific_name_accepted": "Quercus lusitanica Lam.",
+      "operational_code": "ATL-0172-QL",
+      "wordpress_id": 2567,
+      "medicine_id": 2569,
+      "medicine_status": "publish",
+      "media_id": 2570,
+      "sha256": "4bf59e84a3313e5b0a4cf3aafed1a6c3abd6e1014b869691ae740b17bed6b92d",
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-lusitana-quercus-lusitanica-lam-botanica-e-bibbia/",
+      "verified_at": "2026-11-21",
+      "note": "PUBLISHED western Kew plant distinct from historical Levant Q.infectoria; 20+8 citations; no dubious biblic identifications; visual frontend unverified."
     },
     {
       "legacy_code": "ATL-0193",
-      "scientific_name_working": "Ranunculus asiaticus",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 842
+      "scientific_name_working": "Ranunculus asiaticus L.",
+      "checkbox_from_master": true,
+      "live_status": "published_wp2585_media2588_medicine2587_identification343_controversa",
+      "source_line": 842,
+      "scientific_name_accepted": "Ranunculus asiaticus L.",
+      "operational_code": "ATL-0173-RA",
+      "wordpress_id": 2585,
+      "medicine_id": 2587,
+      "medicine_status": "publish",
+      "media_id": 2588,
+      "sha256": "df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29",
+      "url": "https://piantedellabibbia.altervista.org/piante/ranuncolo-asiatico-ranunculus-asiaticus-l-fiori-dei-campi-bibbia/",
+      "verified_at": "2026-11-21",
+      "note": "PUBLISHED Ranunculaceae #11 19+9 citations, wild single flowers, 2Esdra text not edibility; Matthew6:28 relation #343 CONTROVERSA; no frontend visual verification."
     },
     {
       "legacy_code": "ATL-0194",
@@ -2482,6 +2502,34 @@
       "qa_visual": "not_certified",
       "next_legacy": "ATL-0192 Quercus lusitanica",
       "automation": "paused"
+    },
+    "ATL-0172-QL": {
+      "legacy": "ATL-0192",
+      "taxon": "Quercus lusitanica Lam.",
+      "wp_id": 2567,
+      "status": "publish",
+      "image": 2570,
+      "medicine": 2569,
+      "source_citations": "20 plant +8 medicine",
+      "no_identifications": true
+    },
+    "ATL-0173-RA": {
+      "legacy": "ATL-0193",
+      "taxon": "Ranunculus asiaticus L.",
+      "wp_id": 2585,
+      "status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/ranuncolo-asiatico-ranunculus-asiaticus-l-fiori-dei-campi-bibbia/",
+      "image": 2588,
+      "sha256": "df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29",
+      "medicine": 2587,
+      "medicine_status": "publish",
+      "family": 11,
+      "identification": 343,
+      "identification_status": "controversa",
+      "source_citations": "19 plant +9 medicine",
+      "next_legacy": "ATL-0194 Retama raetam",
+      "automation": "paused",
+      "qa_visual": "not certified"
     }
   },
   "run_20261121_1835": {
