@@ -2256,6 +2256,27 @@
       ],
       "taxonomic_correction": "Legacy 0189 = historical Q.coccifera var.pseudococcifera, accepted separate Q.pseudococcifera Desf Kew W/C Med; do not duplicate or equate old Levant usage.",
       "next": "MANUAL recovery ATL-0167 then ATL-0168; later ATL-0189 distinct only when approved"
+    },
+    "MANUAL_QA_2026_11_21_FINAL_RECHECK": {
+      "date": "2026-11-21",
+      "automation": "disabled_verified",
+      "wp_2455": {
+        "status": "draft",
+        "media": 0,
+        "post_1896_specific_page": 740,
+        "masoretic_isaiah44_14": "allon H437",
+        "meta_updated": true
+      },
+      "wp_2464": {
+        "status": "draft",
+        "media": 0,
+        "judges6_11": "ha-elah H424 NOT elon H436",
+        "wrong_identification_339": "present/unresolved",
+        "correct_identification_340": "present"
+      },
+      "plant_draft_total": 2,
+      "blocker_library_trust_403_until": "2026-11-22T18:02:38+01:00",
+      "no_new_plant": true
     }
   },
   "run_20261121_1835": {
