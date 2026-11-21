@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0162",
-      "legacy": "ATL-0180",
-      "taxon": "Polypogon monspeliensis (L.) Desf.",
+      "code": "ATL-0163",
+      "legacy": "ATL-0181",
+      "taxon": "Populus alba L.",
       "wp_id": null,
       "state": "NEXT_CANDIDATE_NEEDS_LIVE_ANTI_DUP",
-      "next": "Kew accepted urn 1048074-2; family Poaceae to verify WP. Moldenke p28 species in generalized Genesis1:11–12 grasses list, not named in Bible. Check sources and no species-specific identification, use photo-plate NO TEXT."
+      "next": "Species Populus alba L. (pioppo bianco), Kew accepted and synonyms to check, compare other Populus species, Moldenke 1952 voce165 p181 and Duke 2008 p348, full historical sources and genus distinctions; no duplicate plants or terms. Illustrations WITHOUT raster text."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -36,7 +36,7 @@
       "wp_id": 2336
     }
   ],
-  "next_candidate": "ATL-0162",
+  "next_candidate": "ATL-0163",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -208,9 +208,50 @@
       "meta_completeness": "plant 17/17 specialist + 11/11 legacy; medicine 16/16; terms 8/8 each; new quote 15/15",
       "qa": "backend_publish_verified, original WebP SHA server=local, Yoast getter noindex=false, frontend visual QA not certified",
       "date": "2026-11-21"
+    },
+    {
+      "code": "ATL-0162",
+      "legacy": "ATL-0180",
+      "taxon": "Polypogon monspeliensis (L.) Desf.",
+      "wp_id": 2363,
+      "wp_status": "publish",
+      "url": "https://piantedellabibbia.altervista.org/piante/polipogone-di-montpellier-polypogon-monspeliensis-l-desf-e-le-erbe-bibliche/",
+      "featured_media": 2365,
+      "sha256": "66fb096d6a676c252f32117a42516c9f4b963e62511b43a31bbcd1d6792ca888",
+      "family_id": 18,
+      "sources_reused": [
+        135,
+        2041
+      ],
+      "sources_new": [
+        2366,
+        2367,
+        2368,
+        2369,
+        2370,
+        2371,
+        2388
+      ],
+      "source_citations_plant": [
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1407,
+        1408,
+        1409,
+        1416
+      ],
+      "identifications": "none — generic grass passages; DO NOT create a species-level identification",
+      "meta_completeness": "17/17 specialist + 11/11 legacy",
+      "media": "Original WebP 1024x1536 386770 bytes, no inscriptions, SHA local=WP provenanced",
+      "taxonomy_note": "Agrostis monspeliensis (L.) Romero Zarco & L.Sáez 2025 is homotypic synonym in POWO 2026, not a second taxon",
+      "qa": "backend_publish_verified; yoast_getter_noindex_false; original_WebP_SHA_server_equals_local_in_WP_provenance; library_original_retained; frontend_visual_unverified",
+      "date": "2026-11-21"
     }
   ],
-  "last_verified_published": "ATL-0161",
+  "last_verified_published": "ATL-0162",
   "blocked_items": [],
   "run_rule": "ONE PLANT PER RUN. ATL-0161 WP#2336 published; do not duplicate. NEXT ATL-0162 Polypogon monspeliensis (L.) Desf. after live WP anti-dup, taxonomy and source QA. SPECIAL IMAGE RULE FROM USER: absolutely NO visible TEXT/letters/labels/captions/numbers/watermarks within new botanical plates; put labels only in WordPress text and media metadata. Existing hourly task unchanged.",
   "automation_verified": {
