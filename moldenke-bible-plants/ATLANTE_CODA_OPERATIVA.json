@@ -6,12 +6,12 @@
   "one_taxon_per_run": true,
   "items": [
     {
-      "code": "ATL-0167",
-      "legacy": "ATL-0187",
-      "taxon": "Quercus aegilops L.",
+      "code": "ATL-0168",
+      "legacy": "ATL-0188",
+      "taxon": "Quercus coccifera L.",
       "wp_id": null,
       "state": "NEXT_AUTOMATED_Kew_WP_ANTIDUP_REQUIRED",
-      "next": "FIRST AUTOMATION RUN 18:00: verify Kew accepted name for Quercus aegilops L. and synonyms (including Quercus macrolepis), WordPress draft+publish/title+metas and duplicates, scientific sources and media preflight; do NOT create another taxonomy record if equivalent post exists; process ONLY one taxon this run."
+      "next": "Check live WP/Kew and pre-existing drafts first; only one species. Existing ATL-0167 draft #2455 blocked by Library trust 403; do not retry upload until 24h unless changed conditions."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -64,7 +64,7 @@
       "wp_id": 212
     }
   ],
-  "next_candidate": "ATL-0167",
+  "next_candidate": "ATL-0168",
   "completed_recent": [
     {
       "code": "ATL-0157",
@@ -569,5 +569,19 @@
     "timezone": "Europe/Rome",
     "recurrence": "FREQ=HOURLY",
     "status": "ENABLED_CONFIRMED_SCHEDULED_NOT_YET_EXECUTED"
-  }
+  },
+  "blocked_drafts": [
+    {
+      "code": "ATL-0167",
+      "legacy": "ATL-0187",
+      "wp_id": 2455,
+      "taxon": "Quercus ithaburensis subsp. macrolepis (syn. Quercus aegilops)",
+      "state": "BLOCKED_LIBRARY_TRUST_403",
+      "first_attempt": "2026-11-21T18:02:38+01:00",
+      "next_retry_not_before": "2026-11-22T18:02:38+01:00",
+      "dossier": "STATO_ATLANTE_ATL0167_QUERCUS_AEGILOPS_2026-11-21.md"
+    }
+  ],
+  "last_attempted": "ATL-0167",
+  "last_attempt_status": "DRAFT_WP_2455_BLOCKED_LIBRARY_TRUST_403"
 }
