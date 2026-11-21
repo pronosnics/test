@@ -10,8 +10,8 @@
       "legacy": "ATL-0187",
       "taxon": "Quercus aegilops L.",
       "wp_id": null,
-      "state": "NEXT_AUTOMATED_PENDING_WP_KEW_CHECK",
-      "next": "AT NEXT AUTOMATION RUN: verify Kew accepted name for Quercus aegilops L. and synonyms (including Quercus macrolepis), WordPress draft+publish/title+metas and duplicates, scientific sources and media preflight; do NOT create another taxonomy record if equivalent post exists; process ONLY one taxon this run."
+      "state": "NEXT_AUTOMATED_Kew_WP_ANTIDUP_REQUIRED",
+      "next": "FIRST AUTOMATION RUN 18:00: verify Kew accepted name for Quercus aegilops L. and synonyms (including Quercus macrolepis), WordPress draft+publish/title+metas and duplicates, scientific sources and media preflight; do NOT create another taxonomy record if equivalent post exists; process ONLY one taxon this run."
     }
   ],
   "known_published_not_to_duplicate": [
@@ -506,12 +506,17 @@
   "run_rule": "User explicitly requests reactivation of the ONE pre-existing hourly automation, starting 21 Nov 2026 at 18:00 Europe/Rome (18:00/19:00/20:00 ...). No duplicate task. Next first automatic run ATL-0167 / legacy ATL-0187 Quercus aegilops only after Kew/WP anti-duplicate. After each run choose one next taxon dynamically from master/registry/WordPress and save dossier, master, queue, registry. Previously legacy ATL-0186 Punica granatum WP#212 already published. Older notes saying manual-only/paused are historical.",
   "automation_verified": {
     "id": "6b00cb7b5a988191877878d9f84bebad",
-    "is_enabled": false,
+    "is_enabled": true,
     "frequency": "FREQ=HOURLY",
-    "schedule_changed": false,
+    "timing_mode": "exact_schedule",
+    "timezone": "Europe/Rome",
+    "schedule_changed": true,
     "checked": "2026-11-21",
-    "pause_reason": "User requested suspension; manual ATL-0166 performed without restart",
-    "next_run_time": null
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261121T180000\nRRULE:FREQ=HOURLY\nEND:VEVENT",
+    "first_run_time": "2026-11-21T18:00:00+01:00",
+    "next_run_time": "2026-11-21T18:00:00+01:00",
+    "prompt_version": "atlante_v2_dynamic_2026-11-21",
+    "note": "Confirmed with Automations update success; schedule verified but first future run NOT YET independently confirmed completed."
   },
   "selection_policy": {
     "authoritative_order": "Read live MASTER top, queue, WORKFLOW, REGISTRY, newest/recovery dossier, AND WordPress backend EACH run; backend and latest verified header override historical checkboxes and stale prompt suggestions",
@@ -563,6 +568,6 @@
     "first_run_local": "2026-11-21T18:00:00+01:00",
     "timezone": "Europe/Rome",
     "recurrence": "FREQ=HOURLY",
-    "status": "REQUESTED_PENDING_TOOL_CONFIRMATION"
+    "status": "ENABLED_CONFIRMED_SCHEDULED_NOT_YET_EXECUTED"
   }
 }
