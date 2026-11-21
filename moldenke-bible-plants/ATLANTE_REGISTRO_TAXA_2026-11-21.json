@@ -1269,12 +1269,13 @@
       "legacy_code": "ATL-0179",
       "scientific_name_working": "Platanus orientalis",
       "checkbox_from_master": false,
-      "live_status": "next_candidate_needs_live_anti_dup",
+      "live_status": "draft_research",
       "source_line": 820,
-      "operational_code": "ATL-0161 proposed",
+      "operational_code": "ATL-0161",
       "verified_at": "2026-11-21",
       "taxonomy_kew": "accepted name 685873-1",
-      "note": "WP title search Platanus orientalis/platano without clear matching plant; full synonym and draft search required before creating."
+      "note": "WP draft #2336 created 2026-11-21. No publication; research and media/SEO/relations gates open.",
+      "wordpress_id": 2336
     },
     {
       "legacy_code": "ATL-0180",
