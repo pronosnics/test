@@ -1029,7 +1029,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0264 · *Tulipa spp*** — nome italiano da definire; **M — · D p. 472**; fonte: Duke; **stato: PUBBLICATA VOCE DI GENERE**; WP: `3966`.
 
-- [ ] **ATL-0265 · *Typha angustata*** — nome italiano da definire; **M voce 220, p. 235 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0265 · *Typha angustata*** — nome italiano da definire; **M voce 220, p. 235 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME TYPHA ANGUSTIFOLIA (KEW)**; WP: `3970`.
 
 - [ ] **ATL-0266 · *Typha spp*** — nome italiano da definire; **M — · D p. 474**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1804,3 +1804,9 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 ### ATL-0264 — 23 novembre 2026
 - Voce di genere Tulipa L. pubblicata WP #3966, media originale #3967, SHA-256 080a435c8cff78625b106bb1c15cfb2312880a5a13126c6d484d262fbdb6f22f, upload Base64 progressivo 8 blocchi. Famiglia Liliaceae e SEO completi. Duke pp472–474 (PDF pp498–500) letto direttamente: Cantico 2:12 niṣṣānîm collettivo, non tulipano certo; Moldenke p234 (PDF p230): rosa di Saron Cantico 2:1, diversa dal termine niṣṣānîm. Nessuna attribuzione terapeutica trasferita indiscriminatamente fra specie. https://piantedellabibbia.altervista.org/piante/tulipa-l-i-tulipani-e-i-fiori-biblici-confronto-fra-le-specie/
 - ATL-0263 Tulipa agenensis WP #3962: ricontrollata pubblicazione, immagine #3963 e bibliografia; nessuna omissione critica nuova individuata nel confronto con Duke. Restano aperte collazioni delle fonti non consultate, esplicitate nel testo.
+
+
+### ATL-0265 — 23 novembre 2026
+- ATL-0264 Tulipa spp. WP #3966 ricontrollata: publish, featured #3967, audit SEO senza issue.
+- ATL-0265 legacy Typha angustata Bory & Chaub.: Kew POWO sinonimo di Typha angustifolia L.; ITIS invece di Typha domingensis Pers. Divergenza tassonomica esplicita nella scheda. Moldenke pp235–236 (PDF pp231–232) letto direttamente; Matteo 27:29 e Marco 15:19 non identificano con certezza una tifa, iconografia non probante e obiezione fenologica. Pubblicata WP #3970 come Typha angustifolia (sin. Typha angustata), media originale #3971, SHA-256 bff76d7a7fd1fe7f572589bebf54639e581802ff7744d7ce4c830efba8cffcfc, 10 chunk Base64 progressivi. Famiglia Typhaceae #39. SEO senza issue. https://piantedellabibbia.altervista.org/piante/typha-angustifolia-l-tifa-e-canna-evangelica-sin-typha-angustata/
+- Prossima ATL-0266 Typha spp.: voce di genere da impostare come confronto senza duplicare ATL-0265.
