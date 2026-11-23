@@ -44,3 +44,11 @@ Queste sono **quattro voci bibliografiche storiche, non quattro specie bibliche 
 - **ATL-0010 — *Aegilops variabilis* Eig**, attualmente secondo Kew **Aegilops peregrina** (Hack.) Maire & Weiller, IPNI 384631-1, nome storico in sinonimia. La checklist storica va ricontrollata tassonomicamente, per possibili duplicati con altri *Aegilops*, *Triticum* e le voci di graminacee. `pdb/atlas-list` per "Aegilops variabilis" e "Aegilops peregrina" ha restituito 0 piante specifiche; ricerca generica Aegilops è troppo ampia e produce falsi positivi, fra cui la quercia *Quercus aegilops*.
 
 **Criterio di chiusura:** ATL-0006–0009 segnate **TRATTATE / NON VEGETALI / ACCORPATE NELL'ARTICOLO #4452** nel master. Non contare come 4 specie botaniche realizzate.
+
+
+## Chiusura bibliografica post-pubblicazione
+
+- Creata e pubblicata **fonte Moldenke #4462** sul capitolo pp27–28.
+- Registrate e pubblicate altre **cinque fonti specifiche** nel CPT `pdb_source`: LPSN #4464; DSMZ DSM2325 #4465; JCM21166 #4466; Mas et al. 2014 #4467; BDB H2558/G3690 #4468. Le **sei schede bibliografiche sono collegate dall'elenco finale dell'articolo #4452**, sostituzioni controllate e HTML validato.
+- Tentativo di `pdb/atlas-link` su `object_type=post` non supportato dal plugin (richiede oggetto di tipo PDB); non forzare relazioni inesistenti. Le fonti sono realmente presenti nella bibliografia pubblica e nelle rispettive schede bibliografiche, con contenuti diretti, non fonti decorative.
+- Post #4452 ancora `publish` dopo eliminazione del record importatore #4454, Media #4455 con ALT/featured invariati, `pdb/seo-audit issues=[]`. Nessun codice di lavorazione o cronologia tecnica nel testo pubblico.
