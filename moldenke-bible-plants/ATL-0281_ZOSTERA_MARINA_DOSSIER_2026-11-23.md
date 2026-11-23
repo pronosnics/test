@@ -34,7 +34,7 @@
 - SEO title, description, keyword e noindex disattivato; audit `pdb/seo-audit` dopo pubblicazione `issues=[]`. Confermati `publish`, immagine in evidenza #4297, famiglia #45.
 - QA HTML tramite WPVibe main: HTML pubblico completo, tavola e bibliografia presenti; link botanica→medicina e medicina→botanica funzionano nell'output DOM, Giona 2:5 e Moldenke leggibili, nessuna nota interna rilevata nel blocco.
 - QA visiva pixel su più dispositivi **non certificata**; DOM e status pubblici controllati.
-- Ponte di caricamento `/PIANTE DELLA BIBBIA/atl0281_bridge.txt` è temporaneo, eliminabile solo dopo upload verificato; non eliminare originale WebP.
+- Ponte di caricamento `/PIANTE DELLA BIBBIA/atl0281_bridge.txt` **spostato nel cestino dopo importazione verificata**; originale WebP conservato in Libreria privata.
 
 ## Prossima fase della roadmap
 La progressione arriva ad **ATL-0281**, ma il suo numero non certifica completamento di eventuali voci mancanti antecedenti. Per la fase seguente serve **audit completo del master** per individuare lacune, collisioni dei codici legacy e schede pubblicate non marcate, senza inventare una ATL-0282 fuori dal catalogo. Per le voci successive richiedere nuova identificazione e rigorosa verifica.
