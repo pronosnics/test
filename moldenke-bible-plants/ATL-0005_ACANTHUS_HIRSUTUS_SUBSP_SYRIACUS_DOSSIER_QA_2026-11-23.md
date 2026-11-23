@@ -28,7 +28,7 @@
 - **Lemma** riutilizzato: `pdb_term` **#3611**, `ḥārūl` H2738. Passage_terms nuove **#360–361**, relazioni botaniche identifications **#488–489**, entrambe `status=controversa`, non esclusive.
 - **Fonti bibliografiche nuove pubblicate** #4426 Kew (tassonomia + profilo), #4427 Moldenke, #4428 Tristram, #4429 Zohary; riuso BDB fonte #3607. **5 relazioni fonte botanica** #3537–3541, **3 medicina** #3542–3544, **3 Giobbe** #3545–3547, **3 Sofonia** #3548–3550; tutte univoche per singolo oggetto.
 - **Tavola originale senza scritte** Media WordPress **#4438**, `tavola-botanica_acanthus-hirsutus-subsp-syriacus_ATL-0005.webp`, **1086×1448 px**, **271256 byte**. SHA-256 originale **`60d7357aa1532990707d6dc206a79f35e42b1cd1a57416611f8ad0f44b691543`** = SHA restituito da WordPress. Trasferimento via `pdb/atlas-media-start`, **12/12 blocchi** (11×24000 + ultimo 7256), `pdb/atlas-media-finish` ha confermato attachment_id=4438 e featured_image_id=4438. ALT botanico descrittivo; provenance pubblica concisa, non tecnica; `pdb_plate_media_id=4438`.
-- **Originale WebP in Libreria privata** `/PIANTE DELLA BIBBIA/tavola-botanica_acanthus-hirsutus-subsp-syriacus_ATL-0005.webp`. Bridge temporaneo `atl0005_bridge_private_tmp.txt` da spostare nel cestino dopo la verifica.
+- **Originale WebP in Libreria privata** `/PIANTE DELLA BIBBIA/tavola-botanica_acanthus-hirsutus-subsp-syriacus_ATL-0005.webp`. Bridge temporaneo `atl0005_bridge_private_tmp.txt` **spostato nel cestino** dopo verifica SHA via `files__manage_library` (success=true). Conservata soltanto la tavola WebP originale nella Libreria privata.
 - **SEO** titolo, descrizione e keyword nei meta legacy e in Rank Math. Robots `index,follow` per botanica, medicina e citazioni. `pdb/seo-audit` su pianta **issues=[]** dopo publish; anche ATL-0004 #4409 e ATL-0003 #4381 senza warning.
 - Il controllo **HTML memorizzato nel backend**, media, permalinks, status e fonti è completato. **Non** equivale a prova di rendering pixel mobile/desktop con browser esterno; verifica visiva indipendente non certificata.
 
@@ -42,3 +42,9 @@
 - **ATL-0005 COMPLETATA**, sorgente Moldenke voce5 e Zohary; non creare scheda autonoma per `Acanthus syriacus` (sinonimo) o altra immagine.
 - **Prossima voce legacy progressiva: ATL-0006 *Acetobacter acetigenum***, non ATL-0010. Nel master anche ATL-0007, 0008 e 0009 sono altri batteri associati storicamente all'aceto. **AVVISO SCIENTIFICO:** NON sono piante, appartengono ai batteri. Prima di creare qualsiasi `pdb_plant`, verificare status nomenclaturale secondo LPSN/NCBI, eventuali sinonimi e il modello editoriale per microrganismi del sito; nessuna specie batterica va inserita falsamente come pianta. Moldenke p.27 associa più nomi storici al fenomeno dell'acetificazione; la Bibbia cita aceto, non specie identificabili microscopicamente. Il nome storico ATL-0009 `Acetobacter xylinum` è oggi associato a `Komagataeibacter xylinus` (LPSN) e quindi richiede riconciliazione.
 - Registro legacy da aggiornare insieme al master; vecchi checkbox non rappresentano automaticamente numero di schede reali mancanti.
+
+## Chiusura finale
+
+- **Master GitHub aggiornato:** ATL-0005 [x] e prossimo ATL-0006 batterico da verificare, master checkbox formalmente [ ] = 146, non numero delle specie assenti.
+- **Registro taxa aggiornato:** `ATLANTE_REGISTRO_TAXA_2026-11-21.json`, record ATL-0005 `published_verified_2026-11-23`, ATL-0006 preflight `Bacteria` senza scheda creata.
+- **Email di notifica inviata** a `pronosticisportivi5@gmail.com`, ID Gmail `1a209ccf1c688993`; link e QA pubblicazione inclusi. Dati della notifica non da ripetere nei testi pubblici.
