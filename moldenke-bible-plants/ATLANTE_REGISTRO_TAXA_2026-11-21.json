@@ -387,9 +387,13 @@
     {
       "legacy_code": "ATL-0003",
       "scientific_name_working": "Acacia seyal",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 572
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "source_line": 572,
+      "scientific_name_accepted": "Vachellia seyal (Delile) P.J.H.Hurter",
+      "wp_id": 4381,
+      "medicine_id": 4382,
+      "media_id": 4402
     },
     {
       "legacy_code": "ATL-0004",
@@ -2752,6 +2756,75 @@
       "medicine_id": 4329,
       "added": "Kew IUCN Near Threatened NT conservation context; Duke FNFF=? no clinical extrapolation",
       "status": "publish"
+    },
+    "ATL_0003_VACHELLIA_SEYAL_PUBLISHED_20261123": {
+      "legacy_code": "ATL-0003",
+      "taxon": "Vachellia seyal (Delile) P.J.H.Hurter",
+      "synonym": "Acacia seyal Delile",
+      "ipni": "77089276-1",
+      "family": "Fabaceae",
+      "family_id": 25,
+      "wp_id": 4381,
+      "medicine_id": 4382,
+      "media_id": 4402,
+      "media_sha256": "88ad6d9ce6fd725bc01517b531c134c82cb905a2ba0f110c5e1b2773c1369bef",
+      "source_posts_new": [
+        4383,
+        4384,
+        4385,
+        4386,
+        4387,
+        4388,
+        4389,
+        4390,
+        4391
+      ],
+      "source_reused": [
+        4362
+      ],
+      "sources_plant_unique": 10,
+      "sources_medicine_unique": 6,
+      "identification_ids": [
+        482,
+        483,
+        484
+      ],
+      "identification_status": "controversa",
+      "term_h7848_id": 4373,
+      "quotes": [
+        4374,
+        4403,
+        531
+      ],
+      "status": "publish",
+      "seo": "issues=[]",
+      "html_qa": "stored HTML botanical 29 h2, medicine 12 h2, balanced tags and reciprocal links; not browser screenshot",
+      "pending_duplicate_relations": {
+        "quote_id": 531,
+        "remove_only_relation_ids": [
+          3513,
+          3514,
+          3515
+        ],
+        "retain_relation_ids": [
+          3521,
+          3522,
+          3523,
+          3524
+        ],
+        "reason": "unlink not exposed by pdb-atlante 0.2.8; source posts remain intact"
+      },
+      "next_candidate": "ATL-0004 Acacia tortilis -> Kew Vachellia tortilis, verify site duplicates and subsp raddiana before create"
+    },
+    "ATL_0002_MEDICINE_HTML_QA_CLOSED_20261123": {
+      "post_id": 4354,
+      "status": "publish",
+      "method": "pdb-atlante/atlas-get mode all; decoded stored HTML",
+      "headings": 12,
+      "bibliography": true,
+      "reciprocal_link": true,
+      "tag_balanced": true,
+      "browser_visual_check": false
     }
   },
   "run_20261121_1835": {
