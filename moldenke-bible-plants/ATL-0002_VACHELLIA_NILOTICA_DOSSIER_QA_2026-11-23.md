@@ -46,3 +46,9 @@ ATL-0002 va marcata completata **sotto il taxon accettato `Vachellia nilotica`**
 - Il file ponte Base64 temporaneo `/PIANTE DELLA BIBBIA/atl0002_bridge.txt` è stato **spostato nel cestino** dopo il checksum riuscito: originale WebP di ATL-0002 conservato nella Libreria privata e media WordPress #4363 invariato.
 - Stato `publish` confermato via `pdb/atlas-get` per botanica #4353, medicina #4354, lemma H7848 #4373, citazione Esodo25:10 #4374, nonché lemma H5572 #2711 e citazioni già pubblicate #2716 e #3450. Fonte citazioni strutturate e ID relazioni conservati nel presente dossier.
 - **Notifica email Gmail inviata** alla casella del progetto, ID messaggio `1a2097720390afaf`, con link schede e QA trasparente su HTML medico non ricontrollato per limite WPVibe. Nessun lavoro lasciato in bozza nella nuova serie.
+
+
+## Chiusura successiva del controllo HTML medicinale — 23 novembre 2026
+- È stato superato il blocco WPVibe senza usare WPVibe: **pdb-atlante 0.2.8**, `pdb/atlas-get` `mode=all`, ha restituito `body_html_base64` completo del post medicinale #4354, stato `publish`. Decodifica dell'HTML: **12 `h2` aprono e 12 chiudono, 12 `p` aprono e 12 chiudono, 1 `ul` apre e 1 chiude**; bibliografia Duke, Nutrients 2024, Kew, FAO e Zohary presente; collegamento reciproco alla botanica #4353 verificato; nessuna nota tecnica o TODO rilevata.
+- **Il precedente «controllo HTML non completato» è quindi definitivamente chiuso per il contenuto salvato nel database WordPress.** Rimane distinta e non eseguita una verifica visiva/pixel della pagina pubblica su browser mobile e desktop. Non confondere struttura HTML con resistenza del layout.
+- Nella stessa sessione è stata pubblicata la successiva specie **ATL-0003 — Vachellia seyal** #4381, con dossier separato [ATL-0003](ATL-0003_VACHELLIA_SEYAL_DOSSIER_QA_2026-11-23.md).
