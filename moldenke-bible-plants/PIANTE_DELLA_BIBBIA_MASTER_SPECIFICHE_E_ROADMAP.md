@@ -1,4 +1,4 @@
-**STATO CANONICO AGGIORNATO 23/11/2026 — ATL-0281 *ZOSTERA MARINA* PUBBLICATA. LA SEQUENZA PROGRESSIVA ARRIVA ALL'ULTIMA VOCE NOTA; PROSSIMA ATTIVITÀ: AUDIT DELLE LACUNE LEGACY E DELLA ROADMAP, NON CREARE NUOVI TAXA AL DI FUORI DELL'ELENCO.** ATL-0281 botanica WordPress **#4296**, medicina **#4298**, tavola **#4297**, Zosteraceae **#45**, lemma sûf **#4318**, citazione Giona2:5 **#4319**, identificazione controversa **#475**, audit SEO senza avvisi. ATL-0280 aggiornata con Tristram1867 pp428–430 fonte **#4294** e relazione **#3409**. Pulizia 10 relazioni ATL-0277 già eseguita e verificata; 16 relazioni conservate. [Dossier ATL-0281](ATL-0281_ZOSTERA_MARINA_DOSSIER_2026-11-23.md).
+**STATO CANONICO AGGIORNATO 23/11/2026 — ATL-0281 *ZOSTERA MARINA* PUBBLICATA; PRIMA LACUNA REALE DEL RECUPERO, ATL-0001 *ABIES CILICICA*, ORA PUBBLICATA E CONTROLLATA. PROSSIMO CANDIDATO ATL-0002 *ACACIA NILOTICA*, DA VERIFICARE PER SINONIMIA E ANTI-DUPLICATI.** ATL-0281 botanica WordPress **#4296**, medicina **#4298**, tavola **#4297**, Zosteraceae **#45**, lemma sûf **#4318**, citazione Giona2:5 **#4319**, identificazione controversa **#475**, audit SEO senza avvisi. ATL-0280 aggiornata con Tristram1867 pp428–430 fonte **#4294** e relazione **#3409**. Pulizia 10 relazioni ATL-0277 già eseguita e verificata; 16 relazioni conservate. [Dossier ATL-0281](ATL-0281_ZOSTERA_MARINA_DOSSIER_2026-11-23.md).
 
 ---
 
@@ -671,7 +671,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni storiche e presenza reale in Moldenke/Duke.
 
-- [ ] **ATL-0001 · *Abies cilicica*** — nome italiano da definire; **M — · D p. 1**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0001 · *Abies cilicica* (Antoine & Kotschy) Carrière** — abete di Cilicia, Pinaceae; **M — · Duke2008 pp1–2 · Zohary1982 pp106–107 · Lawrence2004 · Dafni–Böck2019 · Kew IPNI261491-1**; **stato: PUBBLICATA E VERIFICATA**, WP botanica **#4328**, medicina **#4329**, tavola **#4330**, 7 collegamenti bibliografici botanici, 4 medicinali, identificazioni **#476–478** controverse, SEO issues=[]; [dossier](ATL-0001_ABIES_CILICICA_DOSSIER_QA_2026-11-23.md).
 
 - [ ] **ATL-0002 · *Acacia nilotica*** — nome italiano da definire; **M voce 1, p. 23 · D p. 2**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1917,3 +1917,9 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - ATL-0281 *Zostera marina* L. WP #4296 **pubblicata**; medicina #4298 **pubblicata**, tavola originale senza scritte #4297, Zosteraceae #45, 9 fonti nuove #4299–4307 con riuso Tristram #4069. Collegamenti 10 alla botanica, 5 medicina, 4 citazione Giona #4319, 3 lemma sûf #4318. Un'identificazione **controversa** #475. SEO issues=[], testo pubblico verificato. [Dossier](ATL-0281_ZOSTERA_MARINA_DOSSIER_2026-11-23.md).
 - Criticità scientifiche risolte: *Zostera marina* è angiosperma, non alga; *Z. nana* storica = *Z. noltii* secondo Kew; Giona2:5 *sûf* non designa con certezza un taxon, varianti testuali greche, non assimilare canneti di Esodo; distribuzione moderna non prova specie nel Levante biblico.
 - La progressione 0281 non misura da sola il completamento di tutte le voci master: avviare prossimo controllo sistematico delle caselle mancanti e dei codici legacy, senza inventare ATL-0282.
+
+
+### Recupero delle lacune dopo ATL-0281 — ATL-0001 abete di Cilicia, 23 novembre 2026
+- L'audit del master ha trovato **306 righe checklist ATL**, **151 marcate [ ]** prima di questa correzione. **Non sono 151 specie effettivamente assenti**: molte voci erano già pubblicate in WordPress. Esempi verificati: Juglans regia #1901, Lens culinaris #1961, Lilium candidum #1966, Quercus coccifera #2464, Ricinus communis #2639, Sinapis arvensis #3597, Solanum incanum #3535 e Tamarix mannifera sotto Tamarix senegalensis #3817. Questi checkbox devono essere riconciliati senza creare duplicati.
+- **ATL-0001 *Abies cilicica* ora PUBBLICATA**: botanica WP #4328, medicina #4329, tavola originale #4330, famiglia Pinaceae #20. Identificazioni #476–478 **CONTROVERSE**; 7 fonti botaniche e 4 medicina; fonti originali Zohary1982 pp106–107 e Duke2008 pp1–2, Lawrence2004, Dafni–Böck2019, Kew e Trees & Shrubs Online. Distinti lessicalmente H1265 bərôš e H1266 bərôtîm; lemma H1266 #4345 nuovo, H1265 #1556 già presente aggiornato; citazioni esistenti #294, #1559, #1560 riusate, metadati di #1559/#1560 completati. Tavola senza scritte su WordPress, SHA256 verificato; SEO `issues=[]`, HTML pubblico controllato. [Dossier dettagliato](ATL-0001_ABIES_CILICICA_DOSSIER_QA_2026-11-23.md).
+- **Prossima voce da verificare: ATL-0002 legacy *Acacia nilotica***, non procedere senza controllo di sinonimi tassonomici (possibile nome *Vachellia nilotica*) e WordPress. La presenza in roadmap non certifica assenza della scheda.
