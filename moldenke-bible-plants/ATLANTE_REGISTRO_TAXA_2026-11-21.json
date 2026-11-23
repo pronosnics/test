@@ -398,9 +398,15 @@
     {
       "legacy_code": "ATL-0004",
       "scientific_name_working": "Acacia tortilis",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 574
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "source_line": 574,
+      "scientific_name_accepted": "Vachellia tortilis (Forssk.) Galasso & Banfi",
+      "taxon_subsp_biblical_candidate": "Vachellia tortilis subsp. raddiana (Savi) Kyal. & Boatwr.",
+      "wp_id": 4409,
+      "medicine_id": 4418,
+      "media_id": 4419,
+      "media_sha256": "3d1d6f84892a621387342b79e37e8fe0075456e2b394447fb9421b038ee6f983"
     },
     {
       "legacy_code": "ATL-0005",
@@ -2825,6 +2831,56 @@
       "reciprocal_link": true,
       "tag_balanced": true,
       "browser_visual_check": false
+    },
+    "ATL_0004_VACHELLIA_TORTILIS_PUBLISHED_20261123": {
+      "legacy_code": "ATL-0004",
+      "scientific_name_accepted": "Vachellia tortilis (Forssk.) Galasso & Banfi",
+      "synonym": "Acacia tortilis (Forssk.) Hayne",
+      "biblical_subspecies": "Vachellia tortilis subsp. raddiana (Savi) Kyal. & Boatwr.",
+      "biblical_subspecies_historical_name": "Acacia raddiana Savi",
+      "species_ipni": "77087190-1",
+      "subspecies_ipni": "77132778-1",
+      "wp_id": 4409,
+      "medicine_id": 4418,
+      "media_id": 4419,
+      "media_sha256": "3d1d6f84892a621387342b79e37e8fe0075456e2b394447fb9421b038ee6f983",
+      "family_id": 25,
+      "new_source_posts": [
+        4410,
+        4411,
+        4412,
+        4413
+      ],
+      "reused_source_posts": [
+        4384,
+        4387,
+        4389,
+        4362
+      ],
+      "sources_plant_unique": 8,
+      "sources_medicine_unique": 4,
+      "identification_ids": [
+        485,
+        486,
+        487
+      ],
+      "identification_status": "controversa",
+      "quotes": [
+        4374,
+        4403,
+        531
+      ],
+      "status": "publish",
+      "seo": "issues=[]",
+      "html_qa": "stored 21 h2 plant, 9 h2 medicine balanced; reciprocal links; external browser page access not available",
+      "next_candidate": "ATL-0005 Acanthus syriacus; verify Kew nomenclature, WordPress synonyms and Moldenke p26"
+    },
+    "ATL_0003_RECHECK_MICAH_20261123": {
+      "plant_wp_id": 4381,
+      "change": "Added Micah 6:5 (Michea 6:5) in Shittim toponyms and pdb_biblical_overview after comparing Moldenke1952 pp24–25",
+      "other_sources_preserved": true,
+      "seo": "issues=[]",
+      "status": "publish"
     }
   },
   "run_20261121_1835": {
