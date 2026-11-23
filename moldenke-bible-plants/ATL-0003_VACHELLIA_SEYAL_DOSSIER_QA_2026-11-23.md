@@ -40,3 +40,10 @@
 ## Stato del recupero
 - ATL-0001 *Abies cilicica* completata, ATL-0002 legacy *Acacia nilotica* completata come *Vachellia nilotica*, e **ATL-0003 legacy *Acacia seyal* completata come *Vachellia seyal***.
 - **Prossima ATL-0004 — *Acacia tortilis***: controllo Kew nome accettato <em>Vachellia tortilis</em> (Forssk.) Galasso & Banfi IPNI 77087190-1, contenuti WP e rapporto con <em>V. tortilis</em> subsp. <em>raddiana</em> prima della creazione. Non confondere scheda di specie con taxon infra-specifico.
+
+
+## Chiusura di sessione: originali, metadati e notifica
+- Ponte Base64 temporaneo `atl0003_bridge.txt` **spostato nel cestino** dopo conferma checksum; **WebP originale conservato** nella Libreria privata e media in evidenza WordPress #4402 invariato.
+- Scheda medicinale #4382 mantenuta `publish` e aggiornata con `pdb_editorial_status=revisionata` mediante `pdb/atlas-update` del plugin, senza WPVibe.
+- Notifica email Gmail **inviata** a `pronosticisportivi5@gmail.com`, messaggio `1a20990e09e2dce2`, comprensiva dei link e della distinta nota privata su tre relazioni duplicate di Isaia41:19.
+- Prima di procedere oltre: la pulizia tecnica di 3 relazioni in Isaia 41:19 resta **non eseguita** in assenza della funzione di unlink controllato. Le schede pubblicate e le fonti bibliografiche originali non devono essere cancellate.
