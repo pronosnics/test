@@ -1025,7 +1025,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0262 · *Tulipa montana*** — nome italiano da definire; **M voce 218, p. 234 · D —**; fonte: Moldenke; **stato: PUBBLICATA**; WP: `3957`.
 
-- [ ] **ATL-0263 · *Tulipa sharonensis*** — nome italiano da definire; **M voce 219, p. 234 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0263 · *Tulipa sharonensis*** — nome italiano da definire; **M voce 219, p. 234 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME TULIPA AGENENSIS**; WP: `3962`.
 
 - [ ] **ATL-0264 · *Tulipa spp*** — nome italiano da definire; **M — · D p. 472**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1793,3 +1793,9 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - ATL-0261 *Triticum compositum* L.: sinonimo tassonomico di *Triticum turgidum* subsp. *turgidum* secondo Kew POWO e IPNI; non creare scheda autonoma duplicata. Da inserire in futuro come rimando nomenclaturale all'eventuale scheda accettata.
 - ATL-0262 *Tulipa montana* Lindl.: PUBBLICATA WP #3957, media WebP originale senza scritte #3958, SHA-256 d96ec7ad5b2451d4e1f073a3c84cbde6c6db80ff1da6ab4ede80cb29cae7d373, Base64 progressivo 10 blocchi. Kew accetta il taxon ma lo limita a Iran e Turkmenistan meridionale, non Palestina. La proposta storica di Zohary sui fiori di Cantico 2:12, letta tramite Duke 2008 p473, è controversa e non può essere applicata direttamente al nome attuale. Distinte *Tulipa agenensis* e *T. systola* levantine. Famiglia Liliaceae #38; SEO senza issue. URL https://piantedellabibbia.altervista.org/piante/tulipa-montana-lindl-tulipano-montano-e-i-fiori-del-cantico/
 - Moldenke p234 e altre fonti storiche per ATL-0262 ancora da collazionare integralmente; non dichiararle lette.
+
+
+### Controllo ATL-0262 e pubblicazione ATL-0263 — 23 novembre 2026
+- ATL-0262 Tulipa montana WP #3957: corretta omissione importante dopo collazione diretta Moldenke p234 PDF p230: Cantico 2:1 rosa di Saron e Isaia 35:1, Siracide 50:8; non solo Cantico 2:12. Bibliografia aggiornata senza dichiarare letture inesistenti.
+- ATL-0263 legacy Tulipa sharonensis Dinsm.: Kew POWO lo tratta come sinonimo di Tulipa agenensis Redouté; USDA GRIN conserva sottospecie sharonensis, divergenza spiegata. PUBBLICATA come Tulipa agenensis WP #3962, media WebP originale #3963, SHA-256 4d4b6c40d28b1c9442b18f27ccda548e90d8ad3f4c1662772bc7bc392271a67a, 8 chunk Base64, famiglia Liliaceae #38, SEO senza issue. Moldenke p234 e nota p289 lette. Identificazione della rosa di Saron con tulipano resta ipotetica. https://piantedellabibbia.altervista.org/piante/tulipa-agenensis-redoute-tulipano-di-saron-sin-tulipa-sharonensis/
+- ATL-0264 Tulipa spp.: voce di genere, da verificare se richiede sintesi tassonomica invece di duplicare le schede specifiche.
