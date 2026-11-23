@@ -38,3 +38,10 @@
 
 ## Prossima fase della roadmap
 La progressione arriva ad **ATL-0281**, ma il suo numero non certifica completamento di eventuali voci mancanti antecedenti. Per la fase seguente serve **audit completo del master** per individuare lacune, collisioni dei codici legacy e schede pubblicate non marcate, senza inventare una ATL-0282 fuori dal catalogo. Per le voci successive richiedere nuova identificazione e rigorosa verifica.
+
+
+## Verifica editoriale finale e notifica — 23 novembre 2026
+- Il testo pubblico della pianta è stato ulteriormente revisionato per **rimuovere una nota redazionale sul processo di collazione delle fonti**. La sezione ora intitolata «I limiti delle descrizioni botaniche antiche» contiene soltanto una spiegazione scientifica; il dettaglio sul processo di collazione rimane confinato nel presente dossier GitHub.
+- WordPress post #4296 e medicina #4298 pubblicati; audit SEO `issues=[]` verificato dopo pubblicazione. DOM pubblico `main` completo: immagine, bibliografia, citazione Giona, collegamenti medicina/botanica e assenza di note tecniche riscontrati.
+- **Notifica Gmail inviata** alla casella abituale del progetto, messaggio `1a2093ba92f6c06a`.
+- Prossimo controllo operativo: **audit retroattivo della roadmap**, per individuare tutte le caselle non completate o rimaste da riconciliare, evitando dichiarazioni infondate sul numero di specie residue.
