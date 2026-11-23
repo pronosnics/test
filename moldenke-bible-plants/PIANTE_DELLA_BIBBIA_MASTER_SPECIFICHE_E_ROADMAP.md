@@ -635,7 +635,7 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [ ] **ATL-0251 · *Tamarix mannifera*** — Tamerice della manna; **M voce 21, p. 31 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0260 · *Triticum aestivum*** — Grano; **M voce 215; 217, p. 228; 233 · D p. 468**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—` · ⚠ Più voci nella stessa fonte; Numerazione originale;.
+- [x] **ATL-0260 · *Triticum aestivum*** — Grano; **M voce 215; 217, p. 228; 233 · D p. 468**; fonte: Moldenke + Duke; **stato: PUBBLICATA**; WP: `3953` · ⚠ Più voci nella stessa fonte; Numerazione originale;.
 
 - [ ] **ATL-0275 · *Vitis orientalis*** — Vite selvatica (identificazione discussa); **M voce 225, p. 239 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1782,3 +1782,8 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - ATL-0255/0256: controllati post WP #3937 e #3940, corretta bibliografia finale che indicava erroneamente Zohary tra le fonti non lette. Stato publish, audit SEO senza problemi.
 - ATL-0259 Trigonella foenum-graecum L.: WP #3949 PUBBLICATO, media WebP #3950, caricamento ponte Libreria Base64 7 blocchi; SHA-256 8761279df5650e7dc7e8f4661d88e2298826158cf5abe09e1c192ad8d29b26f1. Fonti: Kew POWO, Moldenke p.34, Duke 2008 pp.463–467. Numeri 11:5: identificazione controversa di hasir; Moldenke preferisce Allium porrum, Zohary non include la specie nel Plants of the Bible secondo Duke. Famiglia Fabaceae, SEO compilato. https://piantedellabibbia.altervista.org/piante/trigonella-foenum-graecum-l-fieno-greco-e-il-dibattito-sui-porri-biblici/
 - Fonti ancora da collazionare per ATL-0259: Post, Tristram, Balfour, Dafni–Böck, Grilli Caiola. Non dichiararle lette.
+
+
+### ATL-0260 — 23 novembre 2026
+- [x] **Triticum aestivum L.** WP #3953 PUBBLICATA; WebP #3954 in evidenza, checksum SHA-256 e1968b148e79546d036af9e56dea8efd1355bc74f0e9bd0d48850129f9b73085, ponte Base64 progressivo 11 blocchi da 24 KB. Anti-duplicati WordPress effettuato. Kew POWO nome accettato. Fonti direttamente esaminate: Zohary 1982 pp74–75, Duke 2008 pp468–472, estratti Moldenke pp228–233. Punto critico: il grano biblico non è automaticamente il frumento tenero esaploide; Zohary identifica principalmente duro e dicocco tetraploidi. SEO compilato, famiglia Poaceae. https://piantedellabibbia.altervista.org/piante/triticum-aestivum-l-frumento-tenero-e-identificazione-del-grano-biblico/
+- [x] ATL-0259: audit WP successivo senza criticità. Ulteriore collazione di fonti storiche resta da fare e non è stata dichiarata completata.
