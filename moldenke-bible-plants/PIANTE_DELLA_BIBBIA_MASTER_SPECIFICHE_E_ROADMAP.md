@@ -1037,7 +1037,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0268 · *Urtica caudata*** — Ortica membranosa (nome accettato Urtica membranacea); **M voce 221, p. 237 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME URTICA MEMBRANACEA**; WP: `3988`.
 
-- [ ] **ATL-0269 · *Urtica dioica*** — nome italiano da definire; **M voce 222, p. 237 · D p. 480**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0269 · *Urtica dioica*** — Ortica maggiore; **M voce 222, p. 237 · D p. 480**; fonte: Moldenke + Duke; **stato: PUBBLICATA**; WP: `3992`.
 
 - [ ] **ATL-0270 · *Urtica pilulifera*** — nome italiano da definire; **M voce 223, p. 237 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1851,3 +1851,14 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] Distinta medicina popolare generica da prove su U. membranacea; letteratura clinica U. dioica e U. urens non trasferita, nessuna posologia. Nuova tavola originale senza scritte WP media #3989 featured, file tavola-botanica_urtica-membranacea.webp, 270730 byte, 12 blocchi Base64 progressivi, checksum SHA256 locale/server 57b37004973ca2ff190d94e17845a7b009bf641af5e4e44fe980594130b85706.
 - [x] SEO + OG, famiglia Urticaceae nuova term #41, HTML bilanciato, audit WordPress issues=[] dopo publish. Non dichiarate esaminate Balfour, Dafni–Böck o Grilli Caiola in assenza di collazione.
 - [ ] Prossima voce ATL-0269 Urtica dioica L.: verificare anti-duplicati, lettura originale Moldenke p237, Duke 2008 pp480–484, Zohary p162 e tassonomia Kew; evitare trasferimento arbitrario di versetti e dati medicinali da specie diverse.
+
+### ATL-0269 — Urtica dioica L., revisione qualità e pubblicazione — 23 novembre 2026
+- [x] **ATL-0268** Urtica membranacea (legacy U. caudata Vahl), WP #3988, ricontrollata: status publish, media #3989, famiglia Urticaceae e audit SEO senza issue; la divergenza di Post sulla sessualità dei racemi resta chiaramente distinta dalla diagnosi moderna.
+- [x] **ATL-0269** Urtica dioica L. (Urticaceae, Rosales) nome accettato Kew POWO; verifica anti-duplicati WordPress, nessuna scheda precedente per questa specie. Nuova scheda WP #3992 PUBBLICATA: https://piantedellabibbia.altervista.org/piante/urtica-dioica-l-ortica-maggiore-e-i-nomi-biblici-delle-ortiche/ . Circa 21.774 caratteri e 19 sezioni in italiano.
+- [x] Fonti lette direttamente: Moldenke 1952 p237 (PDF p233); Zohary 1982 p162 (PDF p163); Duke 2008 pp480–484 (PDF pp506–510); Post 1896 p732 (PDF p742); Tristram 1867 pp474–475 (PDF pp486–487). Fonti scientifiche correnti Kew POWO Urtica dioica IPNI 260630-2, EMA 2025 Urticae herba e radix, studio 2022 su fibre e riproduzione, DOI 10.1111/1442-1984.12486. Nessuna dichiarazione di letture inventate per Balfour, Dafni–Böck o Grilli Caiola.
+- [x] Distinzione cruciale: Duke 2008 p480 dice che le ortiche di Sofonia 2:9 non sono attribuibili con certezza a U. dioica; riporta prudenza di Zohary su Gerico. Zohary 1982 p162 descrive U. urens e U. pilulifera e contiene svista 'Isaiah 15:13' in luogo di Isaia 55:13. Moldenke e Tristram distinguono qimmosh/charul e confrontano Acanthus/Sinapis. Nessuna identificazione specie-specifica certa inventata.
+- [x] Morfologia trattata: erbacea perenne rizomatosa, foglie opposte e peli urticanti, fiori minuscoli e prevalentemente dioecia ma variabilità sessuale documentata; achenio. Kew include Lebanon-Syria fra aree native ma non Palestina come unità distinta nel suo elenco; Post 1896 cita Lebanon/Hermon, non prova di presenza generale in Palestina antica.
+- [x] Medicina: estratti e usi popolari da Duke separati da valutazioni EMA 2025; parti aeree, foglie e radici non intercambiabili; nessun dosaggio o affermazione clinica non dimostrata. Confronto e link ad ATL-0268.
+- [x] Illustrazione originale senza scritte WordPress media #3993 featured; file tavola-botanica_urtica-dioica.webp, 262996 byte, caricamento Base64 progressivo in 11 blocchi (10 da 24000, ultimo 22996). Checksum SHA-256 locale/server 04a3a552a52cd567afcafbbaf5b1f8315c3c6188a671af23c8df6280e60cc922. Nota: tavola artistica comparativa, non certificato d'identificazione microscopica.
+- [x] Metadati SEO/OG completi, famiglia Urticaceae term #41, HTML bilanciato, audit SEO senza issue.
+- [ ] Prossima voce ATL-0270 Urtica pilulifera L. (ortica romana): verificare nomenclatura, fonti Moldenke e Zohary, botanica delle infiorescenze femminili globose, evitare duplicazioni e identificazioni bibliche arbitrarie.
