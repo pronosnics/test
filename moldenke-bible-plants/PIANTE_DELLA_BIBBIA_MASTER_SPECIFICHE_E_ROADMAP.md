@@ -1035,7 +1035,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0267 · *Ulmus canescens*** — Olmo canescente (oggi Ulmus minor subsp. canescens); **M — · D p. 478**; fonte: Duke; **stato: PUBBLICATA COME SOTTOSPECIE ACCETTATA**; WP: `3984`.
 
-- [ ] **ATL-0268 · *Urtica caudata*** — nome italiano da definire; **M voce 221, p. 237 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0268 · *Urtica caudata*** — Ortica membranosa (nome accettato Urtica membranacea); **M voce 221, p. 237 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME URTICA MEMBRANACEA**; WP: `3988`.
 
 - [ ] **ATL-0269 · *Urtica dioica*** — nome italiano da definire; **M voce 222, p. 237 · D p. 480**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1841,3 +1841,13 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] Media originale WebP senza scritte #3985 caricata tramite Libreria come ponte Base64 in 12 blocchi da 24.000 byte (ultimo 17.234); bytes 281.234; SHA-256 locale/server ff79e1b4c31f3860da9214e4c8193afe189c2b7a4a2158a3e78d31c296967f06. Titolo alt e didascalia scientifica presenti. Media featured. SEO e OG compilati. Famiglia Ulmaceae nuova term #40. Audit HTML bilanciato, SEO issues=[].
 - [x] URL: https://piantedellabibbia.altervista.org/piante/ulmus-minor-subsp-canescens-olmo-canescente-e-isaia-4414-sin-ulmus-canescens/
 - [ ] Prossima voce in roadmap: ATL-0268 Urtica caudata Vahl — verificare prima Kew e anti-duplicati, poi originali Moldenke e Zohary, distinguendo ortiche bibliche generiche da specie.
+
+### ATL-0268 — Urtica membranacea (legacy Urtica caudata Vahl), 23 novembre 2026
+- [x] Controllo finale di ATL-0267 Ulmus minor subsp. canescens, WordPress #3984: pubblicata, media #3985 in evidenza, famiglia Ulmaceae, revisione nomenclaturale Kew/IPNI 2019 coerente e SEO audit senza issue. Nessuna nuova omissione sostanziale riscontrata.
+- [x] ATL-0268 anti-duplicati WP: nessuna voce pdb_plant per Urtica membranacea o Urtica caudata già presente. Pubblicata come Urtica membranacea Poir. ex Savigny (Urticaceae) WP #3988, URL https://piantedellabibbia.altervista.org/piante/urtica-membranacea-ortica-membranosa-sin-urtica-caudata-vahl/ . Testo italiano circa 19.114 caratteri e 16 sezioni.
+- [x] POWO Kew 2026: Urtica caudata Vahl, Symb. Bot. 2:96 (1791), sinonimo eterotipico e nom. illeg. di Urtica membranacea Poir. ex Savigny, Encycl. 4:638 (1798); non fondere nomi omonimi U. caudata Burm.f., Wall., Poir. con quello di Vahl. Areale nativo mediterraneo e macaronesico, inclusa Palestina e Libano-Siria.
+- [x] Morfologia diagnostica verificata in Flora of Israel, flora europea e BSBI News: annuale monoica, foglie opposte seghettate, racemi maschili superiori con rachide appiattito e bordo membranoso e fiori per lo più unilaterali, racemi femminili inferiori; acheni e peli urticanti. Post 1896 p732 (PDF p742) sembra invertire sesso delle infiorescenze membranose: discrepanza documentata, non replicata come carattere moderno incontrovertibile.
+- [x] Fonti biblico-botaniche lette direttamente: Moldenke 1952 p237 (PDF p233), voci U. caudata, dioica, pilulifera, urens e differenza qimmosh/charul; Zohary 1982 p162 (PDF p163), ipotesi collettiva sirpad, seravim, harul, ma illustra U. urens e U. pilulifera, NON identifica in modo univoco U. caudata; Tristram 1867 pp474–475 (PDF pp486–487) identifica alcuni charul anche con Acanthus; Post 1896 p732. Isaia 34:13/Osea 9:6, Giobbe 30:7/Prov 24:31/Sofonia 2:9, Isaia 55:13/Ezechiele 2:6 presentati come alternative non certe.
+- [x] Distinta medicina popolare generica da prove su U. membranacea; letteratura clinica U. dioica e U. urens non trasferita, nessuna posologia. Nuova tavola originale senza scritte WP media #3989 featured, file tavola-botanica_urtica-membranacea.webp, 270730 byte, 12 blocchi Base64 progressivi, checksum SHA256 locale/server 57b37004973ca2ff190d94e17845a7b009bf641af5e4e44fe980594130b85706.
+- [x] SEO + OG, famiglia Urticaceae nuova term #41, HTML bilanciato, audit WordPress issues=[] dopo publish. Non dichiarate esaminate Balfour, Dafni–Böck o Grilli Caiola in assenza di collazione.
+- [ ] Prossima voce ATL-0269 Urtica dioica L.: verificare anti-duplicati, lettura originale Moldenke p237, Duke 2008 pp480–484, Zohary p162 e tassonomia Kew; evitare trasferimento arbitrario di versetti e dati medicinali da specie diverse.
