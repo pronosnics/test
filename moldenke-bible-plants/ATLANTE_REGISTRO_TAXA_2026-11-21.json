@@ -511,19 +511,74 @@
     {
       "legacy_code": "ATL-0012",
       "scientific_name_working": "Alcea rosea",
-      "checkbox_from_master": false,
-      "live_status": "not_created_preflight_verified_2026-11-23",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
       "source_line": 582,
       "scientific_name_accepted": "Alcea rosea L.",
       "accepted_ipni": "558713-1",
-      "wp_anti_duplicate_note": "Search Alcea rosea / Althaea rosea / malvarosa / malvone: 0 dedicated plant pages. Kew accepted, native as cultigen from Türkiye."
+      "wp_anti_duplicate_note": "Search Alcea rosea / Althaea rosea / malvarosa / malvone: 0 dedicated plant pages. Kew accepted, native as cultigen from Türkiye.",
+      "name_context": "cultigen from Türkiye, putative A. biennis × A. setosa, not certain ancient Levant species",
+      "wp_id": 4537,
+      "medicine_id": 4538,
+      "media_id": 4561,
+      "media_sha256": "dbb8704d1107808add90fc975d2e591d20e14cb8d3d226ef26053b1ac21a64bd",
+      "family_id": 53,
+      "source_ids": [
+        4539,
+        4540,
+        4541,
+        4542,
+        4543,
+        4544,
+        4545,
+        4546
+      ],
+      "citation_ids": [
+        3580,
+        3581,
+        3582,
+        3583,
+        3584,
+        3585,
+        3586,
+        3587,
+        3588,
+        3589,
+        3590,
+        3591,
+        3592,
+        3593,
+        3594,
+        3595,
+        3596
+      ],
+      "bible_quote_ids": [
+        4548
+      ],
+      "bible_term_ids": [
+        4547
+      ],
+      "passage_term_link_ids": [
+        363
+      ],
+      "identification_ids": [
+        491,
+        492
+      ],
+      "identification_status": "controversa",
+      "seo_status": "issues=[]",
+      "public_editorial_note_audit": "passed",
+      "dossier": "ATL-0012_ALCEA_ROSEA_DOSSIER_QA_2026-11-23.md"
     },
     {
       "legacy_code": "ATL-0013",
       "scientific_name_working": "Alhagi maurorum",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 584
+      "live_status": "not_created_preflight_verified_2026-11-23",
+      "source_line": 584,
+      "scientific_name_accepted": "Alhagi maurorum Medik.",
+      "accepted_ipni": "473473-1",
+      "wp_anti_duplicate_note": "Alhagi / Alhagi maurorum search returned only mentions in Tamarix senegalensis and Fraxinus ornus, no dedicated plant."
     },
     {
       "legacy_code": "ATL-0014",
@@ -3231,6 +3286,52 @@
       ],
       "keep_internal_notes": "GitHub dossiers and roadmap only",
       "keep_public": "scientific material, source attribution, contextual uncertainty, natural links"
+    },
+    "ATL_0012_ALCEA_PUBLISHED_20261123": {
+      "wp_id": 4537,
+      "medicine_id": 4538,
+      "media_id": 4561,
+      "source_ids": [
+        4539,
+        4540,
+        4541,
+        4542,
+        4543,
+        4544,
+        4545,
+        4546
+      ],
+      "citation_ids": [
+        3580,
+        3581,
+        3582,
+        3583,
+        3584,
+        3585,
+        3586,
+        3587,
+        3588,
+        3589,
+        3590,
+        3591,
+        3592,
+        3593,
+        3594,
+        3595,
+        3596
+      ],
+      "quote_id": 4548,
+      "term_id": 4547,
+      "passage_term_link_id": 363,
+      "identifications": [
+        491,
+        492
+      ],
+      "identification_status": "controversa",
+      "media_sha256": "dbb8704d1107808add90fc975d2e591d20e14cb8d3d226ef26053b1ac21a64bd",
+      "seo": "issues=[]",
+      "previous_ATL0011_fix": "added missing 2020 RIP reference to final plant bibliography",
+      "next_candidate": "ATL-0013 Alhagi maurorum"
     }
   },
   "run_20261121_1835": {
