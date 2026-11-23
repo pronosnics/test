@@ -35,7 +35,10 @@
 ## Nota tecnica — pulizia bibliografica da approvare
 - Durante un batch interrotto dopo 20 azioni alcune richieste sono state già eseguite; il successivo tentativo ha generato 10 righe bibliografiche duplicate, NON nuove fonti o contenuti. Solo gli ID **3258–3267** (7 medicina #4145 e 3 lemma #4159) sono superflui.
 - Originali da conservare: ID #3238–3244 (7 fonti medicina) e #3245–3247 (tre fonti del lemma), più #3248; #4144 ha 12/12 fonti/righe. Numero uniche: medicina 7, lemma be’ushîm 4.
-- Un comando SQL esattamente limitato agli ID 3258–3267 con oggetti #4145/#4159 è in attesa di **approvazione esplicita** su WPVibe, operazione op_d21afd023ae14e86. Non considerare pulizia eseguita finché check_approval_status non restituisce executed; nessuna fonte o scheda deve essere cancellata.
+- **PULIZIA CONFERMATA ESEGUITA** in seguito all'approvazione dell'utente, WPVibe op_d21afd023ae14e86, 23/11/2026: SQL exit_code=0, **affected_rows=10**. La verifica SQL successiva conferma: botanica #4144 **12 righe / 12 fonti uniche**, medicina #4145 **7/7**, lemma #4159 **4/4**, lemma #4160 **4/4**, citazioni #4161 **4/4**, #4162 **4/4**, #4163 **2/2**. Nessuna scheda o fonte eliminata.
 
 ## Prossima specie
 **ATL-0277 Xanthium spinosum L.** (Moldenke voce227 p.245, Duke p.502): tassonomia Kew, anti-duplicati, rigore filologico e botanico. **ATL-0276 Vitis vinifera L. WP #143 già pubblicata**; non crearne una nuova.
+
+## Chiusura della pulizia approvata
+L'utente ha approvato la rimozione controllata dei 10 record duplicati. Stato WPVibe **executed**, effetto **10 righe** e controllo SQL 7/7 medicina, 4/4 lemma, 12/12 botanica. Questa verifica sostituisce lo stato in sospeso descritto sopra.
