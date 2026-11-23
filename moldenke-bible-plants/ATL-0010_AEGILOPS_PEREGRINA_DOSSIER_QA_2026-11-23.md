@@ -38,4 +38,4 @@
 
 ## Notifica
 
-Inviare riepilogo via Gmail collegata dopo chiusura finale e registrare l'esito nella chat, non nei contenuti pubblici.
+**Notifica inviata** via Gmail collegata a pronosticisportivi5@gmail.com; oggetto «Atlante Piante della Bibbia — ATL-0010 Aegilops peregrina pubblicata e verificata», Gmail message ID 1a209f88d200b001. Il browser esterno non ha potuto recuperare direttamente i permalinks; la pubblicazione e il contenuto sono stati confermati dalle API WordPress dedicate, non da un render visivo.
