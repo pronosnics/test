@@ -679,7 +679,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0004 · *Acacia tortilis* (legacy) → *Vachellia tortilis* (Forssk.) Galasso & Banfi** — acacia a ombrello, Fabaceae; **Moldenke1952 pp24–25 · Duke2008 pp7–8 · Zohary1982 p116 (subsp. raddiana) · Kew IPNI77087190-1 e 77132778-1 · FAO manuale §5 · Taha et al. 2022**; **PUBBLICATA / MEDIA_OK / SEO_0**, botanica WP **#4409**, medicina **#4418**, tavola originale **#4419**, 8 fonti botaniche e 4 medicinali distinte, 3 identificazioni bibliche #485–487 CONTROVERSE; [dossier](ATL-0004_VACHELLIA_TORTILIS_DOSSIER_QA_2026-11-23.md).
 
-- [ ] **ATL-0005 · *Acanthus syriacus*** — nome italiano da definire; **M voce 5, p. 26 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0005 · *Acanthus syriacus* Boiss. (legacy) → *Acanthus hirsutus* subsp. *syriacus* (Boiss.) Brummitt** — acanto siriano; **Kew POWO subsp. accettata IPNI955647-1, *A. syriacus* sinonimo IPNI44923-1**; **M voce 5, p. 26 · D —**; fonte: Moldenke, Kew e ulteriori fonti da collazionare; **stato: DA_CREARE, anti-duplicati WP preliminare negativo 23/11/2026** (ricerche *Acanthus syriacus*, *Acanthus hirsutus*, acanto siriano); WP: `—`.
 
 - [ ] **ATL-0010 · *Aegilops variabilis*** — nome italiano da definire; **M voce 10, p. 28 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1946,3 +1946,10 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - Revisione retroattiva ATL-0003: corretta una omissione in #4381, **Michea 6:5** nei toponimi Shittim, con metadato `pdb_biblical_overview` sincronizzato. Fonti e relazioni mantenute.
 - Backlog indipendente: **#3937 Zygophyllum dumosum** e **#3940 Thymelaea hirsuta** risultano **pubblicate ma prive di fonti collegate**; recupero qualità senza duplicare i post. Relazioni duplicate #3513–3515 della citazione condivisa Isaia41:19 restano da esaminare con unlink controllato: nessuna cancellazione di post/fonti autorizzata da questo aggiornamento.
 - **Prossima voce legacy ATL-0005 *Acanthus syriacus***, dopo anti-duplicati, Kew e collazione Moldenke p26. Dopo spunta ATL-0004 rimangono **formalmente 147** righe `[ ]` nel master storico, **NON** 147 specie sicuramente mancanti: le checkbox legacy hanno stati obsoleti e duplicati tassonomici.
+
+
+### Preflight ATL-0005 — 23 novembre 2026
+
+- **Sinonimia Kew POWO:** il nome legacy *Acanthus syriacus* Boiss. (IPNI 44923-1) è oggi sinonimo di ***Acanthus hirsutus* subsp. *syriacus* (Boiss.) Brummitt** (IPNI 955647-1), taxon accettato. Fare una sola scheda botanica sotto il nome corrente; inserire il nome storico fra i sinonimi e nei riferimenti a Moldenke/Zohary. Fonte: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:955647-1 .
+- **Controllo WordPress preliminare:** `pdb/atlas-list` per `Acanthus syriacus`, `Acanthus hirsutus` e `acanto siriano` restituisce **0 schede** specifiche. La ricerca `Acanthus` trova citazioni nella discussione delle ortiche ed altre piante, non schede botaniche dedicate; non confondere semplice occorrenza testuale con duplicato. Ricontrollare prima di creare.
+- **Fonti ancora da collazionare:** Moldenke1952 voce5 p26, Zohary e altre interpretazioni del termine spinoso/ornamentale. Separare il motivo architettonico in foglia d'acanto dall'attribuzione botanica di un versetto, senza etichettare automaticamente una specie come univoca.
