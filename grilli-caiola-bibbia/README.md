@@ -26,7 +26,7 @@ Questa è una fonte **italiana complementare**, da aggiungere al confronto siste
 | 2026-11-23 | P. **38**, Palma da datteri, *Phoenix dactylifera* L. | Lettura visuale, estrazione analitica del testo, verifica scientifica selettiva | [Audit 38–39](PP_38_39_PALMA_VITE_AUDIT_SCIENTIFICO_2026-11-23.md) |
 | 2026-11-23 | P. **39**, Vite, *Vitis vinifera* L. | Lettura visuale, estrazione analitica del testo, verifica scientifica selettiva; **p. 40 da ricevere** | [Audit 38–39](PP_38_39_PALMA_VITE_AUDIT_SCIENTIFICO_2026-11-23.md) |
 
-**Stato aggiornato:** cinque fotografie di pagine/sezioni ricevute in totale: pp. 31 e 32, voce FICO con pagina non identificata, pp. 38 e 39. **Non** affermare che cinque specie o cinque voci complete siano state trascritte: la vite potrebbe continuare alla pagina 40. I nuovi contenuti nel repository sono **sintesi scientifiche analitiche**, non pubblicazione integrale del volume; non sono ancora state applicate modifiche ai testi su WordPress.
+**Stato aggiornato:** cinque fotografie di pagine/sezioni ricevute in totale: pp. 31 e 32, voce FICO con pagina non identificata, pp. 38 e 39. **Non** affermare che cinque specie o cinque voci complete siano state trascritte: la vite potrebbe continuare alla pagina 40. I contenuti nel repository sono **sintesi scientifiche analitiche**, non pubblicazione integrale del volume. Il 23/11/2026 sono state integrate le schede WP #308 e #143 (vedere il registro sotto).
 
 **Questioni critiche emerse:** riferimento a Dikla nel libro da correggere (Gen 10:27 CEI 2008; personaggio della genealogia, non «donna» attestata dal versetto); p. 38 semi di Masada; p. 39 vite selvatica dioica contro coltivata ermafrodita; nessuna deduzione sanitaria dal resveratrolo nel vino.
 
@@ -37,3 +37,10 @@ Questa è una fonte **italiana complementare**, da aggiungere al confronto siste
 3. Non inventare porzioni coperte o non leggibili: segnalarle.
 4. Non trattare la singola pagina come voce completa se la trattazione prosegue.
 5. Aggiornare questo registro e collegare ciascuna specie alla roadmap senza duplicare schede esistenti.
+
+
+## Applicazione al sito — 23 novembre 2026
+
+- **Pagina 38 / Palma da dattero:** aggiornata la scheda pubblicata [`pdb_plant` #308](https://piantedellabibbia.altervista.org/piante/palma-da-dattero-phoenix-dactylifera/) con una sezione `20261123-p38` dedicata a Grilli Caiola–Guarrera–Travaglini, p. 38. Verifica API: `publish`, `noindex=false`, immagine #344, sezione presente una volta.
+- **Pagina 39 / Vite:** aggiornata la scheda pubblicata [`pdb_plant` #143](https://piantedellabibbia.altervista.org/piante/vite-vitis-vinifera/) con una sezione `20261123-p39`, p. 39. Verifica API: `publish`, `noindex=false`, immagine #187, sezione presente una volta.
+- Le notizie del libro sono state **rielaborate e vagliate**, non trascritte integralmente nel sito. La [matrice scientifica e le cautele](PP_38_39_PALMA_VITE_AUDIT_SCIENTIFICO_2026-11-23.md) documentano le correzioni. Se p. 40 prosegue la vite o contiene la Tabella 7, proseguire la collazione prima di dichiarare completa la fonte.
