@@ -10,7 +10,7 @@
 | 2026-11-18 | Pagina stampata 32, Terra Promessa | OCR e confronto visuale | [Trascrizione](GRILLI_CAIOLA_GUARRERA_TRAVAGLINI_OCR_CAP1_TERRA_PROMESSA_FICO.md) |
 | 2026-11-18 | Voce FICO, *Ficus carica* L. (numero p. non visibile) | OCR e confronto visuale | [Trascrizione](GRILLI_CAIOLA_GUARRERA_TRAVAGLINI_OCR_CAP1_TERRA_PROMESSA_FICO.md) |
 
-**Pagine complessive del volume trascritte:** tre fotografie: p. 31 (numero fornito dal lettore), p. 32 (numero stampato visibile), e pagina della voce FICO senza numero identificato. La voce FICO non può considerarsi terminata.
+**Primo lotto, al 18 novembre:** tre fotografie: p. 31 (numero fornito dal lettore), p. 32 (numero stampato visibile), e pagina della voce FICO senza numero identificato. La voce FICO non può considerarsi terminata. Per i nuovi materiali del 23 novembre, vedere il registro seguente.
 
 ## Uso nel progetto
 
