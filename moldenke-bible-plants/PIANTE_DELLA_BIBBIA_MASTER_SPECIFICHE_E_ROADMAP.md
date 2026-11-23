@@ -1033,7 +1033,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0266 · *Typha spp*** — Tife (scheda comparativa del genere); **M — · D p. 474**; fonte: Duke; **stato: PUBBLICATA VOCE DI GENERE**; WP: `3980`.
 
-- [ ] **ATL-0267 · *Ulmus canescens*** — nome italiano da definire; **M — · D p. 478**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0267 · *Ulmus canescens*** — Olmo canescente (oggi Ulmus minor subsp. canescens); **M — · D p. 478**; fonte: Duke; **stato: PUBBLICATA COME SOTTOSPECIE ACCETTATA**; WP: `3984`.
 
 - [ ] **ATL-0268 · *Urtica caudata*** — nome italiano da definire; **M voce 221, p. 237 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1830,3 +1830,14 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] Omissioni ed errori prevenuti: Duke p474 riporta Exodus 3:3 erroneamente per la cesta (Esodo 2:3–5); gōmeʾ cesta di papiro vs sûf vegetazione presso il Nilo; Isaia 19:6 e Giona 2:5 hanno contesti diversi; kálamos della Passione non identifica una tifa. Zohary Typha australis è sinonimo di T. domingensis secondo Kew; Kew T. angustata sinonimo di T. angustifolia contro ITIS T. domingensis: divergenze non occultate.
 - [x] SEO e metadata, famiglia Typhaceae term #39, link interni, HTML bilanciato, immagine in evidenza e checksum verificati. Nessuna affermazione di identificazione biblica certa né proprietà medicinali cliniche non dimostrate.
 - [ ] Prossima voce ATL-0267 Ulmus canescens Melville: verificare prima nomenclatura POWO e originali Zohary e Duke, anti-duplicati WordPress, evitando errore sul vocabolo geshem in Isaia 44:14.
+
+### ATL-0267 — Ulmus minor subsp. canescens (legacy Ulmus canescens) — 23 novembre 2026
+- [x] Verificata precedente ATL-0266 Typha L. WP #3980: publish, media #3981, famiglia Typhaceae e audit SEO senza issue. Nessuna omissione sostanziale nuova emersa.
+- [x] ATL-0267 anti-duplicati WordPress: ricerca Ulmus senza altra scheda pdb_plant omonima; esistono solo alcune citazioni bibliche che contengono la parola «olmo». Nuova scheda completa 17 sezioni, ~18.836 caratteri, WordPress #3984 **PUBBLICATA**.
+- [x] Nome accettato Kew: **Ulmus minor Mill. subsp. canescens Bartolucci & Galasso** (2019), Ulmaceae, Rosales; legacy **Ulmus canescens Melville** e combinazione Browicz & Ziel. non validamente pubblicati per problema tipificazione. Bartolucci et al. 2019 Italian Botanist 7:138, DOI 10.3897/italianbotanist.7.36148, designazione del tipo H.G. Tedd 806.
+- [x] Fonti botaniche: Kew POWO Ulmus minor subsp canescens (areale nativo mediterraneo, inclusa Palestina), Flora of Israel Ulmus minor; Post 1896 pp728–729 (Ulmus campestris sensu storico, NON prova della sottospecie attuale). Zohary 1982 pp127–128: albero deciduo e foglie asimmetriche grigio-pelose, samare, vegetazione riparia di Galilea/Samaria.
+- [x] Filologia biblica: Isaia 44:14 gešem = pioggia nel testo ricevuto. Zohary 1982 p128 propone emendamento congetturale nešem tramite nome arabo riferito a olmo, non prova di manoscritto. Duke 2008 pp478–479 riassume proposta. Sherwin 2003 Vetus Testamentum 53:514–529 discute il versetto conservando la pioggia. Osea 4:13 con «elm» in traduzioni storiche è altra questione lessicale (Tristram 1867 p350 identifica terebinto). Nessuna identificazione assertiva o nome ebraico assegnato come certo.
+- [x] Sicurezza: Duke avverte che dati medicinali della voce derivano principalmente da altre specie (Ulmus campestris, carpinifolia e slippery elm); nessun effetto clinico attribuito a questa sottospecie, nessun dosaggio.
+- [x] Media originale WebP senza scritte #3985 caricata tramite Libreria come ponte Base64 in 12 blocchi da 24.000 byte (ultimo 17.234); bytes 281.234; SHA-256 locale/server ff79e1b4c31f3860da9214e4c8193afe189c2b7a4a2158a3e78d31c296967f06. Titolo alt e didascalia scientifica presenti. Media featured. SEO e OG compilati. Famiglia Ulmaceae nuova term #40. Audit HTML bilanciato, SEO issues=[].
+- [x] URL: https://piantedellabibbia.altervista.org/piante/ulmus-minor-subsp-canescens-olmo-canescente-e-isaia-4414-sin-ulmus-canescens/
+- [ ] Prossima voce in roadmap: ATL-0268 Urtica caudata Vahl — verificare prima Kew e anti-duplicati, poi originali Moldenke e Zohary, distinguendo ortiche bibliche generiche da specie.
