@@ -1027,7 +1027,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0263 · *Tulipa sharonensis*** — nome italiano da definire; **M voce 219, p. 234 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME TULIPA AGENENSIS**; WP: `3962`.
 
-- [ ] **ATL-0264 · *Tulipa spp*** — nome italiano da definire; **M — · D p. 472**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0264 · *Tulipa spp*** — nome italiano da definire; **M — · D p. 472**; fonte: Duke; **stato: PUBBLICATA VOCE DI GENERE**; WP: `3966`.
 
 - [ ] **ATL-0265 · *Typha angustata*** — nome italiano da definire; **M voce 220, p. 235 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1799,3 +1799,8 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - ATL-0262 Tulipa montana WP #3957: corretta omissione importante dopo collazione diretta Moldenke p234 PDF p230: Cantico 2:1 rosa di Saron e Isaia 35:1, Siracide 50:8; non solo Cantico 2:12. Bibliografia aggiornata senza dichiarare letture inesistenti.
 - ATL-0263 legacy Tulipa sharonensis Dinsm.: Kew POWO lo tratta come sinonimo di Tulipa agenensis Redouté; USDA GRIN conserva sottospecie sharonensis, divergenza spiegata. PUBBLICATA come Tulipa agenensis WP #3962, media WebP originale #3963, SHA-256 4d4b6c40d28b1c9442b18f27ccda548e90d8ad3f4c1662772bc7bc392271a67a, 8 chunk Base64, famiglia Liliaceae #38, SEO senza issue. Moldenke p234 e nota p289 lette. Identificazione della rosa di Saron con tulipano resta ipotetica. https://piantedellabibbia.altervista.org/piante/tulipa-agenensis-redoute-tulipano-di-saron-sin-tulipa-sharonensis/
 - ATL-0264 Tulipa spp.: voce di genere, da verificare se richiede sintesi tassonomica invece di duplicare le schede specifiche.
+
+
+### ATL-0264 — 23 novembre 2026
+- Voce di genere Tulipa L. pubblicata WP #3966, media originale #3967, SHA-256 080a435c8cff78625b106bb1c15cfb2312880a5a13126c6d484d262fbdb6f22f, upload Base64 progressivo 8 blocchi. Famiglia Liliaceae e SEO completi. Duke pp472–474 (PDF pp498–500) letto direttamente: Cantico 2:12 niṣṣānîm collettivo, non tulipano certo; Moldenke p234 (PDF p230): rosa di Saron Cantico 2:1, diversa dal termine niṣṣānîm. Nessuna attribuzione terapeutica trasferita indiscriminatamente fra specie. https://piantedellabibbia.altervista.org/piante/tulipa-l-i-tulipani-e-i-fiori-biblici-confronto-fra-le-specie/
+- ATL-0263 Tulipa agenensis WP #3962: ricontrollata pubblicazione, immagine #3963 e bibliografia; nessuna omissione critica nuova individuata nel confronto con Duke. Restano aperte collazioni delle fonti non consultate, esplicitate nel testo.
