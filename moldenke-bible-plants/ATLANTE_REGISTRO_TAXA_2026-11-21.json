@@ -412,8 +412,11 @@
       "legacy_code": "ATL-0005",
       "scientific_name_working": "Acanthus syriacus",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 576
+      "live_status": "not_created_preflight_verified_2026-11-23",
+      "source_line": 576,
+      "scientific_name_accepted": "Acanthus hirsutus subsp. syriacus (Boiss.) Brummitt",
+      "accepted_ipni": "955647-1",
+      "synonym_legacy": "Acanthus syriacus Boiss."
     },
     {
       "legacy_code": "ATL-0010",
@@ -2881,6 +2884,21 @@
       "other_sources_preserved": true,
       "seo": "issues=[]",
       "status": "publish"
+    },
+    "ATL_0005_ACANTHUS_PREFLIGHT_20261123": {
+      "legacy_code": "ATL-0005",
+      "legacy_name": "Acanthus syriacus Boiss.",
+      "accepted_name": "Acanthus hirsutus subsp. syriacus (Boiss.) Brummitt",
+      "accepted_ipni": "955647-1",
+      "kew_status": "accepted subspecies",
+      "search_wp": [
+        "Acanthus syriacus",
+        "Acanthus hirsutus",
+        "acanto siriano"
+      ],
+      "dedicated_pdb_plant_results": 0,
+      "status": "not_created",
+      "next": "Moldenke p26, Zohary, biblical/ornament distinction, full anti-duplicate before new draft"
     }
   },
   "run_20261121_1835": {
