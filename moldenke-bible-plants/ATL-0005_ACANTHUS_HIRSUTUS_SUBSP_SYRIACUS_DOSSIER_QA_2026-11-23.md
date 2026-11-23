@@ -48,3 +48,8 @@
 - **Master GitHub aggiornato:** ATL-0005 [x] e prossimo ATL-0006 batterico da verificare, master checkbox formalmente [ ] = 146, non numero delle specie assenti.
 - **Registro taxa aggiornato:** `ATLANTE_REGISTRO_TAXA_2026-11-21.json`, record ATL-0005 `published_verified_2026-11-23`, ATL-0006 preflight `Bacteria` senza scheda creata.
 - **Email di notifica inviata** a `pronosticisportivi5@gmail.com`, ID Gmail `1a209ccf1c688993`; link e QA pubblicazione inclusi. Dati della notifica non da ripetere nei testi pubblici.
+
+
+## Ricontrollo incrociato, 23 novembre 2026
+
+Confrontati direttamente Moldenke (1952) pp26–27 e Zohary (1982) p165 oltre a Kew: mantenute tutte le alternative storiche per `ḥārūl`, la distinzione Tristram `Acanthus spinosus` e Moldenke/Post `Acanthus syriacus`, e il carattere **extracanonico** di Lettera di Aristea §70. La citazione di Post resta **mediata dal testo di Moldenke**, non falsamente indicata come fonte primaria indipendente collazionata. Piante #4436, medicina #4437, media #4438, identificazioni #488–489 controverse, SEO issues=[]. Nessuna modifica pubblica necessaria dopo questo confronto. Prossima sequenza storica non vegetale ATL0006–0009 trattata separatamente nel [dossier batteri/aceto](ATL-0006_0009_ACETO_BATTERI_DOSSIER_QA_2026-11-23.md).
