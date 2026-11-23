@@ -47,3 +47,10 @@
 - Scheda medicinale #4382 mantenuta `publish` e aggiornata con `pdb_editorial_status=revisionata` mediante `pdb/atlas-update` del plugin, senza WPVibe.
 - Notifica email Gmail **inviata** a `pronosticisportivi5@gmail.com`, messaggio `1a20990e09e2dce2`, comprensiva dei link e della distinta nota privata su tre relazioni duplicate di Isaia41:19.
 - Prima di procedere oltre: la pulizia tecnica di 3 relazioni in Isaia 41:19 resta **non eseguita** in assenza della funzione di unlink controllato. Le schede pubblicate e le fonti bibliografiche originali non devono essere cancellate.
+
+
+## Revisione retroattiva 23/11/2026 — topònimi Shittim
+
+- L'ultimo controllo di Moldenke1952, pp. 24–25, ha evidenziato una omissione reale nel testo pubblico della pianta: il toponimo Shittim di **Michea 6:5**. La pianta WordPress **#4381** è stata corretta nella sezione «Toponimi Shittim, Abel-Shittim e valle di Shittim» (sostituzione HTML WordPress confermata `replacements=1`) e nel meta `pdb_biblical_overview`. Nessuna attribuzione di specie cambiata; rimane `controversa`.
+- La successiva **ATL-0004 *Vachellia tortilis*** è stata pubblicata come pianta **#4409** e medicina **#4418**, con media originale **#4419**: [dossier](ATL-0004_VACHELLIA_TORTILIS_DOSSIER_QA_2026-11-23.md). Il confronto botanico ora ha due schede distinte e aggiornate.
+- Le 3 relazioni sovrapposte su Isaia41:19, citate sopra, restano aperte in attesa di un unlink sicuro; nessuna rimozione è stata eseguita in questa revisione.
