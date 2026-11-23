@@ -39,3 +39,11 @@
 ## Prossima attività
 - Aggiornamento roadmap: spuntare SOLO ATL-0001 e registrare WP IDs; riconciliare progressivamente le 151 righe `[ ]`, molte sono pubblicate ma non marcate. Non dedurre 151 specie mancanti.
 - Prossimo esame **ATL-0002, nome legacy *Acacia nilotica***: verificare Kew (*Vachellia nilotica*) e WordPress anche con sinonimi, e fonti Moldenke p.23 e Duke pp.2–6 prima di creare contenuto. 
+
+
+## QA finale supplementare e notifica (23 novembre 2026)
+- Verificati HTML pubblico completo `main` botanica (#4328) e medicina (#4329): immagine visibile, bibliografia e collegamenti interni pertinenti presenti, assenza di note operative, nessun 404. Stato `publish`, media in evidenza #4330 e famiglia Pinaceae #20 confermati. L'audit SEO `issues=[]` dopo pubblicazione.
+- Confermato con SQL read-only: 7 relazioni bibliografiche distinte alla botanica, 4 alla medicina, 4 al lemma nuovo H1266. Nessuna ripetizione `source_id` nelle rispettive serie.
+- Audit addizionale dei contenuti preesistenti: le citazioni pubblicate #294 Cantico1:17, #1559 1Re9:11, #1560 Ezechiele27:5 conservano lo stato pubblico; completati i metadati #1559/#1560 e del lemma H1265 #1556. Aggiunte **9 relazioni bibliografiche non sovrapposte** #3447–3455 per queste pagine già esistenti, sulla base delle fonti Kew/BDB/Duke/Lawrence/Dafni–Böck pertinenti; il loro contenuto non è stato cancellato.
+- **Email di notifica inviata** con Gmail alla casella abituale del progetto; ID messaggio `1a2095f3eb2f8197`.
+- Avvertenza conservata: la tavola botanica è un'illustrazione artistica originale senza scritte, non un'immagine di un esemplare erbariale. Non eseguito test visivo certificato su differenti viewport.
