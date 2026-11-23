@@ -41,3 +41,10 @@ ATL-0278 — Zilla spinosa (L.) Prantl. Controllare Kew e anti-duplicati WordPre
 - La precedente pulizia di ATL-0275 è confermata come executed: 10 collegamenti duplicati eliminati, fonti botaniche 12/12, medicina 7/7 e lemma 4/4.
 - La data **1689 in Portogallo** risulta da una rassegna floristica, ma documenta una prima attestazione europea, non la data esatta di arrivo in Siria/Palestina. Kew mostra origine americana e introdotta nel Levante. Le relazioni bibliche restano CONTROVERSE esclusivamente come testimonianze storiche, non identificazioni plausibili.
 - La notifica Gmail ATL-0277 è già stata inviata: non duplicarla; eventuale nuovo messaggio soltanto per la deduplicazione una volta confermata.
+
+
+## Chiusura definitiva della pulizia bibliografica — 23 novembre 2026
+- **Stato verificato: ESEGUITA**, operazione WPVibe `op_a196dac77ba04c61` (risposta `executed`), SQL `affected_rows=10`, esito zero errori. Approvazione fornita dall'utente.
+- Dieci relazioni sovrapposte eliminate esclusivamente da `pdb_source_citations`, ID **3308, 3309, 3310, 3312, 3313, 3314, 3316, 3317, 3318, 3319**, relative all'oggetto botanico `pdb_plant #4178`. **Nessuna scheda e nessuna fonte WordPress eliminate.**
+- **Riconciliazione SQL read-only dopo l'esecuzione:** relazioni bibliografiche del taxon `#4178` = **16**; residui fra i dieci ID rimossi = **0**; i dieci post bibliografici d'origine (`#4196,4197,4198,4200,4201,4202,4204,4205,4206,4207`) sono tutti e **10** ancora nello stato `publish`. Le quattro opere realmente aggiuntive del secondo blocco rimangono collegate.
+- I passaggi precedenti del dossier in cui la pulizia era indicata `pending` descrivono **solo lo stato storico precedente**: non costituiscono più attività aperta. Non è stata richiesta né autorizzata la cancellazione dei post fonte; un'eventuale deduplicazione dei record nel catalogo bibliografico sarebbe operazione distinta e richiederebbe valutazione dei riferimenti incrociati.
