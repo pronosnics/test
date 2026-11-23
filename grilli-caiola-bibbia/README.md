@@ -18,6 +18,18 @@ Questa è una fonte **italiana complementare**, da aggiungere al confronto siste
 
 **Roadmap generale:** [Piante della Bibbia — MASTER](../moldenke-bible-plants/PIANTE_DELLA_BIBBIA_MASTER_SPECIFICHE_E_ROADMAP.md).
 
+
+## Nuova acquisizione 23 novembre 2026 — pagine 38–39
+
+| Acquisizione | Materiale fotografato | Trattamento | File |
+|---|---|---|---|
+| 2026-11-23 | P. **38**, Palma da datteri, *Phoenix dactylifera* L. | Lettura visuale, estrazione analitica del testo, verifica scientifica selettiva | [Audit 38–39](PP_38_39_PALMA_VITE_AUDIT_SCIENTIFICO_2026-11-23.md) |
+| 2026-11-23 | P. **39**, Vite, *Vitis vinifera* L. | Lettura visuale, estrazione analitica del testo, verifica scientifica selettiva; **p. 40 da ricevere** | [Audit 38–39](PP_38_39_PALMA_VITE_AUDIT_SCIENTIFICO_2026-11-23.md) |
+
+**Stato aggiornato:** cinque fotografie di pagine/sezioni ricevute in totale: pp. 31 e 32, voce FICO con pagina non identificata, pp. 38 e 39. **Non** affermare che cinque specie o cinque voci complete siano state trascritte: la vite potrebbe continuare alla pagina 40. I nuovi contenuti nel repository sono **sintesi scientifiche analitiche**, non pubblicazione integrale del volume; non sono ancora state applicate modifiche ai testi su WordPress.
+
+**Questioni critiche emerse:** riferimento a Dikla nel libro da correggere (Gen 10:27 CEI 2008; personaggio della genealogia, non «donna» attestata dal versetto); p. 38 semi di Masada; p. 39 vite selvatica dioica contro coltivata ermafrodita; nessuna deduzione sanitaria dal resveratrolo nel vino.
+
 ## Regole per nuove fotografie
 
 1. Riconoscere il numero di pagina dalla fotografia, senza attribuire numeri presunti.
