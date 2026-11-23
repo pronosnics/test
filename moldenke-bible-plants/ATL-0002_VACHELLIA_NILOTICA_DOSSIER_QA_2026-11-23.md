@@ -40,3 +40,9 @@
 
 ## Roadmap
 ATL-0002 va marcata completata **sotto il taxon accettato `Vachellia nilotica`**, senza cambiare il codice legacy. Il prossimo candidato secondo l'ordine progressivo è **ATL-0003, `Acacia seyal`**: prima verificare su Kew l'eventuale nome accettato *Vachellia seyal*, status WP, e confrontare soprattutto Moldenke p.24, Duke p.6 e Tristram pp.391–393. Non presumere che le caselle unchecked del master siano tutte lacune reali.
+
+
+## Chiusura lavori della sessione — 23 novembre 2026
+- Il file ponte Base64 temporaneo `/PIANTE DELLA BIBBIA/atl0002_bridge.txt` è stato **spostato nel cestino** dopo il checksum riuscito: originale WebP di ATL-0002 conservato nella Libreria privata e media WordPress #4363 invariato.
+- Stato `publish` confermato via `pdb/atlas-get` per botanica #4353, medicina #4354, lemma H7848 #4373, citazione Esodo25:10 #4374, nonché lemma H5572 #2711 e citazioni già pubblicate #2716 e #3450. Fonte citazioni strutturate e ID relazioni conservati nel presente dossier.
+- **Notifica email Gmail inviata** alla casella del progetto, ID messaggio `1a2097720390afaf`, con link schede e QA trasparente su HTML medico non ricontrollato per limite WPVibe. Nessun lavoro lasciato in bozza nella nuova serie.
