@@ -54,3 +54,8 @@
 - L'ultimo controllo di Moldenke1952, pp. 24–25, ha evidenziato una omissione reale nel testo pubblico della pianta: il toponimo Shittim di **Michea 6:5**. La pianta WordPress **#4381** è stata corretta nella sezione «Toponimi Shittim, Abel-Shittim e valle di Shittim» (sostituzione HTML WordPress confermata `replacements=1`) e nel meta `pdb_biblical_overview`. Nessuna attribuzione di specie cambiata; rimane `controversa`.
 - La successiva **ATL-0004 *Vachellia tortilis*** è stata pubblicata come pianta **#4409** e medicina **#4418**, con media originale **#4419**: [dossier](ATL-0004_VACHELLIA_TORTILIS_DOSSIER_QA_2026-11-23.md). Il confronto botanico ora ha due schede distinte e aggiornate.
 - Le 3 relazioni sovrapposte su Isaia41:19, citate sopra, restano aperte in attesa di un unlink sicuro; nessuna rimozione è stata eseguita in questa revisione.
+
+
+## Integrazione filologica ulteriore (23 novembre 2026)
+
+La fonte condivisa Moldenke 1952 pp24–26, inclusa pagina26 sulla Settanta, il bosso e le acacie degli uadi (Evenari), è stata recepita anche nella pianta #4381. Testo pubblico aggiornato senza note redazionali di processo; bibliografia e `pdb_moldenke_pages=24–26`, `pdb_sources` sincronizzati. Il confronto con Vachellia tortilis subsp. raddiana non rende certa l'attribuzione biblica di Vachellia seyal. Le relazioni bibliografiche originarie sono preservate.
