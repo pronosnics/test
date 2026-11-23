@@ -51,3 +51,5 @@
 
 ## Prossimo in sequenza
 **ATL-0279 — Ziziphus lotus**, da verificare anti-duplicati, Kew POWO, Moldenke voce228 p247, nomi biblici e confronto con Z. spina-christi ATL-0280, evitando collisioni. La roadmap include ancora voci non completate anche a numerazione precedente: non presentare questo progressivo come numero totale delle specie mancanti.
+
+- **Nuova richiesta pulizia ATL-0277 (non eseguita):** WPVibe op_a196dac77ba04c61, solo 10 relazioni bibliografiche sovrapposte in tabella pdb_source_citations per oggetto botanico #4178. Stato visto **pending**; richiede autorizzazione utente, scade dopo circa 10 minuti. Non cancellare fonti/schede; dopo approvazione verificare esito executed e COUNT delle coppie fonte-oggetto. Il precedente op_dbbc05679fa24db6 era scaduto.
