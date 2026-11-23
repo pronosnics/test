@@ -1013,7 +1013,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0253 · *Taraxacum officinale*** — nome italiano da definire; **M voce 67, p. 74 · D p. 453**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0254 · *Tetraclinis articulata*** — nome italiano da definire; **M voce 214, p. 228 · D p. 459**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0254 · *Tetraclinis articulata*** — nome italiano da definire; **M voce 214, p. 228 · D p. 459**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
 - [ ] **ATL-0255 · *Tetraena dumosa*** — nome italiano da definire; **M — · D p. 461**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1760,3 +1760,8 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - **Regola di QA per le altre fonti:** censire l'archivio PDF della Libreria, distinguere i duplicati, ricercare tutte le menzioni delle specie storiche e i contesti biblici, leggere i paragrafi completi pertinenti (inclusi capitoli e note), collegare agli aggiornamenti tassonomici. **Non dichiarare lettura manuale integrale di ogni volume da una ricerca per stringhe**.
 - [ ] Rimangono da certificare QA grafica indipendente desktop/mobile e un eventuale controllo pagina per pagina di interi libri.
 - **Prossima ATL-0123 — *Juniperus phoenicea* L. storica / *J. turbinata* Guss. nel Levante**, previa anti-duplicati e nuova richiesta. **AUTOMAZIONE ORARIA SOSPESA, invariata.**
+
+
+## Aggiornamento 23 novembre 2026 — ATL-0254 e ATL-0255
+- [x] **ATL-0254 — Tetraclinis articulata:** pubblicata WordPress #3905, immagine #3920; corretti HTML bibliografico e metadati SEO il 23 novembre. La collazione integrale delle fonti non disponibili resta distinta dal controllo strutturale.
+- [ ] **ATL-0255 — Zygophyllum dumosum Boiss.** (sin. *Tetraena dumosa*): anti-duplicati WordPress eseguito; bozza `pdb_plant #3937` creata con testo botanico, bibliografia e limiti identificativi; Kew POWO accetta *Zygophyllum dumosum*, diversamente dal nome storico in Duke p.461. Tavola WebP generata localmente ma **non caricata** per blocco DNS su Altervista. Non pubblicare finché tavola, verifica fonti originali, SEO, relazioni e audit non siano completati. Prossima voce dopo chiusura: **ATL-0256 Thymelaea hirsuta**.
