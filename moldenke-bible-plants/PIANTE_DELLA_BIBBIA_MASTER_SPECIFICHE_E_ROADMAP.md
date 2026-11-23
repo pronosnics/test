@@ -1041,7 +1041,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0270 · *Urtica pilulifera*** — Ortica romana, ortica a campanelli; **M voce 223, p. 237 · D —**; fonte: Moldenke; **stato: PUBBLICATA**; WP: `3996`.
 
-- [ ] **ATL-0271 · *Urtica urens*** — nome italiano da definire; **M voce 224, p. 237 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0271 · *Urtica urens*** — nome italiano da definire; **M voce 224, p. 237 · D —**; fonte: Moldenke; **stato: PUBBLICATA**; WP: `4000`.
 
 - [ ] **ATL-0272 · *Vetiveria zizanioides*** — nome italiano da definire; **M — · D p. 485**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1873,3 +1873,9 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] Tavola botanica originale WebP senza scritte, featured WordPress media #3998, file tavola-botanica_urtica-pilulifera.webp, 287234 bytes, trasferita tramite ponte di Libreria Base64 in 12 blocchi (ultimo 23234), SHA-256 locale/server 3fd0447e8c5f0f92087e383212a54a83dadfe7c92f6c9d18f4e87be407d62c66.
 - [x] Famiglia Urticaceae #41; SEO/OG completati; HTML bilanciato; audit WP issues=[]; pubblicazione verificata.
 - [ ] Prossima ATL-0271 Urtica urens L. (ortica minore): confrontare nomenclatura Kew, Moldenke p237, Zohary p162, Post p732, e incertezza attribuzioni bibliche; non trasferire dati medici di U. dioica.
+
+
+### ATL-0271 — 23 novembre 2026
+- Controllo ATL-0270 Urtica pilulifera WP #3996: publish, featured #3998, SEO senza criticità; confronto con Moldenke p237.
+- ATL-0271 Urtica urens L. PUBBLICATA WP #4000, media WebP #4001, SHA-256 bab702a9bd9202b8885915ec2a4173727ac6a30b39ee114875b6c1b3318b3ea8, Base64 progressivo 11 chunk; famiglia Urticaceae #41 e SEO senza issue. Moldenke p237 PDF p233 letto direttamente. Distinti ḥārûl e qimmōš e candidati alternativi: nessuna identificazione biblica certa di Urtica urens. https://piantedellabibbia.altervista.org/piante/urtica-urens-l-ortica-minore-e-le-ortiche-dei-testi-biblici/
+- Prossima ATL-0272 Vetiveria zizanioides: verificare nome accettato e fonti Duke prima di procedere.
