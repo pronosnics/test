@@ -3,7 +3,7 @@
 **Fonte:** Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini, *Le piante nella Bibbia*, Gangemi, Roma, 2013, pp. 38–39.  
 **Base materiale:** fotografie delle due pagine fornite direttamente dal lettore il 23/11/2026. Numeri **38** e **39** controllati sulle pagine.  
 **Metodo:** lettura visuale integrale delle due colonne e registrazione analitica dei contenuti, con revisione botanica, storica e biblica selettiva; non riproduciamo qui il testo originale integrale. I punti di seguito sono **rielaborazioni e audit**, non citazioni letterali del volume, e non implicano verifica di ogni fonte secondaria elencata dagli autori.  
-**Stato:** pagine acquisite e analizzate; non equivalgono a un audit WordPress già applicato né alla consultazione del seguito della voce *Vitis* alla p. 40. Il vecchio lavoro sulle pp. 31–32 e sul fico resta separato.
+**Stato:** pagine acquisite e analizzate; il **23 novembre 2026** è stata completata l'integrazione critica delle due schede WordPress già pubblicate (vedere il registro finale). Il seguito della voce *Vitis* alla p. 40 non è ancora disponibile. Il vecchio lavoro sulle pp. 31–32 e sul fico resta separato.
 
 ## Pagina 38 — *Phoenix dactylifera* L. (Arecaceae), palma da datteri
 
@@ -23,7 +23,7 @@
 - **Confermato dalla fonte primaria moderna:** Sallon S. et al., 2008, «Germination, genetics, and growth of an ancient date seed», *Science* 320:1464, doi:10.1126/science.1153600; studio successivo su semi antichi: https://pmc.ncbi.nlm.nih.gov/articles/PMC7002127/ .
 - **Biblico da distinguere:** Es 15:27 = palme nel paesaggio; Gv 12:13 = fronde nell'ingresso; Ap 7:9 = immagini di palme nella visione; Sal 92 = figura poetica; 2 Sam 13:1 = nome personale.
 - **Correzioni editoriali necessarie:** (a) «Dikla = donna ebrea in Gen 10:26» è errato come lettura del passo; (b) non attribuire la frase «Festa delle Palme» a un'antica denominazione biblica; (c) festa ebraica e cristiana separate; (d) *sicera* non automaticamente vino di datteri; (e) dati relativi a resa, stagionalità e altezza dipendono da cultivar e clima.
-- **Confronto con il dossier esistente:** [ATL-0170 Palma da dattero](../moldenke-bible-plants/ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md): già contempla gran parte della morfologia, semi antichi, Elim/Gerico, frutti/fibre, Salmo/Apocalisse e onomastica. **Novità da verificare nell'articolo pubblico:** attribuzione bibliografica diretta della p. 38, correzione specifica di Dikla, distinzione delle feste, controllo del termine *sicera*. Nessuna prova qui di aggiornamento WP effettuato.
+- **Confronto con il dossier esistente:** [ATL-0170 Palma da dattero](../moldenke-bible-plants/ATL-0170_PALMA_DA_DATTERO_DOSSIER_2026-11-17.md): già contempla gran parte della morfologia, semi antichi, Elim/Gerico, frutti/fibre, Salmo/Apocalisse e onomastica. **Novità da verificare nell'articolo pubblico:** attribuzione bibliografica diretta della p. 38, correzione specifica di Dikla, distinzione delle feste, controllo del termine *sicera*. Successiva integrazione WP confermata il 23/11/2026; vedere il registro finale.
 
 ## Pagina 39 — *Vitis vinifera* L. (Vitaceae), vite
 
@@ -43,7 +43,7 @@
 - **Conferma genomica del dimorfismo sessuale:** Massonnet M. et al., 2020, «The genetic basis of sex determination in grapes», *Nature Communications*, https://www.nature.com/articles/s41467-020-16700-z ; ulteriore studio: https://pmc.ncbi.nlm.nih.gov/articles/PMC7487632/ .
 - **Controllo teologico-filologico:** le menzioni di vigna/vino possono essere simboliche; i termini descrittivi di bevande in Gen 40:11 e Num 28:7 vanno interpretati nel passo, non imposti come un'unica preparazione moderna. La descrizione di Noè come primo vignaiolo appartiene al racconto di Genesi.
 - **Sicurezza della comunicazione medica:** OMS (2023; aggiornamento della pagina istituzionale nel 2026): https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health .
-- **Confronto con la scheda già esistente:** Vite *Vitis vinifera*, WP #143, nel [dossier Zohary retroattivo](../moldenke-bible-plants/AUDIT_ZOHARY_02_VITE_2026-11-19.md). Integrare solo i punti realmente assenti dopo confronto puntuale; non creare nuovo record specie.
+- **Confronto con la scheda già esistente:** Vite *Vitis vinifera*, WP #143, nel [dossier Zohary retroattivo](../moldenke-bible-plants/AUDIT_ZOHARY_02_VITE_2026-11-19.md). Confronto puntuale completato e integrazione mirata effettuata il 23/11/2026, senza duplicare il record specie.
 
 ## Matrice dei passi da controllare
 
@@ -68,9 +68,25 @@
 - [x] Verifica contemporanea selettiva di tassonomia, seme di Masada, sessualità della vite e rischio da consumo alcolico.
 - [x] Rilevazione correzione bibliografico-biblica di Dikla e attenzione alla numerazione del Salmo.
 - [ ] Consultazione completa dell'opera e delle bibliografie finali: non ancora disponibili.
-- [ ] Confronto campo per campo dei testi pubblici WP #308 (*Phoenix*) e WP #143 (*Vitis*); non dichiarare integrazione WP compiuta.
+- [x] Confronto dei testi pubblici WP #308 (*Phoenix*) e WP #143 (*Vitis*) e integrazione mirata verificata; resta utile il controllo successivo delle relazioni strutturate.
 - [ ] Acquisizione e collazione p. 40, per possibile prosecuzione *Vitis*.
 - [ ] Corroborazione puntuale delle fonti secondarie antiche citate a p. 39 (passi originali).
 - [ ] Controllo biblico integrale in versione italiana definita, compresi i passi che il libro parafrasa.
 
 **Uso editoriale:** questo file è un dossier di studio sintetico, non un OCR integrale da distribuire. Non utilizzare il contenuto senza mantenere l'attribuzione e le distinzioni tra dati del volume, correzioni filologiche e risultati di studi scientifici indipendenti.
+
+
+## Integrazione WordPress eseguita — verifica del 23 novembre 2026
+
+Le due schede **preesistenti** sono state aggiornate con **una sola sezione aggiuntiva per pagina**, senza creare specie duplicate e senza modificare immagini, taxonomie o stato SEO preesistente.
+
+| Pagina della fonte | Taxon | WordPress | Stato aggiornamento | Marcatura HTML della sezione |
+|---|---|---|---|---|
+| 38 | *Phoenix dactylifera* L. | [WP #308](https://piantedellabibbia.altervista.org/piante/palma-da-dattero-phoenix-dactylifera/) | **PUBBLICATA, integrazione verificata** | `data-pdb-fonte-grilli-caiola="20261123-p38"` |
+| 39 | *Vitis vinifera* L. | [WP #143](https://piantedellabibbia.altervista.org/piante/vite-vitis-vinifera/) | **PUBBLICATA, integrazione verificata** | `data-pdb-fonte-grilli-caiola="20261123-p39"` |
+
+**Controlli dopo il salvataggio (via API WordPress):** la sezione di fonte esiste **una sola volta** in ciascuna scheda, status `publish`, `noindex=false`, immagine in evidenza #344 per la palma e #187 per la vite, titoli e URL confermati invariati. Lunghezza HTML: palma 25.501 → 30.056 caratteri; vite 14.445 → 19.005 caratteri. Aggiornamenti registrati dal server: palma `2026-11-23 13:41:32 GMT`, vite `2026-11-23 13:41:34 GMT`.
+
+**Contenuti distintivi introdotti:** seme Masada/Sallon 2008, impieghi alimentari e artigianali con interpretazione controllata di sicera, differenza fra festività e fronde, correzione Dikla/Gen 10:27; per la vite, distinzione dioica/ermafrodita e propagazione, passi Gen 49:11 e 14:18 e altre testimonianze, cautele sulle origini della viticoltura e sul resveratrolo. Ogni sezione cita il volume e la **pagina verificata**. Nessun OCR integrale è stato copiato nell'articolo pubblico.
+
+**Restano aperti:** pagina successiva e Tabella 7 della vite, controllo sul volume per i riferimenti alle fonti classiche; audit bibliografico analitico su citazioni non ancora direttamente consultate; controllo del rendering in un browser mobile reale non verificato in questa operazione.
