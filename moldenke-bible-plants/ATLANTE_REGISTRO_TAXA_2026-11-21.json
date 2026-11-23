@@ -469,19 +469,54 @@
     {
       "legacy_code": "ATL-0011",
       "scientific_name_working": "Agrostemma githago",
-      "checkbox_from_master": false,
-      "live_status": "not_created_preflight_verified_2026-11-23",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
       "source_line": 580,
       "scientific_name_accepted": "Agrostemma githago L.",
       "accepted_ipni": "150316-1",
-      "wp_anti_duplicate_note": "Only Solanum incanum #3535 mentions name; no dedicated post."
+      "wp_anti_duplicate_note": "Only Solanum incanum #3535 mentions name; no dedicated post.",
+      "wp_id": 4502,
+      "medicine_id": 4503,
+      "media_id": 4526,
+      "media_sha256": "f7fce763b6daa9006ff8d145f1a11e90b62c1f38dc839548dc3c9c69855a7e26",
+      "family_id": 52,
+      "source_ids": [
+        4504,
+        4505,
+        4506,
+        4507,
+        4508,
+        4509,
+        4510,
+        4511,
+        4512
+      ],
+      "bible_quote_ids": [
+        2089
+      ],
+      "bible_term_ids": [
+        4513
+      ],
+      "identification_ids": [
+        490
+      ],
+      "identification_status": "controversa",
+      "passage_term_links": [
+        362
+      ],
+      "seo": "issues=[]",
+      "public_editorial_note_audit": "passed",
+      "dossier": "ATL-0011_AGROSTEMMA_GITHAGO_DOSSIER_QA_2026-11-23.md"
     },
     {
       "legacy_code": "ATL-0012",
       "scientific_name_working": "Alcea rosea",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 582
+      "live_status": "not_created_preflight_verified_2026-11-23",
+      "source_line": 582,
+      "scientific_name_accepted": "Alcea rosea L.",
+      "accepted_ipni": "558713-1",
+      "wp_anti_duplicate_note": "Search Alcea rosea / Althaea rosea / malvarosa / malvone: 0 dedicated plant pages. Kew accepted, native as cultigen from Türkiye."
     },
     {
       "legacy_code": "ATL-0013",
@@ -3145,6 +3180,57 @@
       "seo": "issues=[]",
       "next_candidate": "ATL-0011 Agrostemma githago",
       "status": "publish"
+    },
+    "ATL_0011_AGROSTEMMA_PUBLISHED_20261123": {
+      "status": "publish",
+      "wp_id": 4502,
+      "medicine_id": 4503,
+      "media_id": 4526,
+      "source_ids": [
+        4504,
+        4505,
+        4506,
+        4507,
+        4508,
+        4509,
+        4510,
+        4511,
+        4512
+      ],
+      "identification_ids": [
+        490
+      ],
+      "quote_id": 2089,
+      "term_id": 4513,
+      "passage_terms_link": 362,
+      "media_sha256": "f7fce763b6daa9006ff8d145f1a11e90b62c1f38dc839548dc3c9c69855a7e26",
+      "seo": "issues=[]",
+      "public_editorial_notes_removed_from": [
+        626,
+        627,
+        628,
+        218,
+        4478,
+        3597,
+        2508,
+        2187,
+        3535
+      ],
+      "next_candidate": "ATL-0012 Alcea rosea"
+    },
+    "PUBLIC_CONTENT_NO_WORKFLOW_NOTES_RULE_20261123": {
+      "mandatory_on_every_new_or_revised_species": true,
+      "check_content_and_public_meta": true,
+      "forbidden_examples": [
+        "WordPress page IDs",
+        "MCP/base64",
+        "private Library IDs",
+        "internal publishing status",
+        "future duplicate-avoidance instructions",
+        "QA/checksum details"
+      ],
+      "keep_internal_notes": "GitHub dossiers and roadmap only",
+      "keep_public": "scientific material, source attribution, contextual uncertainty, natural links"
     }
   },
   "run_20261121_1835": {
