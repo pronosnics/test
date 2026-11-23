@@ -1765,3 +1765,8 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 ## Aggiornamento 23 novembre 2026 — ATL-0254 e ATL-0255
 - [x] **ATL-0254 — Tetraclinis articulata:** pubblicata WordPress #3905, immagine #3920; corretti HTML bibliografico e metadati SEO il 23 novembre. La collazione integrale delle fonti non disponibili resta distinta dal controllo strutturale.
 - [ ] **ATL-0255 — Zygophyllum dumosum Boiss.** (sin. *Tetraena dumosa*): anti-duplicati WordPress eseguito; bozza `pdb_plant #3937` creata con testo botanico, bibliografia e limiti identificativi; Kew POWO accetta *Zygophyllum dumosum*, diversamente dal nome storico in Duke p.461. Tavola WebP generata localmente ma **non caricata** per blocco DNS su Altervista. Non pubblicare finché tavola, verifica fonti originali, SEO, relazioni e audit non siano completati. Prossima voce dopo chiusura: **ATL-0256 Thymelaea hirsuta**.
+
+
+## Aggiornamento ATL-0256 — 23 novembre 2026
+- [ ] **Thymelaea hirsuta (L.) Endl.** — creata bozza WP #3940, dopo ricerca anti-duplicati. Nome accettato Kew; basionimo *Passerina hirsuta* L. Fonti verificate: Kew POWO e Species Profiles, World Flora Online, indice Duke 2008 p.462; Bailey & Danin 1981 e Schmidt & Stavisky 1983 citati da Kew ma non collazionati integralmente. Nessun versetto attribuito senza prova. Tavola originale senza scritte generata localmente, da verificare e caricare. In attesa di revisione fonti complete, media, audit e pubblicazione.
+- [ ] **ATL-0255**: trasferimento Base64 progressivo ancora bloccato dall'impossibilità del container di risolvere il dominio Altervista; immagine locale disponibile con SHA256 `3d0a28355c10046dc0ae5ffb9dcda65d7e527e45b4b15e47e2d7ae1510dc0456`. Non segnalare come caricata.
