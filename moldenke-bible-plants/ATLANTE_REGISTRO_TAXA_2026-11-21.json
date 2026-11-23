@@ -2,7 +2,7 @@
   "schema": "legacy-checklist-v2",
   "updated": "2026-11-23",
   "scope": "Extracted from main master checklist; names, checkbox statuses and non-live records remain to validate taxonomically and against backend",
-  "count": 241,
+  "count": 245,
   "records": [
     {
       "legacy_code": "ATL-0105",
@@ -432,8 +432,11 @@
       "legacy_code": "ATL-0010",
       "scientific_name_working": "Aegilops variabilis",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 578
+      "live_status": "not_created_preflight_verified_2026-11-23",
+      "source_line": 578,
+      "scientific_name_accepted": "Aegilops peregrina (Hack.) Maire & Weiller",
+      "accepted_ipni": "384631-1",
+      "synonym_legacy": "Aegilops variabilis Eig"
     },
     {
       "legacy_code": "ATL-0011",
@@ -1920,6 +1923,62 @@
       "medicine_id": 4298,
       "media_id": 4297,
       "manual_backfill_from_master": true
+    },
+    {
+      "legacy_code": "ATL-0006",
+      "scientific_name_working": "Acetobacter acetigenum",
+      "checkbox_from_master": true,
+      "live_status": "covered_in_nonplant_scientific_article_2026-11-23",
+      "is_plant": false,
+      "editorial_type": "historical_bacteriology_vinegar",
+      "wordpress_post_id": 4452,
+      "wordpress_post_type": "post",
+      "featured_media_id": 4455,
+      "source_line": 1090,
+      "manual_backfill_from_master": true,
+      "scientific_note": "Historical bacteriological entry; not a plant and not an identified biblical microorganism; treated within one rigorous vinegar article."
+    },
+    {
+      "legacy_code": "ATL-0007",
+      "scientific_name_working": "Acetobacter acetum",
+      "checkbox_from_master": true,
+      "live_status": "covered_in_nonplant_scientific_article_2026-11-23",
+      "is_plant": false,
+      "editorial_type": "historical_bacteriology_vinegar",
+      "wordpress_post_id": 4452,
+      "wordpress_post_type": "post",
+      "featured_media_id": 4455,
+      "source_line": 1092,
+      "manual_backfill_from_master": true,
+      "scientific_note": "Historical bacteriological entry; not a plant and not an identified biblical microorganism; treated within one rigorous vinegar article."
+    },
+    {
+      "legacy_code": "ATL-0008",
+      "scientific_name_working": "Acetobacter plicatum",
+      "checkbox_from_master": true,
+      "live_status": "covered_in_nonplant_scientific_article_2026-11-23",
+      "is_plant": false,
+      "editorial_type": "historical_bacteriology_vinegar",
+      "wordpress_post_id": 4452,
+      "wordpress_post_type": "post",
+      "featured_media_id": 4455,
+      "source_line": 1094,
+      "manual_backfill_from_master": true,
+      "scientific_note": "Historical bacteriological entry; not a plant and not an identified biblical microorganism; treated within one rigorous vinegar article."
+    },
+    {
+      "legacy_code": "ATL-0009",
+      "scientific_name_working": "Acetobacter xylinum",
+      "checkbox_from_master": true,
+      "live_status": "covered_in_nonplant_scientific_article_2026-11-23",
+      "is_plant": false,
+      "editorial_type": "historical_bacteriology_vinegar",
+      "wordpress_post_id": 4452,
+      "wordpress_post_type": "post",
+      "featured_media_id": 4455,
+      "source_line": 1096,
+      "manual_backfill_from_master": true,
+      "scientific_note": "Historical bacteriological entry; not a plant and not an identified biblical microorganism; treated within one rigorous vinegar article."
     }
   ],
   "operational_updates": {
@@ -2966,6 +3025,67 @@
       "wordpress_pdb_plant_search_count": 0,
       "status": "not_created",
       "next": "LPSN/NCBI accepted name, synonyms, historical acetic acid bacteria interpretation in Moldenke p27, consider distinct editorial type rather than falsely categorizing as plant"
+    },
+    "ATL_0006_0009_ACETO_MICROBIOLOGIA_PUBLISHED_20261123": {
+      "legacy_codes": [
+        "ATL-0006",
+        "ATL-0007",
+        "ATL-0008",
+        "ATL-0009"
+      ],
+      "historical_names": [
+        "Acetobacter acetigenum",
+        "Acetobacter acetum",
+        "Acetobacter plicatum",
+        "Acetobacter xylinum"
+      ],
+      "categorization": "NON_Piante; historic Acetobacter names grouped",
+      "wp_post_id": 4452,
+      "wp_post_type": "post",
+      "featured_image_id": 4455,
+      "featured_media_sha256": "aac62a5455af8a3c6bfb917ff60658b4b6b7ab4929a673ecf4c7c974f790e0c4",
+      "status": "publish",
+      "seo": "issues=[]",
+      "fake_plant_records_created": 0,
+      "transient_media_record_id": 4454,
+      "transient_media_record_deleted": true,
+      "temporary_bridge_deleted": true,
+      "source_coverage": [
+        "Moldenke1952 pp27–28",
+        "LPSN",
+        "DSMZ DSM2325",
+        "JCM21166",
+        "Mas et al 2014",
+        "BDB H2558",
+        "Greek G3690"
+      ],
+      "identification_certainty": "No direct species-verse identification",
+      "next_candidate": "ATL-0010 Aegilops variabilis = Aegilops peregrina Kew"
+    },
+    "ATL_0010_AEGILOPS_PREFLIGHT_20261123": {
+      "legacy_name": "Aegilops variabilis Eig",
+      "accepted_name": "Aegilops peregrina (Hack.) Maire & Weiller",
+      "accepted_ipni": "384631-1",
+      "checked_wordpress_queries": [
+        "Aegilops variabilis",
+        "Aegilops peregrina"
+      ],
+      "dedicated_plant_results": 0,
+      "status": "not_created",
+      "next": "Verify Moldenke pp28–29 and Kew morphology and botanical vs grass generic references before creating."
+    },
+    "ATL_0003_0004_QA_ISAIA_LXX_20261123": {
+      "post_ids": [
+        4381,
+        4409
+      ],
+      "source": "Moldenke1952 p26",
+      "detail": "Addition of LXX/boxwood interpretive variant and Evenari wadi ecological point; identification remains controversial",
+      "replacements_succeeded": [
+        1,
+        1
+      ],
+      "status": "publish"
     }
   },
   "run_20261121_1835": {
