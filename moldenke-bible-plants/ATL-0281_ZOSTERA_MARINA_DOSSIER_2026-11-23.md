@@ -45,3 +45,9 @@ La progressione arriva ad **ATL-0281**, ma il suo numero non certifica completam
 - WordPress post #4296 e medicina #4298 pubblicati; audit SEO `issues=[]` verificato dopo pubblicazione. DOM pubblico `main` completo: immagine, bibliografia, citazione Giona, collegamenti medicina/botanica e assenza di note tecniche riscontrati.
 - **Notifica Gmail inviata** alla casella abituale del progetto, messaggio `1a2093ba92f6c06a`.
 - Prossimo controllo operativo: **audit retroattivo della roadmap**, per individuare tutte le caselle non completate o rimaste da riconciliare, evitando dichiarazioni infondate sul numero di specie residue.
+
+
+## Ulteriore controllo post-pubblicazione e tavola — 23 novembre 2026
+- Piante WP #4296 e #4269: `publish`, immagini in evidenza #4297 e #4270, audit SEO `issues=[]`. Contenuti con titoli h2 e paragrafi HTML bilanciati, bibliografie presenti; sezione pubblica ATL-0281 priva di note operative sulla collazione delle fonti. L'ultima modifica editoriale è stata verificata sul testo WordPress dopo pubblicazione.
+- Una verifica iconografica ha rilevato che i dettagli fiorali della tavola generata sono **illustrativi e non un esemplare diagnostico**. **Non dichiarare accuratezza microscopica della tavola**: per i caratteri morfologici usare descrizioni WFO e materiale identificato di erbario/fotografie. La prima tavola originale WebP #4297 resta pubblicata con nota di ricostruzione artistica non diagnostica. Successive proposte grafiche con testo NON sono state pubblicate né caricate su WordPress, perché non rispettavano il requisito della tavola senza scritte e includevano affermazioni non verificate.
+- La proposta grafica di un codice **ATL-0282** e di *Alisma plantago-aquatica* NON è derivata dal master e **non va considerata autorizzata**. Il prossimo passo effettivo è riconciliare i gap della roadmap esistente.
