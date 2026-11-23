@@ -2,7 +2,7 @@
   "schema": "legacy-checklist-v2",
   "updated": "2026-11-23",
   "scope": "Extracted from main master checklist; names, checkbox statuses and non-live records remain to validate taxonomically and against backend",
-  "count": 239,
+  "count": 241,
   "records": [
     {
       "legacy_code": "ATL-0105",
@@ -1860,6 +1860,28 @@
       "checkbox_from_master": false,
       "live_status": "not_verified_this_run",
       "source_line": 950
+    },
+    {
+      "legacy_code": "ATL-0279",
+      "scientific_name_working": "Ziziphus lotus",
+      "scientific_name_accepted": "Ziziphus lotus (L.) Lam.",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "wp_id": 4243,
+      "medicine_id": 4244,
+      "media_id": 4245,
+      "manual_backfill_from_master": true
+    },
+    {
+      "legacy_code": "ATL-0281",
+      "scientific_name_working": "Zostera marina",
+      "scientific_name_accepted": "Zostera marina L.",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "wp_id": 4296,
+      "medicine_id": 4298,
+      "media_id": 4297,
+      "manual_backfill_from_master": true
     }
   ],
   "operational_updates": {
@@ -2597,6 +2619,44 @@
       },
       "next_candidate": "ATL-0281 Zostera marina L.",
       "note": "Codice progressivo non coincide con il conteggio delle eventuali lacune antecedenti; master roadmap resta autoritativo"
+    },
+    "ATL_0280_ADDITIONAL_QA_20261123": {
+      "wp_id": 4269,
+      "added_historical_source": "Tristram1867 pp428–430",
+      "source_post_id": 4294,
+      "citation_relation_id": 3409,
+      "post_status": "publish",
+      "seo": "issues=[]"
+    },
+    "ATL_0281_PUBLISHED_20261123": {
+      "taxon": "Zostera marina L.",
+      "wp_id": 4296,
+      "medicine_id": 4298,
+      "media_id": 4297,
+      "media_sha256": "88a5770159c6a5a241af34515f152bfeaa813af414c75d17c6bb4d94b30e5c72",
+      "family_id": 45,
+      "quote_id": 4319,
+      "term_id": 4318,
+      "identification_id": 475,
+      "identification_status": "controversa",
+      "source_posts_new": [
+        4299,
+        4300,
+        4301,
+        4302,
+        4303,
+        4304,
+        4305,
+        4306,
+        4307
+      ],
+      "source_post_reused": 4069,
+      "source_citations_plant": 10,
+      "source_citations_medicine": 5,
+      "status": "publish",
+      "seo": "issues=[]",
+      "html_qa": "checked_no_operational_notes",
+      "next_action": "audit all roadmap omissions and legacy collisions; no ATL-0282 assumed"
     }
   },
   "run_20261121_1835": {
