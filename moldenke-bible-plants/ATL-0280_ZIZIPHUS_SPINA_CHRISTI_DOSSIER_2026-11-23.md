@@ -37,3 +37,10 @@ ATL-0279 *Ziziphus lotus* è già pubblicata (#4243, medicina #4244, media #4245
 ## Chiusura operativa della sessione
 - Confermata email di notifica ATL-0280 inviata alla casella Gmail già usata per le notifiche dell'Atlante (messaggio Gmail ID `1a20924fab63a9b9`).
 - Controllo del DOM pubblico (`main`) riuscito: tavola botanica, titoli, bibliografia, collegamenti a medicina e ATL-0279 presenti; nessuna nota operativa interna riscontrata nel blocco controllato; audit SEO `issues=[]` dopo pubblicazione.
+
+
+## Tristram 1867 — integrazione dopo QA supplementare (23 novembre 2026)
+- Lettura diretta di Henry Baker Tristram, *The Natural History of the Bible* (1867), pp.428–430 / PDF pp.440–442: *Ziziphus spina-christi* «nubk» del Levante, siepi per i campi dei beduini, frutti gialli consumati, rami flessibili e spinosi; distinzione dalle altre Rhamnaceae e dalle alternative *Paliurus* e *Rubus* per le spine di Gedeone.
+- Nuova sezione comparativa inserita **in italiano** nella botanica WordPress **#4269** e voce aggiunta alla bibliografia pubblica. Rispetto della prudenza sulla corona evangelica: plausibilità storica ≠ identificazione certa.
+- Fonte bibliografica WordPress **#4294** pubblicata, relazione bibliografica **#3409** registrata sul post pianta #4269; **nessun nuovo post botanico duplicato**.
+- Dopo aggiornamento la scheda botanica rimane `publish`, famiglia Rhamnaceae, tavola media #4270 e audit SEO `issues=[]`.
