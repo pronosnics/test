@@ -43,4 +43,9 @@
 ## Qualità conclusiva e limiti
 
 - Audit plugin: `issues=[]` su ATL-0011 #4502, Aegilops #4478, Allium #627/#628, Solanum #3535, Mutarda #3597. Le API WordPress hanno confermato gli stati publish, non la resa visiva pixel nel browser esterno.
-- Notifica finale via Gmail collegata: inviare dopo controllo registro e commit GitHub; registrare l'esito in chat, non nei testi pubblici.
+- **Notifica Gmail inviata** al completamento, ID messaggio `1a20a0de360ac75a`, oggetto «Atlante Biblico — ATL-0011 Agrostemma githago pubblicata, verificata e note ripulite». Destinatario non conservato nel repository.
+## Supplemento QA dopo ultimo controllo
+
+- Revisione finale dei campi pubblici `pdb_image_provenance` anche su **Mutarda arvensis #3597**, **Quercus pseudococcifera #2508** e **Pancratium maritimum #2187**: eliminati riferimenti a Libreria privata, Media ID, SHA-256 e dettagli di upload. Sostituiti con descrizioni botaniche naturali e concise, senza alterare tavole, immagini in evidenza e corpi scientifici.
+- Verifica campionata su #4502, #4503, #4513, #2089, #626, #627, #628, #218, #4478, #3597, #3535, #2508 e #2187: HTML H2/paragrafi bilanciati; nessuna stringa operativa individuata in corpo/metadati dopo la sanificazione. La parola «in seguito» nella descrizione degli studi filogenetici di *Mutarda* è uso linguistico naturale, non istruzione operativa.
+- Audit SEO `issues=[]` anche per le piante riaperte #627, #628, #3535 e #3597 dopo integrazione dei metadati botanici e bibliografici; mantenute le fonti ragionate e la qualifica di incertezza nelle identificazioni.
