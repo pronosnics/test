@@ -90,3 +90,16 @@ Le due schede **preesistenti** sono state aggiornate con **una sola sezione aggi
 **Contenuti distintivi introdotti:** seme Masada/Sallon 2008, impieghi alimentari e artigianali con interpretazione controllata di sicera, differenza fra festività e fronde, correzione Dikla/Gen 10:27; per la vite, distinzione dioica/ermafrodita e propagazione, passi Gen 49:11 e 14:18 e altre testimonianze, cautele sulle origini della viticoltura e sul resveratrolo. Ogni sezione cita il volume e la **pagina verificata**. Nessun OCR integrale è stato copiato nell'articolo pubblico.
 
 **Restano aperti:** pagina successiva e Tabella 7 della vite, controllo sul volume per i riferimenti alle fonti classiche; audit bibliografico analitico su citazioni non ancora direttamente consultate; controllo del rendering in un browser mobile reale non verificato in questa operazione.
+
+
+## Regola redazionale permanente — 23/11/2026 (verifica conclusiva)
+
+**Le note sul nostro metodo non devono comparire nelle schede pubbliche.** Sono rimossi dall'HTML pubblico i titoli «La vite nella lettura di Grilli Caiola, Guarrera e Travaglini (p. 39)» e «La palma da datteri nel volume di Grilli Caiola…», i cartelli «Fonte fotografica consultata», le istruzioni relative a pagine non acquisite, note su OCR, compiti futuri e ID WordPress. I dati botanici e biblici selezionati sono inseriti **nelle sezioni tematiche esistenti** con citazioni naturali autore/anno/pagina.
+
+**Controlli WordPress effettuati dopo la correzione:**
+- [Palma #308](https://piantedellabibbia.altervista.org/piante/palma-da-dattero-phoenix-dactylifera/): bibliografia **alla fine** con voce **Grilli Caiola M., Guarrera P. M., Travaglini A., *Le piante nella Bibbia*, Gangemi, Roma, 2013, p. 38** e articolo **Sallon et al., *Science* 2008**; scheda pubblicata, indicizzabile, featured #344 invariata.
+- [Vite #143](https://piantedellabibbia.altervista.org/piante/vite-vitis-vinifera/): **Riferimenti bibliografici spostati alla fine**, con voci **Grilli Caiola et al. (2013), p. 39**, **Massonnet et al. (2020), *Nature Communications* 11, 2902** e **OMS Europa (2023)**; pubblicata, indicizzabile, featured #187 invariata.
+- Confermata la rimozione dal testo pubblico di frasi come «la continuazione della fonte oltre p. 39 e la tabella 7 restano da acquisire»; **questa annotazione resta esclusivamente in GitHub**.
+- Riferimenti catalografici e DOI delle tre pubblicazioni confermati da cataloghi bibliografici, PubMed e *Nature Communications*. Le fonti classiche del volume ancora da collazionare restano annotate nel presente dossier, non nell'articolo pubblico come richieste di lavoro.
+
+**Standard per le future acquisizioni:** soltanto informazioni consolidate, critica filologica comprensibile ai lettori, bibliografia finale con autore, titolo, editore/periodico, anno e pagina consultata. Note interne, verifiche aperte e piano di lavoro solo in GitHub.
