@@ -1,6 +1,6 @@
 {
   "schema": "legacy-checklist-v2",
-  "updated": "2026-11-21",
+  "updated": "2026-11-23",
   "scope": "Extracted from main master checklist; names, checkbox statuses and non-live records remain to validate taxonomically and against backend",
   "count": 239,
   "records": [
@@ -347,9 +347,13 @@
     {
       "legacy_code": "ATL-0280",
       "scientific_name_working": "Ziziphus spina-christi",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 560
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "source_line": 560,
+      "scientific_name_accepted": "Ziziphus spina-christi (L.) Desf.",
+      "wp_id": 4269,
+      "medicine_id": 4271,
+      "media_id": 4270
     },
     {
       "legacy_code": "ATL-0001",
@@ -2563,6 +2567,36 @@
       "qa_visual": "not_certified",
       "next_legacy": "ATL-0195 Rhamnus palaestinas taxonomic verify",
       "automation": "paused"
+    },
+    "ATL_0279_0280_PUBLISHED_20261123": {
+      "atl0279": {
+        "taxon": "Ziziphus lotus (L.) Lam.",
+        "wp_id": 4243,
+        "medicine_id": 4244,
+        "media_id": 4245,
+        "status": "publish",
+        "seo": "issues=[]",
+        "identification_status": "controversa"
+      },
+      "atl0280": {
+        "taxon": "Ziziphus spina-christi (L.) Desf.",
+        "wp_id": 4269,
+        "medicine_id": 4271,
+        "media_id": 4270,
+        "media_sha256": "c53655d8df0598b1b5eeafda46fc43abc505e41cc3a7d5c26a9f361e19302a7a",
+        "status": "publish",
+        "source_citations_plant": 10,
+        "source_citations_medicine": 5,
+        "identification_ids": [
+          472,
+          473,
+          474
+        ],
+        "identification_status": "controversa",
+        "seo": "issues=[]"
+      },
+      "next_candidate": "ATL-0281 Zostera marina L.",
+      "note": "Codice progressivo non coincide con il conteggio delle eventuali lacune antecedenti; master roadmap resta autoritativo"
     }
   },
   "run_20261121_1835": {
