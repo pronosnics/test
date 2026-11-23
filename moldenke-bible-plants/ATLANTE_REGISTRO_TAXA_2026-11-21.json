@@ -431,19 +431,50 @@
     {
       "legacy_code": "ATL-0010",
       "scientific_name_working": "Aegilops variabilis",
-      "checkbox_from_master": false,
-      "live_status": "not_created_preflight_verified_2026-11-23",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
       "source_line": 578,
       "scientific_name_accepted": "Aegilops peregrina (Hack.) Maire & Weiller",
       "accepted_ipni": "384631-1",
-      "synonym_legacy": "Aegilops variabilis Eig"
+      "synonym_legacy": "Aegilops variabilis Eig",
+      "wp_id": 4478,
+      "medicine_id": 4484,
+      "media_id": 4491,
+      "media_sha256": "6160a54fd9ef5301c5c825cbaca299ea57f796728e6566dd5a28e6f3522823cc",
+      "family_id": 18,
+      "source_ids": [
+        4479,
+        4480,
+        4481,
+        4482,
+        4483
+      ],
+      "source_citation_ids": [
+        3551,
+        3552,
+        3553,
+        3554,
+        3555,
+        3556,
+        3557,
+        3558,
+        3559,
+        3560
+      ],
+      "biblical_identification_status": "collective_grass_references_not_species_specific",
+      "identification_ids": [],
+      "seo_status": "issues=[]",
+      "dossier": "ATL-0010_AEGILOPS_PEREGRINA_DOSSIER_QA_2026-11-23.md"
     },
     {
       "legacy_code": "ATL-0011",
       "scientific_name_working": "Agrostemma githago",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 580
+      "live_status": "not_created_preflight_verified_2026-11-23",
+      "source_line": 580,
+      "scientific_name_accepted": "Agrostemma githago L.",
+      "accepted_ipni": "150316-1",
+      "wp_anti_duplicate_note": "Only Solanum incanum #3535 mentions name; no dedicated post."
     },
     {
       "legacy_code": "ATL-0012",
@@ -3085,6 +3116,34 @@
         1,
         1
       ],
+      "status": "publish"
+    },
+    "ATL_0010_AEGILOPS_PUBLISHED_20261123": {
+      "wp_id": 4478,
+      "medicine_id": 4484,
+      "media_id": 4491,
+      "source_ids": [
+        4479,
+        4480,
+        4481,
+        4482,
+        4483
+      ],
+      "citation_ids": [
+        3551,
+        3552,
+        3553,
+        3554,
+        3555,
+        3556,
+        3557,
+        3558,
+        3559,
+        3560
+      ],
+      "zero_identification_ids_reason": "Moldenke collective grasses; no species-specific verse",
+      "seo": "issues=[]",
+      "next_candidate": "ATL-0011 Agrostemma githago",
       "status": "publish"
     }
   },
