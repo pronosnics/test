@@ -1021,9 +1021,9 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0259 · *Trigonella foenum-graecum*** — nome italiano da definire; **M voce 26, p. 34 · D p. 463**; fonte: Moldenke + Duke; **stato: PUBBLICATA**; WP: `3949`.
 
-- [ ] **ATL-0261 · *Triticum compositum*** — nome italiano da definire; **M voce 216, p. 228 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0261 · *Triticum compositum*** — nome italiano da definire; **M voce 216, p. 228 · D —**; fonte: Moldenke; **stato: SINONIMO NON AUTONOMO**; WP: `—`.
 
-- [ ] **ATL-0262 · *Tulipa montana*** — nome italiano da definire; **M voce 218, p. 234 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0262 · *Tulipa montana*** — nome italiano da definire; **M voce 218, p. 234 · D —**; fonte: Moldenke; **stato: PUBBLICATA**; WP: `3957`.
 
 - [ ] **ATL-0263 · *Tulipa sharonensis*** — nome italiano da definire; **M voce 219, p. 234 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1787,3 +1787,9 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 ### ATL-0260 — 23 novembre 2026
 - [x] **Triticum aestivum L.** WP #3953 PUBBLICATA; WebP #3954 in evidenza, checksum SHA-256 e1968b148e79546d036af9e56dea8efd1355bc74f0e9bd0d48850129f9b73085, ponte Base64 progressivo 11 blocchi da 24 KB. Anti-duplicati WordPress effettuato. Kew POWO nome accettato. Fonti direttamente esaminate: Zohary 1982 pp74–75, Duke 2008 pp468–472, estratti Moldenke pp228–233. Punto critico: il grano biblico non è automaticamente il frumento tenero esaploide; Zohary identifica principalmente duro e dicocco tetraploidi. SEO compilato, famiglia Poaceae. https://piantedellabibbia.altervista.org/piante/triticum-aestivum-l-frumento-tenero-e-identificazione-del-grano-biblico/
 - [x] ATL-0259: audit WP successivo senza criticità. Ulteriore collazione di fonti storiche resta da fare e non è stata dichiarata completata.
+
+
+### Chiusura ATL-0261/0262 — 23 novembre 2026
+- ATL-0261 *Triticum compositum* L.: sinonimo tassonomico di *Triticum turgidum* subsp. *turgidum* secondo Kew POWO e IPNI; non creare scheda autonoma duplicata. Da inserire in futuro come rimando nomenclaturale all'eventuale scheda accettata.
+- ATL-0262 *Tulipa montana* Lindl.: PUBBLICATA WP #3957, media WebP originale senza scritte #3958, SHA-256 d96ec7ad5b2451d4e1f073a3c84cbde6c6db80ff1da6ab4ede80cb29cae7d373, Base64 progressivo 10 blocchi. Kew accetta il taxon ma lo limita a Iran e Turkmenistan meridionale, non Palestina. La proposta storica di Zohary sui fiori di Cantico 2:12, letta tramite Duke 2008 p473, è controversa e non può essere applicata direttamente al nome attuale. Distinte *Tulipa agenensis* e *T. systola* levantine. Famiglia Liliaceae #38; SEO senza issue. URL https://piantedellabibbia.altervista.org/piante/tulipa-montana-lindl-tulipano-montano-e-i-fiori-del-cantico/
+- Moldenke p234 e altre fonti storiche per ATL-0262 ancora da collazionare integralmente; non dichiararle lette.
