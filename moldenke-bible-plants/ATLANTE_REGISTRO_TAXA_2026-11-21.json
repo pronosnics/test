@@ -376,9 +376,13 @@
     {
       "legacy_code": "ATL-0002",
       "scientific_name_working": "Acacia nilotica",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 570
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "source_line": 570,
+      "scientific_name_accepted": "Vachellia nilotica (L.) P.J.H.Hurter & Mabb.",
+      "wp_id": 4353,
+      "medicine_id": 4354,
+      "media_id": 4363
     },
     {
       "legacy_code": "ATL-0003",
@@ -2703,6 +2707,51 @@
       "seo": "issues=[]",
       "next_candidate": "ATL-0002 Acacia nilotica (verify Vachellia nilotica and WordPress first)",
       "audit": "306 checklist entries, 151 unchecked at start but many stale; counts are not missing species totals"
+    },
+    "ATL_0002_VACHELLIA_NILOTICA_PUBLISHED_20261123": {
+      "legacy_code": "ATL-0002",
+      "accepted": "Vachellia nilotica (L.) P.J.H.Hurter & Mabb.",
+      "historical": "Acacia nilotica (L.) Willd. ex Delile",
+      "ipni": "77089275-1",
+      "wp_id": 4353,
+      "medicine_id": 4354,
+      "media_id": 4363,
+      "media_sha256": "8a89b2f0f294bc61b4c7e610a2f64f8c8ce3d2127fdb72fb55363b74cff40e85",
+      "family_id": 25,
+      "source_posts_new": [
+        4355,
+        4356,
+        4357,
+        4358,
+        4359,
+        4360,
+        4361,
+        4362
+      ],
+      "source_reused": 3424,
+      "source_citations_plant": 9,
+      "source_citations_medicine": 5,
+      "term_seneh": 2711,
+      "term_shittah": 4373,
+      "quote_exodus3": 2716,
+      "quote_deut33": 3450,
+      "quote_exodus25": 4374,
+      "identification_ids": [
+        479,
+        480,
+        481
+      ],
+      "identification_status": "controversa",
+      "seo": "issues=[]",
+      "status": "publish",
+      "qa": "Public plant DOM verified, medical DOM WPVibe daily cap; medicine WordPress publish. No redundant source_ids.",
+      "next_candidate": "ATL-0003 Acacia seyal; confirm Kew Vachellia seyal and WordPress duplicate before proceeding."
+    },
+    "ATL_0001_ADDITIONAL_QA_20261123": {
+      "wp_id": 4328,
+      "medicine_id": 4329,
+      "added": "Kew IUCN Near Threatened NT conservation context; Duke FNFF=? no clinical extrapolation",
+      "status": "publish"
     }
   },
   "run_20261121_1835": {
