@@ -41,3 +41,8 @@
 - **ATL-0004** da `[ ] DA_CREARE` a **`[x] PUBBLICATA / MEDIA_OK / SEO_0`**: WordPress #4409, medicina #4418, tavola #4419.
 - **Prossima candidata legacy ATL-0005 — *Acanthus syriacus***: prima di creare, verifica anti-duplicati WordPress, nome accettato Kew, eventuale sinonimia e Moldenke voce 5 p. 26; non attribuire automaticamente a una precisa specie l'`akantha` o i motivi ornamentali.
 - La numerazione storica e le caselle non spuntate della roadmap non corrispondono direttamente a specie uniche mancanti: il conteggio delle schede effettive richiede riconciliazione con WordPress.
+
+
+## Integrazione filologica della fonte Moldenke p26 (23 novembre 2026)
+
+Riletta la continuazione di Moldenke 1952 alla **p. 26**, omessa nella bibliografia iniziale pp24–25. La discussione segnala una lettura greca della Settanta riferita al **bosso** nella questione di Isaia41:19, e riferisce l'osservazione di Evenari che le acacie vivono in **uadi** e non in tutto il deserto aperto. Pubblico #4409 integrato con una frase naturale su variante traduttiva ed ecologia; bibliografia ampliata a pp24–26, `pdb_moldenke_pages=24–26`, `pdb_sources` sincronizzato. La fonte bibliografica già condivisa #4384 è stata ampliata alle pp24–26 senza creare doppioni, mantenendo permalink storico. Identificazione Vachellia tortilis subsp. raddiana sempre CONTROVERSA.
