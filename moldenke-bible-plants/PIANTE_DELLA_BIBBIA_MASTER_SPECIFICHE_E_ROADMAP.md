@@ -1031,7 +1031,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0265 · *Typha angustata*** — nome italiano da definire; **M voce 220, p. 235 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME TYPHA ANGUSTIFOLIA (KEW)**; WP: `3970`.
 
-- [x] **ATL-0266 · *Typha spp*** — nome italiano da definire; **M — · D p. 474**; fonte: Duke; **stato: PUBBLICATA VOCE DI GENERE**; WP: `3980`.
+- [x] **ATL-0266 · *Typha spp*** — Tife (scheda comparativa del genere); **M — · D p. 474**; fonte: Duke; **stato: PUBBLICATA VOCE DI GENERE**; WP: `3980`.
 
 - [ ] **ATL-0267 · *Ulmus canescens*** — nome italiano da definire; **M — · D p. 478**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
