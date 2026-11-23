@@ -411,12 +411,22 @@
     {
       "legacy_code": "ATL-0005",
       "scientific_name_working": "Acanthus syriacus",
-      "checkbox_from_master": false,
-      "live_status": "not_created_preflight_verified_2026-11-23",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
       "source_line": 576,
       "scientific_name_accepted": "Acanthus hirsutus subsp. syriacus (Boiss.) Brummitt",
       "accepted_ipni": "955647-1",
-      "synonym_legacy": "Acanthus syriacus Boiss."
+      "synonym_legacy": "Acanthus syriacus Boiss.",
+      "wp_id": 4436,
+      "medicine_id": 4437,
+      "media_id": 4438,
+      "media_sha256": "60d7357aa1532990707d6dc206a79f35e42b1cd1a57416611f8ad0f44b691543",
+      "family_id": 46,
+      "identification_status": "controversa",
+      "biblical_quotes": [
+        4434,
+        4435
+      ]
     },
     {
       "legacy_code": "ATL-0010",
@@ -2899,6 +2909,63 @@
       "dedicated_pdb_plant_results": 0,
       "status": "not_created",
       "next": "Moldenke p26, Zohary, biblical/ornament distinction, full anti-duplicate before new draft"
+    },
+    "ATL_0005_ACANTHUS_PUBLISHED_20261123": {
+      "legacy_code": "ATL-0005",
+      "accepted": "Acanthus hirsutus subsp. syriacus (Boiss.) Brummitt",
+      "old_name": "Acanthus syriacus Boiss.",
+      "ipni": "955647-1",
+      "wp_id": 4436,
+      "medicine_id": 4437,
+      "media_id": 4438,
+      "media_sha256": "60d7357aa1532990707d6dc206a79f35e42b1cd1a57416611f8ad0f44b691543",
+      "family_id": 46,
+      "bible_quote_ids": [
+        4434,
+        4435
+      ],
+      "hebrew_term_id": 3611,
+      "new_source_posts": [
+        4426,
+        4427,
+        4428,
+        4429
+      ],
+      "source_reused": [
+        3607
+      ],
+      "source_citations_plant": 5,
+      "source_citations_medicine": 3,
+      "source_citations_quotes": 6,
+      "identification_ids": [
+        488,
+        489
+      ],
+      "identification_status": "controversa",
+      "seo": "issues=[]",
+      "html_qa": "plant 28 H2 and 27 P balanced, medicine 9 H2 and 8 P; backend source checks, no public browser screenshot",
+      "state": "publish",
+      "dossier": "ATL-0005_ACANTHUS_HIRSUTUS_SUBSP_SYRIACUS_DOSSIER_QA_2026-11-23.md",
+      "next_candidate": "ATL-0006 Acetobacter acetigenum: bacterium not plant, LPSN and editorial workflow preflight required"
+    },
+    "ATL_0004_ADDITIONAL_QA_20261123": {
+      "wp_plant": 4409,
+      "medicine_id": 4418,
+      "status": "publish",
+      "seo": "issues=[]",
+      "biblical_identifications_controversial": true,
+      "source_plant": 8,
+      "source_med": 4,
+      "media_id": 4419,
+      "notes": "No new substantive omissions identified in checks performed; external browser viewport QA not available"
+    },
+    "ATL_0006_PREFLIGHT_20261123": {
+      "legacy_code": "ATL-0006",
+      "legacy_name": "Acetobacter acetigenum",
+      "taxonomic_domain": "Bacteria, not Plantae",
+      "wordpress_pdb_plant_search_count": 0,
+      "status": "not_created",
+      "next": "LPSN/NCBI accepted name, synonyms, historical acetic acid bacteria interpretation in Moldenke p27, consider distinct editorial type rather than falsely categorizing as plant"
     }
   },
   "run_20261121_1835": {
