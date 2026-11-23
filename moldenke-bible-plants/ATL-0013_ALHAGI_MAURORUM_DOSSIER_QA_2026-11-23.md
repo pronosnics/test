@@ -36,4 +36,4 @@ La prima richiesta batch ha prodotto effetti parziali prima di un limite di chia
 ATL-0013 spuntata; **138 caselle legacy formalmente aperte**, non pari a 138 specie certamente mancanti. Prossima **ATL-0014 Allium ascalonicum L.**: Kew lo accetta come specie IPNI30185627-2 con areale mediterraneo orientale/penisola arabica. Non confondere con l'altro nome Allium ascalonicum Anon., sinonimo di Allium cepa, né con il gruppo orticolo dello scalogno; ricerche WordPress mostrano solo menzioni in cipolla #627 e aglio #628, non scheda autonoma. Ripetere preflight prima della creazione.
 
 ## Notifica
-Inviare a Gmail al termine dei controlli e del commit. Non dichiarare risolto il backlog dei 20 duplicati.
+**Notifica Gmail inviata**: oggetto «Atlante Biblico — ATL-0013 Alhagi maurorum pubblicata, Baruc corretto e controllo qualità», message ID 1a20a3b7041ff1d7. La mail precisa che le 20 relazioni bibliografiche sovrapposte non sono state scollegate.
