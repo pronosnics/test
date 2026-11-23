@@ -45,4 +45,4 @@
 
 ## Notifica
 
-- Inviare email finale al destinatario Gmail collegato solo dopo chiusura della revisione e commit GitHub, registrando l'esito in chat senza dati privati sul sito pubblico.
+- **Notifica Gmail inviata**: oggetto «Atlante Piante della Bibbia — ATL-0012 Alcea rosea pubblicata e verificata», Gmail message ID `1a20a20a0a61a5ed`. Destinatario mantenuto soltanto nella corrispondenza privata.
