@@ -1031,7 +1031,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0265 · *Typha angustata*** — nome italiano da definire; **M voce 220, p. 235 · D —**; fonte: Moldenke; **stato: PUBBLICATA COME TYPHA ANGUSTIFOLIA (KEW)**; WP: `3970`.
 
-- [ ] **ATL-0266 · *Typha spp*** — nome italiano da definire; **M — · D p. 474**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0266 · *Typha spp*** — nome italiano da definire; **M — · D p. 474**; fonte: Duke; **stato: PUBBLICATA VOCE DI GENERE**; WP: `3980`.
 
 - [ ] **ATL-0267 · *Ulmus canescens*** — nome italiano da definire; **M — · D p. 478**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1821,3 +1821,12 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - [x] **ATL-0265 — Typha angustata** WP #3970, presentato sotto T. angustifolia sec. Kew: da 4964 a oltre 14000 caratteri. Recuperate Zohary 1982 pp134,136 e fonti dirette Post 1896 p814, Moldenke 1952 pp235–236, Tristram 1867 pp433–437, Duke 2008 pp474–475. Esodo 2:3–5: differenza fra gōmeʾ (materiale cesta, papiro) e sûf (vegetazione della riva); Isaia 19:6 e Giona 2:5; kálamos di Matteo 27:29–30 e Marco 15:19 non diagnosticabile come tifa; Zohary discute Phragmites quale canna. Kew sinonimo Typha angustifolia vs ITIS sinonimo T. domingensis, IPNI 1832 vs POWO 1838, esplicite. Corretto permalink interno a Phragmites.
 
 **Standard da mantenere:** per ogni scheda controllare fonti originali disponibili Moldenke, Duke, Zohary, Post e Tristram, oltre a tassonomia moderna; leggere prima di citarle; separare ipotesi bibliche da attestazioni dirette; distinguere le circoscrizioni dei taxa nelle diverse epoche; trattare sicurezza sanitaria, areale, morfologia e fonti in sezioni sufficientemente sviluppate. Balfour (Trees and Shrubs) non contiene trattazione specie-specifica pertinente ai tulipani o alle tife. Non dichiarare collazionati Dafni–Böck o Grilli Caiola dove non esaminati. Tavole illustrative non diagnostiche. Ogni modifica richiede controllo post-pubblicazione, HTML, SEO e collegamenti.
+
+### ATL-0266 — Typha L. (genere), revisione scientifica e pubblicazione — 23 novembre 2026
+- [x] Taxon: genere Typha L., Typhaceae (Poales), non una nuova specie. Anti-duplicati verificato; distingue precedente ATL-0265 Typha angustifolia (sin. stor. T. angustata) WP #3970.
+- [x] WordPress: pdb_plant #3980 PUBBLICATO: https://piantedellabibbia.altervista.org/piante/typha-l-le-tife-il-nilo-e-le-canne-bibliche-confronto-scientifico/ . 16 sezioni, circa 19.600 caratteri, bibliografia con portata delle fonti, link interni verificati a Papiro, Phragmites e Typha angustifolia.
+- [x] Tavola botanica originale senza scritte: WordPress media #3981 in evidenza, file tavola-botanica_typha-genere.webp (275502 bytes), caricamento Base64 progressivo a 12 blocchi (24000 bytes ciascuno, ultimo 11502). SHA-256 locale e server: b4d1b7199cbe8cc48eeadc386e318d02017ef8af80652e154a6c396ac84349f1.
+- [x] Bibliografia direttamente letta: Duke 2008 pp474–477 (PDF pp500–503), Zohary 1982 pp134–137 (PDF pp135–138), Moldenke 1952 pp235–236, Post 1896 p814, Tristram 1867 pp433–437; Kew POWO 2026 Typha e Typhaceae e taxa individuali; Flora of North America; Bonanno & Cirelli 2017 PMID28525817; Wetlands 2020 DOI 10.1007/s13157-019-01174-7.
+- [x] Omissioni ed errori prevenuti: Duke p474 riporta Exodus 3:3 erroneamente per la cesta (Esodo 2:3–5); gōmeʾ cesta di papiro vs sûf vegetazione presso il Nilo; Isaia 19:6 e Giona 2:5 hanno contesti diversi; kálamos della Passione non identifica una tifa. Zohary Typha australis è sinonimo di T. domingensis secondo Kew; Kew T. angustata sinonimo di T. angustifolia contro ITIS T. domingensis: divergenze non occultate.
+- [x] SEO e metadata, famiglia Typhaceae term #39, link interni, HTML bilanciato, immagine in evidenza e checksum verificati. Nessuna affermazione di identificazione biblica certa né proprietà medicinali cliniche non dimostrate.
+- [ ] Prossima voce ATL-0267 Ulmus canescens Melville: verificare prima nomenclatura POWO e originali Zohary e Duke, anti-duplicati WordPress, evitando errore sul vocabolo geshem in Isaia 44:14.
