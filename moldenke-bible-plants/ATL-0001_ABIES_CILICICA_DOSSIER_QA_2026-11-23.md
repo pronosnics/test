@@ -47,3 +47,11 @@
 - Audit addizionale dei contenuti preesistenti: le citazioni pubblicate #294 Cantico1:17, #1559 1Re9:11, #1560 Ezechiele27:5 conservano lo stato pubblico; completati i metadati #1559/#1560 e del lemma H1265 #1556. Aggiunte **9 relazioni bibliografiche non sovrapposte** #3447–3455 per queste pagine già esistenti, sulla base delle fonti Kew/BDB/Duke/Lawrence/Dafni–Böck pertinenti; il loro contenuto non è stato cancellato.
 - **Email di notifica inviata** con Gmail alla casella abituale del progetto; ID messaggio `1a2095f3eb2f8197`.
 - Avvertenza conservata: la tavola botanica è un'illustrazione artistica originale senza scritte, non un'immagine di un esemplare erbariale. Non eseguito test visivo certificato su differenti viewport.
+
+
+## Supplemento dopo richiesta dell'utente — 23 novembre 2026
+- Rilettura selettiva delle fonti originali già esaminate: Kew POWO *Abies cilicica* IPNI261491-1; Duke2008 pp1–2 PDF pp27–28; Zohary1982 pp106–107, traduzioni e letture storiche di *bərôš*.
+- **Omissione colmata in WP botanica #4328:** Kew general information segnala categoria IUCN **Near Threatened (NT)**; introdotta una sezione sullo stato di conservazione e sulla differenza fra rischio odierno e presenza nell'epoca biblica. Non è prova di estensione delle foreste antiche.
+- **Omissione colmata in WP medicina #4329:** nella voce *Cilician Fir* Duke p.2 riporta indice alimentare **FNFF = ?**, ora esplicitato come segnale editoriale non indice di sicurezza/efficacia. Attività «antiseptic», «bactericide», «vulnerary» restano attribuzioni da repertorio di studi/fonti, senza trasformarle in indicazioni cliniche.
+- Nessuna nuova scheda o fonte duplicata; nessuna relazione eliminata. Questo aggiornamento riguarda i contenuti pubblici e non deve esporre ID o note operative al lettore; le verifiche sono conservate qui su GitHub.
+- Il recupero procede con ATL-0002, completata e pubblicata separatamente: [dossier](ATL-0002_VACHELLIA_NILOTICA_DOSSIER_QA_2026-11-23.md).
