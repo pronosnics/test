@@ -204,22 +204,25 @@
       "legacy_code": "ATL-0118",
       "scientific_name_working": "Juglans regia",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 524
+      "live_status": "published_wp_verified_master_checkbox_stale",
+      "source_line": 524,
+      "wp_id": 1901
     },
     {
       "legacy_code": "ATL-0131",
       "scientific_name_working": "Lens culinaris",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 526
+      "live_status": "published_wp_verified_master_checkbox_stale",
+      "source_line": 526,
+      "wp_id": 1961
     },
     {
       "legacy_code": "ATL-0132",
       "scientific_name_working": "Lilium candidum",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 528
+      "live_status": "published_wp_verified_master_checkbox_stale",
+      "source_line": 528,
+      "wp_id": 1966
     },
     {
       "legacy_code": "ATL-0141",
@@ -289,7 +292,7 @@
       "legacy_code": "ATL-0188",
       "scientific_name_working": "Quercus coccifera",
       "checkbox_from_master": true,
-      "live_status": "publish_verified_wp2464_media2494_relations_clean_medicine2476",
+      "live_status": "published_wp_verified_master_checkbox_stale",
       "source_line": 546,
       "operational_code": "ATL-0168",
       "note": "PUBLISHED #2464; featured+plate2494; Fagaceae26; 17/17 specialist+11/11 legacy; original SHA verified; #339 deleted and #340 preserved; medicina #2476 published; backend checked. Frontend visual QA not certified.",
@@ -300,28 +303,32 @@
       "medicine_id": 2476,
       "medicine_status": "publish",
       "verified_at": "2026-11-21",
-      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/"
+      "url": "https://piantedellabibbia.altervista.org/piante/quercia-spinosa-quercus-coccifera-l-kermes-e-interpretazioni-bibliche/",
+      "wp_id": 2464
     },
     {
       "legacy_code": "ATL-0196",
       "scientific_name_working": "Ricinus communis",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 548
+      "live_status": "published_wp_verified_master_checkbox_stale",
+      "source_line": 548,
+      "wp_id": 2639
     },
     {
       "legacy_code": "ATL-0236",
       "scientific_name_working": "Sinapis arvensis",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 550
+      "live_status": "published_wp_verified_master_checkbox_stale",
+      "source_line": 550,
+      "wp_id": 3597
     },
     {
       "legacy_code": "ATL-0238",
       "scientific_name_working": "Solanum incanum",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 552
+      "live_status": "published_wp_verified_master_checkbox_stale",
+      "source_line": 552,
+      "wp_id": 3535
     },
     {
       "legacy_code": "ATL-0251",
@@ -358,9 +365,13 @@
     {
       "legacy_code": "ATL-0001",
       "scientific_name_working": "Abies cilicica",
-      "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 568
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-23",
+      "source_line": 568,
+      "scientific_name_accepted": "Abies cilicica (Antoine & Kotschy) Carrière",
+      "wp_id": 4328,
+      "medicine_id": 4329,
+      "media_id": 4330
     },
     {
       "legacy_code": "ATL-0002",
@@ -2657,6 +2668,41 @@
       "seo": "issues=[]",
       "html_qa": "checked_no_operational_notes",
       "next_action": "audit all roadmap omissions and legacy collisions; no ATL-0282 assumed"
+    },
+    "ATL_0001_ABIES_CILICICA_PUBLISHED_20261123": {
+      "wp_id": 4328,
+      "medicine_id": 4329,
+      "media_id": 4330,
+      "scientific_name_accepted": "Abies cilicica (Antoine & Kotschy) Carrière",
+      "media_sha256": "8ed6bc9427ee587558a61b454c6f0c4761d1771a2c4ce25f5c630ab015cd3d1c",
+      "new_source_posts": [
+        4332,
+        4333,
+        4334,
+        4335,
+        4336,
+        4337
+      ],
+      "reused_source_id": 1554,
+      "source_citations_plant": 7,
+      "source_citations_medicine": 4,
+      "term_h1265_id": 1556,
+      "term_h1266_id": 4345,
+      "existing_quote_ids": [
+        294,
+        1559,
+        1560
+      ],
+      "identification_ids": [
+        476,
+        477,
+        478
+      ],
+      "identification_status": "controversa",
+      "status": "publish",
+      "seo": "issues=[]",
+      "next_candidate": "ATL-0002 Acacia nilotica (verify Vachellia nilotica and WordPress first)",
+      "audit": "306 checklist entries, 151 unchecked at start but many stale; counts are not missing species totals"
     }
   },
   "run_20261121_1835": {
