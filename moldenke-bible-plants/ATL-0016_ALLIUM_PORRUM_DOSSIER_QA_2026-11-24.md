@@ -42,4 +42,4 @@
 - **Arretrato distinto non risolto:** le **20 relazioni bibliografiche doppie #3597–3616** dalla precedente ATL-0013 restano da scollegare per assenza dell'abilità plugin unlink e quota WPVibe. Non eliminare post, fonti o le relazioni canoniche; nessun errore analogo introdotto in ATL-0016.
 
 ## Email di completamento
-- Inviare notifica tramite Gmail collegata dopo l'aggiornamento del dossier e della roadmap. Annotare solo qui l'esito e non sul sito pubblico.
+- **Notifica Gmail inviata**: oggetto «Atlante Biblico — ATL-0016 porro pubblicata, QA e bibliografia verificati», message ID `1a20c25e7f5ff543`. L'email riporta la pubblicazione, il controllo sulla precedente ATL-0014 e il backlog dei 20 link bibliografici non rimossi.
