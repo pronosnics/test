@@ -77,3 +77,9 @@ Ogni riga registra il **motivo del mancato collegamento specie-specifico**, non 
 - Le percentuali di copertura sono **del database WordPress alla data del controllo**, non di tutte le 281 voci legacy (incluse 29 non botaniche).
 
 **Nota metodologica:** nessun dato scientifico incerto è stato trasformato in fatto certo al solo scopo di chiudere una casella della roadmap.
+
+## Continuazione QA — ATL-0035–0040 (24/11/2026)
+
+- [Dossier di preflight e avanzamento](ATL-0035_0040_PREFLIGHT_QA_2026-11-24.md). #4940 *Atriplex halimus* pubblicata, immagine #4944 con ALT e identificazione controversa #508; controllo mirato completato. #4914 *Astragalus gummifer* e fonte #4893 rettificate per distinguere *A. tragacantha* L. occidentale; metadato operativo di Giobbe 30:4 #1601 ripulito.
+- **ATL-0036 *Atriplex dimorphostegia***: **draft botanico WP #5627** (NON pubblicato), SEO compilato, fonti nuove #5628 Kew e #5629 WFO pubblicate, 5 source_citations #4286–4290. Senza immagine in evidenza; **non marcare QA_FONTI_COMPLETO né publish**. Se si riprende, usare #5627, non ricreare nuova voce.
+- ATL-0035, ATL-0038, ATL-0039 e ATL-0040: preflight distinto nel dossier; nessuna scheda dedicata reperita, **nessuna chiusura o pubblicazione artificiale**.
