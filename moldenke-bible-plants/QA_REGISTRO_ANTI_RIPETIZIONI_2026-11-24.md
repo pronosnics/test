@@ -171,3 +171,8 @@ Ogni riga registra il **motivo del mancato collegamento specie-specifico**, non 
 - `dûdāʾîm` ebraico di **Genesi30:14–16 e Cantico7:13** tradizionalmente reso «mandragole»: nessuna diagnosi botanica per attribuirlo in modo certo a *M. officinarum*. Zohary 1982 tratta principalmente *M. autumnalis* e contesta l'interpretazione di Genesi in Mesopotamia. **Sicurezza:** alcaloidi tropanici altamente tossici, nessuna ricetta, dosaggio, suggerimento di consumo o uso fertile.
 - **Anti-duplicati WP eseguito:** ricerche per `Mandragora officinarum`, `M. autumnalis`, `Atropa mandragora`, `mandragola`, `dudaim` in `pdb_plant`, **0 schede dedicate**; ricerche fonti dedicate `pdb_source` per Mandragora/Mandrake, **nessuna**. Roadmap Moldenke p137 e Duke p269 note, ma **non direttamente collazionate** nel preflight. Nessuna scheda WP creata o pubblicata.
 - **Stato: PREFLIGHT / DA REALIZZARE, NON [x]**. Perimetro e prove nel [dossier ATL-0141](ATL-0141_MANDRAGORA_PREFLIGHT_2026-11-24.md), da rileggere prima di nuova ricerca, creazione o editorial QA.
+
+
+## ATL-0141 Mandragora — checkpoint (24/11/2026)
+
+WP **#5696** è l'unica nuova scheda specifica *Mandragora officinarum* L., **draft**. Ricerca pre-creazione `Mandragora` / `mandragola` negativa per record dedicati. Nome separato da *M. autumnalis* (Kew). Nessuna identificazione biblica certa e nessuna immagine caricata. Mancano collazione Moldenke p.137 / Duke p.269, bibliografia relazionale, tavola botanica ottocentesca originale, QA e pubblicazione. **Non duplicare #5696, non contare come pubblicata, non chiudere il QA.** Licheni 0128–0130 ancora sospesi.
