@@ -1,3 +1,7 @@
+**ATL-0141 — *Mandragora officinarum* L. — BOZZA #5696 (24/11/2026).** Verificata separazione Kew da *M. autumnalis* Bertol. (specie accettata con presenza in Palestina). Nuovo record WordPress #5696 **draft**, non pubblicato; dossier [ATL-0141](ATL-0141_MANDRAGORA_PREFLIGHT_2026-11-24.md). Mancano collazione primaria Moldenke p.137 e Duke p.269, fonti strutturate, tavola botanica originale stile Ottocento, featured/ALT, famiglia/SEO e QA finale. Non registrare identificazioni bibliche specie-specifiche certe per *dûdāʾîm*. Licheni ATL-0128–0130 restano sospesi. **Conteggio pubblicate invariato.**
+
+---
+
 **RACCORDO ATL-0137 — *Loranthus acaciae* Zucc. (24/11/2026).** Il binomio originale è basionimo del nome accettato da Kew ***Plicosepalus acaciae* (Zucc.) Wiens & Polhill**, IPNI915368-1. Scheda botanica **già PUBBLICATA WordPress #1986**: https://piantedellabibbia.altervista.org/piante/vischio-acacia-plicosepalus-acaciae-roveto-ardente/ . Famiglia Loranthaceae #60, foto WebP, confronto Moldenke e Post, identificazione del roveto ardente chiaramente ipotetica, HTML 9 H2 e 15 paragrafi chiusi, SEO `issues=[]`. **Roadmap [x] per esistenza e controllo mirato, nessun nuovo record**; non ripetere verifica storica completa senza nuove fonti. **232/232 piante pubblicate con fonti** dopo ATL-0135 Liquidambar. 
 
 ---
