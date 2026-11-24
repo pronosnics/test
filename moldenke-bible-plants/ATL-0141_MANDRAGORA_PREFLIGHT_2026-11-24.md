@@ -27,3 +27,11 @@
 - Nessuna modifica alla schedatura della manna dei licheni richiesta; l'utente ha esplicitamente detto di **saltare la pagina mancante**.
 
 **Checkpoint:** 0 nuove schede Mandragora create o pubblicate, lavoro tassonomico/filologico documentato, nessuna identificazione biblica fittizia. Evitare sia di confondere le due Mandragora moderne sia di trasferire geografia/usi clinici tra loro.
+
+
+## Avanzamento 24 novembre 2026 — bozza WordPress verificabile
+
+- Creato **un solo record** per *Mandragora officinarum* L.: **pdb_plant #5696**, stato **draft**, URL interno https://piantedellabibbia.altervista.org/?post_type=pdb_plant&p=5696 . Ricerca preventiva `Mandragora` / `mandragola` in `pdb_plant`: nessun record dedicato antecedente; solo menzioni in #4269 e #1892.
+- Corpo in italiano con tassonomia Kew, distinzione dall'altra specie accettata *M. autumnalis*, Genesi 30:14–16, Cantico 7:13, cautela su Zohary e avviso di tossicità. Metadati scientifici essenziali inseriti.
+- **NON PUBBLICARE FINCHÉ:** non siano collazionate le pagine primarie Moldenke 137 e Duke 269; non siano verificati ulteriori caratteri diagnostici in flora adatta; non siano predisposte fonti `pdb_source` e relazioni bibliografiche documentate; non sia prodotta tavola originale botanica stile Ottocento 800, riconoscibile come illustrazione e non come esemplare tassonomico; non siano assegnati famiglia Solanaceae, immagine featured/ALT, Yoast e controllo completo HTML/SEO. Nessuna immagine è stata ancora generata o caricata.
+- **Nessuna `identifications` certa** per questa voce. Le tre voci dei licheni ATL-0128–0130 restano sospese e non vanno alterate. Stato **BOZZA IN REVISIONE**, non `QA_FONTI_COMPLETO` e non conteggiare come pubblicata.
