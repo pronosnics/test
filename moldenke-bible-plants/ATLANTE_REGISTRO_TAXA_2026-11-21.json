@@ -29,14 +29,14 @@
       "legacy_code": "ATL-0015",
       "scientific_name_working": "Allium cepa",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
+      "live_status": "published_verified_2026-11-24",
       "source_line": 474
     },
     {
       "legacy_code": "ATL-0017",
       "scientific_name_working": "Allium sativum",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
+      "live_status": "published_verified_2026-11-24",
       "source_line": 476
     },
     {
@@ -671,19 +671,65 @@
     {
       "legacy_code": "ATL-0014",
       "scientific_name_working": "Allium ascalonicum",
-      "checkbox_from_master": false,
-      "live_status": "preflight_taxonomy_verified_2026-11-23",
+      "checkbox_from_master": true,
+      "live_status": "published_verified_2026-11-24",
       "source_line": 586,
       "scientific_name_accepted": "Allium ascalonicum L.",
       "accepted_ipni": "30185627-2",
-      "wp_anti_duplicate_note": "No dedicated page under Allium ascalonicum/scalogno; only mentions in Allium cepa #627 and A. sativum #628. Distinguish L. accepted from Anon. synonym Allium cepa and shallot cultivars."
+      "wp_anti_duplicate_note": "No dedicated page under Allium ascalonicum/scalogno; only mentions in Allium cepa #627 and A. sativum #628. Distinguish L. accepted from Anon. synonym Allium cepa and shallot cultivars.",
+      "taxonomic_precision": "Kew wild blue-flowered Allium; USDA GRIN treats as synonym A. hierochuntinum, cultivated shallot mostly A. cepa Aggregatum, Allium ascalonicum Anon. synonym of A. cepa",
+      "wp_id": 4605,
+      "medicine_id": 4606,
+      "media_id": 4629,
+      "media_sha256": "9b59e7e513112c7390c562a13146609d1e3ddcd29d0911d314c15b19844b7f0b",
+      "family_id": 17,
+      "source_ids": [
+        4607,
+        4608,
+        4609,
+        4610,
+        4611,
+        4612,
+        4613,
+        4614,
+        4615,
+        4616,
+        635
+      ],
+      "source_citation_ids": [
+        3644,
+        3645,
+        3646,
+        3647,
+        3648,
+        3649,
+        3650,
+        3651,
+        3652,
+        3653,
+        3654,
+        3655,
+        3656,
+        3657,
+        3658,
+        3659,
+        3660
+      ],
+      "quote_id": 626,
+      "identification_status": "no_species_identification_created_due_to_historical_shallot_taxon_ambiguity",
+      "seo": "issues=[]",
+      "public_editorial_note_audit": "passed",
+      "dossier": "ATL-0014_ALLIUM_ASCALONICUM_DOSSIER_QA_2026-11-24.md"
     },
     {
       "legacy_code": "ATL-0016",
       "scientific_name_working": "Allium porrum",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 588
+      "live_status": "preflight_no_dedicated_wp_plant_2026-11-24",
+      "source_line": 588,
+      "scientific_name_accepted": "Allium porrum L.",
+      "accepted_ipni": "528646-1",
+      "taxonomic_note": "Kew accepted despite nom. rej.; distinguish Allium ampeloprasum Leek Group and historical taxon. WordPress no dedicated page in porrum/porro queries."
     },
     {
       "legacy_code": "ATL-0018",
@@ -3532,6 +3578,53 @@
       ],
       "reason": "Partial batch side effects before tool-call-limit exception; entries duplicate source_id/object_type/object_id pairs. No source or page deletion. Own plugin lacks atlas-unlink; WPVibe free quota reached.",
       "status": "PENDING_NOT_REMOVED"
+    },
+    "ATL_0014_ALLIUM_ASCALONICUM_PUBLISHED_20261124": {
+      "wp_id": 4605,
+      "medicine_id": 4606,
+      "media_id": 4629,
+      "sha256": "9b59e7e513112c7390c562a13146609d1e3ddcd29d0911d314c15b19844b7f0b",
+      "source_ids": [
+        4607,
+        4608,
+        4609,
+        4610,
+        4611,
+        4612,
+        4613,
+        4614,
+        4615,
+        4616,
+        635
+      ],
+      "citation_ids": [
+        3644,
+        3645,
+        3646,
+        3647,
+        3648,
+        3649,
+        3650,
+        3651,
+        3652,
+        3653,
+        3654,
+        3655,
+        3656,
+        3657,
+        3658,
+        3659,
+        3660
+      ],
+      "quote_id": 626,
+      "identification": "historical_candidate_lexical_only_no_species_relation",
+      "public_note_cleanup": [
+        627,
+        628
+      ],
+      "seo": "issues=[]",
+      "next": "ATL-0016 Allium porrum L.",
+      "stale_ATL0018_duplicate_removed": true
     }
   },
   "run_20261121_1835": {
