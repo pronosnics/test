@@ -83,3 +83,8 @@ Ogni riga registra il **motivo del mancato collegamento specie-specifico**, non 
 - [Dossier di preflight e avanzamento](ATL-0035_0040_PREFLIGHT_QA_2026-11-24.md). #4940 *Atriplex halimus* pubblicata, immagine #4944 con ALT e identificazione controversa #508; controllo mirato completato. #4914 *Astragalus gummifer* e fonte #4893 rettificate per distinguere *A. tragacantha* L. occidentale; metadato operativo di Giobbe 30:4 #1601 ripulito.
 - **ATL-0036 *Atriplex dimorphostegia***: **draft botanico WP #5627** (NON pubblicato), SEO compilato, fonti nuove #5628 Kew e #5629 WFO pubblicate, 5 source_citations #4286–4290. Senza immagine in evidenza; **non marcare QA_FONTI_COMPLETO né publish**. Se si riprende, usare #5627, non ricreare nuova voce.
 - ATL-0035, ATL-0038, ATL-0039 e ATL-0040: preflight distinto nel dossier; nessuna scheda dedicata reperita, **nessuna chiusura o pubblicazione artificiale**.
+
+## Aggiornamento post-pubblicazione ATL-0036 — 24/11/2026
+
+- *Atriplex dimorphostegia* Kar. & Kir. **WP #5627 PUBBLICATA**, SEO audit `issues=[]`, immagine originale WebP **#5632** featured con ALT e SHA-256 verificato; Amaranthaceae #32. Fonti strutturate #4286–4292 (7), fonte Kew #5628 e WFO #5629; criterio di specie biblica di Giobbe 30:4 **non dimostrato**. [Scheda](https://piantedellabibbia.altervista.org/piante/atriplex-dimorphostegia-brattee-dimorfe-giobbe-30-4/) · [dossier ATL-0035–0040](ATL-0035_0040_PREFLIGHT_QA_2026-11-24.md).
+- **Stato dopo aggiornamento:** WP 226 piante pubblicate / 226 con fonti, 32 segnalazioni identificazioni non specie-specifiche. Riaprire #5627 soltanto su nuova fonte, errore concreto o modifica; non duplicarla né aggiungere relazioni bibliche prive di prova. Browser responsive indipendente non certificato.
