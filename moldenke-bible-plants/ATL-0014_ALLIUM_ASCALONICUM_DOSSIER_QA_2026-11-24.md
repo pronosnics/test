@@ -31,4 +31,4 @@ Data: 24 novembre 2026. Stato: PUBBLICATA, tavola originale verificata, SEO issu
 - Prossima non pubblicata della sequenza: ATL-0016 Allium porrum L. (ATL-0015 cipolla #627, ATL-0017 aglio #628 sono già pubblicati). Kew accetta Allium porrum L. IPNI528646-1, con annotazione nom. rej. e origine cultigen dall'Iran; confrontare Allium ampeloprasum Leek Group e Moldenke voce25 p34, Duke Leek pp21–23, ḥāṣîr e proposta storica fieno greco Trigonella foenum-graecum. Ricerche WordPress Allium porrum, porro e Allium ampeloprasum non hanno trovato scheda dedicata.
 
 ## Notifica
-- Inviare email di completamento solo dopo aggiornamento repository e QA; riportare chiaramente il backlog delle 20 relazioni già precedentemente aperte, senza confonderle con i nuovi collegamenti.
+- Email Gmail **inviata** con oggetto «Atlante Biblico — ATL-0014 Allium ascalonicum pubblicata, controlli qualità e roadmap»; messaggio ID 1a20bfbea6e0f347. La notifica segnala distintamente il backlog delle 20 relazioni della ATL-0013, ancora aperto.
