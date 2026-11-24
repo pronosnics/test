@@ -2111,3 +2111,18 @@ Per **Grilli Caiola, Guarrera e Travaglini**, usare la citazione: *Le piante nel
 - 11 nuove fonti #4634–4644 pubblicate e Moldenke #4028 riusata; source_citations botanica #3661–3672 (12), medicina #3673–3678 (6), lemma #3679–3681 (3), passo #3682–3684 (3), Trigonella #3685 (1): 25 righe tutte uniche. Passage_term #365 e identifications #494 *Allium porrum* / #495 *Trigonella foenum-graecum* entrambe controverse.
 - Tavola originale senza scritte WebP #4660 featured, 1086×1448, 247958 byte, SHA256 locale/server identico `f325accd7ac4b83ccf4054c25443a2dc9b682a0c9d414b7f33c3e2ccc8cfc831`, caricata tramite 11 blocchi del plugin, ALT e descrizione naturali; file privato conservato e bridge Base64 temporaneo cestinato. 27 H2/26 P botanica, 14 H2/13 P medicina, 6 H2/5 P lemma, tutto HTML bilanciato e senza note operative rilevate in corpi/metadati. SEO issues=[] su nuova botanica, precedente scalogno, fieno greco, cipolla e aglio. Nessuna verifica grafica pixel indipendente mobile/desktop certificata.
 - Prossima ATL-0020 *Alopecurus anthoxanthoides* Boiss., voce legacy Moldenke11 p28, da confrontare con il trattamento Kew *Alopecurus utriculatus* e cultivar/forma o sinonimo prima di produrre alcuna nuova pagina. Anti-duplicati WordPress `Alopecurus anthoxanthoides` e `Alopecurus utriculatus`: nessuna scheda botanica dedicata, soltanto una menzione in Aegilops #4478.
+
+
+### ATL-0141 aggiornamento verificato — 24/11/2026
+
+
+
+## Revisione successiva del 24 novembre 2026 — esito operativo verificato
+
+**WordPress:** #5696 `pdb_plant`, sempre **draft**, contenuto ampliato con riferimento diretto a Kew, RHS, Oxford, UBS e Dafni–Böck, famiglia `pdb_family` **Solanaceae #35**, slug e meta Yoast impostati; nessuna identificazione biblica specie-specifica forzata.
+
+**Fonti WordPress pubblicate:** #5697 Kew (entrambe le specie accettate), #5698 UBS (dûdāʾîm), #5699 Oxford (tossicità e tradizione), #5701 RHS (diagnosi morfologica). Relazioni `source_citations` #4344→Dafni–Böck #2069, #4345→Kew #5697, #4346→UBS #5698, #4347→Oxford #5699, #4348→RHS #5701. Le cinque relazioni sono state confermate dal plugin. Le pagine originali di Moldenke p. 137 e Duke da p. 269 sono **ancora da collazionare integralmente**; i rispettivi indici attestano presenza delle voci ma non danno fondamento a descrizioni precise dei loro contenuti.
+
+**Tavola ottocentesca originale creata:** immagine stilizzata, 1024×1536 px, formato WebP, 385384 byte, SHA-256 `56b8238216b7cc3ff9353d741f82d7d216e9131e0b80bfedde8e0c0438ab7935`, filename `ATL-0141_mandragora_tavola_ottocentesca.webp`. Si tratta di illustrazione ricostruttiva e non tavola storica o voucher; prima di adottarla come identificazione tassonomica va verificata l'accuratezza della corolla rispetto alla descrizione RHS (bianco-verdastra, sfumature porpora). **Non è stata caricata su WordPress**: il PUT tramite il link temporaneo del plugin non ha funzionato perché l'ambiente container non risolve il dominio Altervista. Non affermare upload riuscito né featured assegnato.
+
+**Controlli ancora aperti:** trasferimento immagine WebP e associazione a featured/ALT con verifica checksum, revisione diagnostica della tavola, eventuale approfondimento di Post/Tristram/Balfour ove pertinenti, collazione delle pagine primarie, revisione di link biblici senza duplicazione, audit SEO e ispezione rendering pubblicato. Il post resta draft e **non modifica il numero di schede pubblicate**. I licheni ATL-0128–0130 restano sospesi.
