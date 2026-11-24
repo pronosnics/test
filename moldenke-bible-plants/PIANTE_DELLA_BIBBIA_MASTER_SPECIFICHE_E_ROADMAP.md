@@ -1,3 +1,7 @@
+**CENSIMENTO CANONICO 24/11/2026 — inventario e passaggio alla revisione, non chiusura indiscriminata.** 281 voci storiche (252 candidati botanici originari + 29 organismi/nomi non botanici); 225 record distinti pdb_plant pubblicati, zero bozze, censimento API pagine 1–3 (100+100+25). 85 righe legacy aperte riconciliate con titoli pubblicati; questo attesta l'esistenza del contenuto, non certifica la revisione scientifica. Conservare ID legacy, URL e relazioni. Stati operativi: **PRESENTE / QA DA VERIFICARE**, **QA DOCUMENTATO**, **CANDIDATA MANCANTE DA VERIFICARE**, **RACCORDO NOMENCLATURALE DA VALIDARE**, **NON PIANTA / APPENDICE**. Non creare pagine duplicate. Le intestazioni precedenti sono storico, non prossime attività attuali.
+
+**Raccordi da validare prima di creare** (corrispondenze di inventario, non nuove decisioni tassonomiche): ATL-0020 → WP #4664; ATL-0023 → WP #4076; ATL-0027 → WP #4774; ATL-0042 → WP #747; ATL-0043 → WP #760; ATL-0123 → WP #1938; ATL-0137 → WP #1986; ATL-0149 → WP #2022; ATL-0162 → WP #2140; ATL-0191 → WP #2540; ATL-0195 → WP #2619; ATL-0201 → WP #2689; ATL-0211 → WP #2889; ATL-0213 → WP #2889; ATL-0218 → WP #3073; ATL-0219 → WP #3099; ATL-0240 → WP #3561; ATL-0248 → WP #3749; ATL-0249 → WP #3798; ATL-0209 → WP #2814. **Candidati botanici senza corrispondenza evidente nei titoli**: ATL-0035 Astragalus tragacantha; ATL-0036 Atriplex dimorphostegia; ATL-0038 Atriplex rosea; ATL-0039 Atriplex tatarica; ATL-0040 Avena sterilis; ATL-0044 Boswellia papyrifera; ATL-0046 Boswellia thurifera (verificare Boswellia serrata); ATL-0135 Liquidambar orientalis; ATL-0141 Mandragora officinarum; ATL-0151 Nardurus orientalis. Verificare ciascuno con ricerca WP mirata, sinonimi, fonti originali e nomenclatura moderna prima di decidere. **Prima attività: controllare ATL-0037 Atriplex halimus #4940 e preflight ATL-0035**, poi in ordine legacy. Separare i 29 organismi non botanici e documentare le esclusioni/appendici; non creare pagine pianta per batteri e funghi. Riesaminare le eventuali schede già pubblicate non comprese nei titoli storici. Non rimuovere le relazioni bibliografiche duplicate senza operazione autorizzata e verificata. QA: Duke, Moldenke, Zohary, Post, Tristram, Balfour, Dafni–Böck, Grilli Caiola/Guarrera/Travaglini se disponibili e fonti moderne; note operative solo GitHub. Nessuna modifica ai contenuti WordPress in questo censimento.
+
 **STATO CANONICO 24/11/2026 — ATL-0016 *ALLIUM PORRUM* PUBBLICATA E VERIFICATA.** Botanica WP #4632, etnobotanica #4633, lemma ḥāṣîr H2682 #4645, tavola originale #4660, passo Numeri11:5–6 già esistente #626 integrato senza duplicazione, identificazioni #494/#495 entrambe controverse. **12 fonti botaniche**, **25 nuove relazioni bibliografiche tutte distinte**, 6 medicina, 3 lemma, 3 passo e 1 fieno greco, SEO issues=[] e nessuna nota operativa pubblica nelle schede controllate. Prima del nuovo lavoro ATL-0014 #4605 revisionata: riferimento bibliografico 2014 PMID24840922 inserito nella bibliografia finale e metadati uniformati in italiano, refuso di #626 corretto. **PROSSIMA VOCE APERTA ATL-0020 *Alopecurus anthoxanthoides* Boiss.**, da verificare con Kew rispetto a *Alopecurus utriculatus* e anti-duplicati WP: ricerche preliminari nessuna scheda dedicata, una menzione nella precedente Aegilops. Caselle legacy ancora [ ] **135**, non sinonimo di specie assenti. **BACKLOG INDIPENDENTE** 20 relazioni bibliografiche doppie #3597–3616 di ATL-0013 ancora DA_SCOLLEGARE, non eliminare fonti e schede. [Dossier ATL-0016](ATL-0016_ALLIUM_PORRUM_DOSSIER_QA_2026-11-24.md).
 
 **STATO CANONICO 24/11/2026 — ATL-0014 *ALLIUM ASCALONICUM* L. PUBBLICATA E VERIFICATA.** Botanica #4605, etnobotanica #4606, tavola botanica originale a fiori azzurri #4629; 10 fonti nuove #4607–4616, una BDB #635 preesistente, 11 relazioni pianta #3644–3654, 5 medicina #3655–3659, Numeri11:5–6 #626 integrato con nuova fonte #3660, **nessuna identificazione del moderno taxon spontaneo assegnata al passo**. Trovata e ripulita vecchia nota «bozza condivisa» dal corpo/meta della cipolla #627 e riferimenti gestionali dai meta dell'aglio #628; QA del corpus toccato senza note e RankMath issues=[]. Prossima vera specie aperta **ATL-0016 *Allium porrum* L.**, poiché ATL-0015 cipolla e ATL-0017 aglio sono già pubblicate. Stale duplicate open row ATL-0018 già pubblicata eliminata. Legacy checklist [ ] residui **136**, non numero certo di specie mancanti. **BACKLOG PREGRESSO** 20 relazioni bibliografiche doppie #3597–3616 da scollegare con funzione amministrativa sicura: nessuna fonte da cancellare. [Dossier ATL-0014](ATL-0014_ALLIUM_ASCALONICUM_DOSSIER_QA_2026-11-24.md).
@@ -639,11 +643,11 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0113 · *Hordeum vulgare* L.** — Orzo, unica scheda canonica, integrate voci 108–110; **M pp.111–113 · D pp.205–210 · Zohary p.76 · Tristram pp.420–422 · Dafni–Böck 2019 tabella 2 p.7**, Kew POWO 405391-1; **stato: PUBBLICATA 20-11-2026**; WP `1834`, featured `1835`, citazioni e medicina pubblicate.
 
-- [ ] **ATL-0118 · *Juglans regia*** — Noce; **M voce 114, p. 119 · D p. 216**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0118 · *Juglans regia*** — Noce; **M voce 114, p. 119 · D p. 216**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1901`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1901); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0131 · *Lens culinaris*** — Lenticchia; **M voce 127, p. 128 · D p. 245**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0131 · *Lens culinaris*** — Lenticchia; **M voce 127, p. 128 · D p. 245**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1961`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1961); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0132 · *Lilium candidum*** — Giglio bianco; **M voce 112, p. 114 · D p. 247**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0132 · *Lilium candidum*** — Giglio bianco; **M voce 112, p. 114 · D p. 247**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1966`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1966); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0141 · *Mandragora officinarum*** — Mandragora; **M voce 132, p. 137 · D p. 269**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -661,15 +665,15 @@ Prima ondata di sviluppo: fonti botaniche e bibliche ricche, alta riconoscibilit
 
 - [x] **ATL-0186 · *Punica granatum*** — Melograno; **M voce 169, pp. 189–191 · D pp. 362–367**; fonte: Moldenke + Duke + Kew + NCCIH; **stato: PUBBLICATA (QA visivo mobile/desktop da completare)**; WP: `212` (pianta), `213` (medicina), `214` (nome antico), `218–223` e `241–244` (10 passi), fonti `215–217` e `240`; già esistente #195 (Numeri 13:24) collegato. **Tassonomia confermata:** Lythraceae (Punicaceae storica).
 
-- [ ] **ATL-0188 · *Quercus coccifera*** — Quercia spinosa; **M voce 171, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0188 · *Quercus coccifera*** — Quercia spinosa; **M voce 171, p. 193 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2464`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2464); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0196 · *Ricinus communis*** — Ricino; **M voce 177, p. 203 · D p. 374**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0196 · *Ricinus communis*** — Ricino; **M voce 177, p. 203 · D p. 374**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2639`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2639); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0236 · *Sinapis arvensis*** — Senape selvatica; **M voce 203, p. 220 · D p. 433**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0236 · *Sinapis arvensis*** — Senape selvatica; **M voce 203, p. 220 · D p. 433**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3597`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3597); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0238 · *Solanum incanum*** — Melanzana selvatica; **M voce 17; 204, p. 29; 221 · D p. 438**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—` · ⚠ Più voci nella stessa fonte;.
+- [x] **ATL-0238 · *Solanum incanum*** — Melanzana selvatica; **M voce 17; 204, p. 29; 221 · D p. 438**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3535` · ⚠ Più voci nella stessa fonte;. · **Censimento WP 24/11/2026:** pubblicazione presente (#3535); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0251 · *Tamarix mannifera*** — Tamerice della manna; **M voce 21, p. 31 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0251 · *Tamarix mannifera*** — Tamerice della manna; **M voce 21, p. 31 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3817`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3817); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0260 · *Triticum aestivum*** — Grano; **M voce 215; 217, p. 228; 233 · D p. 468**; fonte: Moldenke + Duke; **stato: PUBBLICATA**; WP: `3953` · ⚠ Più voci nella stessa fonte; Numerazione originale;.
 
@@ -709,33 +713,33 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0020 · *Alopecurus anthoxanthoides*** — nome italiano da definire; **M voce 11, p. 28 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0021 · *Anabasis articulata*** — nome italiano da definire; **M — · D p. 35**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0021 · *Anabasis articulata*** — nome italiano da definire; **M — · D p. 35**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4700`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4700); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0023 · *Andropogon aromaticus*** — nome italiano da definire; **M voce 31, p. 39 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0025 · *Anethum graveolens*** — nome italiano da definire; **M voce 34, p. 46 · D p. 39**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0025 · *Anethum graveolens*** — nome italiano da definire; **M voce 34, p. 46 · D p. 39**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4727`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4727); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0026 · *Anthemis cotula*** — nome italiano da definire; **M — · D p. 43**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0026 · *Anthemis cotula*** — nome italiano da definire; **M — · D p. 43**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4752`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4752); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0027 · *Anthemis palaestina*** — nome italiano da definire; **M voce 33, p. 41 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
 - [x] **ATL-0029 · *Aquilaria malaccensis*** — **ACCORPATA_A_ATL-0028** (sinonimia documentata Kew); unica scheda WP **#700** già pubblicata, nessun secondo post da creare. Dossier in [ATL-0028](ATL-0028_AQUILARIA_AGALLOCHA_DOSSIER_2026-11-18.md).
 
-- [ ] **ATL-0030 · *Armoracia rusticana*** — nome italiano da definire; **M — · D p. 47**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0030 · *Armoracia rusticana*** — nome italiano da definire; **M — · D p. 47**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4799`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4799); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0031 · *Artemisia herba-alba*** — nome italiano da definire; **M voce 38, p. 48 · D p. 50**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0031 · *Artemisia herba-alba*** — nome italiano da definire; **M voce 38, p. 48 · D p. 50**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4836`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4836); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0032 · *Artemisia judaica*** — nome italiano da definire; **M voce 39, p. 48 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0032 · *Artemisia judaica*** — nome italiano da definire; **M voce 39, p. 48 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4856`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4856); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0033 · *Arundo donax*** — nome italiano da definire; **M voce 40, p. 50 · D p. 52**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0033 · *Arundo donax*** — nome italiano da definire; **M voce 40, p. 50 · D p. 52**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4880`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4880); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0034 · *Astragalus gummifer*** — nome italiano da definire; **M voce 41, p. 51 · D p. 55**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0034 · *Astragalus gummifer*** — nome italiano da definire; **M voce 41, p. 51 · D p. 55**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4914`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4914); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0035 · *Astragalus tragacantha*** — nome italiano da definire; **M voce 42, p. 51 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
 - [ ] **ATL-0036 · *Atriplex dimorphostegia*** — nome italiano da definire; **M voce 43, p. 53 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0037 · *Atriplex halimus*** — nome italiano da definire; **M voce 44, p. 53 · D p. 57**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0037 · *Atriplex halimus*** — nome italiano da definire; **M voce 44, p. 53 · D p. 57**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `4940`. · **Censimento WP 24/11/2026:** pubblicazione presente (#4940); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0038 · *Atriplex rosea*** — nome italiano da definire; **M voce 45, p. 53 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
@@ -823,7 +827,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0096 · *Diospyros melanoxylon* Roxb.** — **PUBBLICATA 20/11/2026**, ebano del Coromandel / tendu. WP pianta **#1716**, media featured WebP **#1717**, fonte #1718, medicina #1719; Ezechiele27:15 #1706, termine H1894 #1707 riusati, specie collegata `controversa` #244, citazioni #954–961. Moldenke 1952 p95, Duke 2008 pp176–178, Zohary 1982 p124, BSI Singh 2005 pp149–157 Fig36, Kew POWO, IISc, Tristram/Balfour come confronto generico. SEO zero issues, 64 piante online. [Scheda](https://piantedellabibbia.altervista.org/piante/ebano-del-coromandel-diospyros-melanoxylon-bibbia-botanica/) · [Dossier](ATL-0096_DIOSPYROS_MELANOXYLON_DOSSIER_2026-11-20.md).
 
-- [ ] **ATL-0098 · *Elaeagnus angustifolia*** — nome italiano da definire; **M voce 98, p. 97 · D p. 178**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0098 · *Elaeagnus angustifolia*** — nome italiano da definire; **M voce 98, p. 97 · D p. 178**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1723`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1723); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0100 · *Eragrostis cilianensis* (All.) Vignolo ex Janch.** — sinonimo storico *Eragrostis megastachya*; **M p.28 · Post 1896 p.879**; **stato: PUBBLICATA**; WP: `1738`; Media `1741`; SEO zero issue; [dossier](ATL-0100_ERAGROSTIS_CILIANENSIS_DOSSIER_2026-11-20.md).
 
@@ -847,71 +851,71 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0115 · *Hyoscyamus aureus* L.** — giusquiamo dorato; **M nessuna voce diretta · Duke p.212 · Zohary p.187 · Post p.571**; Kew POWO 815891-1, Giuseppe Flavio *Ant.* III,7,6, Dafni–Yaniv 1994:11–18; **stato: PUBBLICATA 20-11-2026**; WP `1873`, featured `1874`. **Giosuè 15:11 Shikkeron è toponimo, NON menzione botanica diretta; nessuna identificazione positiva.**
 
-- [ ] **ATL-0116 · *Hyoscyamus muticus*** — nome italiano da definire; **M — · D p. 213**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0116 · *Hyoscyamus muticus*** — nome italiano da definire; **M — · D p. 213**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1892`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1892); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0117 · *Iris pseudacorus*** — nome italiano da definire; **M voce 113, p. 117 · D p. 214**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0117 · *Iris pseudacorus*** — nome italiano da definire; **M voce 113, p. 117 · D p. 214**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1897`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1897); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0119 · *Juncus effusus*** — nome italiano da definire; **M voce 115, p. 120 · D p. 221**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0119 · *Juncus effusus*** — nome italiano da definire; **M voce 115, p. 120 · D p. 221**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1906`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1906); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0120 · *Juncus maritimus*** — nome italiano da definire; **M voce 116, p. 120 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0120 · *Juncus maritimus*** — nome italiano da definire; **M voce 116, p. 120 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1910`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1910); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0121 · *Juniperus excelsa*** — nome italiano da definire; **M voce 185, p. 209 · D p. 224**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0121 · *Juniperus excelsa*** — nome italiano da definire; **M voce 185, p. 209 · D p. 224**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1915`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1915); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0122 · *Juniperus oxycedrus*** — nome italiano da definire; **M voce 120, p. 121 · D p. 226**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0122 · *Juniperus oxycedrus*** — nome italiano da definire; **M voce 120, p. 121 · D p. 226**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1922`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1922); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0123 · *Juniperus phoenicia*** — nome italiano da definire; **M voce 186, p. 209 · D p. 228**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0124 · *Lactuca sativa*** — nome italiano da definire; **M voce 64, p. 74 · D p. 229**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0124 · *Lactuca sativa*** — nome italiano da definire; **M voce 64, p. 74 · D p. 229**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1941`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1941); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0125 · *Lagenaria siceraria*** — nome italiano da definire; **M — · D p. 233**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0125 · *Lagenaria siceraria*** — nome italiano da definire; **M — · D p. 233**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1944`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1944); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0126 · *Laurus nobilis*** — nome italiano da definire; **M voce 121, p. 123 · D p. 237**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0126 · *Laurus nobilis*** — nome italiano da definire; **M voce 121, p. 123 · D p. 237**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1949`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1949); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0127 · *Lawsonia inermis*** — nome italiano da definire; **M voce 122, p. 124 · D p. 241**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0127 · *Lawsonia inermis*** — nome italiano da definire; **M voce 122, p. 124 · D p. 241**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1955`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1955); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0133 · *Lilium chalcedonicum*** — nome italiano da definire; **M voce 128, p. 129 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0133 · *Lilium chalcedonicum*** — nome italiano da definire; **M voce 128, p. 129 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1971`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1971); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0134 · *Linum usitatissimum*** — nome italiano da definire; **M voce 129, p. 129 · D p. 250**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0134 · *Linum usitatissimum*** — nome italiano da definire; **M voce 129, p. 129 · D p. 250**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1976`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1976); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0135 · *Liquidambar orientalis*** — nome italiano da definire; **M — · D p. 256**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0136 · *Lolium temulentum*** — nome italiano da definire; **M voce 130, p. 133 · D p. 259**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0136 · *Lolium temulentum*** — nome italiano da definire; **M voce 130, p. 133 · D p. 259**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1981`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1981); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0137 · *Loranthus acaciae*** — nome italiano da definire; **M voce 2, p. 23 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0138 · *Lycium europaeum*** — nome italiano da definire; **M voce 131, p. 134 · D p. 260**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0138 · *Lycium europaeum*** — nome italiano da definire; **M voce 131, p. 134 · D p. 260**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1990`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1990); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0139 · *Malus domestica*** — nome italiano da definire; **M — · D p. 261**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0139 · *Malus domestica*** — nome italiano da definire; **M — · D p. 261**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1995`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1995); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0140 · *Malva sylvestris*** — nome italiano da definire; **M — · D p. 266**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0140 · *Malva sylvestris*** — nome italiano da definire; **M — · D p. 266**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2000`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2000); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0142 · *Mentha longifolia*** — nome italiano da definire; **M voce 133, p. 139 · D p. 273**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0142 · *Mentha longifolia*** — nome italiano da definire; **M voce 133, p. 139 · D p. 273**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2006`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2006); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0143 · *Morus nigra*** — nome italiano da definire; **M voce 134, p. 140 · D p. 276**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0143 · *Morus nigra*** — nome italiano da definire; **M voce 134, p. 140 · D p. 276**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2011`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2011); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0148 · *Narcissus tazetta*** — nome italiano da definire; **M voce 139, p. 147 · D p. 283**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0148 · *Narcissus tazetta*** — nome italiano da definire; **M voce 139, p. 147 · D p. 283**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2016`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2016); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0150 · *Nardostachys jatamansi*** — nome italiano da definire; **M voce 140, p. 148 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Nardostachys grandiflora; controllare sinonimia/identificazione.
+- [x] **ATL-0150 · *Nardostachys jatamansi*** — nome italiano da definire; **M voce 140, p. 148 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2022` · ⚠ Possibile corrispondenza con Nardostachys grandiflora; controllare sinonimia/identificazione. · **Censimento WP 24/11/2026:** pubblicazione presente (#2022); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0151 · *Nardurus orientalis*** — nome italiano da definire; **M voce 14, p. 28 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0152 · *Nasturtium officinale*** — nome italiano da definire; **M voce 65, p. 74 · D p. 289**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0152 · *Nasturtium officinale*** — nome italiano da definire; **M voce 65, p. 74 · D p. 289**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2027`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2027); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0154 · *Nerium oleander*** — nome italiano da definire; **M voce 143, p. 151 · D p. 294**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0154 · *Nerium oleander*** — nome italiano da definire; **M voce 143, p. 151 · D p. 294**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2038`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2038); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0155 · *Nigella sativa*** — nome italiano da definire; **M voce 144, p. 152 · D p. 298**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0155 · *Nigella sativa*** — nome italiano da definire; **M voce 144, p. 152 · D p. 298**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2063`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2063); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0157 · *Notobasis syriaca*** — nome italiano da definire; **M voce 145, p. 153 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0157 · *Notobasis syriaca*** — nome italiano da definire; **M voce 145, p. 153 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2080`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2080); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0158 · *Nymphaea alba*** — nome italiano da definire; **M voce 147, p. 154 · D p. 303**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0158 · *Nymphaea alba*** — nome italiano da definire; **M voce 147, p. 154 · D p. 303**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2114`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2114); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0159 · *Nymphaea caerulea*** — nome italiano da definire; **M voce 148, p. 154 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0159 · *Nymphaea caerulea*** — nome italiano da definire; **M voce 148, p. 154 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2129`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2129); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0160 · *Nymphaea lotus*** — nome italiano da definire; **M voce 149, p. 154 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0160 · *Nymphaea lotus*** — nome italiano da definire; **M voce 149, p. 154 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2134`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2134); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0162 · *Origanum maru*** — nome italiano da definire; **M voce 151; 152, p. 160; 160 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Più voci nella stessa fonte; Numerazione originale; Possibile corrispondenza con Origanum syriacum; controllare sinonimia/identificazione \| Possibile corrispondenza con Origanum syriacum; controllare sinonimia/identificazione.
 
-- [ ] **ATL-0163 · *Origanum syriacum*** — nome italiano da definire; **M — · D p. 311**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0163 · *Origanum syriacum*** — nome italiano da definire; **M — · D p. 311**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2140`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2140); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0164 (legacy) / ATL-0150 (operativo) · *Ornithogalum umbellatum* L.** — stella di Betlemme; **PUBBLICATA 21/11/2026, WP #2154, featured #2155**; Moldenke pp.162–163, Duke pp.312–314, Tristram pp.443–444, Post pp.801–803; Kew #2156; citazioni #1198–1203; 2 Re 6:25 #1039, lemma #1042, identificazione controversa #283. Dossier STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0150.md. Non duplicare.
 
@@ -933,85 +937,85 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0175 legacy / ATL-0159 operativo · *Pistacia atlantica* Desf.** — PUBBLICATA WordPress #2291, WebP featured #2292 e checksum server=locale, famiglia Anacardiaceae #21; 6 identificazioni controverse e apparati certificati. [Dossier](STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0159.md). NON ricreare.
 
-- [ ] **ATL-0178 legacy / ATL-0160 operativo PROPOSTO · *Pistacia vera* L.** — PROSSIMO CANDIDATO (pistacchio vero), Moldenke voce 163 p179, Duke da p343; WP ricerca preliminare solo menzioni, confermare anti-duplicati Kew e WordPress prima di creare. Distinto da P. atlantica #2291, P. lentiscus #597, P. terebinthus #557.
+- [x] **ATL-0178 legacy / ATL-0160 operativo PROPOSTO · *Pistacia vera* L.** — PROSSIMO CANDIDATO (pistacchio vero), Moldenke voce 163 p179, Duke da p343; WP ricerca preliminare solo menzioni, confermare anti-duplicati Kew e WordPress prima di creare. Distinto da P. atlantica #2291, P. lentiscus #597, P. terebinthus #557. · **Censimento WP 24/11/2026:** pubblicazione presente (#2312); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0179 · *Platanus orientalis*** — nome italiano da definire; **M voce 164, p. 180 · D p. 345**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0179 · *Platanus orientalis*** — nome italiano da definire; **M voce 164, p. 180 · D p. 345**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2336`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2336); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0180 · *Polypogon monspeliensis*** — polipogone di Montpellier; **M voce 15, p. 28 · D —**; fonte: Moldenke + Kew + botanica moderna + Romero-Zarco/Sáez 2025; **stato: PUBLISHED VERIFICATA 21/11/2026**; codice operativo ATL-0162, WP **#2363**, media #2365, famiglia #18, [dossier](STATO_ATLANTE_ATL0162_POLYPOGON_MONSPELIENSIS_2026-11-21.md).
 
-- [ ] **ATL-0181 · *Populus alba*** — nome italiano da definire; **M voce 165, p. 181 · D p. 348**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0181 · *Populus alba*** — nome italiano da definire; **M voce 165, p. 181 · D p. 348**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2391`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2391); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0182 · *Populus euphratica*** — nome italiano da definire; **M voce 166, p. 183 · D p. 350**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0182 · *Populus euphratica*** — nome italiano da definire; **M voce 166, p. 183 · D p. 350**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2402`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2402); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0183 · *Prunus armeniaca*** — nome italiano da definire; **M voce 167, p. 184 · D p. 352**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0183 · *Prunus armeniaca*** — nome italiano da definire; **M voce 167, p. 184 · D p. 352**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2420`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2420); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0185 · *Pterocarpus santalinus*** — nome italiano da definire; **M voce 168, p. 188 · D p. 360**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0185 · *Pterocarpus santalinus*** — nome italiano da definire; **M voce 168, p. 188 · D p. 360**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2441`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2441); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0187 · *Quercus aegilops*** — nome italiano da definire; **M voce 170, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Quercus ithaburensis; controllare sinonimia/identificazione.
+- [x] **ATL-0187 · *Quercus aegilops*** — nome italiano da definire; **M voce 170, p. 193 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2455` · ⚠ Possibile corrispondenza con Quercus ithaburensis; controllare sinonimia/identificazione. · **Censimento WP 24/11/2026:** pubblicazione presente (#2455); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0189 / operativo ATL-0169 · *Quercus pseudococcifera* Desf.** — nome storico Moldenke (1952), p.193, voce 172: *Q. coccifera* var. *pseudococcifera* (Desf.) Boiss.; in Kew sinonimo omotipico (Desf.) A.DC. e taxon accettato distinto da *Q.coccifera*. **PUBLISHED WP pianta #2508**, media #2509, medicina #2511, source citations #1546–1566, [dossier](STATO_ATLANTE_ATL0169_QUERCUS_PSEUDOCOCCIFERA_2026-11-21.md).
 
-- [ ] **ATL-0190 · *Quercus ilex*** — nome italiano da definire; **M voce 173, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0190 · *Quercus ilex*** — nome italiano da definire; **M voce 173, p. 193 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2525`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2525); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0191 · *Quercus ithaburensis*** — nome italiano da definire; **M — · D p. 367**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0192 · *Quercus lusitanica*** — nome italiano da definire; **M voce 174, p. 193 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0192 · *Quercus lusitanica*** — nome italiano da definire; **M voce 174, p. 193 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2567`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2567); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0193 · *Ranunculus asiaticus*** — nome italiano da definire; **M — · D p. 369**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0193 · *Ranunculus asiaticus*** — nome italiano da definire; **M — · D p. 369**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2585`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2585); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0194 · *Retama raetam*** — nome italiano da definire; **M voce 175, p. 200 · D p. 371**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0194 · *Retama raetam*** — nome italiano da definire; **M voce 175, p. 200 · D p. 371**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2610`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2610); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0195 · *Rhamnus palaestinas*** — nome italiano da definire; **M voce 176, p. 202 · D p. 373**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0199 · *Rosa canina*** — nome italiano da definire; **M — · D p. 380**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0199 · *Rosa canina*** — nome italiano da definire; **M — · D p. 380**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2664`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2664); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0200 · *Rosa phoenicia*** — nome italiano da definire; **M voce 179, p. 205 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0200 · *Rosa phoenicia*** — nome italiano da definire; **M voce 179, p. 205 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2677`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2677); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0201 · *Rubia tinctorium*** — nome italiano da definire; **M — · D p. 384**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0202 · *Rubus sanctus*** — nome italiano da definire; **M voce 180, p. 206 · D p. 386**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0202 · *Rubus sanctus*** — nome italiano da definire; **M voce 180, p. 206 · D p. 386**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2708`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2708); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0203 · *Rubus ulmifolius*** — nome italiano da definire; **M voce 181, p. 206 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0203 · *Rubus ulmifolius*** — nome italiano da definire; **M voce 181, p. 206 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2732`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2732); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0204 · *Rumex acetosella*** — nome italiano da definire; **M voce 66, p. 74 · D p. 388**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0204 · *Rumex acetosella*** — nome italiano da definire; **M voce 66, p. 74 · D p. 388**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2743`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2743); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0205 · *Ruscus aculeatus*** — nome italiano da definire; **M voce 182, p. 207 · D p. 391**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0205 · *Ruscus aculeatus*** — nome italiano da definire; **M voce 182, p. 207 · D p. 391**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2760`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2760); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0206 · *Ruta chalepensis*** — nome italiano da definire; **M voce 183, p. 208 · D p. 394**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—` · ⚠ Numerazione originale;.
+- [x] **ATL-0206 · *Ruta chalepensis*** — nome italiano da definire; **M voce 183, p. 208 · D p. 394**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2766` · ⚠ Numerazione originale;. · **Censimento WP 24/11/2026:** pubblicazione presente (#2766); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0207 · *Ruta graveolens*** — nome italiano da definire; **M voce 184, p. 208 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0207 · *Ruta graveolens*** — nome italiano da definire; **M voce 184, p. 208 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2797`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2797); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0210 · *Saccharum officinarum*** — nome italiano da definire; **M voce 189, p. 214 · D p. 397**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0210 · *Saccharum officinarum*** — nome italiano da definire; **M voce 189, p. 214 · D p. 397**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2876`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2876); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0211 · *Salicornia europea*** — nome italiano da definire; **M — · D p. 402**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0212 · *Salicornia fruticosa*** — nome italiano da definire; **M voce 190, p. 215 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0212 · *Salicornia fruticosa*** — nome italiano da definire; **M voce 190, p. 215 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2946`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2946); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0213 · *Salicornia herbacea*** — nome italiano da definire; **M voce 191, p. 215 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—` · ⚠ Possibile corrispondenza con Salicornia europea; controllare sinonimia/identificazione.
 
-- [ ] **ATL-0214 · *Salix acmophylla*** — nome italiano da definire; **M voce 194, p. 216 · D p. 404**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0214 · *Salix acmophylla*** — nome italiano da definire; **M voce 194, p. 216 · D p. 404**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2976`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2976); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0215 · *Salix alba*** — nome italiano da definire; **M voce 195, p. 216 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0215 · *Salix alba*** — nome italiano da definire; **M voce 195, p. 216 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3016`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3016); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0216 · *Salix babylonica*** — nome italiano da definire; **M — · D p. 409**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0216 · *Salix babylonica*** — nome italiano da definire; **M — · D p. 409**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3028`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3028); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0217 · *Salix fragilis*** — nome italiano da definire; **M voce 196, p. 216 · D p. 411**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0217 · *Salix fragilis*** — nome italiano da definire; **M voce 196, p. 216 · D p. 411**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3050`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3050); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0218 · *Salix safsaf*** — nome italiano da definire; **M voce 197, p. 216 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
 - [ ] **ATL-0219 · *Salsola inermis*** — nome italiano da definire; **M voce 192, p. 215 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0220 · *Salsola kali*** — nome italiano da definire; **M voce 193, p. 215 · D p. 413**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0220 · *Salsola kali*** — nome italiano da definire; **M voce 193, p. 215 · D p. 413**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3124`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3124); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0221 · *Salvadora persica*** — nome italiano da definire; **M — · D p. 415**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0221 · *Salvadora persica*** — nome italiano da definire; **M — · D p. 415**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3152`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3152); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0222 · *Salvia judaica*** — nome italiano da definire; **M voce 198, p. 218 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0222 · *Salvia judaica*** — nome italiano da definire; **M voce 198, p. 218 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3179`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3179); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0223 · *Santalum album*** — nome italiano da definire; **M voce 37, p. 47 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0223 · *Santalum album*** — nome italiano da definire; **M voce 37, p. 47 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3212`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3212); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0224 · *Sarcopoterium spinosum*** — nome italiano da definire; **M — · D p. 418**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0224 · *Sarcopoterium spinosum*** — nome italiano da definire; **M — · D p. 418**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3252`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3252); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0225 · *Saussurea costus*** — nome italiano da definire; **M voce 199, p. 218 · D p. 419**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0225 · *Saussurea costus*** — nome italiano da definire; **M voce 199, p. 218 · D p. 419**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3293`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3293); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0226 · *Schoenoplectus lacustris* (L.) Palla** — giunco lacustre, già *Scirpus lacustris* L.; **M voce118 pp120–121 · D pp422–423 · Post p833 · Zohary p135**; PUBBLICATA 22/11/2026, WordPress botanica **#3329**, medicina **#3330**, tavola featured **#3337**; Kew/IPNI verificati, 9 nuove fonti #3311–3319, 21 citazioni, 3 relazioni controverse #418–420; codice ATL-0202-SLAC.
 
@@ -1029,25 +1033,25 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0237 · *Solanum anguivi* Lam.** — melanzanina selvatica africana, Solanaceae **#35** (nuova categoria); **Kew POWO/IPNI, Flora of Tropical East Africa, Solanaceae Source, Duke 2008 pp.436–438, Zohary1982 p.122 solo confronto con Calotropis, PROTA, chimica 1994/2000 e studi alimentari 2021–2024**. **PUBBLICATA 22/11/2026**: botanica WordPress **#3523** https://piantedellabibbia.altervista.org/piante/solanum-anguivi-melanzanina-africana-vite-sodoma/ , medicina **#3524** https://piantedellabibbia.altervista.org/usi-medicinali/solanum-anguivi-bacche-glicoalcaloidi-tradizioni-rischi/ , tavola originale senza scritte featured **#3525** WebP 1024×1536 312874 byte, SHA256 **cc066644ae6f30e5241434321626238b5d9e057604c7986b3d14ff988a84737c** coincidente locale/server, ALT e tag in italiano. **18 nuove fonti** #3489–3505 + #3528; **34 citazioni strutturate** (17 pianta, 14 medicina, 3 verso #879) e 1 identificazione CONTROVERSA #438 (Deut32:32 #879, rosh H7219 #1364). **FATTO SCIENTIFICO CRITICO:** Kew nativo Africa tropicale/meridionale, NON Palestina: la «vite di Sodoma» è metafora, Duke stesso riconosce assenza Palestina; Zohary propone Calotropis procera #874, non S anguivi. *Solanum indicum* auct. non Linneo differisce da *S. indicum* L.; *Solanum sodomeum* var. *hermannii* è *S. linnaeanum* secondo Kew, quindi non attribuire intossicazioni storiche di essa a *S. anguivi*. **Studi 2024 cottura/essiccazione Nakitto #3528** aggiunti con prudenza sulla variazione degli alcaloidi, nessuna cura clinica. Audit SEO nativo 0 problemi, stato publish x2; verifica front-end esterna non certificata. Codice operativo ATL-0208-SANG.
 
-- [ ] **ATL-0239 · *Sorghum bicolor* (L.) Moench** — **PROSSIMA**: sorgo coltivato/saggina. Duke2008 p.440 «Broomcorn», verificare Kew e fonti di botanica antica, identità biblica, usi agricoli, alimentari e tassonomia. Prima anti-duplicati WordPress e verificare sovrapposizione con ATL-0240 *Sorghum vulgare* (sinonimia storica da riconciliare). Non creare doppione, mantenere contenuti in italiano.
+- [x] **ATL-0239 · *Sorghum bicolor* (L.) Moench** — **PROSSIMA**: sorgo coltivato/saggina. Duke2008 p.440 «Broomcorn», verificare Kew e fonti di botanica antica, identità biblica, usi agricoli, alimentari e tassonomia. Prima anti-duplicati WordPress e verificare sovrapposizione con ATL-0240 *Sorghum vulgare* (sinonimia storica da riconciliare). Non creare doppione, mantenere contenuti in italiano. · **Censimento WP 24/11/2026:** pubblicazione presente (#3561); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0240 · *Sorghum vulgare*** — **POSSIBILE SINONIMO** del taxon moderno *Sorghum bicolor* (L.) Moench, da confermare in Kew/IPNI e in Moldenke1952 voce205 p222; ricondurre alla stessa scheda se sinonimo effettivo, senza creare una seconda specie. Stato: QA NOMENCLATURALE DA ESEGUIRE CON ATL-0239.
 
-- [ ] **ATL-0245 · *Styrax benzoin*** — nome italiano da definire; **M voce 209, p. 223 · D p. 444**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0245 · *Styrax benzoin*** — nome italiano da definire; **M voce 209, p. 223 · D p. 444**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3630`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3630); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0246 · *Styrax officinalis*** — nome italiano da definire; **M voce 210, p. 224 · D p. 447**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0246 · *Styrax officinalis*** — nome italiano da definire; **M voce 210, p. 224 · D p. 447**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3670`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3670); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0247 · *Suaeda spp*** — nome italiano da definire; **M — · D p. 449**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0247 · *Suaeda spp*** — nome italiano da definire; **M — · D p. 449**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3695`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3695); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0248 · *Tamaris articulata*** — nome italiano da definire; **M voce 211, p. 227 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
 - [ ] **ATL-0249 · *Tamaris pentandra*** — nome italiano da definire; **M voce 212, p. 227 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0250 · *Tamarix aphylla*** — nome italiano da definire; **M — · D p. 451**; fonte: Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0250 · *Tamarix aphylla*** — nome italiano da definire; **M — · D p. 451**; fonte: Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3749`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3749); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0252 · *Tamarix tetragyna*** — nome italiano da definire; **M voce 213, p. 227 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0252 · *Tamarix tetragyna*** — nome italiano da definire; **M voce 213, p. 227 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3856`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3856); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0253 · *Taraxacum officinale*** — nome italiano da definire; **M voce 67, p. 74 · D p. 453**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0253 · *Taraxacum officinale*** — nome italiano da definire; **M voce 67, p. 74 · D p. 453**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `3875`. · **Censimento WP 24/11/2026:** pubblicazione presente (#3875); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [x] **ATL-0254 · *Tetraclinis articulata*** — nome italiano da definire; **M voce 214, p. 228 · D p. 459**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
 
@@ -1135,7 +1139,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [ ] **ATL-0198 · *Roccella tinctoria*** — nome italiano da definire; **M voce 178, p. 204 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
-- [ ] **ATL-0208 · *Saccharomyces cerevisiae*** — nome italiano da definire; **M voce 187, p. 210 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
+- [x] **ATL-0208 · *Saccharomyces cerevisiae*** — nome italiano da definire; **M voce 187, p. 210 · D —**; fonte: Moldenke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `2814`. · **Censimento WP 24/11/2026:** pubblicazione presente (#2814); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
 - [ ] **ATL-0209 · *Saccharomyces ellipsoideus*** — nome italiano da definire; **M voce 188, p. 212 · D —**; fonte: Moldenke; **stato: DA_CREARE**; WP: `—`.
 
