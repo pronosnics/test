@@ -907,7 +907,7 @@ Da classificare per lotti dopo P1; prima verificare sinonimi, identificazioni st
 
 - [x] **ATL-0122 · *Juniperus oxycedrus*** — nome italiano da definire; **M voce 120, p. 121 · D p. 226**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1922`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1922); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
-- [ ] **ATL-0123 · *Juniperus phoenicia*** — nome italiano da definire; **M voce 186, p. 209 · D p. 228**; fonte: Moldenke + Duke; **stato: DA_CREARE**; WP: `—`.
+- [ ] **ATL-0123 · *Juniperus phoenicia*** — nome italiano da definire; **M voce 186, p. 209 · D p. 228**; fonte: Moldenke + Duke; **stato: PREFLIGHT / PROBABILE RACCORDO A WP #1938, QA FONTI DA CONFERMARE**; WP: `1938` (da validare contro Moldenke voce 186). · **Controllo 24/11:** *Juniperus phoenicea* L. Kew accepted IPNI262307-1 è già pubblicata WP #1938, data editoriale 24/11. La roadmap storica scrive *Juniperus phoenicia*; collazionare esattamente Moldenke 1952 p209 e Duke p228 prima di spuntare, perché Kew riconosce ***J. turbinata* Guss. come specie distinta**, nativa anche del Levante. Non creare schede duplicate e non assegnare al senso stretto di *J. phoenicea* le prove floristiche di *J. turbinata*. [Registro](QA_REGISTRO_ANTI_RIPETIZIONI_2026-11-24.md).
 
 - [x] **ATL-0124 · *Lactuca sativa*** — nome italiano da definire; **M voce 64, p. 74 · D p. 229**; fonte: Moldenke + Duke; **stato: PUBBLICATA / QA DA VERIFICARE**; WP: `1941`. · **Censimento WP 24/11/2026:** pubblicazione presente (#1941); non ricreare, verificare nomenclatura e QA fonte per fonte.
 
