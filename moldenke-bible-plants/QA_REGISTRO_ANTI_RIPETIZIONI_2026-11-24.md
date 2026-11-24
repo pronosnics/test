@@ -88,3 +88,12 @@ Ogni riga registra il **motivo del mancato collegamento specie-specifico**, non 
 
 - *Atriplex dimorphostegia* Kar. & Kir. **WP #5627 PUBBLICATA**, SEO audit `issues=[]`, immagine originale WebP **#5632** featured con ALT e SHA-256 verificato; Amaranthaceae #32. Fonti strutturate #4286–4292 (7), fonte Kew #5628 e WFO #5629; criterio di specie biblica di Giobbe 30:4 **non dimostrato**. [Scheda](https://piantedellabibbia.altervista.org/piante/atriplex-dimorphostegia-brattee-dimorfe-giobbe-30-4/) · [dossier ATL-0035–0040](ATL-0035_0040_PREFLIGHT_QA_2026-11-24.md).
 - **Stato dopo aggiornamento:** WP 226 piante pubblicate / 226 con fonti, 32 segnalazioni identificazioni non specie-specifiche. Riaprire #5627 soltanto su nuova fonte, errore concreto o modifica; non duplicarla né aggiungere relazioni bibliche prive di prova. Browser responsive indipendente non certificato.
+
+## Chiusura ATL-0038 — *Atriplex rosea* L., 24/11/2026
+
+- WordPress **#5636 PUBBLICATA**, URL https://piantedellabibbia.altervista.org/piante/atriplex-rosea-atriplice-malluach-giobbe-30-4/ , Amaranthaceae #32, controllo HTML 10 H2/10 e 19 P/19; SEO `issues=[]` e metadata di citazione/bibliografia compilati.
+- Fonti nuove #5633 (Kew POWO), #5634 (Al-Oudat–Qadir ICARDA, *Halophytic Flora of Syria* 2011, p58), #5635 (Flora of New Zealand); **otto** relazioni #4293–4300, incluse testimonianze comparate di Moldenke, UBS, Zohary, Tristram e Duke. Richiamato anche WFO per la morfologia.
+- Immagine **#5637**: tavola storica Otto Wilhelm Thomé 1885 da Wikimedia Commons, pubblico dominio verificato, importata come JPEG con ALT e credito. Non è una nostra tavola originale; tentativi di generazione inadatti sono stati scartati e non pubblicati.
+- **Motivazione del non collegamento di identificazione**: Giobbe 30:4 usa *mallûaḥ* (H4408), nome collettivo «erba salata», i Moldenke elencano più *Atriplex*; nulla nel testo identifica esclusivamente *A. rosea*. La relazione mancante è **motivata scientificamente**, non deve essere creata per azzerare il contatore.
+- **Chiusura per perimetro**: verificati Kew, fonte regionale diretta ICARDA, flori moderne, stato WordPress, immagine e SEO; **non** dichiarare collaudata la resa pixel indipendente mobile/desktop. Il record non va ricreato o ripetuto senza cambiamenti effettivi.
+- **Copertura post-pubblicazione** 227/227 botaniche con fonti, 33 segnalazioni relazionali (nuovi taxa senza identificazione certa inclusi).
