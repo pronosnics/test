@@ -1,3 +1,7 @@
+**CHECKPOINT GRILLI CAIOLA 25/11/2026 — ORZO.** Collazione p.37 e apparati: *Hordeum distichum* del volume riconciliato con *H. distichon* sinonimo di *H. vulgare* subsp. *distichon* secondo Kew; scheda canonica #1834, tavola #1835 conservata. Aggiornati #1834,1840,1839,1838,1836,1837,218, relazioni fonte #4378–4383; cinque SEO mancanti ripristinate, note operative e link errato rimossi. Studi Nature 2004/2025 e genetica spighette; QA API. Prossima *Phoenix dactylifera* p.38. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA generale ATL invariato.
+
+---
+
 **CHECKPOINT GRILLI CAIOLA 25/11/2026 — OLIVO.** Collazione p.36 e apparati; WP #129, #140, #141, #139, #193 aggiornati; fonte #775 relazioni #4373–4377; POWO oleastro sinonimo della sottospecie nominale, archeobotanica moderna, Genesi 8:11 corretto, olio rituale distinto da foglie medicinali; SEO e pubblicazione verificati via API. Tavola #186 conservata; grano duro #5747 nuova tavola originale #5762 e metadati allineati. Regola immagini: originali ottocentesche senza scritte, conservare quelle già presenti. Prossima *Hordeum distichum* p.37. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA generale ATL invariato.
 
 ---
