@@ -1,3 +1,7 @@
+**REVISIONE SCIENTIFICA CONCLUSIVA — 25/11/2026, Vitis vinifera WP #143.** Grilli Caiola pp.39–40 e apparati, Duke/Zohary/Post/Tristram/Balfour/Dafni–Böck e Moldenke traduzione GitHub ricontrollati; POWO, genomica, archeobotanica 2017–2025, EMA/OMS. Nuove fonti #5815,5817,5819,5821, passi #5809,5811,5813; 11 relazioni bibliografiche e tre identificazioni, cinque SEO mancanti ripristinate, tavola #187 conservata, note interne rimosse. QA su 20 contenuti esistenti; limiti registrati. Capitolo 1 tutte sette voci trattate, prime cinque da riallineare allo standard conclusivo. Prossimo Citrus medica, capitolo 2 Sukkot. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA generale invariato.
+
+---
+
 **REVISIONE SCIENTIFICA CONCLUSIVA — 25/11/2026, ATL-0170 *Phoenix dactylifera*.** WP #308, fonte Grilli Caiola p.38 e apparati ricollazionati con Duke, Zohary, Post, Tristram, Balfour, Dafni–Böck direttamente e Moldenke traduzione GitHub/dossier. Kew e genomica 2020–21; nuove fonti #5793,5795,5797,5799,5801 e passi #5789/#5791, Siracide #2051 riusato, medicina/lemmi/passaggi verificati, note interne rimosse, SEO, tavola originale #344. Revisione editoriale conclusa sul materiale consultabile; non render indipendente né deduplicazione esaustiva globale. Protocollo conclusivo per tutte le specie registrato. Prossima *Vitis vinifera* pp.39–40. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Coda QA generale conservata.
 
 ---
