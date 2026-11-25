@@ -363,3 +363,18 @@ Prossime: ATL-0211 Salicornia europaea (legacy «europea») e ATL-0213 Salicorni
 **QA WordPress finale:** #3016 stato publish, featured #3018, SEO title/meta/focus valorizzati, controllo HTML 18/18 sezioni H2, 35/35 paragrafi, 12/12 LI, nessuna nota gestionale o placeholder, plugin SEO audit issues=[]. Nessuna verifica indipendente del frontend per immagini/dettagli visuali attestata. Conteggio piante non incrementato. Non ripetere l'operazione senza evidenza nuova.
 
 **Prossima** ATL-0216 *Salix babylonica* WP #3028 già publish, media #3030 e campi SEO letti ancora vuoti; in seguito ATL-0217 *Salix × fragilis* WP #3050 e ATL-0218 storico *Salix safsaf* → *S. mucronata* WP #3073. Evitare record duplicati.
+
+
+### 25/11/2026 — QA ATL-0216 Salix babylonica, salice piangente
+
+**Scheda esistente:** WordPress #3028 già publish, URL https://piantedellabibbia.altervista.org/piante/salix-babylonica-salice-piangente-bibbia/ , media #3030 e Salicaceae #23. Nessun nuovo post o immagine. QA mirato su fonti correnti e documentazione già presente, NON una collazione integrale ex novo di tutti i volumi storici.
+
+**Nomenclatura:** Kew POWO accepted Salix babylonica L., IPNI777133-1, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:777133-1 , native range Cina settentrionale-Corea; Iraq e Libano–Siria segnati come introdotti. La presenza nel Levante negli ultimi secoli non documenta l'albero sui fiumi della Babilonia del VI sec. a.C. «Salice piangente» orticolo comprende spesso anche gli ibridi Salix × sepulcralis e S. × pendulina. La ricerca 2025 https://pmc.ncbi.nlm.nih.gov/articles/PMC12385670/ sulle variazioni sessuali negli ibridi NON permette di dichiarare monoica la specie pura.
+
+**Filologia:** Salmo137:2 usa ʿărāḇîm H6155, traduzione «salici» non specie-specifica. Zohary (1982), p130, favorisce il pioppo dell'Eufrate Populus euphratica per il paesaggio mesopotamico; non prova che un campione archeobotanico di quel versetto sia stato identificato. Balfour (1857), pp47–48, e Tristram (1867), pp414–416, proponevano storicamente il salice piangente, osservato nel Levante ottocentesco; Post (1896), p743, definisce la specie «cultivated and escaped from cultivation». Moldenke (1952), pp216–217, e Duke (2008), pp409–410, documentano storia del nome ed esegesi. Kew https://www.kew.org/plants/weeping-willow e Oregon State University https://landscapeplants.oregonstate.edu/plants/salix-babylonica sostengono separazione di nome simbolico e areale. La tradizione del Salmo come origine dell'epiteto NON certifica il processo decisionale personale di Linneo.
+
+**Interventi 25/11:** prima SEO title/meta/focus erano vuoti, ora compilati con pdb/update-content; riempiti plant.common_names, hebrew_name, greek_name, bible_references, bible_passages, identification_notes, historical_context, habitat, moldenke_pages e sources. Titolo della sezione pubblica «Perché Linneo scelse babylonica» sostituito con «Babylonica: origine e interpretazioni dell'epiteto», aggiunta precisazione di prudenza e collegamento OSU e relativa voce bibliografica. Metadato pdb_image_provenance ripulito dalle annotazioni tecniche, pdb_editorial_status revisionata e data QA 2026-11-25. L'immagine #3030 non è stata sostituita.
+
+**Controllo WordPress post modifiche:** stato publish, image #3030, metadati SEO valorizzati, H2 17/17, P 33/33, LI 15/15, nessun TODO o nota interna, plugin pdb/seo-audit issues=[]. Nessuna verifica visuale indipendente del frontend attestata, nessuna nuova specie pubblicata.
+
+**Prossimo:** ATL-0217 Salix × fragilis WordPress #3050 già publish, immagine #3052, SEO vuoto, correttamente ibrido Salix alba × S. euxina e non specie pura. ATL-0218 Salix safsaf già riconciliato come Salix mucronata WordPress #3073.
