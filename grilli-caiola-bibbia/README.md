@@ -1,5 +1,11 @@
 # Le piante nella Bibbia — Grilli Caiola, Guarrera, Travaglini
 
+## Stato corrente — 25 novembre 2026
+
+Acquisito il PDF completo (210 pagine, testo estraibile, 18.254.842 byte; SHA-256 dfaac9276a62036a131fee493879f899f46e2946944ad0e2f1917cb3374d6329). Il numero della pagina stampata 33 del fico è confermato (PDF 35); p. 40 della vite contiene la fotografia, non una prosecuzione testuale; la tabella 7 è a p. 183. Non occorre più acquisire pagine fotografiche. Il PDF integrale non è caricato nel repository pubblico per rispetto dei diritti editoriali; qui si conservano metadati, sintesi originali, riferimenti e dossier critici.
+
+**[Roadmap di collazione del volume e sviluppo HUB](ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md)** — avvio dal fico WP #152, fonte WP #775; prossimo grano duro (p. 34). I registri fotografici storici sotto sono conservati per tracciabilità, non rappresentano lo stato corrente.
+
 **Fonte:** Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini, *Le piante nella Bibbia*, Gangemi, Roma, 2013. ISBN 9788849227550.
 
 ## Registro materiale acquisito
