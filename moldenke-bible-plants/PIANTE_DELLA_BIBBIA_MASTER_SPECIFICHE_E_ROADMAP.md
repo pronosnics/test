@@ -1,3 +1,7 @@
+**CHECKPOINT SUKKOT — 25/11/2026, ATL-0215 Salix alba WP #3016.** Grilli pp.45–46 e tabelle, Zohary, Varrone, Kew, studi moderni e fonti rituali; 12 contenuti aggiornati, tre fonti pubblicate (#6092,#6094,#6097), relazioni #4532–4543, quattro SEO ripristinate e QA 15 contenuti. Tavole conservate. 4/4 voci Sukkot trattate, limiti della collazione storica primaria e rendering documentati. Prossimo capitolo Cereali e orticole: Allium sativum dopo completamento residui Salix. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT INTEGRATIVO — 25/11/2026, ATL-0072 Citrus medica WP #1271.** Riletta direttamente Grilli p.43, POWO; integrazioni sinonimiche, fenologia, fitochimica storica e pratiche rituali in #1271, correttivi organolettici in #1279; QA su cinque contenuti pubblicati, SEO/ALT e link medicina verificati. Nessuna nuova scheda o relazione. Limiti tecnici residui e fonti consultate nel [registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Non arretrare la coda: Sukkot 3/4 voci trattate, prossima Salix alba e confronto taxa della p.45.
 
 ---
