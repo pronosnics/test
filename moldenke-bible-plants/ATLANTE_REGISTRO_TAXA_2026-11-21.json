@@ -217,9 +217,11 @@
       "legacy_code": "ATL-0131",
       "scientific_name_working": "Lens culinaris",
       "checkbox_from_master": false,
-      "live_status": "published_wp_verified_master_checkbox_stale",
+      "live_status": "published_verified_2026-11-25",
       "source_line": 526,
-      "wp_id": 1961
+      "wp_id": 1961,
+      "verified_at": "2026-11-25",
+      "scientific_closure": "pending_source_collation"
     },
     {
       "legacy_code": "ATL-0132",
