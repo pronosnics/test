@@ -1144,22 +1144,28 @@
       "legacy_code": "ATL-0085",
       "scientific_name_working": "Cucumis chate",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 688
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 688,
+      "wp_id": 1456,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0086",
       "scientific_name_working": "Cucumis melo",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 690
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 690,
+      "wp_id": 1469,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0087",
       "scientific_name_working": "Cucumis sativus",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 692
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 692,
+      "wp_id": 1477,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0089",
