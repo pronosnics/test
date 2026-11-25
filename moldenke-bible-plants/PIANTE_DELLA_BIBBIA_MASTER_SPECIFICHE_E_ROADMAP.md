@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Allium sativum e Cicer arietinum.** Aglio integrazione genomica/EMA; cece #1031 e #1040/#1038/#4121 aggiornati, Grilli p.50, correzione 2 Samuele 17:28, Post, Kew, nuove fonti #6116/#6118/#6120, relazioni #4553–4561, SEO ripristinata. QA 9 pubblicati, ALT e tavole conservate. Limiti collazione primaria e rendering nel [registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Cap.3: 2/15 trattate; prossima Cucumis sativus dopo residui.
+
+---
+
 **CHECKPOINT 25/11/2026 — Salix alba e Allium sativum.** Collazione integrativa storica salice #3016/#3017; aglio #628 revisione cap.3 avviata, Grilli p.49, Kew, anatomia bulbo e domesticazione, #640/#631/#626 aggiornati, nuove fonti #6106/#6108 e nove relazioni #4544–4552. QA 8 pubblicati, SEO/ALT presenti, tavole conservate. Limiti di collazione primaria ed EMA registrati nel [registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Prossima: chiudere residui aglio, poi Cicer arietinum.
 
 ---
