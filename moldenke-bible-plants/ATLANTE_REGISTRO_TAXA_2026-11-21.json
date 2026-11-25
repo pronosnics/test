@@ -1567,8 +1567,11 @@
       "legacy_code": "ATL-0167",
       "scientific_name_working": "Panicum miliaceum",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 804
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 804,
+      "wp_id": 2206,
+      "verified_at": "2026-11-25",
+      "scientific_closure": "pending_source_collation"
     },
     {
       "legacy_code": "ATL-0168",
