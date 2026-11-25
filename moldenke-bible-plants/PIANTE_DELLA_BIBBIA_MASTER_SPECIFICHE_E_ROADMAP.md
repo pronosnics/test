@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Farro dicocco: nuova bozza #6177.** Lacuna WP verificata; lemma H3698 #6178 pubblicato, tre passi esistenti e H2406 integrati; nuova letteratura nomenclaturale/genomica, due fonti tossicologiche cotone registrate. Cap.3 6/15 trattate + settima in bozza, tavola e QA da completare. [Registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Cotone #1791.** Grilli p.54, Tristram, Post, POWO, filologia Ester e archeobotanica Tel Tsaf/Qasr Ibrim; quattro fonti #6169/#6171/#6173/#6175, 11 relazioni #4596–4606. Quattro contenuti aggiornati, SEO tre ripristinata e medicina collegata. Cap.3 6/15 trattate. Residui e prossima farro nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
