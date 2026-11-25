@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Cocomero #1257.** Grilli p.53, Post, Tristram, Dafni–Böck, POWO, quattro fonti archeobotaniche/genomiche #6157/#6159/#6161/#6163, 12 relazioni #4584–4595; aggiornati sei contenuti, SEO tre e relazione medicina corretti. Cap.3 5/15 trattate. Residui e prossima cotone nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Cipolla ATL-0015.** Grilli p.52, Post p.789, Tristram p.475, Dafni–Böck, Kew e genomica moderna; #627/#639/#630/#626 aggiornati, integrazioni #1477/#1031. Tre fonti #6147/#6149/#6151, 12 relazioni #4572–4583, QA 9 pubblicati con SEO. Cap.3 4/15 trattate. Residui e prossima cocomero nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
