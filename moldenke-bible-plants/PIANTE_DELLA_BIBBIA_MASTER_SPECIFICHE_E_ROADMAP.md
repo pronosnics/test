@@ -1,3 +1,7 @@
+**NUOVA LINEA DI LAVORO 25/11/2026 — COLLAZIONE GRILLI CAIOLA, GUARRERA, TRAVAGLINI (2013) E HUB.** PDF completo 210 pagine ricevuto, testo disponibile; non caricato nel repository pubblico per diritti editoriali. Fonte WP #775 aggiornata. Coda separata, non sostituisce QA ATL: 110 voci illustrate (tabelle 4–5) poi 113 voci ulteriori (tab. 6), da riconciliare con WP e ATL senza duplicare specie o sinonimi. Una voce alla volta; confrontare scheda, apparati, tassonomia e letteratura, aggiornare solo omissioni verificabili e bibliografia; note operative soltanto su GitHub. Primo audit Ficus carica WP #152 integrato con p. 33 e tabelle 7/11; prossimo Triticum durum p. 34. Priorità HUB: Terra Promessa, Sukkot, alimentazione e fibre, aromatiche e medicina, alberi/legni, ambienti, erbe amare/spine, simbolismo e identificazioni controverse. Vedere [roadmap dedicata](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Stato precedente ATL conservato integralmente.
+
+---
+
 **CHECKPOINT AGGIUNTIVO 25/11/2026 — ATL-0220 *Salsola kali*.** Già WP #3124 publish, featured #3136; campi SEO prima vuoti corretti, quadro botanico Kew distingue *S. kali* costiera da *S. tragus* nativa anche Palestina, e da *Caroxylon inerme*. Geremia2:22 *bōrît* non prova taxon. Audit issues=[], 19 H2/35 P/15 LI bilanciati, nessuna nota interna o immagine nuova. Prossima ATL-0221 *Salvadora persica* già WP #3152, con SEO da controllare. Questi sono QA mirati, non nuova collazione integrale delle fonti storiche.
 
 ---
