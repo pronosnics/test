@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Cotone #1791.** Grilli p.54, Tristram, Post, POWO, filologia Ester e archeobotanica Tel Tsaf/Qasr Ibrim; quattro fonti #6169/#6171/#6173/#6175, 11 relazioni #4596–4606. Quattro contenuti aggiornati, SEO tre ripristinata e medicina collegata. Cap.3 6/15 trattate. Residui e prossima farro nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Cocomero #1257.** Grilli p.53, Post, Tristram, Dafni–Böck, POWO, quattro fonti archeobotaniche/genomiche #6157/#6159/#6161/#6163, 12 relazioni #4584–4595; aggiornati sei contenuti, SEO tre e relazione medicina corretti. Cap.3 5/15 trattate. Residui e prossima cotone nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
