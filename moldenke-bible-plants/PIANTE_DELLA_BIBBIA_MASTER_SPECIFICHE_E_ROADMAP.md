@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Frumento tenero #3953:** Grilli p.57, quattro nuove fonti #6216–6222, Luca 6:1–2 #6224, 9 relazioni bibliografiche e due identificazioni controverse. Fonti e residui nella matrice della roadmap scientifica. Cap.3 9/15 pubblicate e trattate, non definitivamente chiuse.
+
+---
+
 **CHECKPOINT 25/11/2026 — Fava #4117 e protocollo chiusura definitiva.** Grilli p.56, fonti storiche rilette in testo digitale, 5 nuove fonti e 12 relazioni, QA. Cap.3 8/15 pubblicate e trattate, non definitivamente chiuse. Matrice fonte-per-fonte obbligatoria e residui espliciti: [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
