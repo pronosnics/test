@@ -1,6 +1,6 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
-Fonte: Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini, *Le piante nella Bibbia*, Gangemi, Roma, 2013, ISBN 9788849227550; WP fonte #775. PDF ricevuto 25/11/2026, 210 pagine, 18.254.842 byte, SHA-256 dfaac9276a62036a131fee493879f899f46e2946944ad0e2f1917cb3374d6329. Pagine a stampa n = PDF n+2 nel corpo. Testo nativo estraibile. Repository pubblico: non caricare PDF o trascrizione integrale senza autorizzazione; solo schede originali, riferimenti puntuali e sintesi critiche. Copia originale disponibile nell'allegato della conversazione.
+Fonte: Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini, *Le piante nella Bibbia*, Gangemi, Roma, 2013, ISBN 9788849227550; WP fonte #775. PDF ricevuto 25/11/2026, 210 pagine, 18.254.842 byte, SHA-256 dfaac9276a62036a131fee493879f899f46e2946944ad0e2f1917cb3374d6329. Pagine a stampa n = PDF n+2 nel corpo. Testo nativo estraibile. Repository pubblico: non caricare PDF o trascrizione integrale senza autorizzazione; solo schede originali, riferimenti puntuali e sintesi critiche. Copia originale verificata nella Libreria personale, cartella PIANTE DELLA BIBBIA; nessun duplicato necessario.
 
 ## Coda distinta dalla roadmap ATL
 - [ ] Censire e riconciliare 110 voci illustrate (tabelle 4–5, pp. 176–181) con WP e codice ATL; poi 113 voci di approfondimento (tab. 6, p. 182), senza sommarle come specie nuove né duplicare sinonimi.
@@ -13,8 +13,8 @@ Fonte: Maria Grilli Caiola, Paolo Maria Guarrera, Alessandro Travaglini, *Le pia
 | Voce | Pag. | Stato |
 |---|---:|---|
 | Ficus carica | 33 | Scheda WP #152 e fonte #775 aggiornate 25/11; verifica finale relazioni e conteggi da consolidare |
-| Triticum durum | 34 | PROSSIMA: verificare grano duro/tenero, sinonimia moderna e contesti biblici |
-| Punica granatum | 35 | Da collazionare: famiglia moderna vs nomenclatura storica |
+| Triticum durum | 34 | Collazione p. 34 effettuata; nuovo taxon WP #5747 in bozza; WP #3953 pubblicata aggiornata; relazioni #4365 e #4366; completare immagine, SEO, famiglia, passi e QA prima della pubblicazione |
+| Punica granatum | 35 | PROSSIMA dopo chiusura grano duro: famiglia moderna vs nomenclatura storica |
 | Olea europaea | 36 | Da collazionare |
 | Hordeum distichum | 37 | Da riconciliare con H. vulgare |
 | Phoenix dactylifera | 38 | Revisione parziale 23/11; completare apparati |
@@ -38,3 +38,11 @@ La voce p. 33 (PDF 35) è completa. WP #152 già discute siconio, caprifico, Bla
 | P2 | Ricerca per libro/versetto e glossario multilingue | pp. 183–199 |
 
 Per il futuro Orto biblico virtuale, il giardino di Tor Vergata (pp. 13–14) offre un precedente organizzativo: otto settori tematici e cartellini botanici; progettare una mappa originale, non riprodurre la figura del volume.
+
+## 25/11 — Grano duro, p. 34 (PDF 36)
+- Libreria personale verificata: PDF integrale nella cartella PIANTE DELLA BIBBIA, 18.254.842 byte, nessuna copia pubblica.
+- Tutte le 234 schede pubblicate percorse (100+100+34) e ricerca per sinonimo e titolo: solo *T. aestivum* #3953; ricerca bozze Triticum negativa prima della creazione.
+- POWO: *T. durum* Desf. https://powo.science.kew.org/taxon/425669-1 sinonimo di *T. turgidum* subsp. *durum* (Desf.) Husn. https://powo.science.kew.org/taxon/77188896-1. Taxon distinto da *T. aestivum*, non duplicato.
+- Volume p. 34: morfologia, semola, ipotesi della presenza di duro/tenero in Israele e preferenza per il duro, riferimenti a Catone e Columella. Non assumere che clima provi la specie, né che couscous/pasta siano documentati dal versetto. Gen 42:3 e Dt 8:8 indicano cereali/frumento senza diagnosi tassonomica. Hansen et al. 2026, DOI 10.1007/s00334-025-01060-9: rachide calcolitico di Shiqmim indica tetraploide nudo sensu lato, non dimostra subsp. durum in senso stretto.
+- WP #5747 nuova bozza dedicata, relazione fonte #775 id #4365; WP #3953 pubblicata integrata, relazione #4366. Zohary e Duke richiamati dal dossier preesistente, non nuova collazione integrale. Non marcare la nuova voce chiusa prima di immagine originale, SEO, tassonomia famiglia, collegamenti versetti/lemma, controllo finale e pubblicazione. Non creare un nuovo passo Dt 8:8: esiste WP #218; verificare Gen 42:3 separatamente.
+- HUB cereali: confronto duro/tenero/dicocco/spelta, termini biblici, ploidia e cariossidi vestite/nude; percorso pane e agricoltura, senza duplicazione delle schede. Prossima voce dopo chiusura: melograno p. 35.
