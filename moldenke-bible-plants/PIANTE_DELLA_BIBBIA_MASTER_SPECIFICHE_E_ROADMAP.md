@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Cipolla ATL-0015.** Grilli p.52, Post p.789, Tristram p.475, Dafni–Böck, Kew e genomica moderna; #627/#639/#630/#626 aggiornati, integrazioni #1477/#1031. Tre fonti #6147/#6149/#6151, 12 relazioni #4572–4583, QA 9 pubblicati con SEO. Cap.3 4/15 trattate. Residui e prossima cocomero nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Cetriolo ATL-0087.** Integrata Grilli p.51, confronto Chate #1456/melo #1469, Ger10:5/H4750, Post, Tristram, due fonti Nature Genetics 2026 #6134/#6136, relazioni #4562–4571; aggiornati 10 contenuti e fonte #6120. SEO quattro schede ripristinata, ALT verificati, relazione medicina corretta. Cap.3: 3/15 trattate; residui e prossima cipolla nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
