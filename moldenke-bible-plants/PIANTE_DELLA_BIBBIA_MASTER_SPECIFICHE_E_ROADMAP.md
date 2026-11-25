@@ -1,3 +1,7 @@
+**CHECKPOINT GRILLI CAIOLA 25/11/2026 — OLIVO.** Collazione p.36 e apparati; WP #129, #140, #141, #139, #193 aggiornati; fonte #775 relazioni #4373–4377; POWO oleastro sinonimo della sottospecie nominale, archeobotanica moderna, Genesi 8:11 corretto, olio rituale distinto da foglie medicinali; SEO e pubblicazione verificati via API. Tavola #186 conservata; grano duro #5747 nuova tavola originale #5762 e metadati allineati. Regola immagini: originali ottocentesche senza scritte, conservare quelle già presenti. Prossima *Hordeum distichum* p.37. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA generale ATL invariato.
+
+---
+
 **CHECKPOINT GRILLI CAIOLA 25/11/2026 — GRANO DURO E MELOGRANO.** #5747 pubblicato, tavola Host #5749, Poaceae #18, lemma #5750 e Genesi 42:3 #5751 pubblicati, fonti e relazioni controverse; #3953 SEO ripristinata. Melograno #212, medicina #213, lemma #214 aggiornati con p. 35 e apparati, fonti #4370–4372, tavola originale conservata, note interne rimosse. Protocollo utente: controllare tutte le sezioni, bibliografia, relazioni, SEO, rigore scientifico e tavole originali ottocentesche. Prossima *Olea europaea*, p. 36; [registro dettagliato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Coda generale ATL invariata.
 
 ---
