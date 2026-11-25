@@ -1266,8 +1266,10 @@
       "legacy_code": "ATL-0108",
       "scientific_name_working": "Gossypium herbaceum",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 720
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 720,
+      "wp_id": 1791,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0110",
