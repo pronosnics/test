@@ -1702,12 +1702,13 @@
       "legacy_code": "ATL-0182",
       "scientific_name_working": "Populus euphratica",
       "checkbox_from_master": false,
-      "live_status": "published",
+      "live_status": "published_verified_2026-11-25",
       "source_line": 826,
       "operational_code": "ATL-0164",
       "note": "Populus euphratica Olivier PUBLISHED WP#2402, 17/17 specialist + 11/11 legacy; family Salicaceae23; original no-words WebP featured#2403 SHA verified; 31 citations, 4 controversial identifications, 5 passage_terms; SEO verified. MANUAL run, hourly automation PAUSED on user request; see dossier ATL-0164.",
       "wordpress_id": 2402,
-      "verified_at": "2026-11-21"
+      "verified_at": "2026-11-25",
+      "wp_id": 2402
     },
     {
       "legacy_code": "ATL-0183",
@@ -1953,22 +1954,28 @@
       "legacy_code": "ATL-0214",
       "scientific_name_working": "Salix acmophylla",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 874
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 874,
+      "wp_id": 2976,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0215",
       "scientific_name_working": "Salix alba",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 876
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 876,
+      "wp_id": 3016,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0216",
       "scientific_name_working": "Salix babylonica",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 878
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 878,
+      "wp_id": 3028,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0217",
