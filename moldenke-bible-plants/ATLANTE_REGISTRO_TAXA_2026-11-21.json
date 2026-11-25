@@ -36,8 +36,10 @@
       "legacy_code": "ATL-0017",
       "scientific_name_working": "Allium sativum",
       "checkbox_from_master": true,
-      "live_status": "published_verified_2026-11-24",
-      "source_line": 476
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 476,
+      "wp_id": 628,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0019",
