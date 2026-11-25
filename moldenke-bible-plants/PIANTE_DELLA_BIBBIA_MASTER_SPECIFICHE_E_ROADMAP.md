@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Farro dicocco #6177 pubblicato.** Tavola #6192 WebP caricata con 4 blocchi Base64 e SHA256 verificato; 6 relazioni strutturate, SEO e ALT verificati; cap.3 7/15 trattate e pubblicate con residui. Prossima fava. [Registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Farro dicocco: nuova bozza #6177.** Lacuna WP verificata; lemma H3698 #6178 pubblicato, tre passi esistenti e H2406 integrati; nuova letteratura nomenclaturale/genomica, due fonti tossicologiche cotone registrate. Cap.3 6/15 trattate + settima in bozza, tavola e QA da completare. [Registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
