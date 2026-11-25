@@ -1,3 +1,7 @@
+**CHECKPOINT GRILLI CAIOLA 25/11/2026 — GRANO DURO.** PDF originale verificato in Libreria personale (cartella PIANTE DELLA BIBBIA); collazione p. 34, Kew conferma *Triticum durum* sinonimo di *T. turgidum* subsp. *durum*. Mancava scheda autonoma: creata bozza WP #5747 con fonte #775 relazione #4365; aggiornato *T. aestivum* WP #3953, relazione #4366. Non ancora pubblicare bozza senza immagine/SEO/QA; dopo chiusura passare a *Punica granatum* p. 35. [Registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA ATL precedente invariato.
+
+---
+
 **NUOVA LINEA DI LAVORO 25/11/2026 — COLLAZIONE GRILLI CAIOLA, GUARRERA, TRAVAGLINI (2013) E HUB.** PDF completo 210 pagine ricevuto, testo disponibile; non caricato nel repository pubblico per diritti editoriali. Fonte WP #775 aggiornata. Coda separata, non sostituisce QA ATL: 110 voci illustrate (tabelle 4–5) poi 113 voci ulteriori (tab. 6), da riconciliare con WP e ATL senza duplicare specie o sinonimi. Una voce alla volta; confrontare scheda, apparati, tassonomia e letteratura, aggiornare solo omissioni verificabili e bibliografia; note operative soltanto su GitHub. Primo audit Ficus carica WP #152 integrato con p. 33 e tabelle 7/11; prossimo Triticum durum p. 34. Priorità HUB: Terra Promessa, Sukkot, alimentazione e fibre, aromatiche e medicina, alberi/legni, ambienti, erbe amare/spine, simbolismo e identificazioni controverse. Vedere [roadmap dedicata](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Stato precedente ATL conservato integralmente.
 
 ---
