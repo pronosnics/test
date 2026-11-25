@@ -1,3 +1,7 @@
+**CHECKPOINT INTEGRATIVO — 25/11/2026, ATL-0072 Citrus medica WP #1271.** Riletta direttamente Grilli p.43, POWO; integrazioni sinonimiche, fenologia, fitochimica storica e pratiche rituali in #1271, correttivi organolettici in #1279; QA su cinque contenuti pubblicati, SEO/ALT e link medicina verificati. Nessuna nuova scheda o relazione. Limiti tecnici residui e fonti consultate nel [registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Non arretrare la coda: Sukkot 3/4 voci trattate, prossima Salix alba e confronto taxa della p.45.
+
+---
+
 **REVISIONE SCIENTIFICA CONCLUSIVA — 25/11/2026, Vitis vinifera WP #143.** Grilli Caiola pp.39–40 e apparati, Duke/Zohary/Post/Tristram/Balfour/Dafni–Böck e Moldenke traduzione GitHub ricontrollati; POWO, genomica, archeobotanica 2017–2025, EMA/OMS. Nuove fonti #5815,5817,5819,5821, passi #5809,5811,5813; 11 relazioni bibliografiche e tre identificazioni, cinque SEO mancanti ripristinate, tavola #187 conservata, note interne rimosse. QA su 20 contenuti esistenti; limiti registrati. Capitolo 1 tutte sette voci trattate, prime cinque da riallineare allo standard conclusivo. Prossimo Citrus medica, capitolo 2 Sukkot. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA generale invariato.
 
 ---
