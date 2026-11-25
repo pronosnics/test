@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Fava #4117 e protocollo chiusura definitiva.** Grilli p.56, fonti storiche rilette in testo digitale, 5 nuove fonti e 12 relazioni, QA. Cap.3 8/15 pubblicate e trattate, non definitivamente chiuse. Matrice fonte-per-fonte obbligatoria e residui espliciti: [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Farro dicocco #6177 pubblicato.** Tavola #6192 WebP caricata con 4 blocchi Base64 e SHA256 verificato; 6 relazioni strutturate, SEO e ALT verificati; cap.3 7/15 trattate e pubblicate con residui. Prossima fava. [Registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
