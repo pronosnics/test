@@ -393,3 +393,16 @@ Prossime: ATL-0211 Salicornia europaea (legacy «europea») e ATL-0213 Salicorni
 **Controllo numerico plugin:** pdb/atlas-coverage CPT pdb_plant total=234, with_sources=234, without_sources=0; sono record di catalogo, non necessariamente 234 specie vegetali (alcune eccezioni biologiche), e non è stato effettuato un nuovo censimento di unicità. incomplete_total=39 segnalazioni relazionali da trattare separatamente senza creare collegamenti di identificazione biblica non dimostrati.
 
 **Prossima sequenza:** ATL-0220 Salsola kali WP #3124, ATL-0221 Salvadora persica WP #3152, ATL-0222 Salvia judaica WP #3179, ATL-0223 Santalum album WP #3212, tutti già censiti nel catalogo, controllare SEO e fonti prima di modificare o creare.
+
+
+### 25/11/2026 — ATL-0220 Salsola kali L. controllo concluso
+
+**Record già esistente:** WP #3124 publish, https://piantedellabibbia.altervista.org/piante/salsola-kali-salsola-spinosa-liscivia-bibbia/ , featured #3136 e famiglia Amaranthaceae #32. Non creare nuova scheda o immagine. Revisione mirata con Kew corrente e apparati storici già presenti, non ricollazione primaria integrale di tutte le pagine originali.
+
+**Tassonomia:** Kew POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:303401-2 accetta Salsola kali L., nativa Macaronesia, coste atlantiche e Mediterraneo, Libano–Siria incluso, non Palestina espressamente; Kew https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:307757-2 distingue Salsola tragus L., specie accettata con areale nativo che include Palestina e Iraq. Salsola kali var. tragus e Salsola kali subsp. tragus sono sinonimi di S. tragus secondo Kew, non entità infraspecifiche accettate di S. kali. Caroxylon inerme (Salsola inermis Forssk., WP #3099) e Soda inermis (Salsola soda, agretti) sono ancora taxa differenti. Le descrizioni storiche di Post1896 e Moldenke1952 usavano spesso S. kali in senso ampio: la presenza di piante dette S. kali in Palestina non accerta il taxon in senso stretto.
+
+**Bibbia e fonti:** Geremia2:22 e Malachia3:2 descrivono detergente bōrît H1287 e neter H5427, non specie botaniche. Moldenke (1952) voci190–193 pp215–216 elenca 4 alofite come possibili fonti di ceneri alcaline; Duke (2008) pp413–415 tratta la salsola spinosa e usi tecnici, ma non dimostra che fosse bruciata durante gli episodi biblici; Post1896 pp689–690 è testimonianza floristica storica. Le identificazioni restano «controverse», senza attribuzioni certe artificiali.
+
+**Modifiche WordPress:** SEO title, meta description e focus keyword erano vuoti e ora compilati via setter; compilati campi dei nomi, lessico ebraico e greco, versetti, grado d'identificazione, storia, bibliografia, pagine Moldenke; metadato provenance tavola semplificato e revisione datata 2026-11-25. Il corpo pubblico già distingueva chiaramente le specie, dunque nessuna alterazione arbitraria dell'analisi. QA WordPress: #3124 publish, featured #3136 mantenuta, H2 19/19, P 35/35, LI 15/15, assenza note interne, SEO audit issues=[]. Nessun nuovo record né immagine.
+
+**Prossima:** ATL-0221 Salvadora persica già WP #3152, featured #3167, SEO inizialmente vuoto. Da verificare legame miswak con le interpretazioni sulla senape biblica e non applicare automaticamente alla specie moderna le parabole dei Vangeli.
