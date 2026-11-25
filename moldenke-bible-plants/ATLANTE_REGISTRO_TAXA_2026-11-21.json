@@ -1037,8 +1037,10 @@
       "legacy_code": "ATL-0062",
       "scientific_name_working": "Cicer arietinum",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 658
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 658,
+      "wp_id": 1031,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0063",
