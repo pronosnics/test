@@ -346,8 +346,11 @@
       "legacy_code": "ATL-0260",
       "scientific_name_working": "Triticum aestivum",
       "checkbox_from_master": false,
-      "live_status": "not_verified_this_run",
-      "source_line": 556
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 556,
+      "wp_id": 3953,
+      "verified_at": "2026-11-25",
+      "scientific_closure": "pending_source_collation"
     },
     {
       "legacy_code": "ATL-0275",
