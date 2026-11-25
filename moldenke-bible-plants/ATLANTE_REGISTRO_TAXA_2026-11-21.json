@@ -1083,8 +1083,10 @@
       "legacy_code": "ATL-0071",
       "scientific_name_working": "Citrullus lanatus",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 670
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 670,
+      "wp_id": 1257,
+      "verified_at": "2026-11-25"
     },
     {
       "legacy_code": "ATL-0073",
