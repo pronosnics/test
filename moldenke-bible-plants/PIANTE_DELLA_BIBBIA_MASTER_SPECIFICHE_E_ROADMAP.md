@@ -1,3 +1,7 @@
+**REVISIONE SCIENTIFICA CONCLUSIVA — 25/11/2026, ATL-0170 *Phoenix dactylifera*.** WP #308, fonte Grilli Caiola p.38 e apparati ricollazionati con Duke, Zohary, Post, Tristram, Balfour, Dafni–Böck direttamente e Moldenke traduzione GitHub/dossier. Kew e genomica 2020–21; nuove fonti #5793,5795,5797,5799,5801 e passi #5789/#5791, Siracide #2051 riusato, medicina/lemmi/passaggi verificati, note interne rimosse, SEO, tavola originale #344. Revisione editoriale conclusa sul materiale consultabile; non render indipendente né deduplicazione esaustiva globale. Protocollo conclusivo per tutte le specie registrato. Prossima *Vitis vinifera* pp.39–40. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Coda QA generale conservata.
+
+---
+
 **CHECKPOINT GRILLI CAIOLA 25/11/2026 — ORZO.** Collazione p.37 e apparati: *Hordeum distichum* del volume riconciliato con *H. distichon* sinonimo di *H. vulgare* subsp. *distichon* secondo Kew; scheda canonica #1834, tavola #1835 conservata. Aggiornati #1834,1840,1839,1838,1836,1837,218, relazioni fonte #4378–4383; cinque SEO mancanti ripristinate, note operative e link errato rimossi. Studi Nature 2004/2025 e genetica spighette; QA API. Prossima *Phoenix dactylifera* p.38. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA generale ATL invariato.
 
 ---
