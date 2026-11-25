@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Lenticchia #1961:** Grilli p.58, lettura fonti storiche, Kew/WFO, genomica 2026, nuove fonti #6233/#6235, 11 relazioni, Post fava p.291 recuperato. Cap.3 10/15 trattate e pubblicate, non definitivamente chiuse. Matrice e residui nel registro scientifico.
+
+---
+
 **CHECKPOINT 25/11/2026 — Frumento tenero #3953:** Grilli p.57, quattro nuove fonti #6216–6222, Luca 6:1–2 #6224, 9 relazioni bibliografiche e due identificazioni controverse. Fonti e residui nella matrice della roadmap scientifica. Cap.3 9/15 pubblicate e trattate, non definitivamente chiuse.
 
 ---
