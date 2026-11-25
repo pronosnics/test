@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Miglio ATL-0153 #2206:** Grilli p.59, distinzione Isaia/dōḥan, genomica e archeobotanica, tre nuove fonti #6244/#6246/#6248, otto relazioni; Catone lenticchia verificato. Cap.3 11/15 trattate e pubblicate con residui. Prossimo porro.
+
+---
+
 **CHECKPOINT 25/11/2026 — Lenticchia #1961:** Grilli p.58, lettura fonti storiche, Kew/WFO, genomica 2026, nuove fonti #6233/#6235, 11 relazioni, Post fava p.291 recuperato. Cap.3 10/15 trattate e pubblicate, non definitivamente chiuse. Matrice e residui nel registro scientifico.
 
 ---
