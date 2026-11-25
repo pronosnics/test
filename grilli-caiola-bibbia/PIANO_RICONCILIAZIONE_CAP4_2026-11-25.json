@@ -1,0 +1,152 @@
+{
+  "reason": "Chiusura bibliografica capitolo 4: correggere riferimenti e grado di certezza, conservare informazioni dei duplicati della stessa opera e dello stesso oggetto. Bozza da riconvalidare dopo installazione e approvare in WordPress.",
+  "operations": [
+    {
+      "kind": "source_citations",
+      "id": 14,
+      "merge_id": 424,
+      "patch": {
+        "locator": "Moldenke, voce 104, pp. 103–106 (facsimile disponibile con lacuna dopo p.105)"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 2,
+      "merge_id": 422,
+      "patch": {
+        "locator": "Moldenke, voce 150, pp. 157–159"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 7,
+      "merge_id": 423,
+      "patch": {
+        "locator": "Moldenke, voce 226, pp. 240–244"
+      }
+    },
+    {
+      "kind": "identifications",
+      "id": 31,
+      "patch": {
+        "source_id": 6443,
+        "status": "probabile",
+        "explanation": "In 1 Samuele 14:2 la lettura arborea del melograno è maggioritaria e raccomandata dal commentario UBS; l'ipotesi alternativa interpreta Rimmon come luogo o roccia. Moldenke (1952, p.189) sostiene la lettura botanica tradizionale. Il passo non dimostra la presenza di un esemplare.",
+        "source_locator": "Omanson e Ellington (2001), commento a 1 Samuele 14:2"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4798,
+      "patch": {
+        "source_id": 6457,
+        "locator": "BDB H809, ʾăšîšāh; Cantico 2:5"
+      }
+    },
+    {
+      "kind": "identifications",
+      "id": 630,
+      "patch": {
+        "source_id": 6457,
+        "source_locator": "BDB H809; Cantico 2:5"
+      }
+    },
+    {
+      "kind": "identifications",
+      "id": 618,
+      "patch": {
+        "source_id": 1554,
+        "source_locator": "Zohary, pp. 54–55; testo ebraico Esodo 23:11"
+      }
+    },
+    {
+      "kind": "identifications",
+      "id": 619,
+      "patch": {
+        "source_id": 1554,
+        "source_locator": "Zohary, pp. 54–55; testo ebraico Deuteronomio 6:11"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4401,
+      "patch": {
+        "locator": "p.39; pp.65–66; tab.7/7a p.183; tab.11 p.189; tab.12 p.193"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4757,
+      "patch": {
+        "locator": "p.39; tab.12 p.193"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4370,
+      "patch": {
+        "locator": "p.35; pp.65–66; tab.7 p.183; tab.12 p.192",
+        "claim_summary": "Morfologia, coltivazione, simbolismo, conservazione e impieghi storici; conteggi e denominazioni."
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4377,
+      "patch": {
+        "locator": "p.36; pp.65–66; tab.7/7a p.183; tab.12 p.192",
+        "claim_summary": "Adattamenti xerofitici, olivicoltura, forme spontanee, usi dell'olio e ricezione religiosa; conservazione, conteggi e denominazioni."
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 442,
+      "patch": {
+        "locator": "p.33; pp.65–66; tab.7 p.183; tab.12 p.191"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4695,
+      "patch": {
+        "locator": "pp.65–67; tab.7 p.183; tab.12 p.192"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4707,
+      "patch": {
+        "locator": "pp.65–66,68; tab.7 p.183; tab.12 p.190"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4716,
+      "patch": {
+        "locator": "pp.65–66,69; tab.7 p.183; tab.12 p.191"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4718,
+      "patch": {
+        "page_start": "69",
+        "page_end": "69",
+        "locator": "p.69; tab.12 p.191"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4738,
+      "patch": {
+        "locator": "pp.65–66,70; tab.7 p.183; tab.12 p.191"
+      }
+    },
+    {
+      "kind": "source_citations",
+      "id": 4032,
+      "patch": {
+        "claim_summary": "Balfour interpreta sykáminos come gelso nero e lo distingue dal sicomoro; testimonianze lessicali e ottocentesche su gelsicoltura, tributi e bevande; non attestazioni bibliche dirette."
+      }
+    }
+  ]
+}
