@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Cetriolo ATL-0087.** Integrata Grilli p.51, confronto Chate #1456/melo #1469, Ger10:5/H4750, Post, Tristram, due fonti Nature Genetics 2026 #6134/#6136, relazioni #4562–4571; aggiornati 10 contenuti e fonte #6120. SEO quattro schede ripristinata, ALT verificati, relazione medicina corretta. Cap.3: 3/15 trattate; residui e prossima cipolla nel [registro scientifico](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
+
+---
+
 **CHECKPOINT 25/11/2026 — Allium sativum e Cicer arietinum.** Aglio integrazione genomica/EMA; cece #1031 e #1040/#1038/#4121 aggiornati, Grilli p.50, correzione 2 Samuele 17:28, Post, Kew, nuove fonti #6116/#6118/#6120, relazioni #4553–4561, SEO ripristinata. QA 9 pubblicati, ALT e tavole conservate. Limiti collazione primaria e rendering nel [registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Cap.3: 2/15 trattate; prossima Cucumis sativus dopo residui.
 
 ---
