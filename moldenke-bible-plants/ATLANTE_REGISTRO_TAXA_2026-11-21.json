@@ -2326,10 +2326,10 @@
     {
       "legacy_code": null,
       "scientific_name_working": "Triticum turgidum subsp. dicoccum",
-      "live_status": "draft_verified_2026-11-25",
+      "live_status": "published_verified_2026-11-25",
       "wp_id": 6177,
       "verified_at": "2026-11-25",
-      "notes": "Nuova voce dal volume Grilli p.55; codice legacy assente, assegnare dopo verifica roadmap."
+      "notes": "Nuova voce Grilli p.55; tavola #6192, codice legacy non assegnato."
     }
   ],
   "operational_updates": {
