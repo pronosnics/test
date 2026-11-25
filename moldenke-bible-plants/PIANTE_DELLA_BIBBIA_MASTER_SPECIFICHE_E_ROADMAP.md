@@ -1,3 +1,7 @@
+**CHECKPOINT 25/11/2026 — Salix alba e Allium sativum.** Collazione integrativa storica salice #3016/#3017; aglio #628 revisione cap.3 avviata, Grilli p.49, Kew, anatomia bulbo e domesticazione, #640/#631/#626 aggiornati, nuove fonti #6106/#6108 e nove relazioni #4544–4552. QA 8 pubblicati, SEO/ALT presenti, tavole conservate. Limiti di collazione primaria ed EMA registrati nel [registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Prossima: chiudere residui aglio, poi Cicer arietinum.
+
+---
+
 **CHECKPOINT SUKKOT — 25/11/2026, ATL-0215 Salix alba WP #3016.** Grilli pp.45–46 e tabelle, Zohary, Varrone, Kew, studi moderni e fonti rituali; 12 contenuti aggiornati, tre fonti pubblicate (#6092,#6094,#6097), relazioni #4532–4543, quattro SEO ripristinate e QA 15 contenuti. Tavole conservate. 4/4 voci Sukkot trattate, limiti della collazione storica primaria e rendering documentati. Prossimo capitolo Cereali e orticole: Allium sativum dopo completamento residui Salix. [Registro](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
 
 ---
