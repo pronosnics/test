@@ -1,3 +1,7 @@
+**CHECKPOINT GRILLI CAIOLA 25/11/2026 — GRANO DURO E MELOGRANO.** #5747 pubblicato, tavola Host #5749, Poaceae #18, lemma #5750 e Genesi 42:3 #5751 pubblicati, fonti e relazioni controverse; #3953 SEO ripristinata. Melograno #212, medicina #213, lemma #214 aggiornati con p. 35 e apparati, fonti #4370–4372, tavola originale conservata, note interne rimosse. Protocollo utente: controllare tutte le sezioni, bibliografia, relazioni, SEO, rigore scientifico e tavole originali ottocentesche. Prossima *Olea europaea*, p. 36; [registro dettagliato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). Coda generale ATL invariata.
+
+---
+
 **CHECKPOINT GRILLI CAIOLA 25/11/2026 — GRANO DURO.** PDF originale verificato in Libreria personale (cartella PIANTE DELLA BIBBIA); collazione p. 34, Kew conferma *Triticum durum* sinonimo di *T. turgidum* subsp. *durum*. Mancava scheda autonoma: creata bozza WP #5747 con fonte #775 relazione #4365; aggiornato *T. aestivum* WP #3953, relazione #4366. Non ancora pubblicare bozza senza immagine/SEO/QA; dopo chiusura passare a *Punica granatum* p. 35. [Registro dedicato](../grilli-caiola-bibbia/ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md). QA ATL precedente invariato.
 
 ---
