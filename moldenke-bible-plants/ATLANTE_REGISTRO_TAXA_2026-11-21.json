@@ -1,6 +1,6 @@
 {
   "schema": "legacy-checklist-v2",
-  "updated": "2026-11-23",
+  "updated": "2026-11-25",
   "scope": "Extracted from main master checklist; names, checkbox statuses and non-live records remain to validate taxonomically and against backend",
   "count": 245,
   "records": [
@@ -134,8 +134,9 @@
       "legacy_code": "ATL-0072",
       "scientific_name_working": "Citrus medica",
       "checkbox_from_master": true,
-      "live_status": "not_verified_this_run",
-      "source_line": 504
+      "live_status": "published_verified_2026-11-25",
+      "source_line": 504,
+      "wp_id": 1271
     },
     {
       "legacy_code": "ATL-0074",
