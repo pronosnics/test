@@ -2322,6 +2322,14 @@
       "source_line": 1096,
       "manual_backfill_from_master": true,
       "scientific_note": "Historical bacteriological entry; not a plant and not an identified biblical microorganism; treated within one rigorous vinegar article."
+    },
+    {
+      "legacy_code": null,
+      "scientific_name_working": "Triticum turgidum subsp. dicoccum",
+      "live_status": "draft_verified_2026-11-25",
+      "wp_id": 6177,
+      "verified_at": "2026-11-25",
+      "notes": "Nuova voce dal volume Grilli p.55; codice legacy assente, assegnare dopo verifica roadmap."
     }
   ],
   "operational_updates": {
