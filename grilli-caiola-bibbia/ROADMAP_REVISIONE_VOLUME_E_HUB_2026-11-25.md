@@ -1186,3 +1186,45 @@ Non equivale a chiusura scientifica definitiva. Prossimo passaggio: audit trasve
 ### 26/11/2026 — Readback riconciliazione e ultime otto rettifiche operative rilevate
 - Piano 1d6881b9-bb12-4caa-87d5-bf18c22a26a6 applied, approved/completed 2026-11-26 20:03:41 (timestamp del journal). Readback indipendente 10/10 per claim_summary, locator, page_start e page_end; confermata assenza delle nove righe fuse. Nessuna fonte autonoma o scheda eliminata. Totale relazioni conseguente al readback: 517 botaniche + 205 medicinali + 168 citazioni = 890 (899−9, non nuovo conteggio globale).
 - Rilettura delle otto relazioni residue e anteprima verificata del piano **d8bb5e13-b290-47d2-b422-f4d7a986ba5a** pending, otto operazioni senza fusioni o cancellazioni: #5262/#5263 (Hailat: voucher giordano e incertezza tassonomica), #671/#714/#701 (sinonimia Cistus villosus, rimozione codici ATL e istruzioni di deduplicazione), #787 (Commiphora kua e studio citato da Duke, rimozione codice ATL), #5451 (IUCN categoria/criterio e limite del record indicizzato), #826 (Numeri11:7, distinzione coriandolo e bdellio). Approvazione amministrativa e readback successivo obbligatori; non sovrascrivere piano. Nessuna nuova collazione integrale o modifica di identificazioni, schede o media in questo lotto. Riserve scientifiche, facsimili, anatomia e HTTP/SEO pubblico restano aperte.
+
+
+### 26/11/2026 — Readback finale note operative e matrice consolidata delle riserve
+- Piano d8bb5e13-b290-47d2-b422-f4d7a986ba5a applied, completed 20:05:58 (timestamp journal). Readback indipendente 8/8 per claim, locator e pagine; nessuna fusione o cancellazione. Tutte le formulazioni operative rilevate nell'ultimo controllo delle 157 schede e 890 relazioni sono state trattate; non equivale a prova assoluta di assenza di ogni formulazione redazionale o a revisione di tutte le fonti autonome.
+- Pérez-Escobar et al. 2022 DOI10.1093/molbev/msac168: recuperata versione editoriale CC BY 4.0 White Rose https://eprints.whiterose.ac.uk/190656/1/msac168.pdf ; letti abstract, risultati/discussione, conclusione e sezioni pertinenti dei metodi, pp.2–8; screenshot originali pp.3,6,8 (PDF index 3,6,8), figg.1,3,5. UMB-6: datazione diretta di un seme del contesto 6182–6001 cal BP; AS-814: 3455–3373 cal BP; coperture nucleari medie 3,7× e 0,04×, solo UMB-6 incluso nella filogenesi nucleare. Cinque cromosomi si raggruppano con C.mucosospermus, sei sono associati al gruppo C.mucosospermus/C.lanatus; ClBT e LYCB sostengono inferenza polpa amara e non rossa nel materiale libico; coltivazione intenzionale non dimostrata; campione foglia Kew40730 risale agli anni 1880, non al periodo faraonico. Non dedurre la specie delle zucche bibliche. Aggiornati e riletti #1227 coloquintide, #1257 anguria (cap.3), fonti già esistenti #7098/#1263, senza creare un terzo record. I due record condividono DOI: eventuale unificazione globale distinta, non cancellarli automaticamente. Audit locale 4/4, H1 unico, zero ALT mancanti/note automatiche/warning. Riserva accesso al corpo pertinente dell'articolo risolta; supplementi e dataset non riesaminati integralmente. Piano **cd2333b9-8846-45ce-8c3b-a699e6bc7862** pending, due rettifiche dei locatori #5333/#740, nessuna fusione, approvazione e readback richiesti. Totale capitolo invariato 890 (517 botaniche, 205 medicinali, 168 citazioni); #1257 è fuori capitolo 6.
+
+#### Matrice operativa consolidata al termine del passaggio
+Questa sintesi deriva dalle voci e appendici della roadmap e dell'audit, non da una nuova collazione integrale di tutte le opere; le riserve specifiche già documentate non espressamente risolte restano valide. Tutte le 29 botaniche sono pubblicate, audit locale superato, tavola associata; 95 identificazioni, 93 con coppia lemma-passo coerente e 2 eccezioni letterarie motivate. Audit locale 30 medicinali, 35 lemmi, 63 citazioni superato. Nessuna promozione automatica ad A. Per tutti: restano riserva HTTP/head/SEO pubblico (tunnel 403 documentato), facsimili non visionati e controllo dei riferimenti indiretti pertinenti. La revisione testuale delle voci Moldenke/Duke consultabili e dei passaggi storici già registrati non va ripetuta senza una ragione documentale.
+
+| Voce | Taxon / WP | Riserva specifica da trattare (priorità documentale, non nuove asserzioni) |
+|---|---|---|
+| 1 | Aquilaria #700 | IUCN dossier e annotazioni CITES integrali; tavola digitale #7455 non facsimile anatomico certificato. |
+| 2 | Amomum #6979 | McKeown2026, Thomas2000, Kishore2011; figure Thomas2009, testo e tab.1 già acquisiti. Non imporre citazioni storiche non pertinenti. |
+| 3 | Anethum #4727 | Mousavi2022 integrale; non inferire efficacia clinica dal solo abstract. |
+| 4 | Artemisia #4836 | Identità dei voucher levantini Hailat/Al-Waili, materiale e tassonomia moderna; non attribuire automaticamente i dati ad A.herba-alba occidentale. |
+| 5 | Astragalus #4914 | Eastwood1984 integrale, EFSA 2017 e Balaghi già approfonditi; tavola autentica #7038 mantenuta. |
+| 6 | Commiphora gileadensis #1307 | Eventuali riscontri classici residui e supplementi Sallon2024; corpo e sezioni principali già verificati. |
+| 7 | Cymbopogon #1583 | Rao2009, Lalko/Api2006, Wessapak2026 e dettagli diagnostici/chemiotipi. |
+| 8 | Cinnamomum verum #1133 | Ranasinghe2025 integrale finale (protocollo e registro già verificati). |
+| 9 | Cinnamomum aromaticum #1104 | Khan2003 e Suppapitiporn2006 integrali, autenticazione/voucher. |
+| 10 | Conium #1358 | Fonti primarie residue indicate nella voce individuale; collazioni storiche pertinenti già eseguite, nessuna promozione della candidatura biblica. |
+| 11 | Citrullus colocynthis #1227 | Pérez-Escobar2022: corpo pertinente e figure 1/3/5 acquisiti in questo passaggio; restano supplementi e riferimenti archeobotanici pertinenti, piano locatore. |
+| 12 | Coriandrum #1383 | Riscontri archeobotanici primari citati indirettamente (Neef1989), figure/facsimili residui; Tristram/Post già verificati testualmente. |
+| 13a | Cuminum #1485 | Lee2005 integrale; mantenere distinti dati preclinici e clinici. |
+| 13b | Nigella #2063 | Voce Post non recuperata nella ricerca mirata; non inferire assenza dal volume; fonti specifiche residue della voce. |
+| 14 | Hedera #1819 | Amitay2017 integrale, facsimile Moldenke p111 parzialmente coperto (testo alternativo recuperato). |
+| 15 | Ferula #1756 | Nabavi2012 integrale; Seydi2023 sezioni principali e tabelle pertinenti recuperate, resto delle tabelle/figure non interamente verificato. |
+| 16 | Origanum #2140 | Friedman1986, Yaniv1987, Fleisher1988 integrali, autenticazione Basudan; tavola #7456 illustrativa e foto Gidip documentaria, figura Ietswaart già consultata. |
+| 17a | Cistus creticus #1167 | Danin2010, Cultrera1861, Maillat1999, Cristiano–De Martino2002, Boi/Damon e documenti EMA residui; distinguere immagini/tracce polliniche da datazione. |
+| 17b | Cistus salviifolius #1198 | Demetzos2002 integrale; conservare distinzione fra olio e ladano. |
+| 18 | Malva #2000 | Sereno III/LII e riscontri storici pertinenti; Balfour ricerca negativa non dimostra assenza; fonte Dafni–Böck da verificare puntualmente dove residua. |
+| 19 | Mentha #2006 | Tyler2026 (tab.1 e chiave già consultate), Vining2022, Sahib2013 integrali; Mokaberinejad2012 già collazionato. |
+| 20 | Commiphora myrrha #1326 | Cultrera1861, Thulin–Claeson1991, Dolara2000, Al-Mamary2026 integrali/voucher; testo mancante Moldenke pp82–83 recuperato, facsimile non. |
+| 21 | Nardostachys #2022 | IUCN integrale, Bhat/Malik2020, Jismi2025/2026 e possibile sovrapposizione, Cristiano–De Martino2002; corpo Smith-Hall2023 già verificato. |
+| 22 | Ricinus #2639 | Copley2005 integrale, Cultrera1861, Anzalone–Guarrera1995 e Grilli Caiola1998. |
+| 23 | Rubia #2689 | Sukenik2024, Westendorf1998, Inoue2009 integrali; Conti, Schneider, Baroni Fornasiero, Dahler indiretti; IARC già collazionata testualmente, screenshot non ottenuto. |
+| 24 | Ruta #2766 | Zeichen de Sa2000, Rodríguez-Garza2026 integrali, riscontri Balfour1857 e classici pertinenti; testo Moldenke p209 recuperato. |
+| 25 | Mutarda #807 | Riscontri residui Zohary–Hopf–Weiss e altri della voce; EFSA2016 sezioni pertinenti già verificate, non tutte le appendici. Tavola #7391 migliorata. |
+| 26 | Liquidambar #5690 | Semeraro/Aquilino2021 integrale, IUCN integrale; testo Moldenke pp224–225 recuperato; Ickert-Bond figg. già approfondite. |
+| 27 | Crocus #1432 | Mahmoudi2026 integrale, fonti gravidanza, Niemeier/Dahler indiretti; ISO/Codex testi integrali se pertinenti; Hasheminasab e Lopresti già approfonditi. |
+
+Priorità successiva: tentativi mirati di recupero delle fonti non integralmente consultate, privilegiando tassonomia, tossicologia/sicurezza ed evidenze che possono cambiare conclusioni; registrare esito e accesso senza ripetere identici tentativi falliti. Distinguere chiusura editoriale sul materiale consultabile da certificazione scientifica integrale. Non introdurre note di lavorazione nelle pagine pubbliche.
