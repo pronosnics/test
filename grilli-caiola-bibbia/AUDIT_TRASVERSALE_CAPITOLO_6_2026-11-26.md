@@ -1,0 +1,80 @@
+# Audit trasversale capitolo 6 — registro di lavoro 26/11/2026
+
+Fonte di partenza: [roadmap master](ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md), blob 7dac33ca42410deb9e671756f380b22aaf5be0dd. Questo registro integra e non sostituisce le riserve dettagliate della roadmap. **Nessuna chiusura A dichiarata automaticamente.** Tutte le 27 voci sono censite (29 schede botaniche); le riserve non esplicitamente risolte restano aperte.
+
+## Esiti verificati oggi
+- Audit locale 29/29: H1 unico, 0 ALT mancanti, 0 marcatori automatici di note interne. Solo #5690 presenta due warning per tavola assente. Nuovo audit dopo modifiche: 24/24 (22 botaniche e 2 fonti), stessi warning #5690. Nessuna certificazione HTTP/head pubblico, 403 pregresso.
+- 502 relazioni bibliografiche botaniche lette su 29 schede; 25 gruppi candidati, non equivalenti a 25 duplicati effettivi. 95 identificazioni, nessun duplicato automatico, 21 term_id null.
+- Balfour1885: scansione Wellcome https://upload.wikimedia.org/wikipedia/commons/b/b8/The_plants_of_the_Bible_%28IA_b28065219%29.pdf consultata testualmente; screenshot 400 per limite dimensioni. 21 schede aggiornate, 21 relazioni #5549–5569, fonte #6749 ampliata; #5690 corpo locatore rettificato, relazione #5530 da rettificare. Non attribuire valore diagnostico moderno. Ricerca negativa per ivy e mallow non prova assenza esaustiva. Nessuna tavola sostituita in questa passata.
+- Smith-Hall2023 #7217: PDF versione di record repository Aalborg https://vbn.aau.dk/ws/portalfiles/portal/616436958/pgad328.pdf, consultati metodi, risultati, discussione, screenshot PDF4–5 (pp4–5 a stampa), tabelle 1–2. 377 e 1145 t stimate per 1997–98/2014–15; 79 t registrate nel secondo periodo. Aggiornate #7217 e #2022. Riserva integrale Smith-Hall risolta per il corpo dell'articolo, supplementi non riesaminati. Tyler2026 editore ancora 500; altri integrali restano aperti.
+- Piano Aquilaria bc1c9507-f6d7-48ed-a6db-75285f06d9ee journal applied, non riproporre #5215. Piano 443d738f-b118-4c9f-9c48-665a0abfeb37 pending: 17 operazioni (15 fusioni Artemisia, correzione Anethum, fusione Moldenke Commiphora). Approvazione: https://piantedellabibbia.altervista.org/wp-admin/admin.php?page=pdba-reconcile . Non sovrascrivere piano attivo.
+
+## Matrice per voce
+| Voce | Specie | ID WP | Fonti (relazioni) | Identificazioni | Avanzamento | Riserve ancora aperte (sintesi, non esaustiva) |
+|---:|---|---:|---:|---:|---|---|
+| 1 | Aquilaria malaccensis | 700 | 13 | 4 | Balfour1885 pp116–117 integrato; piano #5215 applicato | Moldenke/Duke facsimile, Tristram/Post, CITES annotazione, lemmi e versetti; tavola #718 (stami) |
+| 2 | Amomum subulatum | 6979 | 10 | 1 | Pubblicata, tavola già associata | McKeown2026 integrale, Thomas2000 e figure Thomas2009, Kishore2011, Duke/Balfour/Tristram |
+| 3 | Anethum graveolens | 4727 | 16 | 1 | Balfour1885 pp133–134 integrato | Moldenke/Duke facsimile, Tristram, Mousavi2022 integrale; #3709 piano pendente |
+| 4 | Artemisia herba-alba | 4836 | 34 | 3 | Balfour1885 p246 integrato | Moldenke/Duke/Tristram integrali, voucher levantini; 15 fusioni (incluse medicina) piano pendente |
+| 5 | Astragalus gummifer | 4914 | 15 | 2 | Tavola storica già associata | Balfour/Tristram, Eastwood1984 integrale, diagnosi dettaglio legume se tavola alternativa |
+| 6 | Commiphora gileadensis | 1307 | 17 | 7 | Balfour1885 p122 integrato | Moldenke/Duke/Post/Tristram, Celso, Sallon2024; #201 contesto; #794/#767 piano pendente |
+| 7 | Cymbopogon martini | 1583 | 15 | 5 | Balfour1885 pp137–138 integrato | Rao2009/Wessapak2026 integrali, Moldenke/Duke/Tristram; #924/#4197 |
+| 8 | Cinnamomum verum | 1133 | 18 | 5 | Balfour1885 pp30–33 integrato | Fonti storiche residue, Ranasinghe2025 integrale; 5 term_id mancanti |
+| 9 | Cinnamomum aromaticum | 1104 | 17 | 2 | Balfour1885 pp30–33 integrato | Post/Tristram, Khan2003 e Suppapitiporn2006 integrali/voucher; #176/#177 term_id |
+| 10 | Conium maculatum | 1358 | 13 | 2 | Balfour1885 pp244–245 integrato | Moldenke/Duke/Tristram/Dafni–Böck e fonti primarie residue; #799/#828 |
+| 11 | Citrullus colocynthis | 1227 | 19 | 4 | Balfour1885 pp158–161 integrato | Fonti storiche/genomica integrale; tre term_id e #190 contesto; preservare Bailey–Danin |
+| 12 | Coriandrum sativum | 1383 | 16 | 2 | Balfour1885 pp139–141 integrato | Moldenke/Duke/Post/Tristram, fonti archeologiche primarie; preservare voce e figura Moldenke |
+| 13 | Cuminum cyminum | 1485 | 13 | 3 | Balfour1885 pp143–145 integrato | Moldenke/Duke/Zohary/Tristram/Post, Lee2005 integrale; #890/#4209 da esaminare |
+| 13 | Nigella sativa | 2063 | 13 | 2 | Balfour1885 pp146–148 integrato | Collazioni storiche integrali e fonti specifiche residue |
+| 14 | Hedera helix | 1819 | 14 | 1 | Lemma #1822 individuato | Moldenke/Duke/Tristram, Amitay2017 integrale, Balfour ricerca ivy negativa (limite OCR); #254 e #1008/#4151 |
+| 15 | Ferula gummosa | 1756 | 16 | 2 | Balfour1885 pp156–158 integrato | Moldenke/Duke/Post/Tristram, Nabavi2012/Seydi2023; #248/#249 term_id; #982/#4172 |
+| 16 | Origanum syriacum | 2140 | 18 | 7 | Collazioni precedenti mantenute | Fleisher1988, Yaniv1987, Friedman1986 integrali; voucher Basudan, calice tavola #2141; #1189/#1194 |
+| 17 | Cistus creticus | 1167 | 21 | 2 | Balfour1885 pp129–130 integrato | Dafni–Böck, Danin2010/Cultrera1861/Maillat1999/Cristiano-De Martino2002, Boi/Damon/EMA; tavola #1180; 2 term_id |
+| 17 | Cistus salviifolius | 1198 | 18 | 2 | Balfour1885 pp129–130 integrato | Demetzos2002 integrale, medicinali #706/#708 e #707/#709; 2 term_id |
+| 18 | Malva sylvestris | 2000 | 14 | 1 | Balfour ricerca Mallow non specifica (limite OCR) | Sereno III/LII, Dafni–Böck, Balfour pertinente se reperito; #1088/#4052 e #1089/#4054; gineceo #2002 |
+| 19 | Mentha longifolia | 2006 | 17 | 2 | Balfour1885 pp173–174 integrato | Tyler2026 integrale ancora 500, Mokaberinejad2012 e IBS2013 integrali; Mishnah/fonte IBS; #516 term_id; preservare Danin |
+| 20 | Commiphora myrrha | 1326 | 16 | 11 | Balfour1885 pp121–122 integrato | Post/Tristram, Cultrera1861, Thulin–Claeson1991, Dolara2000, Al-Mamary2026 integrali e voucher |
+| 21 | Nardostachys jatamansi | 2022 | 18 | 5 | Balfour1885 pp226–228, Smith-Hall2023 PDF originale e tab1–2 acquisiti; #7217 corretto | IUCN integrale, Post/Cristiano-De Martino, Bhat2020 e Jismi2025/2026, CITES eccezioni; #522 term_id; frutto/calici tavola #2024; fonti generali/specifiche |
+| 22 | Ricinus communis | 2639 | 20 | 1 | Balfour1885 pp215–218 integrato | Moldenke/Duke integrali, Cultrera/Anzalone–Guarrera/Grilli1998, Copley2005 integrale |
+| 23 | Rubia tinctorum | 2689 | 17 | 4 | Collazioni precedenti mantenute | Balfour, Conti/Schneider/Baroni Fornasiero/Dahler, Sukenik2024, Westendorf1998, IARC integrale, Inoue2009; tradurre 4 relazioni |
+| 24 | Ruta chalepensis | 2766 | 19 | 1 | Balfour1885 già integrato prima dell'audit | Balfour1857, Zeichen de Sa e Rodríguez-Garza integrali, Catone/Columella collegamenti, capsula #2790 |
+| 25 | Mutarda nigra | 807 | 26 | 5 | Balfour1885 pp57–61 integrato | Moldenke/Duke e Zohary–Hopf–Weiss integrali, EFSA2016 integrale; medicinali #812/#4986, #447/#3914 e #448/#3915; silique #818 |
+| 26 | Liquidambar orientalis | 5690 | 20 | 7 | Locatore Balfour nel corpo precisato pp121–122 e130–131 | Moldenke225, Post/Tristram/Dioscoride, Semeraro/Aquilino, IUCN integrale; rettificare relazione #5530; tavola mancante |
+| 27 | Crocus sativus | 1432 | 19 | 1 | Balfour1885 pp165–166 integrato | Moldenke/Duke integrali, Niemeier/Dahler, Mahmoudi2026 integrale, sicurezza/gravidanza fonti separate; #855 locatore Nemati/Schmidt |
+
+## Candidati term_id verificati
+L'abilità atlas-reconcile-preview non ammette term_id nella patch: **non applicati**; non creare righe duplicate. Serve una estensione controllata con verifica del collegamento passage_terms esistente, snapshot e approvazione. Relazione → lemma:
+- #178 → #1145
+- #179 → #1145
+- #180 → #1145
+- #181 → #1146
+- #182 → #1146
+- #176 → #1114
+- #177 → #1114
+- #187 → #1239
+- #188 → #1240
+- #189 → #1240
+- #254 → #1822
+- #248 → #1758
+- #249 → #1758
+- #183 → #1176
+- #184 → #1176
+- #185 → #1176
+- #186 → #1176
+- #516 → #7202
+- #522 → #7227
+- #201 (Commiphora, Ct3:6): associazione letteraria alle polveri del mercante, non mirra o incenso come termini specifici del balsamo; non forzare un lemma errato.
+- #190 (Citrullus, Dt32:32): metafora vite di Sodoma; H7219 presente nel passo ma la spiegazione non identifica direttamente rōʾš con la coloquintide. Verifica contestuale prima di qualunque assegnazione.
+
+## Gruppi bibliografici candidati (solo botanica)
+- Artemisia 11 coppie #3771–3781/#3791–3801 in piano pendente; Bailey–Danin #5165–5192 (3 locatori) distinti da conservare.
+- Commiphora gileadensis #767/#794/#795: piano pendente per #767/#794; supplemento #795 conservare.
+- Cymbopogon #924/#4197; Conium #799/#828; Cuminum #890/#4209; Hedera #1008/#4151; Ferula #982/#4172; Origanum #1189/#1194; Mutarda #447/#3914 e #448/#3915: verificare claim e locatori prima della fusione.
+- Citrullus #5167/#5205, Coriandrum #813/#814, Origanum #5177/#5196, Mentha #5094/#5144: locatori distinti, conservare salvo nuovo riscontro.
+- Fonti diverse ma bibliograficamente sovrapposte (Moldenke/Duke/Zohary ecc.) e medicinali: vedere roadmap e verificare separatamente. Non cancellare fonti, schede o permalink.
+
+## Priorità successive
+1. Approvazione piano pendente e readback; estensione sicura per term_id, rettifiche #855 e #5530 e relazioni successive.
+2. Fonte per fonte: facsimili Moldenke/Duke, Tristram/Post, Balfour1857 e restanti voci 1885, Dafni–Böck, fonti classiche e primarie. Recupero degli integrali dai repository, senza inventare esiti; indicare accessi negati e non promuovere a A.
+3. Iconografia: #718, #2141, #1180, #2002, #2024, #2790, #818 e nuova tavola #5690; controllare eventuali ulteriori riserve nella roadmap, non cambiare foto autentiche senza preservarne licenza e attribuzione.
+4. Audit medicinali e lemmi, SEO pubblica e HTTP, verifica finale 27 voci e 29 schede. Stato B/riserve mantenuto.
