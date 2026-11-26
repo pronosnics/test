@@ -954,3 +954,10 @@ Riletti Grilli p.37 e tabelle 8/12, Zohary p.76, Tristram pp.420–422, Post p.9
 
 ### Cap. 6 — prima passata 27/27 completata il 26/11/2026
 Non equivale a chiusura scientifica definitiva. Prossimo passaggio: audit trasversale delle 27 voci secondo riserve registrate singolarmente, con priorità a collazioni integrali e fonti classiche residue, correzioni iconografiche, riconciliazione relazioni e schede duplicate, verifica SEO/HTTP pubblico e controllo di coerenza dei lemmi e identificazioni. Nessuna promozione automatica a stato A.
+
+
+### 26/11/2026 — Audit trasversale cap.6, primo lotto
+- Registro dedicato: [matrice delle 29 schede botaniche / 27 voci e riserve residue](AUDIT_TRASVERSALE_CAPITOLO_6_2026-11-26.md), commit iniziale 48ed361062a9eb9c94a02ff6a103a58930cbaca6.
+- Audit locale 29/29: H1 univoci, nessun ALT mancante e nessuna nota interna rilevata automaticamente; Liquidambar #5690 priva di tavola botanica associata. Dopo modifiche, audit locale 24/24 oggetti (22 botaniche, 2 fonti), restano due avvisi iconografici Liquidambar.
+- Balfour 1885, fonte #6749, testo digitalizzato ricollazionato: 21 schede e 21 relazioni nuove #5549–5569; locatore storace rettificato nel testo #5690. Facsimile web non ispezionabile per limite dimensioni PDF. Smith-Hall et al.2023, PDF originale repository Aalborg, tabelle 1–2 consultate: aggiornate fonte #7217 e pianta #2022; riserva integrale articolo risolta, supplementi non riesaminati.
+- Censimento: 502 relazioni bibliografiche, 25 gruppi candidati sovrapposizione (non tutti duplicati); 95 identificazioni, zero gruppi duplicati, 21 term_id assenti, 19 abbinamenti candidati verificati e 2 associazioni letterarie da valutare. Schema riconciliazione non consente patch term_id: nessun inserimento duplicato né aggiramento. Piano Aquilaria precedente verificato applicato; piano 443d738f-b118-4c9f-9c48-665a0abfeb37 ancora pendente, 17 operazioni, approvazione nel pannello Atlante obbligatoria. Nessuna tavola sostituita in questo lotto; nessuna promozione ad A. Residui documentali, iconografici, medicinali, amministrativi e audit HTTP pubblico restano aperti.
