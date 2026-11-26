@@ -1,5 +1,9 @@
 # Bailey–Danin 1981 — matrice progressiva di riscontro (26 novembre 2026)
 
+## Stato del riscontro
+
+Aggiornamento del sesto lotto: [confronto indice/catalogo completato sui240 record pubblicati](RISCONTRO_CATALOGO_BAILEY_DANIN_1981_2026-11-26.md), entro il perimetro dei nomi e sinonimi registrati. Le sezioni seguenti conservano la cronologia dei controlli e i relativi limiti.
+
 ## Ambito e metodo
 
 Fonte: C. Bailey e A. Danin, *Bedouin plant utilization in Sinai and the Negev*, Economic Botany 35(2), 1981, pp.145–162, DOI [10.1007/BF02858682](https://doi.org/10.1007/BF02858682). Fonte WordPress #6896.
@@ -130,11 +134,37 @@ Totale del lotto: **11 schede botaniche e 8 approfondimenti medicinali**, 19 rel
 - Stato fonte Bailey–Danin #6896 dopo il lotto: **60 relazioni su41 contenuti distinti, ossia33 schede botaniche e8 medicinali**. Nuova fonte clinica6939 con2 relazioni. Questi conteggi non certificano la chiusura scientifica dei taxa.
 - Nessuna nuova specie o nuova tavola. Nessuna nuova collazione integrale delle altre fonti storiche dichiarata in questo lotto. Restano le verifiche visive delle tavole alimo/avena e i residui Danin1983 già registrati.
 
+
+## Sesto lotto — incrocio dell'indice con tutte le 240 schede (26 novembre 2026)
+
+Completato il confronto dell'inventario pubblicato con l'indice pp.158–162: letti i metadati di tutti240 ID, inclusi i sinonimi registrati, e valutati i candidati per nome completo, rango, autore e contesto. OCR locale dei nomi come supporto alla ricerca e riscontro visivo del PDF; nessuna pubblicazione del PDF privato o del suo indice integrale.
+
+Documento analitico: [riscontro completo delle240 schede](RISCONTRO_CATALOGO_BAILEY_DANIN_1981_2026-11-26.md), commit bb13d5c744b3ba38f63fc3cde33907ab9beb27ea.
+
+| Esito esclusivo | Schede |
+|---|---:|
+| D, stesso nome specifico |20|
+| S, sinonimia controllata |4|
+| H, concetto storico o dato infraspecifico circoscritto |4|
+| G, testimonianza nella voce di genere |2|
+| C, confronto con specie affine |2|
+| U, attribuzione irrisolta |5|
+| X, confronto non attribuibile alla scheda |51|
+| N, nessuna corrispondenza accertata nei nomi registrati |152|
+| **Totale ID unici** |**240**|
+
+Le33 schede botaniche collegate comprendono20D+4S+4H+2G+2C+Juncus#1910(U), con52 relazioni botaniche e8 medicinali: resta60 il totale della fonte6896, su41 contenuti distinti. Non emerse nuove corrispondenze certe mancanti; nessuna nuova relazione creata. Le altre quattro U sono Mentha longifolia#2006, Tulipa agenensis#3962, T.montana#3957 e Tamarix senegalensis#3817, senza nuove attribuzioni dirette.
+
+Nuove precisazioni nomenclaturali: Anabasis syriaca è accettata distinta da A.articulata, quindi C.2 non passa a#4700; Kew MPNS riconduce la forma Cassia italica(Mill.)Lam.ex F.W.Andrews a Senna italica, distinguendola dal diverso nome C.italica Lam.ex Steud. collegato a S.alexandrina. Centaurea pallescens Delile non coincide con l'antica var.iberica; Scilla hanburyi è Prospero hanburyi, non un giacinto o un Ornithogalum del catalogo. Fonti primarie e limiti nella matrice completa.
+
+Precisata#3352 Scirpoides holoschoenus: nel paragrafo Bailey–Danin ora si distingue l'autore stampato «(L.)Fritsch» dal sinonimo Kew Holoschoenus vulgaris Link, aggiunto anche nel campo delle sinonimie. HTML e campo riletto corrispondenti al preparato, status publish; audit locale H1 unico, zero ALT mancanti, zero avvisi/note operative. Relazione5160, immagine e altri dati conservati.
+
+Il confronto delle240 schede è completo **entro i nomi e sinonimi registrati**, con controlli mirati sulle discrepanze. Cinque campi di sinonimia vuoti sono esplicitati nella matrice; non si afferma una ricerca esaustiva di tutti i sinonimi esistenti, una rilettura dei240 corpi o una chiusura scientifica globale. N non è assenza dimostrata dall'intero articolo. Nessuna nuova tavola o specie; verifica HTTP pubblica ancora non certificata.
+
 ## Prossimo punto operativo
 
-1. La collazione B/C dei loci pertinenti è registrata nel quinto lotto sopra. Proseguire con l'incrocio completo indice/catalogo, verificando i sinonimi dei candidati non immediatamente riconosciuti e mantenendo sospese le attribuzioni dubbie, in particolare Mentha, Juncus e i nomi storici di Tulipa.
-2. Completare la matrice indice/tutte 240 schede, distinguendo corrispondenze dirette, confronti, esclusioni e sinonimie da approfondire, anche per i taxa regionali non immediatamente riconosciuti.
-3. Collazionare Evenari e Gutterman (1973), *Some notes on Salvadora persica L. in the Sinai and its use as a toothbrush*, Flora 162:118–125, citato a p.162: ancora non letto integralmente. Le altre fonti citate nell'articolo non sono automaticamente fonti consultate.
-4. Tenere separati i residui Danin 1983: matrice non certificante, due verifiche mirate, confronti e sinonimie residui, figure non tutte ispezionate, fonte clinica Calotropis non ancora integrale, Danin 1975. Restano le tavole alimo/avena e la verifica pubblica indipendente.
+1. Conservare l'incrocio completo nella matrice dedicata: non ripetere l'inventario senza modifiche. Approfondire le cinque attribuzioni U solo con elementi tassonomici nuovi; nessun trasferimento automatico per nomi simili.
+2. Collazionare Evenari e Gutterman(1973), *Some notes on Salvadora persica L. in the Sinai and its use as a toothbrush*, Flora162:118–125, citato a p.162: ancora non letto integralmente. Le altre fonti citate nell'articolo non sono automaticamente fonti consultate.
+3. Tenere separati i residui Danin1983: due verifiche mirate, confronti e sinonimie residui, figure non tutte ispezionate, fonte clinica Calotropis non ancora integrale, Danin1975. Restano le tavole alimo/avena e la verifica pubblica indipendente.
 
 [Roadmap generale](ROADMAP_REVISIONE_VOLUME_E_HUB_2026-11-25.md).
