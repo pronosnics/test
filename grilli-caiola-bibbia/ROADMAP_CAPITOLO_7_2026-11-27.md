@@ -228,3 +228,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.13 — Retama: aggiornata scheda2600
 - Ripulita fonte #2600: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/plants-of-palestine-retama-raetam-white-weeping-broom/. Prossimo relazioni e QA.
+
+
+## Lotto 22.14 — Retama: aggiornata scheda2602
+- Ripulita fonte #2602: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/weeds-australia-retama-raetam-riconoscimento-botanico-e-caratteri-del-frutto/. Prossimo relazioni e QA.
