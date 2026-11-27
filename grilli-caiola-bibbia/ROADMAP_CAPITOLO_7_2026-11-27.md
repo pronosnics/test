@@ -308,3 +308,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.38 — Cupressus: aggiornata scheda1955
 - Precisato monospecificosecondoKew eLCattribuita; ripulitiresidui diresocontolavorazione inPost e mantenutilimitiattribuzionelocalità; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
+
+
+## Lotto 20.39 — Plinio — Naturalis historia XII, §109: cypros e profumeria antica
+- Pubblicata e riletta #7817, TestoprimariointraduzioneingleseRackham1952consultatoXII109;latinocliccato ma noncollazionato,nessunadichiarazioneintegrale;nuovolocusrispettofontiPliniogiàesistenti; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/plinio-naturalis-historia-xii109-cypros/. Prossimo relazioni, SEO e QA.
