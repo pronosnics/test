@@ -421,3 +421,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Browser anonimo raggiunge URL https://piantedellabibbia.altervista.org/piante/cedro-del-libano-cedrus-libani/ con contenuti aggiornati; vista intestazione e nuova tavola. Titolo/documentmeta description corrispondono aYoast,H1unico. Immaginehero effettivamente caricata960×1281 da variante#7737. Immagini correlate inlazyload non ancora caricate nel viewport, non classificate come rotte.
 - Il403 del tunnelMCP non è blocco del sito pubblico: accesso reale riuscito. Verificato corpo e bibliografia nelDOM. Trovati3locatori pubblici interni nelle relazioni#76–78: «Fonte ufficiale: scheda bibliografica WordPress #276/#277/#278». Marcatori automatici non li avevano segnalati.
 - Da predisporre piano di rettifica dei soli locatori, preservando fonti eclaim, con approvazione obbligatoria nel pannello. Non dichiarare completa la pulizia finché applicazione non verificata; proseguire attività indipendenti. Piccola frase ellittica «Il confronto fra…» nel corpo da correggere. Prossimo proposta controllata, revisione finale e Cupressus.
+
+
+## Lotto 18.52 — Cedrus: ultimo controllo semantico del corpo
+- Corretta frase ellittica nella sezione delle due favole; sostituita istruzione residua sull’inserimento di relazioni con spiegazione scientifica dell’incertezza. Aggiornamento con controllo versione e readback positivo.
+- Verifica famigliaPinaceae e stato riconciliazioni eseguita. Tre locatori bibliografici interni ancora da rettificare con il meccanismo di approvazione. Prossimo piano concreto e avvioCupressus#1551 senza bloccare il capitolo.
