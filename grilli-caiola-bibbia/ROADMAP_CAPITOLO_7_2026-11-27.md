@@ -316,3 +316,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.40 — Cupressus: aggiornata scheda7810
 - IntegrategrecoLXXverificato e formessingolare/plurale; nessun numeroStrongNTG2954 attribuito; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/kofer-h3724-henne-cantico/. Prossimo relazioni e QA.
+
+
+## Lotto 20.41 — Cupressus: aggiornata scheda1955
+- InseritofonteclassicaPlinioXII109concontestocommerciale e limiteLigustrum;nessunricettario o usomedicalebiblicoinferito; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
