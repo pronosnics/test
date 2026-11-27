@@ -36,3 +36,5 @@ I nomi della terza colonna identificano il soggetto di lavoro. La ricezione tass
 - 8.5 · Typha latifolia · WP #8330, #8332, #3980. Create e pubblicate botanica #8330 e medicina #8332. Famiglia Typhaceae #39 verificata, tavola #8331, fonte #8328, identificazioni controverse #688–689. [Dossier](CAP8_05_TYPHA_LATIFOLIA.md).
 
 - 8.6 · Nymphaea spp. · WP #2134, #2129, #2114, #8338, #8342, #2125. Una monografia collettiva collegata a tre botaniche. Create due medicinali distinte, conservata la medicinale della ninfea bianca europea. [Dossier](CAP8_06_NYMPHAEA.md).
+
+- 8.7 · Nerium oleander · WP #2038, #2055. Separati gli argomenti per Sir 24,14 e Sir 39,13. Eliminata un’istruzione interna dal testo; integrata la fonte sanitaria greca del 2026. [Dossier](CAP8_07_NERIUM_OLEANDER.md).

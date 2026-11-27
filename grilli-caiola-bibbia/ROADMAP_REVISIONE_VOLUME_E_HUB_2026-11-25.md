@@ -1,6 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
 **Capitolo 8 (27/11/2026).** [Roadmap corrente](ROADMAP_CAPITOLO_8_2026-11-27.md) · nove monografie. Primo lotto pubblicato e riletto su botanica e medicina dell’alimo. [Registro](REGISTRO_WORDPRESS_CAPITOLO_8_2026-11-27.md) · [Riserve](MATRICE_RISERVE_CAPITOLO_8_2026-11-27.md).
+- 8.7 · Nerium oleander · WP #2038, #2055. Separati gli argomenti per Sir 24,14 e Sir 39,13. Eliminata un’istruzione interna dal testo; integrata la fonte sanitaria greca del 2026. [Lotto 7](CAP8_07_NERIUM_OLEANDER.md).
 - 8.6 · Nymphaea spp. · WP #2134, #2129, #2114, #8338, #8342, #2125. Una monografia collettiva collegata a tre botaniche. Create due medicinali distinte, conservata la medicinale della ninfea bianca europea. [Lotto 6](CAP8_06_NYMPHAEA.md).
 - 8.5 · Typha latifolia · WP #8330, #8332, #3980. Create e pubblicate botanica #8330 e medicina #8332. Famiglia Typhaceae #39 verificata, tavola #8331, fonte #8328, identificazioni controverse #688–689. [Lotto 5](CAP8_05_TYPHA_LATIFOLIA.md).
 - 8.4 · Schoenoplectus lacustris · WP #3329, #3330. Distinti ʾāḥû di Gen 41,2 e ʾagmôn di Is 58,5. Integrata la tradizione sarda con provenienza esplicita. [Lotto 4](CAP8_04_SCHOENOPLECTUS_LACUSTRIS.md).
