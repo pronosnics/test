@@ -160,3 +160,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Originale Zohary1982 pp.104–105/PDF105–106 letto integralmente per la voce Cedar; entrambe fotografie e didascalie visionate: cedro adulto nei boschi libanesi e giovani cedri coltivati sui monti di Gerusalemme. Distinguere piantagioni e distribuzione spontanea; la fotografia israeliana non dimostra indigenato.
 - Erez con Libano esplicito sostiene C.libani; altre occorrenze possibili Pinus halepensis; Lev14:6 e Num19:6 interpretati anche come tamerici o ginepro fenicio. Confronto presente nel corpo #266 ma fonte ancora da strutturare. Longevitá 2000–3000 anni è affermazione del volume, non datazione individuale verificata.
 - Nessuna modifica WP. Prossimo Duke84–86/PDF110–112, poi originali Post/Tristram/Balfour e Dafni; non rinviare Zohary alla chiusura.
+
+
+## Lotto 18.4 — Cedrus: Duke84–86 ricollazionato dall’originale
+- Letto testo originale Duke2008 pp.84–86/PDF110–112, attività e indicazioni, DOSAGES/DOWNSIDES/EXTRACTS; figura1.20 non ancora visionata separatamente. Sei attività: antisettico, battericida, diuretico, espettorante, fungicida, insetticida. FNFF=?, non grado clinico; indicazioni folkloriche e test microbiologici distinti.
+- X11962214 e X10548751 e X10473175 identificano piste bibliografiche da controllare negli originali; materiali/resine, parti e specie non interscambiabili. «Deodar» nel paragrafo algerino non trasferibile automaticamente a C.libani. La formula storica sulla sicurezza non definisce dosi terapeutiche. Conservare cautele e correggere duplicazioni/note operative della medicina #268.
+- Nuove disponibilità documentali: recuperati originali Tristram1867 e Balfour1857 e Dafni2019 in Libreria, contrariamente all’esito delle vecchie ricerche; non riaprire indiscriminatamente le prime cinque specie ma impiegare il materiale per Cedrus e audit trasversale. Nessuna modifica WP in questo sottolotto.
