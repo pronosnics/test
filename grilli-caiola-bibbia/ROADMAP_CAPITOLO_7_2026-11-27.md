@@ -25,7 +25,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | 18 | 130 (132) | Quercus calliprinos | ATL-0188 (ATL-0168) | 2464 | Chiusa editorialmente con riserve (lotto 31.4); Q. coccifera secondo Kew, #2508 distinta |
 | 19 | 131 (133) | Rosa phoenicea L. | ATL-0200 | 2677 | Chiusa editorialmente con riserve (lotto32.2); tavola#2679 conservata |
 | 20 | 132 (134) | Pterocarpus santalinus | ATL-0185 (ATL-0166) | 2441 | Chiusa editorialmente con riserve (lotto33.2); Santalum#3212 distinto |
-| 21 | 133 (135) | Ficus sycomorus | ATL-0106 | 367 | Da revisionare |
+| 21 | 133 (135) | Ficus sycomorus | ATL-0106 | 367 | Chiusa editorialmente con riserve (lotto34.3); tavola corretta#8092 |
 | 22 | 134 (136) | Tamarix aphylla | ATL-0250 | 3749 | Da revisionare |
 | 23 | 135 (137) | Pistacia atlantica | ATL-0175 (ATL-0159) | 2291 | Da revisionare |
 
@@ -633,3 +633,10 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Gitahi etal2025: originaleWiley metodi, tab1–3, GC/LC-MS, conclusioni, funding/COI letti; voucherEWM-001 NationalMuseumsKenya, modelli edema con carragenina,6gruppi n5 e diclofenacconfronto. Età fra abstract/metodi non uniforme; sezione raccolta/estrazione descrive soprattutto foglie benché risultati includano corteccia. Sicurezza/istologia richieste dagli autori, nessunfunding/COI dichiarato. Non inferita equivalenza con diclofenac da p>0,05 né certezza di identificazioni chimiche da librerie spettrali. Apparati/figure non tutti visionati, P2/P3 conservate.
 - FonteMousa1994 già presente #373 nella medicina (recuperata dalle relazioni prima di creare duplicato), da completare bibliograficamente. Nuovefonti Zeroni1972 e due lavori2025 ancora da registrare/collegare. Tavola nuova#8092 completa: hash e featured/plate confermati dal server.
 - **20/23 chiuse editorialmente; sicomoro aperto, in integrazione.**
+
+
+## Lotto 34.3 — Sicomoro: integrazione e chiusura editoriale
+- Pubblicate nuove fonti #8093 Zeroni1972, #8095 Gitahi2025, #8097 Aliyu2025, #8099 Galil/EisikowitchAfrica1968; #372 completata per BalamiIsraele1968 e #373 Mousa1994 riusata, autori/pagine/DOI completati e promemoria tecnici rimossi. Nessun duplicato del lavoroMousa.
+- Botanica#367 e medicina#368 aggiornate con Grilli133, fisiologia a risposta variabile, ambito geografico dei cicli, modelli2025 e dati discordanti exvivo; conservati dati storici utili e riserva sul facsimileMoldenke106–107. Tolta la vecchia descrizione della tavola difettosa sostituita da#8092; eliminate indicazioni operative e rimandi a future schede. Metadati/provenienza aggiornati. Fonti collegate #6008–6019; Grilli aggiunto a citazioni#381–384 con#6020–6023.
+- Otto citazioni #377–384 rilette; rimosse note interne di lavorazione e istruzioni di duplicazione quando presenti. Otto identificazioni consolidate preesistenti mantenute; nessun versetto nuovo inventato. SEO verificato4fonti nuove, botanica/medicina già validi. Audit locale8dossier+8citazioni: H1unico, nessunALTmancante, nessuna nota candidata/warning. Tavola: checksum completo/ALT/featured/plate verificati.
+- RiserveP1: Aliyu concentrazioni e risultati discordanti, limiti murini e attribuzioni fitochimiche non promosse; P2 facsimiliMoldenke106–107, integraliGalil1968/Zeroni1972/Mousa1994 e supplementi non integralmente collazionati; P3 figure sperimentali non tutte viste, HTTPpubblico non certificato. **21/23 chiuse editorialmente con riserve;2restanti. Prossima Tamarix aphylla#3749,p134.**
