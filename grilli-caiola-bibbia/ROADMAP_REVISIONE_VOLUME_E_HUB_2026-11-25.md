@@ -1892,3 +1892,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap10 10.1.6: EMA monografia integrale recuperata, #670 aggiornata, #8553/#6286, audit locale positivo. Aloe ancora aperta per riserve; avviata revisione differenziale 10.2 #3937, Grilli p159 facsimile, Kew nome Zygophyllum dumosum accettato, relazione #6287. 0/10 chiuse definitivamente.
 
 - Cap10 10.2.1: originali Zohary/Duke/Danin collazionati; rettifiche germinazione e conteggio incrementi in #3937, fonti #8557/8559/8561 e rel #6288–6290, audit locale 4/4. Riserve integrali Koller/Agami, facsimile Waisel, altri approfondimenti aperti. 0/10 definitive.
+
+- Cap10 10.2.2: Post p187 recuperato malgrado OCR, BDB H362 sei occorrenze; #3937/#315 aggiornati, fonte #8565 e relazioni #6291–6293, audit locale 3/3. Bailey/Danin e storici residui da ricollazionare. 0/10 definitive.
