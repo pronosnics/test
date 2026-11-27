@@ -197,3 +197,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.11 — Cupressus: Kew e confronto morfologico moderno
 - KewPOWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261974-1 aperto: nomeaccettatoL.,Cupressaceae, nativoE.Mediterraneo–Iran incl.Palestine,introdottoItalia;var.horizontalis(Mill.)G.Don sinonimo. HortFloraRoyalBotanicGardensVictoria/Spencer1995 https://hortflora.rbg.vic.gov.au/taxon/ad8acada-5340-11e7-b82b-005056b0018f letto: conipolliniferi~3mm, strobili2–3,5cm,8–14squame. FlorChina risulta4–8mm negli indici ma pagina403; non considerarla collazioneintegrale. Differenze impediscono copiare1,5cm diGrilli come misura standard. FloraIsraelhttps://flora.org.il/en/plants/CUPSEM/ eversioneebraica403, recordtrovato ma pagina nonletta. Prossimo studi moderni.
+
+
+## Lotto 19.12 — Cupressus: Liphschitz–Biger1989 contro ricostruzione ampia
+- Abstractoriginale editore e repositoryTelAvivUniversity https://cris.tau.ac.il/en/publications/cupressus-sempervirens-in-israel-during-antiquity/ letti, IsraelJBot38(1):35–45,DOI10.1080/0021213X.1989.10677109. Resti rari, soprattuttozonearide dovealbero noncrescevanaturalmente; propostaimportazionelegname, nonprovaassolutadell’assenza. Diverge daampiadiffusione prospettata daZohary/Moldenke, daesporre. Integrale,tabelle,campionari,finanziamenti nonacquisiti; P2, nessun sitoarcheologico inventato. RicercaDOI nell’Atlante negativa; nuova fontegiustificata.
