@@ -272,3 +272,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.24 — Diospyros: aggiornata scheda1716
 - Corretto solo il metadato morfologico della comparativa #1716, che riportava foglie sempre alterne contro la variabilità già documentata nel suo testo e nella monografia; nessuna fusione o nuova chiusura della specie comparativa; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/ebano-del-coromandel-diospyros-melanoxylon-bibbia-botanica/. Prossimo relazioni e QA.
+
+
+## Lotto 21.25 — Diospyros: aggiornata scheda5276
+- Completati metadati della fonte Kew comparativa #5276, preservati contenuto e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-diospyros-melanoxylon-roxb-willd-varieta/. Prossimo relazioni e QA.
