@@ -229,3 +229,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.19 — Cecchi e colleghi (2024) — Sensibilizzazione a Pru p 7 e Cup s 7
 - Pubblicata e riletta #7765, Optimization of the diagnosis and characterization of gibberellin-regulated protein sensitization: An Italian cohort study; 10.1016/j.anai.2023.09.011; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/cecchi-2024-allergia-cipresso-pru-p7-cup-s7/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.20 — HortFlora — Cupressus sempervirens: coni, chioma e coltivazione
+- Pubblicata e riletta #7767, Cupressus sempervirens L., Horticultural Flora of South-eastern Australia, volume 1; https://hortflora.rbg.vic.gov.au/taxon/ad8acada-5340-11e7-b82b-005056b0018f; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/hortflora-cupressus-sempervirens-morfologia/. Prossimo relazioni, SEO e QA.
