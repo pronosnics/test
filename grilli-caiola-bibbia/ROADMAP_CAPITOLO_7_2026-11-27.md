@@ -415,3 +415,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Audit locale26contenuti del sottolotto18.46 letto:26/26completi,H1unico,zeroALTmancanti,markerautomatici ewarning. Audit aggiuntivo11fonticondivise eseguito; risultati da gestire se marker presenti. Tavola#7737 coerente featured/plate, SHAfullconfermato.
 - Rilettura conteggi botanica/medicina/lemma/Siracide completata: rispettivamente14/5/6/2relazioni bibliografiche,zero gruppi duplicati;22nuove relazioniCedrus,#5762–5783,116nuovecap.7con3assorbimenti separati. Le16identificazioni precedenti non modificate; nuova#674probabileperSir24:13.
 - Prossimo verifica indipendente del pubblico dopo403tunnel, poi chiusura editoriale con riserve dettagliate e avvioCupressus.
+
+
+## Lotto 18.51 — Cedrus: pagina pubblica verificata nel browser indipendente
+- Browser anonimo raggiunge URL https://piantedellabibbia.altervista.org/piante/cedro-del-libano-cedrus-libani/ con contenuti aggiornati; vista intestazione e nuova tavola. Titolo/documentmeta description corrispondono aYoast,H1unico. Immaginehero effettivamente caricata960×1281 da variante#7737. Immagini correlate inlazyload non ancora caricate nel viewport, non classificate come rotte.
+- Il403 del tunnelMCP non è blocco del sito pubblico: accesso reale riuscito. Verificato corpo e bibliografia nelDOM. Trovati3locatori pubblici interni nelle relazioni#76–78: «Fonte ufficiale: scheda bibliografica WordPress #276/#277/#278». Marcatori automatici non li avevano segnalati.
+- Da predisporre piano di rettifica dei soli locatori, preservando fonti eclaim, con approvazione obbligatoria nel pannello. Non dichiarare completa la pulizia finché applicazione non verificata; proseguire attività indipendenti. Piccola frase ellittica «Il confronto fra…» nel corpo da correggere. Prossimo proposta controllata, revisione finale e Cupressus.
