@@ -842,3 +842,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 43.2 — Fonte Azizi #8121
 - Fonte aggiornata e riletta, precisati voucher BMS-411, registro prospettico, comparatore con 1% Baneh, analisi ITT, VAS e reazioni avverse; nessuna duplicazione. Prossimo: aggiornare #2301 e #2291, rettificare locatori.
+
+
+## Lotto 43.3 — Schede #2301 e #2291
+- Sostituiti esclusivamente i passaggi Azizi precedentemente basati sull'abstract, mantenuto il restante HTML identico; readback esatto. Integrati voucher, registro, formulazione/comparatore, risultati VAS, adverse events, limiti interpretativi; differenza fra variazioni VAS inferiore a un punto, significatività statistica distinta da rilevanza clinica. Prossimo: audit e rettifica relazioni #6044/#6045.
