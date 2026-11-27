@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.3 secondo passaggio (27/11):** quattro fonti #8457/#8459/#8461/#8463 e #6236–6239, medicina #946 aggiornata/riletta, SEO 4/4 e audit locale 7/7. Risultati preclinici e negativi, discordanza Çavuşoğlu e limiti di accesso documentati. [Dossier](CAP9_03_CENTAUREA_IBERICA.md). Lotto aperto.
+
 **Cap.9 — 9.3 avvio (27/11):** Centaurea iberica #942/#946 aggiornate/rilette, plant_id ripristinato, metadati medicina compilati, #8452 Hussain 2004 e #6230–6235. Audit locale 3/3, SEO verificato. [Dossier](CAP9_03_CENTAUREA_IBERICA.md). Lotto aperto, riserva pappo tavola.
 
 **Cap.9 — 9.2 quarto passaggio (27/11):** revisione scientifico-editoriale Silybum completata con riserve. Amini 2026 testo integrale, sottogruppi controllati non confermano diminuzione transaminasi; #3463/#3483 corrette, #3464 normalizzata, #3482 collazione NT, #6229. Audit locale 4/4; HTTP 403, piano 5eb1fa8e-4389-413f-979e-72195db1cb18 pending e ulteriori sovrapposizioni da riconciliare. [Dossier](CAP9_02_SILYBUM_MARIANUM.md). Segue Centaurea iberica.
