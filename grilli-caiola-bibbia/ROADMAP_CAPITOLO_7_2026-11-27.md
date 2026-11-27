@@ -166,3 +166,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto21 — Diospyros ebenum: chiusura editoriale e ripresa
 
 [Dossier integrale21.1–21.30](registri/DIOSPYROS_EBENUM_LOTTO_21_2026-11-27.md). Sei nuove fonti,23nuove relazioni#5855–5877, tavola#7833 verificata sul sito,17auditlocali e15SEO aggiornate. Conservata identificazione controversa; P2/P3 nel dossier. Sette monografie chiuse editorialmente con riserve;Cedrus/Lawsonia con operazioni controllate pendenti;quattordici ancora da revisionare. Capitolo210nuove relazioni,3assorbitepregresse,saldo207. Prossimo: Retamaraetam ATL-0194 (operativoATL-0174-RR), WP#2610, p122/PDF124 fig74, recupero completo WordPress e fonti obbligatorie.
+
+
+## Lotto 22.1 — Retama raetam: precontrollo e recupero del lavoro precedente
+- 27/11/2026. ATL-0194/operativoATL-0174-RR, WP#2610. Botanica completa letta,26relazioni bibliografiche; nessuna seconda botanica Retama da creare. Medicina#2612 esistente e già integrata con caso tossicologicoSchmid eBailey–Danin; identificazioni#344/#345 probabili,#346controversa perGiobbe, coerenti. SEO botanica completa. Tavola#2613featured=plate, da visionare;caption tecnica da semplificare. Lavoro26/11suDanin/Bailey ecaso neonatale non da ripetere indiscriminatamente: riscontrare nei registri e usare come delta. Presente metadato storico in inglese «Grilli Caiola not available» ormai obsoleto da rimuovere. Prossimo letturaGrilli122/PDF124fig74,Zohary144 eDuke371–372.
