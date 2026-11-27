@@ -281,3 +281,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.32 — Kypárissos — κυπάρισσος: il cipresso nel Siracide
 - Pubblicata e riletta #7781, Greco testuale ricontrollato inAdFontes50:10; scheda nonesistente ricercakyparissos; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/nomi-biblici/kyparissos-cipresso-siracide/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.33 — Cupressus: aggiornata scheda1551
+- IntegratiGrilli119/Sir24:13corretto,Tristram/Balfour,archeobotanica1989–1994,Scali2026,Cecchi2024,Meunier1994,J.foetidissima. Ripuliteistruzionifuture,rimosso paragrafo diagnostico ripetuto,URLpreservato; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
