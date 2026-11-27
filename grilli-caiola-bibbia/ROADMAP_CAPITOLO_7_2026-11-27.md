@@ -321,3 +321,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Siracide24:13 verificato nel greco digitale (ὡς κέδρος…ἐν τῷ Λιβάνῳ; distinto da κυπάρισσος…Αερμων) e CEI2008 ufficiale; nessuna riproduzione integrale della traduzione protetta. Sir24:14 è un versetto diverso, già#2051, non fonderli.
 - Cantico1:17, NovaVulgata ufficiale BibbiaEdu: cedrina/cupressina. Questo controllo riguarda la NOVAVULGATA, non certifica collazione di tutte le recensioni della Vulgata. GrecoSiracide letto come trascrizione online, apparato critico non acquisito.
 - Naudé e Miller-Naudé2018, HTS74(3):a5042 DOI10.4102/hts.v74i3.5042, articolo originale: analisi lessicografica di erez/kedros, rapporto nomi culturali/tassonomia e traduzione; individuato per integrare limiti del lessico, ricerca preventiva fonteWP in corso. Prossimo pubblicare voceSir24:13 con fonti e relazioneCedrusprobabile, senza estendere automaticamente l’identificazione del cipresso.
+
+
+## Lotto 18.33 — Cedrus: pubblicata Naudé e Miller-Naudé (2018) — Erez e cedri nella Settanta
+- Creata/pubbicata WP#7753 tipopdb_source, controllo versione e readback publish positivo, URLhttps://piantedellabibbia.altervista.org/fonti-bibliografiche/naude-e-miller-naude-2018-erez-e-cedri-nella-settanta/. Ricerche preventive Naudé/DOI negative. Preservata conclusione degli autori: erez esclusivamenteC.libani, in divergenza con alternativeZohary/Moldenke; non spacciata per consenso.
+- Prossimo relazioni documentate/identificazione probabile, collegamento botanica e SEO.
