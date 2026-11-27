@@ -253,3 +253,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.25 — Cupressus: completati metadati fonte5290
 - Fonte esistente#5290 aggiornata con autori,titolo,edizione/anno,editore e URL/DOI pertinenti; readback positivo. Nessuna nuova fonte duplicata. Prossimo contenuti e relazioni.
+
+
+## Lotto 19.26 — Cupressus: completati metadati fonte4335
+- Fonte esistente#4335 aggiornata con autori,titolo,edizione/anno,editore e URL/DOI pertinenti; readback positivo. Nessuna nuova fonte duplicata. Prossimo contenuti e relazioni.
