@@ -289,3 +289,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.37 — Cupressus: validazione medicinale respinta
 - Aggiornamento#1555 respinto INVALID_ARGUMENT «Evidenza non valida» per valoreliberodelcampo pdb_evidence_level. Riletto: operazione non applicata, metadati ancora vuoti, modified2026-11-19 17:14:29; botanica#1551 lotto19.33 salvata. Nessuna nuova creazione orelazioneripetuta. Risolvere valorecontrollato prima diritentare e poi completare#1557/#1561 noneseguite perinterruzione.
+
+
+## Lotto 19.38 — Cupressus: medicina1555 aggiornata e controllo salvataggio
+- Valorecontrollato traditional accettato; #1555 modificata e riletta, collegata1551, metadati prima vuoti completati; distinti usitradizionali,Meunier1994biochimico eCecchi2024diagnostico senza efficaciaterapeutica. Errorelocale JavaScript ck undefined dopo readback impediva solo ilregistro: nessuna ripetizione dell’update, checkpointora recuperato e helper resoautonomo. Prossimo#1557/#1561,non ancora aggiornati.
