@@ -173,3 +173,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.5 — Cupressus: Post1896 p748 fig338
 - Originale estratto dal PDF, p748/PDF758: Cupressus sempervirens L.,5–25m, chioma variabile, coni20–30mm, ambiente montano intermedio, fioritura primaverile e forma colonnare coltivata nei cimiteri. Fonte#5290 già presente; metadati bibliografici vuoti da completare. Dati storici, non censimento moderno; confronto morfologico da completare. Prossimo Tristram348–349.
+
+
+## Lotto 19.6 — Cupressus: Tristram1867 pp348–349
+- Letto testo originale estratto pp348–349/PDF360–361: tirzah incerto, alternativa Juniperus, osservazione personale dell’autore di cipressi coltivati nei cimiteri senza popolamenti selvatici incontrati. Non convertire questa osservazione del1867 in assenza di autoctonia. Incisione da visionare. Prossimo Balfour.
