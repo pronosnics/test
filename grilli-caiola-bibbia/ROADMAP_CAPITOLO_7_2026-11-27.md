@@ -804,3 +804,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 41.5 — Integrazione botanica #367
 - Inserita sezione ecologia africana con Galil1968, Wiebes1968 e Greeff2025; chiarita distinzione impollinatori/altre vespe, riproduzione insetti/semi. Rilettura positiva, HTML precedente conservato. Prossimo: audit e relazioni.
+
+
+## Lotto 41.6 — Sicomoro: ecologia africana e audit
+- Fonte #8099 integrata da abstract; Wiebes1968 #8159 e Greeff2025 #8161 pubblicate, relazioni #6065/#6066 rilette conformi, botanica #367 aggiornata e riletta. Totale botanica 22 relazioni; unico gruppo candidato Moldenke #135 (4 locatori distinti, conservati). Audit locale 4/4 #367/#8099/#8159/#8161, H1 unico, zero ALT mancanti/note candidate/warning. SEO nuove fonti compilata e riletta; tavola #8092 invariata; HTTP pubblico non riverificato. Galil1968 integrale e Galil1969 scansione BHL restano P2; Greeff2025 supplementi e figure non collazionati, Wiebes pp.307–309 e fig.1 visionati.
+- Piano rettifica tipografica #6015, {"id":"01f21884-9cde-4ccf-9b4a-362089f96dec","status":"pending","applied":false}; approvazione amministrativa e readback. Prossimo P2: Pistacia atlantica #2291, Eftekharafzali2018 e Afrasiabian2017, recupero integrali e controllo identità dei campioni, evitare duplicazione coorti; mantenere altre riserve Ficus e stato editoriale 23/23.
