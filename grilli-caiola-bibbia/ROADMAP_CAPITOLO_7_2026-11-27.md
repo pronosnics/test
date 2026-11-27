@@ -162,3 +162,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.2 — Lawsonia: Grilli120fig72 letta e visionata
 - Testooriginalep120/PDF122efotofig72visionati.2–8m,ramitaloraspinescenti,foglieopposte,fioritetrameri,pannocchie,capsuleplurisperme,tinturalawsone.Misure40–45semi,spinedopodueanni,contenutocoloranteneipiccioli,calendarioMaggio–Luglio,Iranmaggiorproduttore easserzioneanticoCyperus da verificare, nontrasferire comeconsenso moderno. IpotesipiantagioniavignediEngaddi/Salomoneenarrativamummie da distinguere daevidenzaprimaria. Abortivo/tagliodell’hashish nonricettanéefficacia dimostrata. LetturaallegoricaCultrera1861 soltantoattribuzione delvolume, codaCultrera giàdifferita dall’utente. CaptionATLda ripulire; fonti successive.
+
+
+## Lotto 20.3 — Lawsonia: Zohary190 originale ricollazionato
+- PDF191,p190testooriginale letto:ciuffifioriprofumatibiancastri,arbustofino4m,capsulegloboseplurisperme,usitintoridellefoglie,profumomehendidaifiori,decottocortecciausitradizionali. Originedadomesticazioneremota incerta,nonguardareIndiaesclusiva; citakufraaramaico/accadico nonnuovacollazioneprimaria. Piantedomesticheincortili/alberisingoli,nonassumeretenutabiblicaintensiva. EnGhediscomparsa osservata1982,Gerico/Giordano/costa presenti alloradata. Foto ecapfamiliareWillowherbda leggere criticamenterispettoLythraceaemoderna. Fonte#5165esistente.
