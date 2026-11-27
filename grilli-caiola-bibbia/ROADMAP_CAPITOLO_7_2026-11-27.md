@@ -341,3 +341,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.36 — Cedrus: esplicitata divergenza esegetica in #266
 - Aggiornata/riletta scheda#266 con controllo versione. Aggiunto rimando reale aSir24:13#7755 e confronto esplicito della conclusioneNaudé/Miller-Naudé2018 con le alternativeZohary/Moldenke,senza eliminare dati sfavorevoli o promuovere identificazioni. Fonte#7753 già collegata.
 - Prossimo controllo SEO e audit.
+
+
+## Lotto 18.37 — Cedrus: esplicitata divergenza esegetica in #269
+- Aggiornata/riletta scheda#269 con controllo versione. Aggiunto rimando reale aSir24:13#7755 e confronto esplicito della conclusioneNaudé/Miller-Naudé2018 con le alternativeZohary/Moldenke,senza eliminare dati sfavorevoli o promuovere identificazioni. Fonte#7753 già collegata.
+- Prossimo controllo SEO e audit.
