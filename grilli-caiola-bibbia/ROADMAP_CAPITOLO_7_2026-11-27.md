@@ -231,3 +231,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.14 — ICFRE–IFGTB — Progetto 2023–2028 su Diospyros ebenum e Xylia xylocarpa
 - Pubblicata e riletta #7831, Fonte consultata e limiti registrati nei lotti precedenti; nessuna efficacia clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/icfre-ifgtb-2023-2028-diospyros-ebenum-germoplasma/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 21.15 — Diospyros: tavola caricata e integrità verificata
+- ATL-0095 WP#1704. Nuova tavola#7833, WebP1200×1311,473084byte,SHA256731f9fbefad70954092051f8327b29ae12f02f43e3ce850dcc03893f9a0a63ce. Upload in dieci blocchi con start/chunk/finish positivo; media-info conferma byte,SHA,featured=plate e ALT/caption compilati. Vecchio#1705 conservato. Nuova immagine visionata, illustrazione botanica non campione certificato; verifica pubblica ancora da fare.
+- Tentativo unico downloadBSISinghPDF per visione grafica restituisce503; testo originale tramite servizio web letto, facsimile fig19 non recuperato localmente. RiservaP3, non dichiarato successo. Prossimo completare le fonti pregresse e schede.
