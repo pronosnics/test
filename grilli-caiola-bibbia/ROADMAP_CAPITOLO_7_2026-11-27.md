@@ -341,3 +341,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.50 — Cupressus: aggiornata scheda1551
 - Corretto nome saru dal facsimilePost, aggiunti coni polliniferi millimetrici e LC attribuita aKew; IUCNdiretto403, nessun annoassunto; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
+
+
+## Lotto 19.51 — Cupressus: aggiornata scheda1556
+- Aggiunta alternativaJ.foetidissima e confrontoaccadicoattribuitoaDafni; fonte lessicale compilata; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/b%c9%99ros-%d7%91%d6%b0%d6%bc%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h1265-cipresso-abete-o-ginepro/. Prossimo relazioni e QA.
