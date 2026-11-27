@@ -329,3 +329,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.38 — Retama: aggiornata scheda2608
 - Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/numeri-3318-19-ri%e1%b9%afma-il-toponimo-del-deserto-e-la-ginestra/. Prossimo relazioni e QA.
+
+
+## Lotto 22.39 — Retama: ripresa da Work, relazioni nuove
+- Controllato checkpoint 22.38 e censimento WP: 26 relazioni botaniche, 10 medicinali prima del lotto. Nuovi collegamenti Grilli p.122, Flora Israel, Izhaki–Ne’eman, Kouadri, Bouzenna, Conforti, Abeid e BDB verificati nei limiti documentati dai lotti precedenti. Rilettura delle relazioni: [{"id":2610,"total":30,"rows":[["5878","775"],["5879","7850"],["5880","7852"],["5881","7854"]]},{"id":2612,"total":13,"rows":[["5882","7856"],["5883","7858"],["5884","7860"]]},{"id":1603,"total":2,"rows":[["5885","7848"]]},{"id":7862,"total":1,"rows":[["5886","7848"]]},{"id":2606,"total":3,"rows":[["5887","7848"]]},{"id":1601,"total":8,"rows":[["5888","7848"]]}]. Non ripetute come nuove le collazioni già effettuate. Restano da riconciliare quattro riferimenti errati a fonte #559, collegare il toponimo a Numeri 33:18–19, controllare SEO e QA. 
