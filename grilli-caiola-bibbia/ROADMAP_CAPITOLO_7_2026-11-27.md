@@ -170,3 +170,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.4 — Lawsonia: Moldenke124–125 e note
 - Rilettavoce122pp124–125nella traduzioneutente,rinviofig20p100daoriginalecrop;Lawsoniaalba/spinosa sinonimi,noncanfora/cipresso;Indiaorigineasserzionestorica nonKewattuale. Usitinturepellebarbacrinieretessutieprofumicerimoniali;catecùaggiuntohistorico nonricetta. Dt21:11–12interpretazionesuornamenticattivenonhenné nominatoesplicitamente. Post#266bibliografiamoldenkeindicaaltroapparato/località,vocePostp320nonleelencatutte: nessunafalsa attribuzione.P2facsimile124–125,apparatiinglesi/supportiHasselquist1766eSonnininonverificatiintegri;continuareprimary.
+
+
+## Lotto 20.5 — Lawsonia: Post e Tristram originali
+- Post1896p320/PDF330sottoL.alba,L.storico(nonaggiornarearbitrariamenteautoreLam.neltestoantico):calice4lobi,4petali,8stami,4logge,capsuleirregolarmentedeiscenti,oppostetaloraspine,primavera,coltivataeinselvatichita;riusare#5164. Tristram1867pp339–340/PDF351–352letto:Lawsoniaalba/inermis,noncanfora/cipresso,fiori,mordenzaturatinture,EngaddiXIXsec;enfatizzacontinuitàdaSalomonemaèinterpretazionestoricanondatazionediunreperto. Balfour1857ricerca integraletestoperhenna/lawsonia/camphire/cophernegativa,nonnonpresenzainogniulterioreedizione. RiutilizzareTristram#2042;Balfour1885ricercadaverificarepertinenza.
