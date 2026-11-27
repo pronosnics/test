@@ -967,3 +967,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 49.2 — Fonte #8202
 - Castagneri 2020: xilema e siccità delle querce: pubblicazione e rilettura confermate; SEO verificata; relazioni #6086–6087. Limiti come 49.1. 
+
+
+## Lotto 49.3 — Botanica #2540
+- Integrate fonti pertinenti, distinzione fra resistenza/resilienza, variabilità climatica e conduttività teorica; Ne’eman1993/2016 non contati come repliche. Testo precedente preservato, rilettura esatta positiva.
