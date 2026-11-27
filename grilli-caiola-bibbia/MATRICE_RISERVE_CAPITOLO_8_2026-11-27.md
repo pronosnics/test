@@ -8,3 +8,4 @@
 | 8.3 Phragmites australis | P1-L specie dei flauti e della similitudine. P2-A Hepper, verifica diretta dei rimandi storici. P2-D limiti geografici delle linee di Phragmites e dati clinici specie-specifici. P3 rendering esterno. |
 | 8.4 Schoenoplectus lacustris | P1-L specie del pascolo e dei giunchi. P2-A Hepper e fonti primarie sarde; P2-D archeobotanica dei manufatti e attribuzione dei campioni medicinali. P3 controllo pubblico. |
 | 8.5 Typha latifolia | P1-L specie evangelica indeterminata. P2-A Smith 1877, Hepper; P2-D voucher recenti, assegnazione di un codice operativo nel registro appropriato senza riuso di codice legacy. P3 verifica pubblica. |
+| 8.6 Nymphaea spp. | P1-L attribuzioni del motivo templare e di Giobbe, identità e composizione dei prodotti commerciali. P2-A Hepper, Post e Zohary da completare per le ninfee; P2-D analisi dei singoli lotti clinici, voucher e supplementi. P3 verifica pubblica. |
