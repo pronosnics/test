@@ -336,3 +336,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.35 — Cedrus: Siracide24:13 collegato senza duplicare il passo successivo
 - Relazioni create e rilette: [{"saved":true,"kind":"source_citations","id":5780},{"saved":true,"kind":"source_citations","id":5781},{"saved":true,"kind":"source_citations","id":5782},{"saved":true,"kind":"source_citations","id":5783},{"saved":true,"kind":"identifications","id":674}]. Nuova identificazioneCedrus probabile; termine ebraicoH730 NON collegato al greco per semplice equivalenza lessicale. RelazioneCupressus rinviata al prossimo esame specifico.
 - Aggiunte4relazioni bibliografiche,22nuoveCedrus,116nuovecomplessivecap.7; tre assorbimenti distinti. Prossimo aggiunta del rimando e della divergenza scientifica nei testi #266/#269, SEO e audit.
+
+
+## Lotto 18.36 — Cedrus: esplicitata divergenza esegetica in #266
+- Aggiornata/riletta scheda#266 con controllo versione. Aggiunto rimando reale aSir24:13#7755 e confronto esplicito della conclusioneNaudé/Miller-Naudé2018 con le alternativeZohary/Moldenke,senza eliminare dati sfavorevoli o promuovere identificazioni. Fonte#7753 già collegata.
+- Prossimo controllo SEO e audit.
