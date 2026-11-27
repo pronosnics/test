@@ -209,3 +209,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.14 — Cupressus: Cecchi etal2024 allergia Cup s7
 - Abstractoriginale PubMedPMID37758056 letto tramite ricerca,DOI10.1016/j.anai.2023.09.011. Online26set2023, fascicolodefinitivoAnnAllergyAsthmaImmunol132(1):82–90.e1,gen2024: citare2024/online2023.23pazienti selezionati persospettaallergiaPru p7 e14controlli;tests cutanei,IgE,BAT,Westernblot,Cup s7 reattivo73,9%nelgrupposelezionato. Nonprevalenzanellapopolazione,nonogniallergicoalcipressohaalimentare. IntegraleFlorence403,metodidettagliati,tabelle,COI/fundingP2. Studioallergologico clinico,nessunaevidenzaterapeutica. RicercaDOIAtlante negativa.
+
+
+## Lotto 19.15 — Cupressus: apparati iconografici storici
+- Visionate Dukefig1.39p161/PDF187(coniramo),Tristramp348/PDF360(cimitero),Balfour1857p11/PDF27(testo),Postp748/PDF758fig338(conotaglio),MoldenkeFigura19p96originalePNGnelcheckpointutente. Lafig19èvedutaGerusalemme1870s/C.W.Wilson1883,nonvouchermoderno. Nonrimangonoinquestigruppifiguresoloasserite; facsimileMoldenkep89–91/281ancoraP2. Tavola1553 coerente con caratteriprincipali.
