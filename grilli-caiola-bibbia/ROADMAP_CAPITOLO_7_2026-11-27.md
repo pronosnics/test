@@ -344,3 +344,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.47 — Lawsonia: aggiornata scheda1955
 - Corrette tutte le occorrenze dei due URL bibliografici obsoleti, accordo grammaticale naftochinone e spazi puntuali dei riferimenti; nessuna trasformazione generale dei DOI; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
+
+
+## Lotto 20.48 — Lawsonia: aggiornata scheda7812
+- Uniformato riferimento pubblico Cantico dei Cantici 1:14 e spaziatura del lemma, conservata la parafrasi originale; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/cantico-1-14-henne-vigne-en-ghedi/. Prossimo relazioni e QA.
