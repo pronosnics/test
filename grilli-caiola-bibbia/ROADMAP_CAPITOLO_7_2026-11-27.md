@@ -252,3 +252,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.24 — SCCS — Parere sull’henné, condizioni cosmetiche e limiti
 - Pubblicata e riletta #7802, Opinion on Lawsonia inermis (Henna), COLIPA C169, SCCS/1511/13; Corrigendum12November2021; 10.2772/71314; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/sccs-henne-c169-1511-13-corrigendum2021/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.25 — Brown–Driver–Briggs — Kōfer H3724: henné e omonimi
+- Pubblicata e riletta #7804, A Hebrew and English Lexicon of the Old Testament — Kōfer, voceIII (H3724); https://biblehub.com/bdb/3724.htm; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-kofer-h3724-henne-omonimi/. Prossimo relazioni, SEO e QA.
