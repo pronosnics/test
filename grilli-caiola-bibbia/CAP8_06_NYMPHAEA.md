@@ -22,3 +22,6 @@ Registro legacy ATL-0160 N. lotus, ATL-0159 N. caerulea, ATL-0158 N. alba. Grill
 ## Riserve e continuità
 
 P1-L attribuzioni del motivo templare e di Giobbe, identità e composizione dei prodotti commerciali. P2-A Hepper, Post e Zohary da completare per le ninfee; P2-D analisi dei singoli lotti clinici, voucher e supplementi. P3 verifica pubblica.
+
+### Audit trasversale
+Post pp.48–49 (PDF58–59, testo originale) N. alba presso Huleh; Zohary p.176 (PDF177, testo) interpreta 1 Re 7,19.26 come Lilium candidum. Integrate tre botaniche, relazioni #6180–6183; Duke pp.303–306 ricollazionato, usi esplicitamente N. lotus integrati in #8338, relazione #6184. La notizia di Duke attribuita a Zohary su N. alba non è direttamente riscontrata nel volume 1982. Due term_id mancanti #274–275 inclusi in proposta pending ae28691d-6766-4def-b08c-4d8476f0ec5e. Readback e audit locale positivi.
