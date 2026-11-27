@@ -884,3 +884,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 45.3 — Scheda medicinale #604
 - Integrata sintesi Mohseni da abstract/estratti con limiti specifici della specie, testo precedente conservato e rilettura positiva. Relazione 6079. 
+
+
+## Lotto 45.4 — Sicurezza Pistacia: audit e checkpoint
+- Fonte #8183 Mohseni et al. 2025 pubblicata, SEO verificata, schede medicinali #2301 (P. atlantica), #2327 (P. vera), #604 (P. lentiscus) integrate e rilette preservando contenuti; relazioni #6077–6079 rilette, nessun duplicato. Corretto metadato #2301 su Azizi (testo estratto e registro verificato). P. terebinthus #564 non modificato, non compreso fra i taxa esplicitamente elencati nella revisione. Audit locale #8183/#2301/#2327/#604 positivo 4/4, H1 unico, zero ALT mancanti/note candidate/warning; pending=null, nessuna approvazione. HTTP pubblico non riverificato.
+- Riserva P2 Mohseni: integrale a pagamento, 403, tabelle per studio, sottogruppi, denominatori, rilevazione eventi e duplicazione coorti non verificabili; abstract/estratti originali soltanto. RR eventi 0,99 IC95%0,48–2,05 e ritiri 0,81 IC95%0,62–1,05, non prova equivalenza o sicurezza specie-specifica. Ricerca fino ad agosto 2023. Prossimo: verificare i gruppi candidati duplicati preesistenti di #2291 (fonti #6805 e #6896), distinguere locatori e claim prima di eventuale riconciliazione; quindi audit delle riserve P2 del capitolo, priorità a fonti primarie accessibili. 23/23 monografie chiuse editorialmente con riserve scientifiche documentate.
