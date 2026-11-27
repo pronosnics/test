@@ -975,3 +975,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 49.3 — Botanica #2464
 - Integrate fonti pertinenti, distinzione fra resistenza/resilienza, variabilità climatica e conduttività teorica; calliprinos sensu autori, confronto nomenclatura corrente. Testo precedente preservato, rilettura esatta positiva.
+
+
+## Lotto 49.4 — Fenologia e xilema: audit e checkpoint
+- Ne’eman1993 #8198, Castagneri2017 #8200 e Castagneri2020 #8202 pubblicate, SEO verificate e relazioni #6084–6087 rilette conformi, zero duplicati nelle nuove fonti. Botaniche #2540 e #2464 aggiornate, readback esatto, testo precedente conservato. Ne’eman1993/2016 non repliche indipendenti; 2017/2020 sovrapposizione campioni non verificata. Audit locale positivo 5/5, un H1 ciascuna, zero ALT mancanti/note candidate/warning. Tavole #2541/#2494 invariate, pending=null. HTTP pubblico non riverificato.
+- Riserve: Ne’eman1993 abstract AGRIS e record JSTOR, non integrale; Castagneri2017 abstract/estratti originali, file istituzionale riservato. Castagneri2020 PDF originale, sezioni pertinenti e screenshot pp.2–6,8–9, figure1–7 e tabelle1–3 visionate; supplementi e dati grezzi non acquisiti, conduttività teorica e campioni locali. Nessuna deduzione di resistenza universale o identificazione biblica.
+- Prossimo lotto 50: inventario P2/P3 dei dossier separati Cedrus/Cupressus/Lawsonia/Diospyros, con matrice aggiornata delle riserve di tutte le 23 monografie, distinguere blocchi di accesso, lacune documentali e limiti intrinseci. Selezionare fonti primarie recuperabili senza reiterare gli stessi tentativi falliti. Stato editoriale 23/23, scientifico con riserve.
