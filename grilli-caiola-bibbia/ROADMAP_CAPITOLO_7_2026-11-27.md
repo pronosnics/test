@@ -259,3 +259,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.20 — Cedrus: normalizzata fonte esistente Koh2014 #5821
 - Riusata fonte pubblicata #5821, senza duplicarla. Completati DOI strutturato10.1371/journal.pone.0106406,titolo originale, rivistaPLOS ONE9(8):e106406 e URL. Controllo versione e readback metadati positivo.
 - Conteggi nuovi cap.7 ancora94relazioni, tre assorbimenti distinti; nuove fonti di questo ciclo #7738/#7740/#7742 pubblicate, nessuna nuova botanica. Prossimo relazioni e pulizia passi collegati.
+
+
+## Lotto 18.21 — Cedrus: fonte critica sui materiali commerciali pubblicata
+- Pubblicata e riletta fonte#7747, Manoharan/Lee/Lee2017 DOI10.3389/fmicb.2017.01476, dopo ricerca autore negativa; testo distingue risultati sperimentali, olio commerciale e autenticazione botanica non certificata. Nessuna rideterminazione a Thuja e nessun uso clinico attribuito.
+- Visionata vignetta originale Moldenke p.64 dalla copia checkpoint: tratto firmatoWinifredWalker, portamento adulto, non dettaglio anatomico. Figure1/52 e pagine intere restano da acquisire. Prossimo relazioni strutturate e audit.
