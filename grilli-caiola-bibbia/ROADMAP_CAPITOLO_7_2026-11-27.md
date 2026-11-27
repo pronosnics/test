@@ -24,7 +24,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | 17 | 129 (131) | Quercus ithaburensis | ATL-0191 (ATL-0171-QT) | 2540 | Chiusa editorialmente con riserve (lotto 30.4); vallonea #2455 distinta |
 | 18 | 130 (132) | Quercus calliprinos | ATL-0188 (ATL-0168) | 2464 | Chiusa editorialmente con riserve (lotto 31.4); Q. coccifera secondo Kew, #2508 distinta |
 | 19 | 131 (133) | Rosa phoenicea L. | ATL-0200 | 2677 | Chiusa editorialmente con riserve (lotto32.2); tavola#2679 conservata |
-| 20 | 132 (134) | Pterocarpus santalinus | ATL-0185 (ATL-0166) | 2441 | Da revisionare; non confondere con Santalum album #3212 |
+| 20 | 132 (134) | Pterocarpus santalinus | ATL-0185 (ATL-0166) | 2441 | Chiusa editorialmente con riserve (lotto33.2); Santalum#3212 distinto |
 | 21 | 133 (135) | Ficus sycomorus | ATL-0106 | 367 | Da revisionare |
 | 22 | 134 (136) | Tamarix aphylla | ATL-0250 | 3749 | Da revisionare |
 | 23 | 135 (137) | Pistacia atlantica | ATL-0175 (ATL-0159) | 2291 | Da revisionare |
@@ -610,3 +610,10 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Nuove evidenze umane individuate: Biswas/Maity/Mukherjee2004, PMID15866819 DOI10.1177/1534734604271031, abstract originale:6casi ferite, nessuncontrollo, integraleSage da acquisire; Ahmad etal2025 DOI10.61919/azrhd968, originalePDF e abstract letti,80adulti/7giorni, autori dichiarano randomizzazione/cecità e approvazioneRLMC/IRB/2024-045, nessunfunding/COI. Mancano un voucher botanico e numero di registro nel testo reperito; concentrazione/volume richiedono verifica e non diventano una dose consigliata. Calcolo campionario basato su prevalenza, non differenza tra gruppi; indicatori d’effetto non completamente riproducibili con i valori tabulati. Riserva critica dichiarata, senza dedurre frode o ritrattazione. RicercaDOI/rettifica negativa per avviso pertinente, non controllo esaustivo.
 - Vecchia medicina#2450 troppo sintetica: da integrare esistenza dei lavori umani e rispettivi limiti, senza assoluto “solo preclinico”. DuplicateDOI/PMID negative. Tavola#2442 scaricata e vista:50954byte320×480,SHAd526c1de441188ffb6809492ad0e56a2f1960a364683ac2571556538bd4aa737; senza scritte, caratteri coerenti, conservata. Citazioni#2451–2453/lemmi#2448–2449 letti,3identificazioni controverse preservate.
 - **19/23 chiuse editorialmente, sandalo aperto.**
+
+
+## Lotto 33.2 — Sandalo rosso: integrazione e chiusura editoriale
+- Fonti pubblicate dopo ricerca duplicati: #8085 Biswas2004, #8087 Ahmad2025. Abstract originale Biswas letto su PubMed eSage (integrale a pagamento). Ahmad originale metodi/risultati/discussione e dichiarazioni letti; criticità quantitative registrate al33.1. Nessun dosaggio trasferito al pubblico e nessuna conclusione terapeutica generalizzata.
+- Botanica#2441 e medicina#2450 aggiornate e rilette, distinguendo presenza di studi umani da efficacia consolidata; Grilli132 integrato criticamente. Eliminati provenienzaBase64, promemoria“Grilli non letto”, istruzioni di copia/relazioni dal testo e metadati. Tavola#2442 vista e conservata. Contesto biogeografico indiano distinto da Libano; CITES separata dalla ListaRossa.
+- Relazioni #6000–6007: Grilli a botanica/medicina/2Cr2/2Cr9; due studi clinici a botanica emedicina. Verificati lemmiBDBH484/H418, con numerazione ebraica2Cr2:7 versus tradizioni2:8; tre identificazioni controverse mantenute. SEO verificato #2450/#8085/#8087, botanica già completo.
+- Audit locale10 contenuti: H1unico, nessuna nota candidata/ALTmancante/warning; controllo manuale ha individuato e tolto ulteriori frasi operative non segnalate dall’audit. ConfrontoSantalum#3212 distinto. RiserveP1 limiti di reporting del trial2025; P2 integraleclinico2004, primari preclinici non tutti ricollati oltreDuke; P3 figure originali scientifiche, HTMLpubblico non certificato. **20/23 chiuse editorialmente con riserve;3restanti. Prossimo Ficus sycomorus#367,p133.**
