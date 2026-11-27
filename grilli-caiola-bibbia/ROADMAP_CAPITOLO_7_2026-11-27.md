@@ -371,3 +371,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.42 — Cedrus: SEO salvata e verificata #7747
 - TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7747 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7747,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Oli di cedro e biofilm | Manoharan 2017","description":"Saggi sui biofilm di Candida con oli commerciali: risultati preclinici e limiti dell’attribuzione botanica a Cedrus libani.","focus_keyword":"oli di cedro biofilm"},"sha256":"d7a9e8897641d1e125bfbb7a7e6f8ec4445cf63ada1def82fc6c291d541a576d"}. Non equivale a controllo headHTMLpubblico.
 - Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
+
+
+## Lotto 18.43 — Cedrus: SEO salvata e verificata #7753
+- TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7753 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7753,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Erez e cedri nella Settanta | Naudé 2018","description":"Naudé e Miller-Naudé analizzano i cedri della Settanta: nomi, ambiente, metafore e divergenze nell’identificazione botanica.","focus_keyword":"cedri Settanta Naudé"},"sha256":"39411aa83b9357a041dc083acccda9b803786e159be614c58575319038961f3a"}. Non equivale a controllo headHTMLpubblico.
+- Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
