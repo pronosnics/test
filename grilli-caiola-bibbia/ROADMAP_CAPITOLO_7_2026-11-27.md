@@ -936,3 +936,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 48.2 — Fonte #8194
 - Dufour-Dror ed Ertaş2004 pubblicata, SEO verificata, relazioni #6082/#6083 per #2540/#2455 create. Livello di consultazione testuale esplicitato, confronto Kew, nessuna duplicazione. Prossimo: integrazione delle due botaniche e audit.
+
+
+## Lotto 48.3 — Botanica #2540
+- Integrato confronto ecologico da Dufour-Dror2004, distinta associazione climatica da tolleranza fisiologica e areale storico da POWO corrente. Testo precedente preservato, rilettura esatta positiva.
