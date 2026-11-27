@@ -775,3 +775,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 40.2 — Sicomoro: aggiornamento #373
 - Integrati risultati negativi Artemia e ingresso calcio GH4C1, limiti dell'abstract e distinzione fra i quattro taxa studiati. Testo precedente preservato, rilettura positiva. Nessuna nuova fonte duplicata, nessuna attribuzione di efficacia o sicurezza clinica. P2 integrale Mousa e tesi 1995 aperta. Prossimo: integrazione medicinale #368.
+
+
+## Lotto 40.3 — Sicomoro: aggiornamento #368
+- Integrati risultati negativi Artemia e ingresso calcio GH4C1, limiti dell'abstract e possibile confondimento antibatterico del saggio a disco, senza attribuirlo a Mousa come fatto dimostrato. Testo precedente preservato, rilettura positiva. Nessuna nuova fonte duplicata, nessuna attribuzione di efficacia o sicurezza clinica. P2 integrale Mousa e tesi 1995 aperta. Prossimo: audit e verifica relazioni esistenti.
