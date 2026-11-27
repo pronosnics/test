@@ -281,3 +281,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.26 — Retama: aggiornata scheda2610
 - Botanica aggiornata con confronto Grilli, primari sulla dispersione e ricerca medicinale distinta per campione; metadati tradotti in italiano e rimossa nota Grilli non disponibile, conservato tutto il lavoro Danin/Bailey e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/ginestra-bianca-retama-raetam-forssk-webb-berthel-bibbia/. Prossimo relazioni e QA.
+
+
+## Lotto 22.27 — Retama: aggiornata scheda2612
+- Medicina #2612 integrata con primari2025–2026, esiti non significativi e distinzione gussonei; conservati caso avversoSchmid e usiBailey–Danin, corretto indice originaleFNFF=?; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/usi-medicinali/ginestra-del-deserto-retama-raetam-usi-storici-alcaloidi-e-limiti-clinici/. Prossimo relazioni e QA.
