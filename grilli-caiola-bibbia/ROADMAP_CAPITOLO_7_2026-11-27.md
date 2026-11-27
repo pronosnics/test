@@ -257,3 +257,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.26 — Cupressus: completati metadati fonte4335
 - Fonte esistente#4335 aggiornata con autori,titolo,edizione/anno,editore e URL/DOI pertinenti; readback positivo. Nessuna nuova fonte duplicata. Prossimo contenuti e relazioni.
+
+
+## Lotto 19.27 — Lev-Yadun e Weinstein-Evron (1993) — Cipresso natufiano di el-Wad
+- Pubblicata e riletta #7773, Abstract originaleHaifa; fundingIreneLeviSalaCareArchaeologicalFoundation,NatureReservesAuthorityIsrael,FacultyHumanitiesHaifa; integrale e figureP2; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/lev-yadun-weinstein-evron-1993-cipresso-el-wad/. Prossimo relazioni, SEO e QA.
