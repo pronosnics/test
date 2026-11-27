@@ -219,3 +219,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.11b — Diospyros: recupero dopo mismatch transitorio di rilettura
 - Le pubblicazioni Fareed21.10 e PROSEA21.11 risultano entrambe presenti con il rispettivo diario GitHub. Il primo readback di21.11 ha restituito contenuto differente; rilettura fresca di main acquisita, verificato il sottolotto21.11, nessuna ripetizione delle pubblicazioni. L'helper ora rilegge lo specifico commit restituito da update_file, così verifica il contenuto effettivamente scritto senza dipendere dalla freschezza del riferimento main. Prossimo pubblicare le sole fonti BDB, Kumar eIFGTB ancora non create.
+
+
+## Lotto 21.12 — Brown–Driver–Briggs — H1894, hāḇnîm: ebano e varianti testuali
+- Pubblicata e riletta #7827, Fonte consultata e limiti registrati nei lotti precedenti; nessuna efficacia clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-h1894-havnim-ebano-varianti/. Prossimo relazioni, SEO e QA.
