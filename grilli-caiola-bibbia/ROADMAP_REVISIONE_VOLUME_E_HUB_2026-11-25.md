@@ -1793,3 +1793,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.8, 8.9 terzo passaggio: platano, farmacologia e allergologia; #2344 rettificata, #8373/#8375 pubblicate e relazioni #6172–6175; botanica/medicina aggiornate, readback positivo, 24/5 relazioni. Persistono riserve storiche e iconografiche, HTTP; 8.8/8.9 aperti.
 
 - Cap.8: audit editoriale preliminare 22/22 schede; otto provenienze tecniche ripulite, SEO Arundo #4880 compilato, H1/ALT locali positivi. Verbale AUDIT_CAPITOLO_8_2026-11-27.md. Chiusura scientifica non dichiarata: riserve storiche e tavole/HTTP ancora aperte.
+
+- Cap.8: recuperati PDF Duke, Tristram e Balfour dalla Libreria e ricollazionati testi pertinenti di papiro/platano; 345–348 Duke confermato, schede #427/#2336 e metadato #2357 aggiornati, relazione #6176. Riserve testuali dei tre autori per le pagine recuperate risolte; restano altre riserve e audit conclusivo.
