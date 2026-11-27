@@ -391,3 +391,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.46 — Cedrus: audit locale26contenuti e tentativoHTTP
 - Audit locali eseguiti in tre gruppi di massimo10schede; risposte conservate nel ciclo operativo e da leggere per eventuali marker residui prima della chiusura. Non dichiarare26/26 finché esiti non esaminati.
 - Tentativo pubblico HTTP #266: {"success":true,"data":{"id":266,"url":"https://piantedellabibbia.altervista.org/piante/cedro-del-libano-cedrus-libani/","post_type":"pdb_plant","checked_at_gmt":"2026-11-27T03:05:56+00:00","method":"anonymous_server_http_get","dom_parsed":false,"audit_complete":false,"wordpress":{"featured_id":7737,"plate_id":7737,"featured_url":"https://piantedellabibbia.altervista.org/wp-content/uploads/2026/11/cedrus-libani-tavola-revisionata-20261127.webp","featured_alt":"Cedro del Libano: chioma adulta, aghi su brachiblasti, coni eretti, semi alati e corteccia."},"requested_mode":"http","public_http_verified":false,"local_main_audit_complete":false,"http_attempted":true,"error_code":"http_request_failed","error_message":"cURL error 56: CONNECT tunnel failed, response 403"}}. Distinguere da renderer locale e da indisponibilità del sito al pubblico. Prossimo risolvere gli eventuali marker/fonti condivise, verificare tavola e conteggi finali; nessuna chiusura anticipata.
+
+
+## Lotto 18.47 — Cedrus: ripulita fonte condivisa #1554
+- Rimossi riferimenti operativi/dossier dai metadati pubblici e,perZohary, istruzione editoriale dal corpo; preservate descrizioni scientifiche e tutte le voci del testo. Controllo versione/readback positivo.
+- Note precedenti conservate nel precontrollo: Post conteneva codiciATL0160/0161/0162 e rimandi p206/207/734/841; Balfour riferiva dossierNerium; Zohary istruzione «Per ogni pianta verificare». Queste istruzioni restano solo nel registro operativo.
+- Prossimo audit fonti condivise, verifica indipendente del pubblico e conteggi finaliCedrus.
