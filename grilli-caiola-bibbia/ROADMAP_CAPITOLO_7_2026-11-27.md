@@ -800,3 +800,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 41.4 — Greeff, Mnguni e Warren (2025) — Competizione fra le vespe del sicomoro
 - Fonte #8161 pubblicata e riletta, relazione {"success":true,"data":{"saved":true,"kind":"source_citations","id":6066}}. Consultazione e limiti come 41.1; niente deduzioni sulla perdita di semi. Prossimo: integrare botanica #367 e audit.
+
+
+## Lotto 41.5 — Integrazione botanica #367
+- Inserita sezione ecologia africana con Galil1968, Wiebes1968 e Greeff2025; chiarita distinzione impollinatori/altre vespe, riproduzione insetti/semi. Rilettura positiva, HTML precedente conservato. Prossimo: audit e relazioni.
