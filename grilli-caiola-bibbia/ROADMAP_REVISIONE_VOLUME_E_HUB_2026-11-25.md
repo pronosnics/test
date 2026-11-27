@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.4 integrazione terzo passaggio (27/11):** Yıldırım2025 #8506, #6257, medicina aggiornata/riletta, SEO 4/4, audit locale 6/6. Haroutounian tabelle riconfermate. Testi integrali e riserve storiche/filologiche e amministrative ancora aperti. [Dossier](CAP9_04_RUBUS_CRETICUS.md).
+
 **Cap.9 — 9.4 terzo passaggio (27/11):** Haroutounian2026, Bakr–Rahimi2026, Akkol2015; #8496/#8498/#8500 e #6254–6256, medicina #2709 aggiornata/riletta, SEO 3/3 e audit locale 5/5. Discordanza testo/tabella e risultati negativi esplicitati; due studi solo abstract, riserve nomenclaturali e amministrative. [Dossier](CAP9_04_RUBUS_CRETICUS.md). Lotto aperto.
 
 **Cap.9 — 9.4 secondo passaggio (27/11):** tre fonti #8488/#8490/#8492 e #6251–6253, medicina aggiornata/riletta; Süntar2011, Yener2025 e Zengin2019, esiti negativi e limiti. SEO 3/3, audit locale 5/5. [Dossier](CAP9_04_RUBUS_CRETICUS.md). Lotto aperto.
