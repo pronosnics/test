@@ -1880,3 +1880,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.10 lotto 10.1.1: originali Post/Duke/Zohary ricollazionati, Paulsen 2005 p328 visualizzata; correzione confronto intraindividuale #666/#670, relazioni #6268–6269, readback/audit locale 3/3. Lotto aperto, fonti e verifiche residue nel dossier.
 
 - Cap.10 lotto 10.1.2: #670 aggiornata con Cochrane, Huang 2024 ed EFSA 2018; 4 fonti #8530/8532/8534/8536 pubblicate, 5 relazioni #6270–6274, audit locale 7/7. Riserve storiche, EMA e integrale Huang, filologia, tavola e HTTP aperte. 0/10 chiuse.
+
+- Cap.10 lotto 10.1.3: filologia e Sindone aggiornate #666/#673/#683, fonti #8541/#8543 e relazioni #6275–6282. Collazioni storiche precedenti recuperate da #700, nuove letture originali residue registrate; 0/10 chiuse.
