@@ -79,3 +79,7 @@ Carrubo: Ramón-Laca/Mabberley2004 testo pertinente, ipotesi storico-biogeografi
 
 ## Lotto60
 Q.ilex: Peguero-Pina2014 tab1 e risultati testuali, screenshot403; fonte7902 integrata. Q.ithaburensis: Kaplan/Gutman1999 abstract originale, integrale non accessibile; Ne’eman/Castagneri2017 ancora riserva. Q.coccifera: Spodek/Ben-Dov2014 PDF parziale ufficiale, p3 visionata, nessuna diagnosi ospite antico; Sukenik integrale ancora riserva. Rosa: protologo Boissier1849 testo pp4–5 acquisito, facsimile e tipi non visionati, Zgheib abstract riletto, Carter/Lamonaca ancora riserva. Fonti #8283/#8286/#8289, relazioni #6123–6125, quattro botaniche e fonte7902 aggiornate, audit8/8, pending=null. Prossimo61; altre riserve invariate.
+
+
+## Lotto61
+P.lentiscus: Kleftaki2025 abstract/COI, comparatore senza intervento e integrale non accessibile, medicina604. P.vera: Riley2024 sezioni indicizzate, aderenza90/93%, integrale non acquisito, fonte8040 e medicina2327. P.atlantica: Khadivi2025 44 accessioni/voucher riferito, variabilità fenotipica e sinonimia POWO, dati/figure residui. Ulmus: Bartolucci/Galasso2019 pp138–139 testo originale con olotipo K000852646, facsimile/tipo/Melville1958 non visionati. Populus: Lexer2010 manoscritto istituzionale sezioni pertinenti, figure/supplementi non collazionati. Nuove fonti #8292/#8295/#8302 e relazioni #6126–6128, due fonti preesistenti e cinque schede aggiornate, audit10/10, pending=null. Prossimo62; riserve precedenti invariate.
