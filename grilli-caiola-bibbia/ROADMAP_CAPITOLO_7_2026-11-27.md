@@ -20,7 +20,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | — | 111–112 (113–114) | Commiphora myrrha | ATL-0076 | 1326 | Controllo delta completato (lotto 26) |
 | 14 | 126 (128) | Ulmus canescens | da riscontrare | 3984 | Chiusa editorialmente con riserve (lotto 27.6); Ulmus minor subsp. canescens Bartolucci & Galasso |
 | 15 | 127 (129) | Populus alba | ATL-0181 (ATL-0163) | 2391 | Chiusa editorialmente con riserve (lotto 28.5) |
-| 16 | 128 (130) | Pistacia vera | ATL-0178 (ATL-0160) | 2312 | In revisione (lotto 29.1) |
+| 16 | 128 (130) | Pistacia vera | ATL-0178 (ATL-0160) | 2312 | Chiusa editorialmente con riserve (lotto 29.10); nuova tavola #8047 |
 | 17 | 129 (131) | Quercus ithaburensis | ATL-0191 (ATL-0171-QT) | 2540 | Subsp. ithaburensis; confronto vallonea #2455 separato |
 | 18 | 130 (132) | Quercus calliprinos | ATL-0188 (ATL-0168) | 2464 | Kew sinonimo Q. coccifera; confronto #2508 ATL-0189 (ATL-0169), nessuna fusione presunta |
 | 19 | 131 (133) | Rosa phoenicea L. | ATL-0200 | 2677 | Rosa phoenicia Boiss. già pubblicata; grafia/autore volume da correggere |
@@ -533,3 +533,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 29.9 — Pistacchio: botanica, bibliografia e SEO completate
 - #2312 aggiornata: sintesi dei tre studi e link alla medicina#2327, conclusione/bibliografia spostate dopo le nuove sezioni scientifiche, rimossi locatori PDF operativi dal corpo. Tre relazioni botaniche: [{"success":true,"data":{"saved":true,"kind":"source_citations","id":5977}},{"success":true,"data":{"saved":true,"kind":"source_citations","id":5978}},{"success":true,"data":{"saved":true,"kind":"source_citations","id":5979}}]. SEO completata e verificata per#2317,#8040,#8042,#8044,#2324 (prima vuota). Tavola#8047 confermata nel lotto29.8. Prossimo: readback di tutti i contenuti, relazioni, note/metadati, audit locale e HTTP; chiusura editoriale con riserve documentali se controlli superati. 15/23 monografie chiuse editorialmente.
+
+
+## Lotto 29.10 — Pistacchio: chiusura editoriale con riserve
+- Rilettura effettiva 8/8 contenuti (#2312,#2327,#2324,#474,#2317,#8040,#8042,#8044), tutti pubblicati, controllo manuale mirato testo/metadati senza promemoria interni. Audit locale8/8: H1 unico, zero ALT mancanti, marcatori automatici e warning. Relazioni botanica27, medicina6, nessun gruppo duplicato; sei nuove#5974–5979 rilette conformi. Identificazione#314 conserva status controversa per Gen43:11/boṭnîm, nessuna riconciliazione nuova. Tavola#8047 e SEO controllate nei lotti precedenti.
+- HTTP anonimo della botanica tentato27/11 alle10:48UTC: cURL56 CONNECT tunnel403; frontend/head pubblico non certificati, non dichiarato sito offline. RiserveP2: integrali Ashwini2025 e sezioni residue Riley2024/2025, supplementi dei lavori genomici e fisiologici, Kislev1992 e Hartman–Kislev1998; Kaniewski con volume2027 non usato senza verifica della versione. P3: figure/facsimili storici e fotografia originale Grilli non ricollazionati visivamente, supplementi/figure scientifiche e verifica HTTP. Non promossa l’identificazione biblica né certificata revisione scientifica integrale.
+- Chiusura editoriale con riserve: **16/23 monografie trattate; 7 restanti**. Prossima: *Quercus ithaburensis* subsp. *ithaburensis*,#2540,ATL-0191(operativoATL-0171-QT),p129/PDF131; poi quercia calliprinos/coccifera#2464,p130/PDF132,confronto separato#2508. Le due pagine Grilli lette testualmente per preparare il prossimo passaggio; monografie non ancora integrate.
