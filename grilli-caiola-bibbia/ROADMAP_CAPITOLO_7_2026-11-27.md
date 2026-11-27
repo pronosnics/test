@@ -14,7 +14,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | 8 | 120 (122) | Lawsonia inermis | ATL-0127 | 1955 | Revisione completata; identificazione #520 da allineare nel pannello (lotto20) |
 | 9 | 121 (123) | Diospyros ebenum | ATL-0095 | 1704 | Chiusa editorialmente con riserve (lotto21); comparativa#1716 distinta |
 | 10 | 122 (124) | Retama raetam | ATL-0194 (ATL-0174-RR) | 2610 | Revisione editoriale completata con riserve documentali (lotto 22.42) |
-| 11 | 123 (125) | Boswellia sacra | ATL-0045 | 760 | Da revisionare; confrontare specie fonti incenso |
+| 11 | 123 (125) | Boswellia sacra | ATL-0045 | 760 | In revisione (lotto 23.1) |
 | 12 | 124 (126) | Quercus ilex | ATL-0190 (ATL-0170-QI) | 2525 | Da revisionare |
 | 13 | 125 (127) | Pistacia lentiscus | ATL-0176 | 597 | Da revisionare |
 | — | 111–112 (113–114) | Commiphora myrrha | ATL-0076 | 1326 | Solo elenco/introduzione; già cap.6, controllo delta |
@@ -345,3 +345,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.42 — Retama, approvazione rettifiche
 - Registro riconciliazione b4654aad-bdbf-472e-a9cc-0fbf191bb294: applied alle 06:38:25 GMT del 27/11/2026, quattro relazioni corrette (#1684, #1689, #1701, #1705). Chiusura editoriale con riserve già documentate (originale Moldenke, integrali primari e figure, HTTP 403). Nessuna nuova botanica. Prossimo Boswellia sacra #760.
+
+
+## Lotto 23.1 — Boswellia sacra, WP #760, confronto Grilli e preflight
+- Letta integralmente p.123 (PDF125) del volume originale, fig.75 didascalia acquisita ma immagine non resa dal lettore. Grilli distingue quattro produttrici; non trasferire areale del genere alla specie. Kew POWO IPNI127065-1 e127043-1 letti direttamente: B. carteri sinonimo omotipico illegittimo superfluo, B. frereana accettata Somalia N/NE. Ricerca WP frereana negativa: registrare come comparativa da valutare senza creazione automatica. B. papyrifera #5662 e B. serrata #5669 già distinte.
+- Grilli p123 indica cinque stami e petali fusi; Mariotti Lippi et al. 2011 Flora 206:821–826 DOI10.1016/j.flora.2011.04.008 descrive cinque petali liberi, dieci stami e disco nettarifero cangiante; testo indicizzato editore consultato, apertura 403; integrale da collazionare. 1 Re10:2,10 parla di aromi (besamim), non specificamente incenso: confronto con Is60:6. Sette identificazioni #129–135 restano controverse. WP #760 aggiornato senza rimuovere contenuto precedente, metadati sinonimia/areale precisati. Relazione Grilli esito {"success":true,"data":{"saved":true,"kind":"source_citations","id":5889}}. Prossimo: Thulin2020 monografia, Raffaelli–Tardelli e studi di campo, ricollazione storici/primari, medicina #767 e lemmi, QA visiva #806, pulizia note e SEO. Johnson2025 DOI10.1016/j.jaridenv.2025.105368 integrale reperito ma non ancora collazionato. 
