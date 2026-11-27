@@ -331,3 +331,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.34 — Cedrus: pubblicata Siracide 24:13 — Il cedro del Libano e il cipresso dell’Ermon
 - Creata/pubbicata WP#7755 tipopdb_quote, controllo versione e readback publish positivo, URLhttps://piantedellabibbia.altervista.org/citazioni/siracide-2413-il-cedro-del-libano-e-il-cipresso-dellermon/. RicercheSiracide24/24:13/Ecclesiastico negative per questa unità. Parafrasi italiana originale, greco e luogo distinti; nessuna traduzione moderna riprodotta integralmente. Nessun legame improprio aSir24:14#2051.
 - Prossimo relazioni documentate/identificazione probabile, collegamento botanica e SEO.
+
+
+## Lotto 18.35 — Cedrus: Siracide24:13 collegato senza duplicare il passo successivo
+- Relazioni create e rilette: [{"saved":true,"kind":"source_citations","id":5780},{"saved":true,"kind":"source_citations","id":5781},{"saved":true,"kind":"source_citations","id":5782},{"saved":true,"kind":"source_citations","id":5783},{"saved":true,"kind":"identifications","id":674}]. Nuova identificazioneCedrus probabile; termine ebraicoH730 NON collegato al greco per semplice equivalenza lessicale. RelazioneCupressus rinviata al prossimo esame specifico.
+- Aggiunte4relazioni bibliografiche,22nuoveCedrus,116nuovecomplessivecap.7; tre assorbimenti distinti. Prossimo aggiunta del rimando e della divergenza scientifica nei testi #266/#269, SEO e audit.
