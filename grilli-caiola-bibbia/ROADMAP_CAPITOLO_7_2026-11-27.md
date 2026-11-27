@@ -147,3 +147,10 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - #266/#268/#269 revisionate; nuova tavola#7737; cinque fonti#7738/#7740/#7742/#7747/#7753; Sir24:13#7755 e identificazioneprobabile#674;22nuove relazioni#5762–5783. Totali14botanica/5medicina/6lemma/2nuovopasso, zero duplicati candidati.26auditcontenuti+11fonti locali superati; pagina pubblica/head/hero verificati nelbrowser. FamigliaPinaceae riscontrata.
 - Piano5e07d6f5-aaa6-4879-8447-9426725f9c9f pending per soli locatori#76–78 che mostranoIDWordPress; approvazione esclusivamente nelpannello, richiesta mentre prosegue il capitolo. Cedrus NON ancora conteggiato fra le5chiuse finché pulizia verificata. RiserveP2/P3 nel dossier, cap.6 invariato.
 - Totale cap.7:116nuove relazioni,treassorbimenti separati,saldo+113. Stato:5/23chiuse editorialmente con riserve,1inattesa tecnica; prossima monografiaCupressus sempervirens ATL-0089#1551,p119/PDF121,fig71. Procedere autonomamente.
+
+
+## Lotto 19.1 — Cupressus sempervirens ATL-0089#1551: precontrollo
+- Letta botanica#1551 publish,modified2026-11-24 15:57:30; medicina#1555 esistente, tre lemmi#1556/#1557/#1558 e otto identificazioni#228–235 tutte controverse. Nessuna seconda botanica da creare per var.horizontalis.
+- Otto relazioni bibliografiche: #900–903,#4203–4206. CoppiaZohary#900/#4206 stesso oggetto,pp106–107 eclaim sovrapposti,candidata a fusione conservativa; #901voce89 e#902supplemento281Moldenke sono loci distinti da conservare. Non sovrascrivere pianoCedrus pendente; eventuali proposteCupressus in coda.
+- Tavola#1553 featured=plate,medium320×480,53032byte,SHA256dd434135751ddfe3dc0e6e9ac6fd921f8310b4f5f06d4c649b0a2fe84620436d,ALTpresente; immagine non ancora visionata in questo ciclo. Corpo contiene istruzioni su consultazioni future da ripulire.
+- Prossimo Grilli119/PDF121fig71,Zohary106–107/PDF107–108,Duke160–162/PDF186–188,Moldenke89–91+281,Post748,Tristram348–349,Balfour1857 e1885,Dafni2019,letteratura moderna e QA.
