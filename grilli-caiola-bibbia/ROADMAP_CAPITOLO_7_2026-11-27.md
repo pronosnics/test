@@ -268,3 +268,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.28 — Kōfer — כֹּפֶר (H3724): l’henné del Cantico
 - Pubblicata e riletta #7810, LemmaH3724dopo ricercanegativa; separati sensobotanico e pece/riscatto, nessuna identificazione hennénell'arca; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/nomi-biblici/kofer-h3724-henne-cantico/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.29 — Cantico 1:14 — Un grappolo di henné nelle vigne di En-Ghedi
+- Pubblicata e riletta #7812, Passoassentealle ricerche1:14/Cantico1; parafrasi originale, metadati completi; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/citazioni/cantico-1-14-henne-vigne-en-ghedi/. Prossimo relazioni, SEO e QA.
