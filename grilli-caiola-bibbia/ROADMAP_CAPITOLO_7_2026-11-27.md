@@ -959,3 +959,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 49.2 — Fonte #8198
 - Ne’eman 1993: fenologia della quercia del Tabor: pubblicazione e rilettura confermate; SEO verificata; relazioni #6084. Limiti come 49.1. 
+
+
+## Lotto 49.2 — Fonte #8200
+- Castagneri 2017: xilema e resilienza alla siccità: pubblicazione e rilettura confermate; SEO verificata; relazioni #6085. Limiti come 49.1. 
