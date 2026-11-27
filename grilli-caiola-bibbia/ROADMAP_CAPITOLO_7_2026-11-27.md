@@ -213,3 +213,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.15 — Cupressus: apparati iconografici storici
 - Visionate Dukefig1.39p161/PDF187(coniramo),Tristramp348/PDF360(cimitero),Balfour1857p11/PDF27(testo),Postp748/PDF758fig338(conotaglio),MoldenkeFigura19p96originalePNGnelcheckpointutente. Lafig19èvedutaGerusalemme1870s/C.W.Wilson1883,nonvouchermoderno. Nonrimangonoinquestigruppifiguresoloasserite; facsimileMoldenkep89–91/281ancoraP2. Tavola1553 coerente con caratteriprincipali.
+
+
+## Lotto 19.16 — Cupressus: collazione lessicale e due passi mancanti
+- Letti BDBH1265 https://biblehub.com/bdb/1265.htm,H1613 https://biblehub.com/bdb/1613.htm,H8645 https://biblehub.com/bdb/8645.htm: nomieidentificazionidubbie, non equivalenzespecie. TestoebraicoSal104:17 https://biblehub.com/text/psalms/104-17.htm mostra bərôšîmH1265;Sir50:10CEIufficiale https://www.bibbiaedu.it/CEI2008/at/Sir/50/ eLXXufficiale(ricercagrecoin corso) distinguonofiguraulivo/cipresso. RicercheAtlante104:17/Salmo104 e50:10/Siracide50 senza scheda esatta: creareparafrasi originali senza copiaretraduzioneprotetta. Sir24:13#7755esiste, riutilizzare. Prossimo pubblicazionifonti eparafrasi.
