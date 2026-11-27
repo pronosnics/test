@@ -28,3 +28,5 @@ I nomi della terza colonna identificano il soggetto di lavoro. La ricezione tass
 - Lotto 8.1. Alimo #4940/#4941 aggiornato. [Dossier](CAP8_01_ATRIPLEX_HALIMUS.md). Fonti nuove #8317/#8319, relazioni #6133–6135, tavola #8321, readback e audit locale. Segue Arundo donax.
 
 - 8.2 · Arundo donax · WP #4880, #4881. Distinti Ezechiele 40,5 e i due vocaboli evangelici per il sostegno della spugna. [Dossier](CAP8_02_ARUNDO_DONAX.md).
+
+- 8.3 · Phragmites australis · WP #2243, #2251. Verificate fillotassi e rachilla, separati il testo sul canneto e i passi sui flautisti. [Dossier](CAP8_03_PHRAGMITES_AUSTRALIS.md).
