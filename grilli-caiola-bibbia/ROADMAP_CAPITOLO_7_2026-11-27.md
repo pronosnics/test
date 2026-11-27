@@ -280,3 +280,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.31 — Cupressus: aggiornata scheda244
 - PassocondivisoCant4:13integratoconkofer,senzarimuoverePunica/nardo; ripulitanotaredazionale; identificazione#520nonmodificata inattesadipianocontrollato; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/cantico-4-13-giardino-melagrani/. Prossimo relazioni e QA.
+
+
+## Lotto 20.32 — Cupressus: aggiornata scheda5163
+- Completati metadati bibliografici prima vuoti; fonte esistente riutilizzata, lettura/fonti registrate nei passaggi precedenti; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-lawsonia-inermis-sinonimi-areale/. Prossimo relazioni e QA.
