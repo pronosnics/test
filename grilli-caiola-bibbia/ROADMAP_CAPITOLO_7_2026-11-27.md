@@ -971,3 +971,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 49.3 — Botanica #2540
 - Integrate fonti pertinenti, distinzione fra resistenza/resilienza, variabilità climatica e conduttività teorica; Ne’eman1993/2016 non contati come repliche. Testo precedente preservato, rilettura esatta positiva.
+
+
+## Lotto 49.3 — Botanica #2464
+- Integrate fonti pertinenti, distinzione fra resistenza/resilienza, variabilità climatica e conduttività teorica; calliprinos sensu autori, confronto nomenclatura corrente. Testo precedente preservato, rilettura esatta positiva.
