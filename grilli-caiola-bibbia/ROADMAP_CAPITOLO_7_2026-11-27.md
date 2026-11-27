@@ -321,3 +321,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.45 — Cupressus: aggiornata scheda4337
 - Completati metadati del lessicoH1265/H1266 giàesistente;fonte riutilizzabile per passi contenenti berosh; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/brown-driver-briggs-b%c9%99ros-h1265-e-b%c9%99rot-h1266-legnami-biblici/. Prossimo relazioni e QA.
+
+
+## Lotto 19.46 — Cupressus: appendice anatomica1994 collazionata
+- Lettaappendice pp395–396: cipresso tracheidi,anelli ondulati,assenza canalire siniferi,punteggiaturecupressoidi,raggi alti e paretilisce;confronto direttoJuniperusphoenicea, non genetica/barkbarcode. DiagnosiQ.calliprinosdiffusoporus vsQ.ithaburensisporositàanulare utile allefuturequerce;Tamarixdeterminabilesoloagenere,autoriipotizzanoT.tetragyna,non aphylla. Salixacmophyllaipotesigeografica,legnonondistinguespecie. Riservarequestidati ai taxapertinenti; conto32tabella confermato, frequenzanonabbondanza. FigSEMnonancoravisionate.
