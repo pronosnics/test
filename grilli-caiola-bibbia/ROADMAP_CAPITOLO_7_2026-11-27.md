@@ -236,3 +236,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.20 — Chilmeran e colleghi (2026) — Revisione degli studi clinici sull’henné
 - Pubblicata e riletta #7794, Clinical efficacy and safety of Lawsonia inermis (Henna): A systematic review of human clinical studies; 10.1016/j.ctim.2026.103470; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/chilmeran-2026-revisione-clinica-henne/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.21 — Dike, Blankson e Segnitome (2025) — Emolisi dopo henné e deficit di G6PD
+- Pubblicata e riletta #7796, Henna-Induced Intravascular Hemolysis in a Glucose-6-Phosphate Dehydrogenase-Deficient Ghanaian Female Child with Full Defect; 10.2147/IMCRJ.S534544; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/dike-2025-henne-emolisi-g6pd/. Prossimo relazioni, SEO e QA.
