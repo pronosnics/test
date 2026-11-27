@@ -285,3 +285,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.27 — Retama: aggiornata scheda2612
 - Medicina #2612 integrata con primari2025–2026, esiti non significativi e distinzione gussonei; conservati caso avversoSchmid e usiBailey–Danin, corretto indice originaleFNFF=?; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/usi-medicinali/ginestra-del-deserto-retama-raetam-usi-storici-alcaloidi-e-limiti-clinici/. Prossimo relazioni e QA.
+
+
+## Lotto 22.28 — Retama: aggiornata scheda1603
+- Lemma vegetale #1603 aggiornato in italiano, tolto riferimento tecnicoWP559; collegato al toponimo distinto e verificata differenza tra ginestra e oloparassita; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/ro%e1%b9%afem-%d7%a8%d6%b9%d7%aa%d6%b6%d7%9d-h7574-la-ginestra-del-deserto/. Prossimo relazioni e QA.
