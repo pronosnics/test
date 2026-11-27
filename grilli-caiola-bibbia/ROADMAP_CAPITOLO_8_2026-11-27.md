@@ -40,3 +40,5 @@ I nomi della terza colonna identificano il soggetto di lavoro. La ricezione tass
 - 8.7 · Nerium oleander · WP #2038, #2055. Separati gli argomenti per Sir 24,14 e Sir 39,13. Eliminata un’istruzione interna dal testo; integrata la fonte sanitaria greca del 2026. [Dossier](CAP8_07_NERIUM_OLEANDER.md).
 
 - 8.8 · Cyperus papyrus · WP #427/#432. Primo passaggio differenziale salvato: Grilli pp. 138, 146; correzione stami (3), Gs 4,23 yam sûph, Is 18,2; relazioni #6152–6154; readback botanica e audit locale positivo. Lotto **in corso**, medicina, fonti storiche, apparati e tavola da completare. [Dossier](CAP8_08_CYPERUS_PAPYRUS.md).
+
+- 8.8 (continuazione) · Medicina #432 aggiornata con Dafni–Böck 2019, OE/NT, fonte #2069, relazioni #6155–6156, readback e audit locale positivi. Restano ricollazione storica, letteratura recente, apparati, tavola e SEO/HTTP. Prossimo: completamento 8.8, poi 8.9.
