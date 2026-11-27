@@ -220,3 +220,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.13 — Cedrus: pubblicata fonte Mutlu e colleghi (2026) — Olio dei coni di cedro e cellule di melanoma
 - Dopo ricerca preventiva autore/titolo/DOI senza corrispondenze, creata e pubblicata fonte WP#7740, DOI/URL https://doi.org/10.1080/14786419.2026.2614396. Rilettura positiva dello stato publish e metadati. Fonti effettive e limiti descritti nel sottolotto18.9/18.11. Nessun duplicato botanico creato.
 - Nessuna relazione ancora creata per questa fonte; SEO da compilare nel successivo controllo. Prossimo integrare botanica/medicina/lemma, creare collegamenti con locatori e verificare contenuti salvati.
+
+
+## Lotto 18.14 — Cedrus: pubblicata fonte Brown–Driver–Briggs — ʾerez, cedro e legname (H730)
+- Dopo ricerca preventiva autore/titolo/DOI senza corrispondenze, creata e pubblicata fonte WP#7742, DOI/URL https://biblehub.com/bdb/730.htm. Rilettura positiva dello stato publish e metadati. Fonti effettive e limiti descritti nel sottolotto18.9/18.11. Nessun duplicato botanico creato.
+- Nessuna relazione ancora creata per questa fonte; SEO da compilare nel successivo controllo. Prossimo integrare botanica/medicina/lemma, creare collegamenti con locatori e verificare contenuti salvati.
