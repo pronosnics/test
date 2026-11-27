@@ -228,3 +228,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.18 — Lawsonia: tavola corretta caricata e associata
 - WebP1024×1536,437454byte,SHA14389b2fd4b95c7e10dcbd9d286a151e01c1e8730b1fb71b822de0b3064834f5,9blocchibase64trasferiti,finishpositivo e successivamedia-infofullverifica featured=plate nuovoID7791.Vecchio1956conservato. ALT/captionnonscrittetecniche;integritàeassociazioneconfermate. RisoltoP1visualedi20.12,headpubblicodaverificareallaQA.
+
+
+## Lotto 20.19 — Nounah e colleghi (2026) — Semi e foglie di Lawsonia inermis
+- Pubblicata e riletta #7792, New insights into the chemical composition and biological activities of Lawsonia inermis seeds and leaves: a comparative study; 10.1038/s41598-026-47202-5; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/nounah-2026-lawsonia-semi-foglie/. Prossimo relazioni, SEO e QA.
