@@ -210,3 +210,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.14 — Lawsonia: prima tavola revisionata, dettaglio ancora da correggere
 - Generazioneeditdatavola1956filegenerated_images/exec-234cb106-bc83-4246-bff0-443a9cd977f7.png: migliorati4petali,polvereverdeoliva,capsula4logge,sfondochiaro/assenza scritte. Esamevisivocontasulfioreingranditoancora10antere(2superflue diagonalisuperiori),non8;sezione mostra6stamivisibilianzi4inmetàfiore. Nessunuploadfinchécorretto. Richiedereeditmiratosulle2antereextra senzaaltre modifiche.
+
+
+## Lotto 20.15 — Lawsonia: tavola corretta e selezionata
+- Secondoeditgenerated_images/exec-b5815243-228e-4780-9fd5-f875493602ff.png visionato: fioreanalitico4petali/8anterein4coppie,metàfiore4stamivisibili,capsula4logge,polvereverdeoliva,colorivivi,sfondochiaro,nessunscritto. RisoltoP1visualedi20.12;nonsostituitoancoraWP. ConvertireWebP,uploadcontrollato e verificaassociazione.
