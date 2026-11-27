@@ -328,3 +328,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.43 — Lawsonia: bibliografia strutturata collegata
 - Create33relazioni bibliografiche,ID5822,5823,5824,5825,5826,5827,5828,5829,5830,5831,5832,5833,5834,5835,5836,5837,5838,5839,5840,5841,5842,5843,5844,5845,5846,5847,5848,5849,5850,5851,5852,5853,5854;risposte positive e richieste conservate perreadback. Novefontinuove7792–7806(dispari/intervallo IDrealenell’elenco) e7817,nessunaripetizionedelle6plantoriginali. NuovilocilegittimiKewconservazione/genere edMoldenkesu244Lawsonia124–125distintidaPunica190–191. Prossimo riletturatotali, SEO,audit econtrollopubblico.
+
+
+## Lotto 20.44 — Lawsonia: SEO compilata e riletta
+- CampiYoastletti18contenuti;aggiornati16prima vuoti:7808,7810,7812,5163,5164,5165,5166,7792,7794,7796,7798,7800,7802,7804,7806,7817. SHA/readbackinterno positivociascuno,conservatiprincipal#1955e#244giàcompleti. Correzionelog20.43:nuovefonti#7792/#7794/#7796/#7798/#7800/#7802/#7804/#7806/#7817(nove,nonIDdispari).33nuovebibliografiche5822–5854;cap7tot187nuove,3assorbimentiprecedentiseparati,saldo184. Prossimo audit.
