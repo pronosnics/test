@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Capitolo 9 (27/11/2026) — AVVIATO.** [Roadmap](ROADMAP_CAPITOLO_9_2026-11-27.md) · quattro monografie, pp.149–154 (PDF151–156), figg.97–100; quattro botaniche e quattro medicinali esistenti. 9.1 Notobasis #2080/#2095 aggiornati e riletti, relazioni #6187–6188, audit locale 2/2, SEO verificato; [dossier](CAP9_01_NOTOBASIS_SYRIACA.md). Revisione ancora aperta; studi moderni individuati ma non ancora integrati, fonti residue e controllo tavola/HTTP pendenti. Cap.8: riserve conservate, due tavole da sostituire separatamente.
+
 **Capitolo 8 (27/11/2026).** [Roadmap corrente](ROADMAP_CAPITOLO_8_2026-11-27.md) · nove monografie. Primo lotto pubblicato e riletto su botanica e medicina dell’alimo. [Registro](REGISTRO_WORDPRESS_CAPITOLO_8_2026-11-27.md) · [Riserve](MATRICE_RISERVE_CAPITOLO_8_2026-11-27.md).
 - 8.7 · Nerium oleander · WP #2038, #2055. Separati gli argomenti per Sir 24,14 e Sir 39,13. Eliminata un’istruzione interna dal testo; integrata la fonte sanitaria greca del 2026. [Lotto 7](CAP8_07_NERIUM_OLEANDER.md).
 - 8.6 · Nymphaea spp. · WP #2134, #2129, #2114, #8338, #8342, #2125. Una monografia collettiva collegata a tre botaniche. Create due medicinali distinte, conservata la medicinale della ninfea bianca europea. [Lotto 6](CAP8_06_NYMPHAEA.md).
