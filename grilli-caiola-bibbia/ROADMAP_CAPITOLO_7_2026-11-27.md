@@ -761,3 +761,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 39.4 — Integrazione botanica #367
 - Inserita sezione sulla fisiologia sperimentale e sull'impollinazione, con valori Zeroni e limiti Galil, DOI originali. HTML precedente preservato, readback positivo. Nessuna modifica medicinali, identificazioni, tavola o SEO, non duplicati rapporti. Prossimo audit e verifica locatori #151/#6014.
+
+
+## Lotto 39.5 — Sicomoro: verifiche P2 e locatori
+- #367, #8093 e #372 aggiornate e rilette; testo originale Zeroni 1972 pp.378–381 e Galil/Eisikowitch 1968 sezioni pertinenti pp.754–756/tab.2 consultati, figure non certificate visivamente. Nessuna nuova fonte/relazione, 20 relazioni botanica invariate; Moldenke facsimile106–107 non recuperato. Audit locale 3/3 H1 unico, zero ALT mancanti/note candidate/warning; tavola #8092 invariata; HTTP pubblico non riverificato.
+- Piano b0e6360c-898b-410e-a560-65ad8d2e0548 pending, applied=false, due operazioni solo pagine e locatori #151 e #6014, claim invariati. Approvazione amministrativa obbligatoria https://piantedellabibbia.altervista.org/wp-admin/admin.php?page=pdba-reconcile . Dopo approvazione rileggere righe e verificare pending=null. Prossimo P2: Mousa1994 DOI10.1016/0378-8741(94)90060-4, fonte #373; approfondire integrale e limiti sperimentali, senza ripetere verifiche concluse. 23/23 monografie chiuse editorialmente con riserve documentate; nessuna chiusura scientifica integrale.
