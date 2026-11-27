@@ -1,9 +1,11 @@
 # Capitolo 7 — Verbale di audit conclusivo (27/11/2026)
 
+**Stato conclusivo lotto 63 (27/11/2026): CHIUSURA EDITORIALE E AMMINISTRATIVA COMPLETATA CON RISERVE DOCUMENTATE — 63/63 lotti, 23/23 monografie + delta mirra.** Riconciliazione applicata e riletta, pending=null; 520 relazioni bibliografiche botaniche (522 prima delle due fusioni). Questo stato prevale sulle precedenti annotazioni di attesa. Restano le riserve scientifiche/documentali e i controlli HTTP non eseguibili. [Verbale conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_7_2026-11-27.md).
+
 ## Stato
 Lotto 63, audit trasversale sul materiale accessibile, **eseguito con coda amministrativa ancora aperta**. 23/23 monografie chiuse editorialmente con riserve + delta mirra. Non equivale a chiusura scientifica assoluta o attestazione di tutti gli originali. Dati riletti live tramite MCP in questa sessione; nessuna nuova collazione delle fonti originali effettuata nel lotto 63.
 
-## Inventario e risultati live
+## Inventario e risultati live (tabella aggiornata dopo riconciliazione)
 | Taxon | WP botanica | WP medicina | Relazioni bibliografiche botanica | Identificazioni | Relazione Grilli #775 | Tavola |
 |---|---:|---:|---:|---:|---|---:|
 | Abies cilicica | 4328 | 4329 | 19 | 3 | 5668 | 4330 |
@@ -15,7 +17,7 @@ Lotto 63, audit trasversale sul materiale accessibile, **eseguito con coda ammin
 | Cupressus sempervirens | 1551 | 1555 | 18 | 11 | 5784 | 1553 |
 | Lawsonia inermis | 1955 | 7808 | 24 | 2 | 5822 | 7791 |
 | Diospyros ebenum | 1704 | 1709 | 26 | 1 | 5855 | 7833 |
-| Retama raetam | 2610 | 2612 | 31 | 3 | 5878 | 2613 |
+| Retama raetam | 2610 | 2612 | 30 | 3 | 5878 | 2613 |
 | Boswellia sacra | 760 | 767 | 19 | 7 | 5889 | 806 |
 | Quercus ilex | 2525 | 2529 | 23 | 1 | 5900 | 2530 |
 | Pistacia lentiscus | 597 | 604 | 22 | 5 | 5912 | 609 |
@@ -26,7 +28,7 @@ Lotto 63, audit trasversale sul materiale accessibile, **eseguito con coda ammin
 | Quercus coccifera | 2464 | 2476 | 21 | 6 | 5985 | 2494 |
 | Rosa phoenicia | 2677 | 2678 | 16 | 5 | 5994 | 2679 |
 | Pterocarpus santalinus | 2441 | 2450 | 14 | 3 | 6000 | 2442 |
-| Ficus sycomorus | 367 | 368 | 23 | 8 | 6008 | 8092 |
+| Ficus sycomorus | 367 | 368 | 22 | 8 | 6008 | 8092 |
 | Tamarix aphylla | 3749 | 3750 | 24 | 3 | 6024 | 3768 |
 | Pistacia atlantica | 2291 | 2301 | 33 | 10 | 6034 | 2292 |
 | Commiphora myrrha (delta cap. 6) | 1326 | 1338 | 18 | 11 | 5444 / 5934 | 1327 |
@@ -43,3 +45,10 @@ Totale prima di eventuale riconciliazione: 522 relazioni bibliografiche sulle 24
 
 ## Coda per chiusura amministrativa del lotto
 Approvazione della riconciliazione, rilettura e audit mirato; riportare stato effettivo in roadmap e verbale. Controllo pubblico dopo modifiche e completamento normalizzazioni bibliografiche/filologiche in coda, separati dalle riserve intrinseche. Nessuna nuova botanica creata.
+
+
+## Lotto 63.1 — Rilettura dopo approvazione e chiusura editoriale (27/11/2026)
+- Piano 1b98baa3-a20c-4b20-938d-0912d8b7aff8: journal.status=applied, approvato e completato alle 15:12:48 secondo il registro; pending=null. Ficus sycomorus WP #367: #174 assorbita in #176, fonte Moldenke #135, p282; totale 22. Retama raetam WP #2610: #1688 assorbita in #1680, fonte Tristram #2042, pp359–360; totale 30. Riletti locator, pagine e claim integrati, conformi all'anteprima approvata; le due righe assorbite non sono più presenti. Le relazioni Grilli #6008 e #5878 restano intatte. Totale consolidato 520 sulle 24 botaniche (522 meno le due fusioni); nessuna fonte o scheda eliminata. Restanti gruppi per loci o claim distinti conservati.
+- Audit locale post-applicazione 6/6 (#367, #2610, #294, #4345, #368, #2612), H1 unico, zero ALT mancanti, note candidate e warning. Tavole 8092/2613 confermate coincidenti con featured. Yoast titolo/description/focus delle due botaniche riletti e presenti. Relazione #458 Cantico 1:17 / bərôtîm H1266 confermata; nessuna promozione identificativa. I precedenti audit 48/48 e le 119 identificazioni riletti al lotto 63 restano documentati.
+- Nuovi tentativi HTTP anonimi #367 e #2610 alle 15:13:31/32 GMT: CONNECT tunnel 403; nessuna attestazione di head o resa pubblica attuale. Non prova di indisponibilità per i visitatori. Conservare il precedente audit browser 23/23 come attestazione storica, non attuale.
+- Stato finale: ciclo editoriale e amministrativo chiuso con riserve, 63/63 lotti, 23/23 monografie + delta mirra. Non equivale a certificazione scientifica senza riserve: originali, apparati, limiti intrinseci, normalizzazioni bibliografiche e filologiche non urgenti e verifica pubblica restano in coda separata. Il locatore vuoto della riga assorbita #174 non è più una lacuna attiva (18 dei 19 locatori legacy precedentemente censiti rimangono). Non ripetere il ciclo senza nuove evidenze. Nessuna ulteriore approvazione richiesta per le due riconciliazioni. Prossimo: proseguire secondo roadmap generale, mantenendo la matrice delle riserve.
