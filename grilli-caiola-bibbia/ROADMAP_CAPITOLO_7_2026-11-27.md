@@ -217,3 +217,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.16 — Cupressus: collazione lessicale e due passi mancanti
 - Letti BDBH1265 https://biblehub.com/bdb/1265.htm,H1613 https://biblehub.com/bdb/1613.htm,H8645 https://biblehub.com/bdb/8645.htm: nomieidentificazionidubbie, non equivalenzespecie. TestoebraicoSal104:17 https://biblehub.com/text/psalms/104-17.htm mostra bərôšîmH1265;Sir50:10CEIufficiale https://www.bibbiaedu.it/CEI2008/at/Sir/50/ eLXXufficiale(ricercagrecoin corso) distinguonofiguraulivo/cipresso. RicercheAtlante104:17/Salmo104 e50:10/Siracide50 senza scheda esatta: creareparafrasi originali senza copiaretraduzioneprotetta. Sir24:13#7755esiste, riutilizzare. Prossimo pubblicazionifonti eparafrasi.
+
+
+## Lotto 19.17 — Scali e colleghi (2026) — Resistenza del cipresso al cancro da Seiridium
+- Pubblicata e riletta #7761, Disease resistance in cypress involves a dynamic transcriptome-wide response that includes resistance genes characterized in model pathosystems; 10.1038/s41598-026-62624-x; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/scali-2026-cupressus-seiridium-trascrittomica/. Prossimo relazioni, SEO e QA.
