@@ -260,3 +260,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.26 — UBS TIPs — Henné, grappoli e giardino del Cantico
 - Pubblicata e riletta #7806, Translation Insights and Perspectives — Henna; https://tips.translation.bible/tip_term/henna/; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/ubs-tips-henne-cantico-grappolo/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.27 — Lawsonia inermis — Henné: usi storici, studi clinici e sicurezza
+- Pubblicata e riletta #7808, Nuova medicina dopo tre ricerche negative; evidenza traditional descritta con dettagli clinici e limiti, collegamento1955; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/usi-medicinali/lawsonia-inermis-henne-usi-studi-sicurezza/. Prossimo relazioni, SEO e QA.
