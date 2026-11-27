@@ -254,3 +254,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.19 — Cedrus: aggiornata e riletta scheda #269
 - Aggiornata WP#269 con expected_modified_gmt corrente, rilettura publish positiva; contenuto 4332caratteri. Lemma: rimossa sezione di istruzioni future, aggiunti H730 e forme plurali/costrutte, numerazione dei passi e Zohary. Natura lessicale distinta dalla determinazione di specie.
 - Relazioni bibliografiche e SEO non ancora completate. Prossimo creare collegamenti con fonti esistenti/nuove e controllare i passi collegati prima della chiusura.
+
+
+## Lotto 18.20 — Cedrus: normalizzata fonte esistente Koh2014 #5821
+- Riusata fonte pubblicata #5821, senza duplicarla. Completati DOI strutturato10.1371/journal.pone.0106406,titolo originale, rivistaPLOS ONE9(8):e106406 e URL. Controllo versione e readback metadati positivo.
+- Conteggi nuovi cap.7 ancora94relazioni, tre assorbimenti distinti; nuove fonti di questo ciclo #7738/#7740/#7742 pubblicate, nessuna nuova botanica. Prossimo relazioni e pulizia passi collegati.
