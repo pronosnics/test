@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.2 terzo passaggio (27/11):** studio Arviv 2016 #8433, confronto Silybum/Notobasis, Tristram, Grilli tab.12, nomenclatura, collazione LXX, audit locale 10/10. Piano Notobasis applicato; piano duplicati Silybum 5eb1fa8e-4389-413f-979e-72195db1cb18 in attesa; altre sovrapposizioni documentate nel dossier. Lotto aperto. [Dossier](CAP9_02_SILYBUM_MARIANUM.md).
+
 **Cap.9 — 9.2 terzo passaggio (27/11):** Arviv 2016 #8433 e #6216–6222, confronto fonti storiche/moderne e LXX Gen3:18/Os10:8, sei contenuti aggiornati/riletti. Rettifiche Notobasis c81e... applicate; piano duplicati Silybum 5eb1fa8e-4389-413f-979e-72195db1cb18 pending. Audit locale positivo; riserve residue nel [dossier](CAP9_02_SILYBUM_MARIANUM.md).
 
 **Cap.9 — 9.2 secondo passaggio (27/11):** OMS/EMA 2024, Navarro2019 e Weyl-Feinstein2025; #8425/#8427/#8429 e #6212–6215. Silybum #3482/#3483 aggiornate/rilette, medicina in italiano, tavola #3485 conservata, SEO/audit locale 5/5. Duplicati esatti confermati #2667/#2668, da riconciliare; lotto aperto. [Dossier](CAP9_02_SILYBUM_MARIANUM.md).
