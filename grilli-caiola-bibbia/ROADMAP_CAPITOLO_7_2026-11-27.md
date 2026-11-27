@@ -332,3 +332,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.44 — Lawsonia: SEO compilata e riletta
 - CampiYoastletti18contenuti;aggiornati16prima vuoti:7808,7810,7812,5163,5164,5165,5166,7792,7794,7796,7798,7800,7802,7804,7806,7817. SHA/readbackinterno positivociascuno,conservatiprincipal#1955e#244giàcompleti. Correzionelog20.43:nuovefonti#7792/#7794/#7796/#7798/#7800/#7802/#7804/#7806/#7817(nove,nonIDdispari).33nuovebibliografiche5822–5854;cap7tot187nuove,3assorbimentiprecedentiseparati,saldo184. Prossimo audit.
+
+
+## Lotto 20.45 — Lawsonia: recupero readback GitHub
+- Update20.44risultava salvato ma prima lettura non coincideva coltestoatteso;nuovafetchha verificato prefisso43intatto,lotto44unico e completo finoacoda. NessunaggiornamentoWordPressoSEO ripetuto,16SEOriuscite,controverifica7808positiva. RipristinatostatoSHAcorrente; nessunlavoroperso. IntestazioniCupressusin20.30–35/38/40/41sonoresiduodihelper,daticontenutiIDtuttiLawsonia: correggereindice/dossierconcronologiaintatta. Prossimo18auditcontenuti,NONeseguitinellachiamatainterrotta.
