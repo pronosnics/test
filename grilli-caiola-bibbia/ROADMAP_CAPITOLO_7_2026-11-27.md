@@ -241,3 +241,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.22 — Cupressus: Meunier1994 e limiti originali moderni
 - Ricondotto X7884634 diDuke all’originaleMeunierM.T.,VillieF.,BastideP.,JPharmBelg49(6):453–461,1994,PMID7884634,https://pubmed.ncbi.nlm.nih.gov/7884634/,abstractletto: oligomeriproantocianidolicieinterazioneelastasi/elastina insistema biochimico; concentrazioni dipendentidaltest,nessunaprovaclinica di trattamentovascolare. Integrale francese,voucher,statistica,COI/fundingnoncollazionati. HALPasteur04675298/manoscrittoCecchiindividuato maAnubisAccessDenied9e4edb5b6b850c41; nonaggirare. ScaliPDF15p inizialmenteestrattodalweb(refturn305036665view7),poiIDPnonaccessibileanchefind/screenshot;correggereprecedenteasserzionegenericaPDFfallito: testo parzialeconsultato,figurenonvisionate.
+
+
+## Lotto 19.23 — Meunier, Villie e Bastide (1994) — Proantocianidine del cipresso ed elastasi
+- Pubblicata e riletta #7771, PubMed7884634, abstract originale; integrale e autenticazione botanica non acquisiti; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/meunier-1994-cipresso-proantocianidine-elastasi/. Prossimo relazioni, SEO e QA.
