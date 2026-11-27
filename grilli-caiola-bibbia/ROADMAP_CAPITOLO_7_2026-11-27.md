@@ -753,3 +753,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 39.2 — Zeroni 1972, fonte #8093
 - Aggiornata fonte già pubblicata con metodi e risultati quantitativi delle pp.378–381; preservato testo precedente, readback positivo. Nessuna fonte duplicata, relazione #6014 conservata; locatore da aggiornare con procedura controllata. Limite figure non visionate già in 39.1.
+
+
+## Lotto 39.3 — Galil/Eisikowitch 1968, fonte #372
+- Recuperato testo dell'articolo caricato da Dan Eisikowitch (ResearchGate, 11/11/2018): https://www.researchgate.net/publication/240456005_Flowering_cycles_and_fruit_types_of_Ficus_sycomorus_in_Israel ; collazionate sezione Controlled pollination experiments, tab.2 e discussione pp.754–756. Otto gruppi con vespe integre o senza ovopositore, tre fonti di polline e controlli; solo siconi colonizzati inclusi, nessun seme, sviluppo completato con vespe integre. Incompatibilità non esclusa; presenza di polline non sufficiente, distinzione Ceratosolen/Sycophaga. Testo originale estratto, figure e facsimile non verificati visivamente. Fonte #372 aggiornata e riletta preservando testo; relazione #151 esistente non duplicata. Prossimo: integrazione botanica #367 e audit.
