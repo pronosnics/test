@@ -293,3 +293,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.29 — Retama: aggiornata scheda2604
 - CitazioneElia #2604 ripulita da istruzione Riusa term#1603, chiarito cibo dell'angelo distinto dai semi, conservati identificazione probabile e parafrasi; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/1-re-194-5-elia-allombra-del-ro%e1%b9%afem-nel-deserto/. Prossimo relazioni e QA.
+
+
+## Lotto 22.30 — Retama: aggiornata scheda2606
+- Salmo #2606: eliminate frasi imperative e inglese, spiegata immagine e numerazioneLXX senza misura di potere calorifico; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/salmo-1204-i-carboni-ardenti-della-ginestra-ro%e1%b9%afem/. Prossimo relazioni e QA.
