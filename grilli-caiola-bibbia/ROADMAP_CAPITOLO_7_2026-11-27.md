@@ -244,3 +244,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.17 — Cedrus: aggiornata e riletta scheda #266
 - Aggiornata WP#266 con expected_modified_gmt corrente, rilettura publish positiva; contenuto 24483caratteri. Botanica: rimosse note operative e riepiloghi sovrapposti, bibliografia ampliata, numerazione1Re4:33/5:13 distinta, conteggi Grilli attribuiti, Tristram/Balfour diretti e genetica2026 integrati; limiti dell’identificazione chimica Kabri esplicitati. Provenienza tavola ripulita,featured/plate#7737 preservati.
 - Relazioni bibliografiche e SEO non ancora completate. Prossimo creare collegamenti con fonti esistenti/nuove e controllare i passi collegati prima della chiusura.
+
+
+## Lotto 18.18 — Cedrus: aggiornata e riletta scheda #268
+- Aggiornata WP#268 con expected_modified_gmt corrente, rilettura publish positiva; contenuto 7462caratteri. Medicina: eliminate ripetizioni di elenchi, mantenute testimonianze regionali/parti e rischi, aggiunti studioMutlu2026 e limite dei materiali commercialiManoharan2017; metadati data/evidenza/FNFF aggiornati. Nessuna efficacia clinica attribuita.
+- Relazioni bibliografiche e SEO non ancora completate. Prossimo creare collegamenti con fonti esistenti/nuove e controllare i passi collegati prima della chiusura.
