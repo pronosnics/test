@@ -1783,3 +1783,5 @@ Priorità successiva: tentativi mirati di recupero delle fonti non integralmente
 Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie su 9 registrate come trattate; 8.8 papiro in corso, WP #427/#432 aggiornati con Grilli, POWO e Dafni–Böck, relazioni #6152–6156, readback e audit locale eseguiti. Restano riserve e controlli del lotto 8.8, poi 8.9 platano e audit trasversale. Non chiuso scientificamente o amministrativamente.
 
 - Capitolo 8, lotto 8.8 (terzo passaggio): collazione storica e studio Bausch 2022 #8357, relazioni #6157–6160, readback/audit locale positivo. Tavola #493 con etichette da sostituire; HTTP anonimo 403. Lotto ancora aperto, 7/9 monografie registrate come trattate.
+
+- Capitolo 8, lotto 8.8 (quarto passaggio): Duke testo pp.172–174 recuperato, Grilli apparati tab.7/8/12, Tallet 2026 #8360 e relazioni #6161–6163; 22 relazioni botaniche del papiro. Tavola prodotta ma upload bloccato DNS, nessuna sostituzione. Persistono riserve; 7/9 monografie registrate come trattate.
