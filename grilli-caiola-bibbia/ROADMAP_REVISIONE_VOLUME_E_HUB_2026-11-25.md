@@ -1886,3 +1886,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.10 lotto 10.1.4: apparati Grilli incongruenza conteggi 9/6, tavola #676 ispezionata via byte MCP (cartiglio/margini da correggere), SEO 4/4, relazione controversa Aquilaria #694, audit locale 10/10; HTTP 403. Aloe aperta, 0/10 definitive.
 
 - Cap.10 lotto 10.1.5: Balfour testo e nota Trevor recuperati; Roumpekas ed Eggli pubblicati #8548/#8550, tre relazioni #6283–6285; #666/670/683 aggiornati, audit locale 12/12. Tavola non ancora sostituita, riserve bibliografiche nel dossier.
+
+- Addendum iconografico 10.1.5: generata una nuova bozza a colori senza testo (27/11/2026, gen 41204278-3f3e-4a90-a79a-0c9e2b077fb5). Non approvata per pubblicazione: dettagli del gineceo mostrano stigma lobato vistoso, non coerente con stigma semplice nella diagnosi generica di Post p782; racemo troncato al margine superiore. Conservata #676, nessuna modifica media. P3 resta aperta; nuova tavola da validare prima dell’upload.
