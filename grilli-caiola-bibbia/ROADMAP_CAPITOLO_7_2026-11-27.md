@@ -211,3 +211,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.10 — Fareed e colleghi (2026) — Diospyros ebenum: frazioni fogliari e modello animale
 - Pubblicata e riletta #7823, Fonte primaria o repertorio consultato nei limiti descritti nei lotti21.4–21.9; nessuna evidenza clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/fareed-2026-diospyros-ebenum-scopolamina-e71397/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 21.11 — Sosef (1995) — PROSEA, Diospyros ebenum
+- Pubblicata e riletta #7825, Fonte primaria o repertorio consultato nei limiti descritti nei lotti21.4–21.9; nessuna evidenza clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/sosef-1995-prosea-diospyros-ebenum/. Prossimo relazioni, SEO e QA.
