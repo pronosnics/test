@@ -326,3 +326,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.33 — Cedrus: pubblicata Naudé e Miller-Naudé (2018) — Erez e cedri nella Settanta
 - Creata/pubbicata WP#7753 tipopdb_source, controllo versione e readback publish positivo, URLhttps://piantedellabibbia.altervista.org/fonti-bibliografiche/naude-e-miller-naude-2018-erez-e-cedri-nella-settanta/. Ricerche preventive Naudé/DOI negative. Preservata conclusione degli autori: erez esclusivamenteC.libani, in divergenza con alternativeZohary/Moldenke; non spacciata per consenso.
 - Prossimo relazioni documentate/identificazione probabile, collegamento botanica e SEO.
+
+
+## Lotto 18.34 — Cedrus: pubblicata Siracide 24:13 — Il cedro del Libano e il cipresso dell’Ermon
+- Creata/pubbicata WP#7755 tipopdb_quote, controllo versione e readback publish positivo, URLhttps://piantedellabibbia.altervista.org/citazioni/siracide-2413-il-cedro-del-libano-e-il-cipresso-dellermon/. RicercheSiracide24/24:13/Ecclesiastico negative per questa unità. Parafrasi italiana originale, greco e luogo distinti; nessuna traduzione moderna riprodotta integralmente. Nessun legame improprio aSir24:14#2051.
+- Prossimo relazioni documentate/identificazione probabile, collegamento botanica e SEO.
