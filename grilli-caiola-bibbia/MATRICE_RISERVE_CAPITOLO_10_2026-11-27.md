@@ -14,3 +14,5 @@
 - 10.1.4: P3 #676 tavola con cartiglio e margini da sostituire, caption media tecnica; HTTP CONNECT 403, SEO valori memorizzati 4/4 verificati. P2-D incongruenza conteggio Grilli 9/6 registrata; P2-A Greppin 1988 e Scannerini 1998 integrali da reperire, oltre precedenti. Relazione #694 risolta. Audit locale 10/10.
 
 - 10.1.5: Balfour testo recuperato, facsimile non nuovo; nota supplementare Trevor recuperata parzialmente, integrale ancora riserva; Roumpekas testo estratto e Eggli p154 visionata. P1-L origine selvatica di A. vera discussa; P2-A Greppin, Scannerini, Hepper, Frei, Marinelli 2009, EMA/Huang integrali, Tristram facsimile. P3 #676 non sostituita, HTTP aperta. Audit 12/12.
+
+- Addendum iconografico 10.1.5: generata una nuova bozza a colori senza testo (27/11/2026, gen 41204278-3f3e-4a90-a79a-0c9e2b077fb5). Non approvata per pubblicazione: dettagli del gineceo mostrano stigma lobato vistoso, non coerente con stigma semplice nella diagnosi generica di Post p782; racemo troncato al margine superiore. Conservata #676, nessuna modifica media. P3 resta aperta; nuova tavola da validare prima dell’upload.
