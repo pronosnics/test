@@ -184,3 +184,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Letta e visionata edizione1857, Cedar-tree of Lebanon pp.7–8/PDF21–22. Eres/Aires anche per piante affini; cedro monumentale, legname, resina, usi poetici; ipotesi di ginepro nei riti del deserto. Riferimento Osea14 non prova identificazione specifica. Classificazione linneana Monadelphia e Coniferae è storica, non tassonomia moderna.
 - Il testo1857 identifica isopo di muro con cappero: opinione dell’autore da distinguere dalle alternative moderne. «Song v.17» nella lista finale appare anomalo; non creare passo non verificato. Non confondere questa edizione con Balfour1885 fonte #6749 già usata in cap.7; controllare fonte1857 esistente.
 - Nessuna modifica WP in questo sottolotto. Prossimo Moldenke66–70 e supplementi, Dafni2019 e primario Kabri, genetica2026 e medicinali.
+
+
+## Lotto 18.8 — Cedrus: Dafni–Böck2019 e apparati Grilli
+- Letto originale Dafni–Böck2019 p.2, tab.2 p.6 e riferimenti p.12: Cedrus identificato per erez; usi mesopotamici/egizi distinti da prova di terapia biblica. Tel Kabri è una proposta chimico-archeologica da ricondurre a Koh2014 DOI10.1371/journal.pone.0106406, non identificazione incontrovertibile dell’olio.
+- Grilli apparati controllati nel testo PDF: tabelle4–5 pp.176/179, tab.7 p.183: cedro70 menzioni in20 libri; tab.7a p.184: categorie8/30/15/17/0, totale70; tab.11 p.188 e tab.12 p.190: erez/kedros/cedrus/arz. Conteggi attribuiti al corpus e ai criteri del volume, non universali. Facsimili delle tabelle ancora da visionare.
+- Tavola revisionata convertita in WebP1086×1449,549432byte,SHA256 c5bc5e9d6e76e3b6ef437f3d8978b83f4cca0c4ef20ca9d37940505b4081046d; sessione upload avviata 7cb08782498c26118c5fd1134960d9c4,offset0,non completata. Prossimo trasferire blocchi, verificare finitura/readback e proseguire aggiornamento.
