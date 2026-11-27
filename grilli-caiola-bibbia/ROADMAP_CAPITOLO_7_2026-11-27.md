@@ -189,3 +189,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.9 — Cupressus: Moldenke89–91 e supplemento281
 - Ricollata traduzione italiana dell’utente pp89–91,voce89,var.horizontalis, e Supplementary Notes p281: Sir24:13 e50:10,costruzioni navali, gofer ipotesi contestata daCarruthers, tirzah preferitoPlatanusdagliautori, letteraTrevor13/6/1951preferisceQ.ilex. Distinti gli altri vocaboli kopher/tidhar/algum, non equipararli. Alcune leggende, derivazioneCipro e attribuzioneErodoto non confermate primariamente; non trasferite come fatti. Trascrizione inglese già utilizzata capitolo; facsimile completo eapparati originali ancoraP2. Figura19p96 originale nelcheckpointutente da visionare. Nessuna nuova relazioneMoldenke perché#901/#902coprono loci distinti.
+
+
+## Lotto 19.10 — Cupressus: Dafni–Böck2019 tabella e discussione
+- PDF originale,tabella Cupressus/Juniperus pp7–8 e discussioneBrosh p11: Amar,Löw,Felix sostengono nome aggregato specialmenteJuniperus; confrontoZoharyAbies; accadico burāšu=ginepro,šurmēnu=cipresso secondo lessico citato dagli autori. Non nuova collazione dei testi accadici o prova della specie per versetto. UsimedicinaliAnticoOriente nonconfondibili con usiebraicibiblici. Fonte#4335 specialistica presente; metadati vuoti da completare.
