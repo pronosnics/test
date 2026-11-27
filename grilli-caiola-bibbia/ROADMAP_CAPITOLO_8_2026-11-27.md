@@ -42,3 +42,5 @@ I nomi della terza colonna identificano il soggetto di lavoro. La ricezione tass
 - 8.8 · Cyperus papyrus · WP #427/#432. Primo passaggio differenziale salvato: Grilli pp. 138, 146; correzione stami (3), Gs 4,23 yam sûph, Is 18,2; relazioni #6152–6154; readback botanica e audit locale positivo. Lotto **in corso**, medicina, fonti storiche, apparati e tavola da completare. [Dossier](CAP8_08_CYPERUS_PAPYRUS.md).
 
 - 8.8 (continuazione) · Medicina #432 aggiornata con Dafni–Böck 2019, OE/NT, fonte #2069, relazioni #6155–6156, readback e audit locale positivi. Restano ricollazione storica, letteratura recente, apparati, tavola e SEO/HTTP. Prossimo: completamento 8.8, poi 8.9.
+
+- 8.8 (terzo passaggio) · Papiro: ricollazionati Moldenke pp.92–94 e nota indicizzata, Zohary p.137, Post p.830, Balfour pp.222–225; fonte nuova #8357 Bausch et al. 2022, relazioni #6157–6160, botanica aggiornata e readback verificato. 19 relazioni botaniche. SEO memorizzato coerente; HTTP 403. Tavola #493 visionata e non conforme per scritte, da sostituire. Restano Duke/Tristram/Hepper in originale, apparati, approfondimenti moderni e tavola; lotto aperto.
