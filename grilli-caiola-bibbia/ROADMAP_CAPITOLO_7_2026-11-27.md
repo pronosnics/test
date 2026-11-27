@@ -289,3 +289,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.28 — Retama: aggiornata scheda1603
 - Lemma vegetale #1603 aggiornato in italiano, tolto riferimento tecnicoWP559; collegato al toponimo distinto e verificata differenza tra ginestra e oloparassita; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/ro%e1%b9%afem-%d7%a8%d6%b9%d7%aa%d6%b6%d7%9d-h7574-la-ginestra-del-deserto/. Prossimo relazioni e QA.
+
+
+## Lotto 22.29 — Retama: aggiornata scheda2604
+- CitazioneElia #2604 ripulita da istruzione Riusa term#1603, chiarito cibo dell'angelo distinto dai semi, conservati identificazione probabile e parafrasi; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/1-re-194-5-elia-allombra-del-ro%e1%b9%afem-nel-deserto/. Prossimo relazioni e QA.
