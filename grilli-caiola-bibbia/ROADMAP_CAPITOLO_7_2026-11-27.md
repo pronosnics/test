@@ -294,3 +294,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.27 — Cedrus: ripulito e riletto passo #382
 - WP#382 aggiornato con controllo versione e readback publish positivo. Tolte note future/tecniche dai metadati, preservati testo Diodati e commento scientifico; note sulle pagine mancanti trasferite qui, non prova di revisione integrale dei testimoni.  Identificazioni strutturate non modificate.
 - Per#377/#379/#380/#382 restano da ripulire eventuali campi troncati e ridondanze in sede di revisione Ficus sycomorus; nessun cambiamento della specie identificata. Prossimo bibliografia/SEO/audit prima della chiusuraCedrus.
+
+
+## Lotto 18.28 — Cedrus: relazioni bibliografiche gruppo 1
+- Create relazioni documentate, risposte: [{"object_id":266,"source_id":775,"result":{"saved":true,"kind":"source_citations","id":5762}},{"object_id":266,"source_id":1554,"result":{"saved":true,"kind":"source_citations","id":5763}},{"object_id":266,"source_id":2041,"result":{"saved":true,"kind":"source_citations","id":5764}},{"object_id":266,"source_id":2042,"result":{"saved":true,"kind":"source_citations","id":5765}},{"object_id":266,"source_id":2043,"result":{"saved":true,"kind":"source_citations","id":5766}},{"object_id":266,"source_id":2069,"result":{"saved":true,"kind":"source_citations","id":5767}}]. Rilettura mirata source_citations: [{"object_id":266,"total":11,"duplicates":[]}]. Locatori e claim distinti, nessuna rimozione indiscriminata.
+- Fin qui6nuove relazioni Cedrus; prossimo completare collegamenti, contenuti condivisi e SEO, poi audit complessivo.
