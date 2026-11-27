@@ -403,3 +403,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Rimossi riferimenti operativi/dossier dai metadati pubblici e,perZohary, istruzione editoriale dal corpo; preservate descrizioni scientifiche e tutte le voci del testo. Controllo versione/readback positivo.
 - Note precedenti conservate nel precontrollo: Post conteneva codiciATL0160/0161/0162 e rimandi p206/207/734/841; Balfour riferiva dossierNerium; Zohary istruzione «Per ogni pianta verificare». Queste istruzioni restano solo nel registro operativo.
 - Prossimo audit fonti condivise, verifica indipendente del pubblico e conteggi finaliCedrus.
+
+
+## Lotto 18.49 — Cedrus: ripulita fonte condivisa #2043
+- Rimossi riferimenti operativi/dossier dai metadati pubblici e,perZohary, istruzione editoriale dal corpo; preservate descrizioni scientifiche e tutte le voci del testo. Controllo versione/readback positivo.
+- Note precedenti conservate nel precontrollo: Post conteneva codiciATL0160/0161/0162 e rimandi p206/207/734/841; Balfour riferiva dossierNerium; Zohary istruzione «Per ogni pianta verificare». Queste istruzioni restano solo nel registro operativo.
+- Prossimo audit fonti condivise, verifica indipendente del pubblico e conteggi finaliCedrus.
