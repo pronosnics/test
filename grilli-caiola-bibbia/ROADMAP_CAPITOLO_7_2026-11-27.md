@@ -223,3 +223,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.12 — Brown–Driver–Briggs — H1894, hāḇnîm: ebano e varianti testuali
 - Pubblicata e riletta #7827, Fonte consultata e limiti registrati nei lotti precedenti; nessuna efficacia clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-h1894-havnim-ebano-varianti/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 21.13 — Kumar e colleghi (2019) — Ebano di Ceylon: limiti della propagazione per margotta
+- Pubblicata e riletta #7829, Fonte consultata e limiti registrati nei lotti precedenti; nessuna efficacia clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kumar-2019-diospyros-ebenum-margotta/. Prossimo relazioni, SEO e QA.
