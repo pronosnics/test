@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.1 terzo passaggio (27/11):** corretti risultati completi Azab 2018, nuova fonte #8409, relazioni #6194–6195, Sereno originale, IPNI e Moldenke p.71, apparati parziali. Tavola #2081 visionata/conservata, SEO 5 fonti e audit locale 10/10. Riconciliazione pending 808d5a69-f657-4626-8a30-a09e24baa777; lotto aperto. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md).
+
 **Cap.9 — aggiornamento 9.1 (27/11):** quattro fonti nuove #8397/#8399/#8401/#8403, riuso #3414, relazioni #6189–6193, botanica/medicina aggiornate e rilette; audit locale 6/6. Restano fonti integrali e verifiche documentali/iconografiche, lotto aperto. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md).
 
 **Capitolo 9 (27/11/2026) — AVVIATO.** [Roadmap](ROADMAP_CAPITOLO_9_2026-11-27.md) · quattro monografie, pp.149–154 (PDF151–156), figg.97–100; quattro botaniche e quattro medicinali esistenti. 9.1 Notobasis #2080/#2095 aggiornati e riletti, relazioni #6187–6188, audit locale 2/2, SEO verificato; [dossier](CAP9_01_NOTOBASIS_SYRIACA.md). Revisione ancora aperta; studi moderni individuati ma non ancora integrati, fonti residue e controllo tavola/HTTP pendenti. Cap.8: riserve conservate, due tavole da sostituire separatamente.
