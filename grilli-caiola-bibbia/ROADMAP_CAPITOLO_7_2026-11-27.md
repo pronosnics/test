@@ -349,3 +349,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.52 — Cupressus: conservazione e nuova relazione distinta
 - KewGeneralinformationaperto riportaLC, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261974-1/general-information;IUCNdiretto403,nessunassessmentannodatoinferito.EUFORGENapertopercontesto,nessunanuovaattribuzionefilogeograficaprimaria. Nuovarelazione#5821fonte#5289locusconservazione distinto da#4203tassonomia,nonfonderli;38nuove cap19#5784–5821,cap7tot154 nuove,3assorbimentiprecedentiseparati,saldo151. Cupressaceae#65assegnataverificataconsecondapaginazione. Prossimo auditglobale della specie.
+
+
+## Lotto 19.53 — Cupressus: aggiornata scheda1551
+- Auditpubblico positivo per pagina/head/hero960×1440, H1unico e nuovilink corretti; riscontrate spaziature indebite nei DOI introdotte daformattazione, corrette constringhe esatte senza modificarehref. Corretto e delbosso ineilbosso. Nessunmarcatoreinternonelmain pubblico; immaginicorrelate lazy noncaricate nelviewport nonprovanoerrore; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
