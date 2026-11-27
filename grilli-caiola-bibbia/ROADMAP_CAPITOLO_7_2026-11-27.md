@@ -164,3 +164,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 19.3 — Cupressus: Zohary106–107 e tre illustrazioni verificati
 - Originale pp106–107/PDF107–108 letto integralmente e visionato: Cupressus,Abies,Juniperus rappresentati separatamente. Bərôš collettivo; Abiesconcedro/Libano,JuniperusconSenir; burāšu è argomento storico citato daCampbellThompson1949, non nuova collazione accadica primaria. Zohary includeJ.foetidissima come alternativa, da non omettere.
 - Cipresso nativo ricostruito da autore anche mediante polline/legno archeologico, primari specifici da acquisire; immagine di p107non dimostra una specie per versetto. Fonte#1554 giàduevoltecollegata#900/#4206,non creareterzarelazione. Prossimo Duke160–162.
+
+
+## Lotto 19.4 — Cupressus: Duke160–162 ricollazionato
+- Letto originale Duke2008pp160–162/PDF186–188, voceItalianCypress,Attività/Indicazioni/Dosages/Downsides. FNFF=X, nessun dosaggio pubblico da derivare dalle quantità storiche. Usi regionali e parti distinti, avvertenza renale e allergenicità. X7884634 antielastasi è pista primaria,non prova clinica.
+- Riferimenti costruzioni/porte millenarie/Ciproetimologia e usoarca sono affermazioni storiche del repertorio,non evidenze verificate in questo ciclo. Non trasferire trattamento di tumori oaborto all’uso clinico. Medicina#1555 da rileggere e aggiornare con studi affidabili. Figura1.39p161 ancora da visionare. Prossimo Post/Tristram/Balfour eMoldenke.
