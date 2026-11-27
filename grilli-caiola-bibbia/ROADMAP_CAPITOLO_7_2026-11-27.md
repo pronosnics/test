@@ -232,3 +232,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.14 — Retama: aggiornata scheda2602
 - Ripulita fonte #2602: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/weeds-australia-retama-raetam-riconoscimento-botanico-e-caratteri-del-frutto/. Prossimo relazioni e QA.
+
+
+## Lotto 22.15 — Retama: tavola conservata, metadati ripuliti
+- Tavola#2613 visionata: cespuglio, rami quasi afilli, fiori papilionacei, legumi/semi e radici; nessuna scritta e nessun errore macroscopico tale da imporre sostituzione. Conservata. ALT e caption semplificati eliminando «illustrazione originale ricostruttiva», fingerprint e rilettura media-info positivi. Visione medium320×480, non verifica di ogni microdettaglio anatomico dell'originale. Nessun nuovo upload. Prossimo fonti primarie e revisione bot/med/lemmi/citazioni.
