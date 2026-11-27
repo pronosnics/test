@@ -280,3 +280,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.26 — Ezechiele 27:15 — Testo masoretico e Settanta a confronto
 - Pubblicata e riletta #7840, Fonte testuale primaria letta direttamente; ricerca precedente Settanta senza fonte equivalente specifica; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/ezechiele-27-15-testo-masoretico-settanta/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 21.27 — Diospyros:23 relazioni bibliografiche create e rilette
+- Nuove relazioni strutturate23:11botanica,3medicina,4lemma,5citazione. Rilettura diretta dei quattro oggetti positiva. Totali: botanica19, medicina4, lemma5, citazione6. Restano due righe del dossier#1708 su#1704 (950/4188), da valutare nel pannello, nessuna cancellazione automatica. Nuove fonti6 nel lotto, inclusa fonte primaria MT/LXX. Capitolo210 nuove relazioni, tre assorbite pregresse, saldo207. Prossimo SEO e QA finale; identificazione#243 controversa e passaggio-lemma#210 conservati.
