@@ -333,3 +333,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.48 — Cupressus: tre passi collegati a lemmi e specie
 - Creati3legami passitermini e3identificazioni: passage_terms#447,passage_terms#448,passage_terms#449,identifications#675,identifications#676,identifications#677. Sir24:13Cypresscontroversa percontestoErmon,Sir50:10probabile,Sal104:17controversa. Cedrus#674diSir24:13preservata; nessunStrongebraico attribuito al greco. Le8identificazioniprecedenti#228–235nonmodificate. Prossimo readback/audit.
+
+
+## Lotto 19.49 — Cupressus: SEO completata e verificata dal plugin
+- Letti campiYoastdi29contenuti; aggiornati23prima incompleti: 1555,1556,1557,1558,1559,1560,1561,1563,7781,7775,7777,7761,7763,7765,7767,7769,7771,7773,7779,5289,5290,4335,4337. ControlloSHA/readbackinterno plugin positivo perciascuno;preservati campigiàcompilati pertinenti. Noncertifica ancoraheadpubblico. Prossimo auditlocale/visivo echiusura.
