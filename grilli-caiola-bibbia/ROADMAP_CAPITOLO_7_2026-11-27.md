@@ -297,3 +297,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.39 — Cupressus: aggiornata scheda1557
 - Gōfer: campi lessicali prima vuoti compilati; incertezza e distinzioneH1265 mantenute; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/gofer-%d7%92%d6%b9%d7%a4%d6%b6%d7%a8-h1613-il-legno-dellarca-di-noe/. Prossimo relazioni e QA.
+
+
+## Lotto 19.40 — Cupressus: aggiornata scheda1561
+- Genesi6:14: metadati biblici prima vuoti completati con parafrasi originale; identificazione controversa preservata; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/genesi-614-il-legno-di-gofer-dellarca/. Prossimo relazioni e QA.
