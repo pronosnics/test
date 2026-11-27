@@ -185,3 +185,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.8 — Cupressus: tavola1553 visionata
 - Recuperata integralmente variante medium320×480 di53032byte, SHA256 verificato; visionata direttamente. Mostra rami con foglie squamiformi, coni globosi chiusi/aperti, semi alati, corteccia e due portamenti; colori vivi, sfondo chiaro, nessuna scritta. Conservata, senza nuovo upload. Risoluzione originale ancora non certificata. Prossimo Moldenke e fonti moderne.
+
+
+## Lotto 19.9 — Cupressus: Moldenke89–91 e supplemento281
+- Ricollata traduzione italiana dell’utente pp89–91,voce89,var.horizontalis, e Supplementary Notes p281: Sir24:13 e50:10,costruzioni navali, gofer ipotesi contestata daCarruthers, tirzah preferitoPlatanusdagliautori, letteraTrevor13/6/1951preferisceQ.ilex. Distinti gli altri vocaboli kopher/tidhar/algum, non equipararli. Alcune leggende, derivazioneCipro e attribuzioneErodoto non confermate primariamente; non trasferite come fatti. Trascrizione inglese già utilizzata capitolo; facsimile completo eapparati originali ancoraP2. Figura19p96 originale nelcheckpointutente da visionare. Nessuna nuova relazioneMoldenke perché#901/#902coprono loci distinti.
