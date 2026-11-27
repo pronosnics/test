@@ -178,3 +178,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - ATL-0055 #266, Tristram1867 pp.341–344/PDF353–356 letti, incisione p.342 visionata. Conferma distinzione erez generico e cedro del Libano, legno rituale ipoteticamente ginepro e uso metaforico; descrive almeno nove località libanesi, anche migliaia di alberi e rinnovazione. Sono osservazioni1867, non censimento2026.
 - A p.344 l’età2500 anni è già esplicitamente problematica rispetto ad altra stima800: non attestare età dendrocronologica certa. C.deodara/C.atlantica e legno da matite di Juniperus distinti. P.343 tratta Ez27:5 e ipotesi pino per albero maestro, non consenso moderno. Nessun nuovo versetto creato.
 - Fonte storica presente in Libreria verificata; recupero risolve per questa voce la precedente riserva di indisponibilità Tristram. Da ricercare riuso della fonte WP corretta1867. Prossimo Balfour1857, poi Moldenke e studi moderni.
+
+
+## Lotto 18.7 — Cedrus: Balfour1857 pp.7–8 e facsimili verificati
+- Letta e visionata edizione1857, Cedar-tree of Lebanon pp.7–8/PDF21–22. Eres/Aires anche per piante affini; cedro monumentale, legname, resina, usi poetici; ipotesi di ginepro nei riti del deserto. Riferimento Osea14 non prova identificazione specifica. Classificazione linneana Monadelphia e Coniferae è storica, non tassonomia moderna.
+- Il testo1857 identifica isopo di muro con cappero: opinione dell’autore da distinguere dalle alternative moderne. «Song v.17» nella lista finale appare anomalo; non creare passo non verificato. Non confondere questa edizione con Balfour1885 fonte #6749 già usata in cap.7; controllare fonte1857 esistente.
+- Nessuna modifica WP in questo sottolotto. Prossimo Moldenke66–70 e supplementi, Dafni2019 e primario Kabri, genetica2026 e medicinali.
