@@ -178,3 +178,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.6 — Lawsonia: Duke241–245 originale completo
 - LettiPDF267–271,voceHenna,fig1.60p242da visionare,Notes/CommonNames/Activities/Indications/Dosages/Downsides/Extracts.FNFF=?,++delrepertoriononraccomandazioneclinica;«mentionedonlyonce»p241inesatto rispettoCant1:14e4:13,nonripreso. Usi di foglie,fiori,corteccia,radici/semi e preparati compositi distinti. Attivitàantimicrobiche/antitumorali/abortiveriportatestoricamenteoprecliniche,nongeneralizzare;nullaposologia. DownsidessenzarischiregistratiinPH2contraddettodaeventiavversimoderni,nonconservareasserzionediinnocuità. Esempipidocchiconaltrepiantenonattribuirehenna. PrimariDukeX2125156,X15812867,X12512805etcnonintegralmentecollazionatiP2.
+
+
+## Lotto 20.7 — Lawsonia: Dafni–Böck2019 tab3p9
+- Letto originalePDFp9,tabella3Lawsonia/Henna/Koffer,categoriaA;testimonianzeEgitto e tradizionepostbiblica,BT.Sheviiit7:6,PB.Cant4:13,nonprescrizioneBiblica. OrigineEA/importatasecondorepertoriodell’articolononcorrispondeesattamenteaKew2026;esplicitaredifferenzafonti,nonfonterneareali. Fontegenericagià#2069 riutilizzabile,nessunnuovoduplicatoDOI.
