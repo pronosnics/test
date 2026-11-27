@@ -177,3 +177,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.6 — Cupressus: Tristram1867 pp348–349
 - Letto testo originale estratto pp348–349/PDF360–361: tirzah incerto, alternativa Juniperus, osservazione personale dell’autore di cipressi coltivati nei cimiteri senza popolamenti selvatici incontrati. Non convertire questa osservazione del1867 in assenza di autoctonia. Incisione da visionare. Prossimo Balfour.
+
+
+## Lotto 19.7 — Cupressus: Balfour1857 pp11–12
+- Testo originale estratto PDF27–28, intestazione Fir-Tree pp11–12: privilegia Cupressus per berosh/beroth, legno durevole, coni peltati con semi alati; paragrafi generali sulle conifere contengono foglie aghiformi non trasferibili al cipresso. Tirzah come possibile Quercus ilex, gofer come ipotesi cipresso/conifera, non dimostrazione. Rinvii versetti e leggende porte millenarie non adottati senza controllo. Edizione1885 pp34–39 già consultata nei lottiAbies, confronto disponibile in roadmap; non confondere le due edizioni. Rispetto a offset iniziale1857, qui le tavole intercalate portano pp11–12 aPDF27–28.
