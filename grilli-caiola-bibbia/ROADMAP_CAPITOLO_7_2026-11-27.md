@@ -353,3 +353,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.53 — Cupressus: aggiornata scheda1551
 - Auditpubblico positivo per pagina/head/hero960×1440, H1unico e nuovilink corretti; riscontrate spaziature indebite nei DOI introdotte daformattazione, corrette constringhe esatte senza modificarehref. Corretto e delbosso ineilbosso. Nessunmarcatoreinternonelmain pubblico; immaginicorrelate lazy noncaricate nelviewport nonprovanoerrore; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
+
+
+## Lotto 19.54 — Cupressus: audit locale29/29
+- Auditlocale29contenuti in3batch, H1unico, zeroALTmancanti,noteredazionalirilevate/warningzero. Rilette11identificazioni e fontinuovipassi;3nuoveidentificazioni675–677 e3legamipassitermini447–449 corretti. Medicina6fonti,nuoviSir50:10una/Sal104:17tre/Sir24:13tre. Dopo19.53ritocchiformatocorretti, ripetereauditmirato1551. Tavola1553pubblicacaricata960×1440, screenshotvisionato,conservata. SEOmemorizzata23aggiornamenti ehead1551verificato. RiserveP2/P3permangono,noncollazioneintegrale.
