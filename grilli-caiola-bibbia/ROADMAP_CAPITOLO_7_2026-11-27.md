@@ -297,3 +297,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.30 — Retama: aggiornata scheda2606
 - Salmo #2606: eliminate frasi imperative e inglese, spiegata immagine e numerazioneLXX senza misura di potere calorifico; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/salmo-1204-i-carboni-ardenti-della-ginestra-ro%e1%b9%afem/. Prossimo relazioni e QA.
+
+
+## Lotto 22.31 — Retama: aggiornata scheda2608
+- Numeri #2608 ripulito dalla nota interna NON creare relazione e collegato al nuovo lemma del toponimo; nessuna identificazione botanica aggiunta; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/numeri-3318-19-ri%e1%b9%afma-il-toponimo-del-deserto-e-la-ginestra/. Prossimo relazioni e QA.
