@@ -39,3 +39,7 @@ Delta mirra #1326: riserve cap.6 (Cultrera differito, Thulin–Claeson/Dolara in
 4. Supplementi, voucher e dati grezzi da trattare separatamente dall'accesso al testo; limiti intrinseci non promossi a evidenza certa.
 
 Stato: inventario 23/23 completato sui registri, non nuova verifica integrale né nuova scrittura WP. P2/P3 restano aperte. Fonti e tavole invariate.
+
+
+## Aggiornamento lotti 50.3–51.3
+Le cinque fusioni Cupressus/Is41:19/Diospyros sono applied e rilette, nessuna proposta pendente. Lawsonia: riserva testuale Plinio XII109 latino e Dioscoride I95 greco digitale risolta; facsimili critici non integralmente collazionati. Fonti #8206–8208, relazioni #6088–6091, integrazioni #1955/#7808/#7817 e audit locale 9/9 verificati. Saleem2024 caso CIT8 con FTIR, figura14 parrucca, dati grezzi e conferma cromatografica specifica non acquisiti; McCreesh2009 solo abstract. Prossime piste Renaut2009, David/Garner2003 e tesi McCreesh; poi Mutlu e Howard–Norlindh. Le altre riserve restano aperte. Consultare roadmap operativa per dettagli e fonti.
