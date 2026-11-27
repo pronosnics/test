@@ -300,3 +300,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.36 — Lawsonia: greco del Cantico ricontrollato
 - LXXtestogrecolettoBlueLetterBibleCCAT,https://www.blueletterbible.org/lxx/sng/1/ v14κύπρου ehttps://www.blueletterbible.org/lxx/sng/4/ v13κύπροι;le parole non sono κυπάρισσος(Cupressus) néΚύπροςcomeattributoisola. NessunStrongNTautomaticodaABP,chespessoassociaG2954aCipro. Fonti testuali verificatenelleforme,nonnuovatraduzioneintegraleriprodotta. FontegiàBDB#7804perriscontroebraico; moderni foliare/hebrewnonprovanousomedicinale. Prossimo relazionieaudit;#520identificazioneprudenzialecontoverse rimane daallinearetramitepianocontrollato.
+
+
+## Lotto 20.37 — Lawsonia: genere e confronto conservazione
+- KewgenereLawsoniahttps://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:25464-1aperto:Include1AcceptedSpecies,L.inermis. Contrasto conelencoterziariodi2specie nonadottato, mantenere«monospecificoneltrattamentoKew». KewgeneralinformationspecieriportaLC(riscontroindirettoIUCNvalutazione2019pub2020secondorecordDOI10.2305/IUCN.UK.2020-3.RLTS.T138450837A149445045.en),noneffettodiassenza minacce locali. FloraIsraelricercaLawsonianonrestituiscevoceprimariapertinente,nonprovadiassenzanellaregione. PrimariDioscorideI95eanalisi pigmentimummie individuatisoloindirettamente,nonattribuirecomelettidirettamente.PlinioXII109latino/traduzioneinlettura.
