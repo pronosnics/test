@@ -181,3 +181,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.7 — Cupressus: Balfour1857 pp11–12
 - Testo originale estratto PDF27–28, intestazione Fir-Tree pp11–12: privilegia Cupressus per berosh/beroth, legno durevole, coni peltati con semi alati; paragrafi generali sulle conifere contengono foglie aghiformi non trasferibili al cipresso. Tirzah come possibile Quercus ilex, gofer come ipotesi cipresso/conifera, non dimostrazione. Rinvii versetti e leggende porte millenarie non adottati senza controllo. Edizione1885 pp34–39 già consultata nei lottiAbies, confronto disponibile in roadmap; non confondere le due edizioni. Rispetto a offset iniziale1857, qui le tavole intercalate portano pp11–12 aPDF27–28.
+
+
+## Lotto 19.8 — Cupressus: tavola1553 visionata
+- Recuperata integralmente variante medium320×480 di53032byte, SHA256 verificato; visionata direttamente. Mostra rami con foglie squamiformi, coni globosi chiusi/aperti, semi alati, corteccia e due portamenti; colori vivi, sfondo chiaro, nessuna scritta. Conservata, senza nuovo upload. Risoluzione originale ancora non certificata. Prossimo Moldenke e fonti moderne.
