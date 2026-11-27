@@ -225,3 +225,10 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.14 — Cedrus: pubblicata fonte Brown–Driver–Briggs — ʾerez, cedro e legname (H730)
 - Dopo ricerca preventiva autore/titolo/DOI senza corrispondenze, creata e pubblicata fonte WP#7742, DOI/URL https://biblehub.com/bdb/730.htm. Rilettura positiva dello stato publish e metadati. Fonti effettive e limiti descritti nel sottolotto18.9/18.11. Nessun duplicato botanico creato.
 - Nessuna relazione ancora creata per questa fonte; SEO da compilare nel successivo controllo. Prossimo integrare botanica/medicina/lemma, creare collegamenti con locatori e verificare contenuti salvati.
+
+
+## Lotto 18.15 — Cedrus: collazione Moldenke e limiti di accesso
+- Trascrizione originale online Moldenke voce55 pp.66–70 consultata nei passaggi filologici, riferimenti e storia ambientale https://dokumen.pub/plants-of-the-bible-1nbsped-0710307659-9780710307651.html; confronto con traduzione italiana già presente. Confermati elenco erez e alternative Lev/Num/Ez, resoconti viaggiatori e critica forestale; non dichiarare facsimile originale visto. Indice figure1/52 e vignetta p.64 identificato, figure non acquisite.
+- Trascrizione mostra «II KINGS10:27» mentre il testo citato corrisponde al confronto cedri/sicomori di1Re10:27; conservare distinzione fra errore della trascrizione e errore verificato del facsimile. Analogamente «2Cronache22:14» resta anomalia da verificare sul facsimile, non errore dell’edizione certificato.
+- Apparati supplementari non integralmente esposti dal servizio: controllo negativo nell’intero libro NON certificato; riservaP2 per Supplementary Notes/appendici e P3 facsimile/figure. Download diretto urllib fallito403, nessun aggiramento né nuova ripetizione dello stesso URL.
+- Prossimo aggiornare #266/#268/#269 e fonte#5821; le riserve sono documentali e non autorizzano affermazioni pubbliche non sostenute.
