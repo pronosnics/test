@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Capitolo 8 (27/11/2026).** [Roadmap corrente](ROADMAP_CAPITOLO_8_2026-11-27.md) · nove monografie. Primo lotto pubblicato e riletto su botanica e medicina dell’alimo. [Registro](REGISTRO_WORDPRESS_CAPITOLO_8_2026-11-27.md) · [Riserve](MATRICE_RISERVE_CAPITOLO_8_2026-11-27.md).
+
 **Stato conclusivo lotto 63 (27/11/2026): CHIUSURA EDITORIALE E AMMINISTRATIVA COMPLETATA CON RISERVE DOCUMENTATE — 63/63 lotti, 23/23 monografie + delta mirra.** Riconciliazione applicata e riletta, pending=null; 520 relazioni bibliografiche botaniche (522 prima delle due fusioni). Questo stato prevale sulle precedenti annotazioni di attesa. Restano le riserve scientifiche/documentali e i controlli HTTP non eseguibili. [Verbale conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_7_2026-11-27.md).
 
 **Aggiornamento lotto 63 (27/11/2026): audit trasversale eseguito, 23/23 monografie chiuse editorialmente con riserve + delta mirra; chiusura amministrativa in attesa di una riconciliazione di due coppie.** Il riepilogo seguente supera gli stati cronologici precedenti. [Verbale audit conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_7_2026-11-27.md).
