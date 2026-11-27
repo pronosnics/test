@@ -272,3 +272,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.29 — Cantico 1:14 — Un grappolo di henné nelle vigne di En-Ghedi
 - Pubblicata e riletta #7812, Passoassentealle ricerche1:14/Cantico1; parafrasi originale, metadati completi; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/citazioni/cantico-1-14-henne-vigne-en-ghedi/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.30 — Cupressus: aggiornata scheda1955
+- IntegratiGrilli120,riferimenticlinici favorevoli/negativi e nuova medicina; corretto numero8stami,naftochinone,limitecomposizione caso2025; rimosse notePDFconcordato/Balfournegativodacontenutopubblico, linkKew/TIPs corretti; aggiornatalinklemma/passonuovi; URLpreservato; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
