@@ -409,3 +409,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Rimossi riferimenti operativi/dossier dai metadati pubblici e,perZohary, istruzione editoriale dal corpo; preservate descrizioni scientifiche e tutte le voci del testo. Controllo versione/readback positivo.
 - Note precedenti conservate nel precontrollo: Post conteneva codiciATL0160/0161/0162 e rimandi p206/207/734/841; Balfour riferiva dossierNerium; Zohary istruzione «Per ogni pianta verificare». Queste istruzioni restano solo nel registro operativo.
 - Prossimo audit fonti condivise, verifica indipendente del pubblico e conteggi finaliCedrus.
+
+
+## Lotto 18.50 — Cedrus: audit fonti condivise e conteggi finali
+- Audit locale26contenuti del sottolotto18.46 letto:26/26completi,H1unico,zeroALTmancanti,markerautomatici ewarning. Audit aggiuntivo11fonticondivise eseguito; risultati da gestire se marker presenti. Tavola#7737 coerente featured/plate, SHAfullconfermato.
+- Rilettura conteggi botanica/medicina/lemma/Siracide completata: rispettivamente14/5/6/2relazioni bibliografiche,zero gruppi duplicati;22nuove relazioniCedrus,#5762–5783,116nuovecap.7con3assorbimenti separati. Le16identificazioni precedenti non modificate; nuova#674probabileperSir24:13.
+- Prossimo verifica indipendente del pubblico dopo403tunnel, poi chiusura editoriale con riserve dettagliate e avvioCupressus.
