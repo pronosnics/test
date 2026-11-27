@@ -381,3 +381,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.44 — Cedrus: SEO salvata e verificata #7755
 - TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7755 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7755,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Siracide 24:13: cedro del Libano e cipresso dell’Ermon","description":"La Sapienza come cedro nel Libano e cipresso sull’Ermon: parafrasi originale, testo greco e identificazioni botaniche distinte.","focus_keyword":"Siracide 24 13 cedro"},"sha256":"feb00071962b75bb14a6a7313f68899c5bc03c84d2ae178cf5e2e772409a3290"}. Non equivale a controllo headHTMLpubblico.
 - Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
+
+
+## Lotto 18.45 — Cedrus: SEO salvata e verificata #5821
+- TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#5821 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":5821,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Tel Kabri: vino e residui aromatici | Koh 2014","description":"La cantina del Bronzo medio a Tel Kabri: analisi chimiche delle giare, proposte sugli aromi e limiti dell’identificazione botanica.","focus_keyword":"Tel Kabri vino residui"},"sha256":"4d756fab5efe481a0825b519eceeeb77283cb052bfa50b8efc46a31a94ac1edc"}. Non equivale a controllo headHTMLpubblico.
+- Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
