@@ -356,3 +356,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.39 — Cedrus: SEO salvata e verificata #7738
 - TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7738 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7738,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Cedrus libani: genetica delle provenienze | Griebeling 2026","description":"Genetica dei cedri turchi e ciprioti: campionamento, marcatori, risultati e limiti dello studio Griebeling e colleghi del 2026.","focus_keyword":"Cedrus libani genetica"},"sha256":"d5adfbec8df22730c19c1f92692e4f791fc72f4267ccd7393d5e2c15050faaef"}. Non equivale a controllo headHTMLpubblico.
 - Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
+
+
+## Lotto 18.40 — Cedrus: SEO salvata e verificata #7740
+- TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7740 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7740,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Olio dei coni di cedro e cellule A375 | Mutlu 2026","description":"Studio del 2026 sull’olio dei coni di Cedrus libani: risultati su cellule A375, limiti dell’abstract e assenza di prove cliniche.","focus_keyword":"Cedrus libani cellule A375"},"sha256":"7c40e9be7b28638589e65de4804b50e4e803a3b6e487659ac548734022bcccb2"}. Non equivale a controllo headHTMLpubblico.
+- Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
