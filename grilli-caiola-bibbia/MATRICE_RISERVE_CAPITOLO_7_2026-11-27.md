@@ -59,3 +59,7 @@ Cedrus: originali Loizzo2007/2008, Elias2019 e Zgheib2020 consultati testualment
 
 ## Lotto55
 Diospyros: Howard–Norlindh BHL403/BioStor inaccessibile, P2 mantenuta; Jahanbanifard2020 PDF originale, fig1E e conclusioni visionate, Michael2025 testo pertinente letto ma rapporto Cavanagh2021 e facsimile non acquisiti. Fonti #8235/#8237, relazioni #6101–6103, botanica/citazione aggiornate e audit4/4. Prossimo lotto56 Mersa Gawasis, Uluburun, Dixon/Hepper e Cooper2024. Identificazione controversa invariata.
+
+
+## Lotto56
+Diospyros: Gerisch2010 PDF e inventario visionati, Pulak2008 testo pertinente letto (screenshot dimensione eccessiva), Cooper2024 sezioni pertinenti originali indicizzate (screenshot403). Fonti #8241/#8243/#8245, relazioni #6104–6109, botanica/citazione integrate, audit5/5; identificazione controversa invariata. Dixon1961 abstract solo, PDF86MB non acquisito; Haldane1993 abstract solo, Hepper1992 solo metadati/attribuzione indiretta. Prossimo lotto57 Haldane/Dixon/Hepper/Western–McLeod, poi altre riserve P2. Nessun pending.
