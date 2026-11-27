@@ -206,3 +206,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.13 — Lawsonia: Kew, BDB e TIPs verificati
 - KewaccettaLawsoniainermisL.,Lythraceae,SpPl3401753;sinonimiL.albaLam./L.spinosaL.;nativoNETropAfrica/Arabia/SPakistanIndia,introdottoPalestine/Egypt/LebanonSyria. ElencocontienePanamáfraNativeincongruenteconriassunto:nontrasferireanomaliadatabasecomeoriginenativaAmeriche;rimandareall’arealesinteticoattribuito. BDBH3724vociI–IVdistinte:IIIpiantahennéCant1:14/4:13;IIpitchGen6:14nonstessosensobotanico,nonconfonderegōferH1613. Hebrew1:14’eshkolhakkofer,4:13kefarim;TIPsKoopsconfrontoghirlanda/grappolo,affermaspontaneitàanticaoasisenzafontearcheobotanicaprimariaquiacquisita. Nonadottarecomeprova. RicercaH3724/kophernegativa,nuovolemmaegiustificato;Cant1:14assenteanchequeryCantico1. Prossimonuovipassi/lemmaefonti.
+
+
+## Lotto 20.14 — Lawsonia: prima tavola revisionata, dettaglio ancora da correggere
+- Generazioneeditdatavola1956filegenerated_images/exec-234cb106-bc83-4246-bff0-443a9cd977f7.png: migliorati4petali,polvereverdeoliva,capsula4logge,sfondochiaro/assenza scritte. Esamevisivocontasulfioreingranditoancora10antere(2superflue diagonalisuperiori),non8;sezione mostra6stamivisibilianzi4inmetàfiore. Nessunuploadfinchécorretto. Richiedereeditmiratosulle2antereextra senzaaltre modifiche.
