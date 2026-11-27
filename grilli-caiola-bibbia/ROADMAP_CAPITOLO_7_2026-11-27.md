@@ -264,3 +264,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.22 — Diospyros: aggiornata scheda1707
 - Lemma #1707: compilati lingua e varianti ketiv/qere, glossa e note lessicali; chiarita l'assenza di ebano nella resa greca del passo, conservato un solo lemma; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/ha%e1%b8%87nim-%d7%94%d6%b8%d7%91%d6%b0%d7%a0%d6%b4%d7%99%d7%9d-h1894-ebano-nel-testo-ebraico/. Prossimo relazioni e QA.
+
+
+## Lotto 21.23 — Diospyros: aggiornata scheda1706
+- Citazione #1706: metadati EZE e parafrasi originale compilati, confrontate tradizioni MT/LXX, nessuna nuova citazione duplicata; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/ezechiele-2715-ebano-e-avorio-nel-commercio-di-tiro/. Prossimo relazioni e QA.
