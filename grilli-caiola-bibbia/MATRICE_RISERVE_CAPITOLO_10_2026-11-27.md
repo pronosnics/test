@@ -10,3 +10,5 @@
 - 10.1.2: P2-A Huang 2024 integrale, EMA monografia integrale (pagina 429), Tristram/Balfour passi originali non recuperati. P1-L evidenze cliniche eterogenee e rischio specifico dei preparati; P2-D ulteriori studi, filologia e apparati. Fonte Paulsen registrata. P3 immagine/SEO/HTTP ancora aperte.
 
 - 10.1.3: P1-L identificazione ἀλόη e tracce Sindone intrinsecamente non conclusive; P2-A Frei primario, Marinelli 2009, Hepper, nuovi facsimili Tristram/Balfour; P2-D supplementi Moldenke e apparati residui; P3 audit visivo/SEO/HTTP. Zohary e Dafni relazioni ripristinate.
+
+- 10.1.4: P3 #676 tavola con cartiglio e margini da sostituire, caption media tecnica; HTTP CONNECT 403, SEO valori memorizzati 4/4 verificati. P2-D incongruenza conteggio Grilli 9/6 registrata; P2-A Greppin 1988 e Scannerini 1998 integrali da reperire, oltre precedenti. Relazione #694 risolta. Audit locale 10/10.
