@@ -240,3 +240,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.21 — Dike, Blankson e Segnitome (2025) — Emolisi dopo henné e deficit di G6PD
 - Pubblicata e riletta #7796, Henna-Induced Intravascular Hemolysis in a Glucose-6-Phosphate Dehydrogenase-Deficient Ghanaian Female Child with Full Defect; 10.2147/IMCRJ.S534544; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/dike-2025-henne-emolisi-g6pd/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.22 — Elyasi e colleghi (2022) — Henné e curcuma nella sindrome mano-piede
+- Pubblicata e riletta #7798, Topical henna and curcumin (Alpha®) ointment efficacy for prevention of capecitabine induced hand-foot syndrome: A randomized, triple-blinded, placebo-controlled clinical; 10.1007/s40199-022-00438-8; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/elyasi-2022-henne-curcuma-mano-piede/. Prossimo relazioni, SEO e QA.
