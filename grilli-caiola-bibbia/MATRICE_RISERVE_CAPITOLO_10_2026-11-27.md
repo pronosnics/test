@@ -6,3 +6,5 @@
 - P2-D: medicine non trovate per Zygophyllum, Linum, Lycium; accertare necessità e assenza con ricerca mirata.
 - P2-D: codici operativi, legacy Rhamnus e Salvia da confermare.
 - P3: immagini associate da visionare, featured/ALT/SEO e audit locale/pubblico da controllare. Nessuna riserva dei capitoli precedenti cancellata.
+
+- 10.1.2: P2-A Huang 2024 integrale, EMA monografia integrale (pagina 429), Tristram/Balfour passi originali non recuperati. P1-L evidenze cliniche eterogenee e rischio specifico dei preparati; P2-D ulteriori studi, filologia e apparati. Fonte Paulsen registrata. P3 immagine/SEO/HTTP ancora aperte.
