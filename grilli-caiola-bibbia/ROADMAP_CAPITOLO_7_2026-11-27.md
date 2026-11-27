@@ -273,3 +273,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.30 — Cupressus: originale Lev-Yadun–Weinstein-Evron1994
 - PDFeditore7p aperto,lettimetodi,tab1p392,discussionepp393–394 e ringraziamenti;DOI10.1111/j.1469-8137.1994.tb04289.x,NewPhytologist127:391–396.32carboni5–10mm,Natufianoantico13000–10700BP,SEMJeolx20–6000,3pianianatomici,confronto legnimoderni+survey1990. Tab1:1Cupressus,1Myrtus,10Q.calliprinos,3Q.ithaburensis,2Quercussp,4Salix(prob.acmophylla),10Tamarixsp,1dicotiledone=32. Testorisultati«17Tamarix»/«2nonidentificati»incongruente con tabella/abstract: usaretabella attribuita,nonconvertireproporzioni inabbondanzavegetazione. Identificazioni a genere(Tamarix) nonprovanoa.aphylla. Natufiano non etàbiblica econtaesemplari nonuso medicinale. FundingsalaCare,NatureReservesAuthority,FacultyHumanitiesHaifa eClorepostdoc. Screenshotp1/2richiesti ma nessunbloccoimmaginedisponibile nellarisposta ricevuta: noncertificarevisione. Utilerinvioallefuturequerce cap7,nonnuovocensimento.
+
+
+## Lotto 19.31 — Lev-Yadun e Weinstein-Evron (1994) — Legni natufiani di el-Wad
+- Pubblicata e riletta #7779, Testooriginale,metodi e tabella1pp391–394,appendice in corso; discrepanzetestotabella mantenute inroadmap; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/lev-yadun-weinstein-evron-1994-legni-natufiani-el-wad/. Prossimo relazioni, SEO e QA.
