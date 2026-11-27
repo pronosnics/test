@@ -75,3 +75,7 @@ Abies: nuovo modello2026 abstract e script Zenodo, integrale/input/output non ac
 
 ## Lotto59
 Carrubo: Ramón-Laca/Mabberley2004 testo pertinente, ipotesi storico-biogeografica non prova primaria. Retama: Gomaa2018 fenologia e semi sei popolazioni, facsimili/dati non acquisiti. Boswellia: Raffaelli2008 manoscritto accettato UniFi, confronto prima/dopo12piante; screenshot403, Raffaelli2003 integrale ancora riserva. Pterocarpus: Mohana Kumara2026 361 individui/22 popolazioni/16SSR, discordanza abstract/AMOVA esplicitata, supplementi non acquisiti; Biswas clinico integrale ancora riserva. Fonti #8268/#8271/#8274/#8277, relazioni #6119–6122, quattro botaniche aggiornate e readback esatto, audit8/8 dopo correzione marcatore8274. Restanti riserve mantenute, pending=null. Prossimo lotto60.
+
+
+## Lotto60
+Q.ilex: Peguero-Pina2014 tab1 e risultati testuali, screenshot403; fonte7902 integrata. Q.ithaburensis: Kaplan/Gutman1999 abstract originale, integrale non accessibile; Ne’eman/Castagneri2017 ancora riserva. Q.coccifera: Spodek/Ben-Dov2014 PDF parziale ufficiale, p3 visionata, nessuna diagnosi ospite antico; Sukenik integrale ancora riserva. Rosa: protologo Boissier1849 testo pp4–5 acquisito, facsimile e tipi non visionati, Zgheib abstract riletto, Carter/Lamonaca ancora riserva. Fonti #8283/#8286/#8289, relazioni #6123–6125, quattro botaniche e fonte7902 aggiornate, audit8/8, pending=null. Prossimo61; altre riserve invariate.
