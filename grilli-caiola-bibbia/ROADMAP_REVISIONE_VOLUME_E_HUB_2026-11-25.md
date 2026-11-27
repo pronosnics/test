@@ -1,6 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
 **Capitolo 8 (27/11/2026).** [Roadmap corrente](ROADMAP_CAPITOLO_8_2026-11-27.md) · nove monografie. Primo lotto pubblicato e riletto su botanica e medicina dell’alimo. [Registro](REGISTRO_WORDPRESS_CAPITOLO_8_2026-11-27.md) · [Riserve](MATRICE_RISERVE_CAPITOLO_8_2026-11-27.md).
+- 8.2 · Arundo donax · WP #4880, #4881. Distinti Ezechiele 40,5 e i due vocaboli evangelici per il sostegno della spugna. [Lotto 2](CAP8_02_ARUNDO_DONAX.md).
 
 **Stato conclusivo lotto 63 (27/11/2026): CHIUSURA EDITORIALE E AMMINISTRATIVA COMPLETATA CON RISERVE DOCUMENTATE — 63/63 lotti, 23/23 monografie + delta mirra.** Riconciliazione applicata e riletta, pending=null; 520 relazioni bibliografiche botaniche (522 prima delle due fusioni). Questo stato prevale sulle precedenti annotazioni di attesa. Restano le riserve scientifiche/documentali e i controlli HTTP non eseguibili. [Verbale conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_7_2026-11-27.md).
 

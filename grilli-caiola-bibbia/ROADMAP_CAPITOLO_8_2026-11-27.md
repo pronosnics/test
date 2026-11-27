@@ -26,3 +26,5 @@ I nomi della terza colonna identificano il soggetto di lavoro. La ricezione tass
 - Lotto 8.0. Recuperate roadmap generale e del capitolo 7, verbale e matrice del capitolo 7. Confermata la chiusura amministrativa del precedente capitolo. Individuate le schede esistenti e verificata la fonte WordPress #775. Acquisito il PDF originale e controllati i confini del capitolo, le didascalie e il rinvio; nessuna nuova scheda dedotta dal numero di voci in apertura.
 
 - Lotto 8.1. Alimo #4940/#4941 aggiornato. [Dossier](CAP8_01_ATRIPLEX_HALIMUS.md). Fonti nuove #8317/#8319, relazioni #6133–6135, tavola #8321, readback e audit locale. Segue Arundo donax.
+
+- 8.2 · Arundo donax · WP #4880, #4881. Distinti Ezechiele 40,5 e i due vocaboli evangelici per il sostegno della spugna. [Dossier](CAP8_02_ARUNDO_DONAX.md).
