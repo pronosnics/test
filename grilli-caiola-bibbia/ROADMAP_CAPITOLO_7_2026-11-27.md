@@ -216,3 +216,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.10 — Retama: aggiornata scheda2594
 - Ripulita fonte #2594: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-retama-raetam-subsp-raetam-areale-levantino/. Prossimo relazioni e QA.
+
+
+## Lotto 22.11 — Retama: aggiornata scheda2596
+- Ripulita fonte #2596: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/youssef-amer-ghaly-e-hamed-2024-a-spotlight-on-retama-spp/. Prossimo relazioni e QA.
