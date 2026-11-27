@@ -305,3 +305,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.41 — Cupressus: aggiornata scheda1551
 - Corrette spaziature nel testo visibile e terminologia oligomeri di proantocianidine; href conservati; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
+
+
+## Lotto 19.42 — Cupressus: aggiornata scheda7771
+- Corrette spaziature nel testo visibile e terminologia oligomeri di proantocianidine; href conservati; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/meunier-1994-cipresso-proantocianidine-elastasi/. Prossimo relazioni e QA.
