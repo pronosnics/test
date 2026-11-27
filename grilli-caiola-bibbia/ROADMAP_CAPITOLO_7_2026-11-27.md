@@ -264,3 +264,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.27 — Lawsonia inermis — Henné: usi storici, studi clinici e sicurezza
 - Pubblicata e riletta #7808, Nuova medicina dopo tre ricerche negative; evidenza traditional descritta con dettagli clinici e limiti, collegamento1955; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/usi-medicinali/lawsonia-inermis-henne-usi-studi-sicurezza/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.28 — Kōfer — כֹּפֶר (H3724): l’henné del Cantico
+- Pubblicata e riletta #7810, LemmaH3724dopo ricercanegativa; separati sensobotanico e pece/riscatto, nessuna identificazione hennénell'arca; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/nomi-biblici/kofer-h3724-henne-cantico/. Prossimo relazioni, SEO e QA.
