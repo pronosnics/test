@@ -43,3 +43,7 @@ Stato: inventario 23/23 completato sui registri, non nuova verifica integrale n�
 
 ## Aggiornamento lotti 50.3–51.3
 Le cinque fusioni Cupressus/Is41:19/Diospyros sono applied e rilette, nessuna proposta pendente. Lawsonia: riserva testuale Plinio XII109 latino e Dioscoride I95 greco digitale risolta; facsimili critici non integralmente collazionati. Fonti #8206–8208, relazioni #6088–6091, integrazioni #1955/#7808/#7817 e audit locale 9/9 verificati. Saleem2024 caso CIT8 con FTIR, figura14 parrucca, dati grezzi e conferma cromatografica specifica non acquisiti; McCreesh2009 solo abstract. Prossime piste Renaut2009, David/Garner2003 e tesi McCreesh; poi Mutlu e Howard–Norlindh. Le altre riserve restano aperte. Consultare roadmap operativa per dettagli e fonti.
+
+
+## Aggiornamento lotto52
+Lawsonia: Renaut2009 sezioni pertinenti lette (facsimile non collazionato), McCreesh/Gize/David2011 PDF completo e figg.1–2 visionati; fonti #8216/#8217, relazioni #6092–6094, botanica #1955 e lemma #7810 aggiornati e riletti; audit locale4/4. David/Garner2003 abstract e bibliografia originali soltanto, p159 non collazionata, tesi McCreesh2009 integrale ancora non acquisito; dati grezzi/sovrapposizione campioni non verificati. Ipotesi storico-linguistica non datazione del Cantico. Nessun pending. Prossimo lotto53 Cedrus Mutlu e originali pertinenti, poi Diospyros Howard–Norlindh.
