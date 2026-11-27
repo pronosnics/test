@@ -63,3 +63,7 @@ Diospyros: Howard–Norlindh BHL403/BioStor inaccessibile, P2 mantenuta; Jahanba
 
 ## Lotto56
 Diospyros: Gerisch2010 PDF e inventario visionati, Pulak2008 testo pertinente letto (screenshot dimensione eccessiva), Cooper2024 sezioni pertinenti originali indicizzate (screenshot403). Fonti #8241/#8243/#8245, relazioni #6104–6109, botanica/citazione integrate, audit5/5; identificazione controversa invariata. Dixon1961 abstract solo, PDF86MB non acquisito; Haldane1993 abstract solo, Hepper1992 solo metadati/attribuzione indiretta. Prossimo lotto57 Haldane/Dixon/Hepper/Western–McLeod, poi altre riserve P2. Nessun pending.
+
+
+## Lotto57 e piano conclusivo
+Western–McLeod1995, Bass1989 e Giachi2016 testi pertinenti consultati, fonti #8249/#8251/#8253, relazioni #6110–6115, botanica/citazione aggiornate e audit5/5. Haldane/Dixon/Hepper/Howard–Norlindh integrali e referti/facsimili restano coda bibliotecaria. Ciclo ebano concluso sul materiale accessibile, identificazione controversa invariata. Sei lotti di lavoro proposti 58–63: raggruppare riserve delle altre specie e audit finale, senza promessa di risolvere limiti intrinseci o accessi bloccati. Dettagli nella roadmap. Nessun pending.
