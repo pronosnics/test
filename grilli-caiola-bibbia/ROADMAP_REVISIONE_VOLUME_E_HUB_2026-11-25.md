@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — aggiornamento 9.1 (27/11):** quattro fonti nuove #8397/#8399/#8401/#8403, riuso #3414, relazioni #6189–6193, botanica/medicina aggiornate e rilette; audit locale 6/6. Restano fonti integrali e verifiche documentali/iconografiche, lotto aperto. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md).
+
 **Capitolo 9 (27/11/2026) — AVVIATO.** [Roadmap](ROADMAP_CAPITOLO_9_2026-11-27.md) · quattro monografie, pp.149–154 (PDF151–156), figg.97–100; quattro botaniche e quattro medicinali esistenti. 9.1 Notobasis #2080/#2095 aggiornati e riletti, relazioni #6187–6188, audit locale 2/2, SEO verificato; [dossier](CAP9_01_NOTOBASIS_SYRIACA.md). Revisione ancora aperta; studi moderni individuati ma non ancora integrati, fonti residue e controllo tavola/HTTP pendenti. Cap.8: riserve conservate, due tavole da sostituire separatamente.
 
 **Capitolo 8 (27/11/2026).** [Roadmap corrente](ROADMAP_CAPITOLO_8_2026-11-27.md) · nove monografie. Primo lotto pubblicato e riletto su botanica e medicina dell’alimo. [Registro](REGISTRO_WORDPRESS_CAPITOLO_8_2026-11-27.md) · [Riserve](MATRICE_RISERVE_CAPITOLO_8_2026-11-27.md).
