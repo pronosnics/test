@@ -321,3 +321,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.36 — Retama: aggiornata scheda2604
 - Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/1-re-194-5-elia-allombra-del-ro%e1%b9%afem-nel-deserto/. Prossimo relazioni e QA.
+
+
+## Lotto 22.37 — Retama: aggiornata scheda2606
+- Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/salmo-1204-i-carboni-ardenti-della-ginestra-ro%e1%b9%afem/. Prossimo relazioni e QA.
