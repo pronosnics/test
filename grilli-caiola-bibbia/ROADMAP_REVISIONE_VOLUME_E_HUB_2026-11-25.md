@@ -1884,3 +1884,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.10 lotto 10.1.3: filologia e Sindone aggiornate #666/#673/#683, fonti #8541/#8543 e relazioni #6275–6282. Collazioni storiche precedenti recuperate da #700, nuove letture originali residue registrate; 0/10 chiuse.
 
 - Cap.10 lotto 10.1.4: apparati Grilli incongruenza conteggi 9/6, tavola #676 ispezionata via byte MCP (cartiglio/margini da correggere), SEO 4/4, relazione controversa Aquilaria #694, audit locale 10/10; HTTP 403. Aloe aperta, 0/10 definitive.
+
+- Cap.10 lotto 10.1.5: Balfour testo e nota Trevor recuperati; Roumpekas ed Eggli pubblicati #8548/#8550, tre relazioni #6283–6285; #666/670/683 aggiornati, audit locale 12/12. Tavola non ancora sostituita, riserve bibliografiche nel dossier.
