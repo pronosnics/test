@@ -233,3 +233,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.20 — HortFlora — Cupressus sempervirens: coni, chioma e coltivazione
 - Pubblicata e riletta #7767, Cupressus sempervirens L., Horticultural Flora of South-eastern Australia, volume 1; https://hortflora.rbg.vic.gov.au/taxon/ad8acada-5340-11e7-b82b-005056b0018f; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/hortflora-cupressus-sempervirens-morfologia/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.21 — Brown–Driver–Briggs — Bərôš, gōfer e tirzāh
+- Pubblicata e riletta #7769, A Hebrew and English Lexicon of the Old Testament: voci bərôš (H1265), gōfer (H1613), tirzāh (H8645); https://biblehub.com/bdb/1265.htm; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-berosh-gofer-tirzah-conifere/. Prossimo relazioni, SEO e QA.
