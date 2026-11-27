@@ -198,3 +198,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.11 — Lawsonia: controllo variante grande e recupero errorelocale
 - DownloadBalfour1885lightofword403,nessunfilelocale creato,rgfilemancante noncontrollonegativosul1885;PDFwebscansionato265pconcoverOCR,voceancoranoncollazionata. Tavola1956variante960×1440322658byte,SHA523125f328c65c3dd33a589920320a2008378e6aaa07330f0c5d1c23548308f5recuperatain7blocchi. Primotentativoscritturalocaleunicoargomentobase64fallitoARG_MAX,recuperatoperblocchisenzaripeterelettureMCP;SHAfinale corretto eimmaginevisionata. Nessunamodificaallafigura. Prossimo controlloconclusivofiori/didascalia eprimari moderni.
+
+
+## Lotto 20.12 — Lawsonia: errore diagnostico nella tavola e correzione avviata
+- Visione960×1440 evidenzia diversi fioria5petali e numerostamisuperiorea8;polverecoloreruggineconfondelafogliaessiccataconcoloretintorio sviluppato. P1visuale da correggere,nonconservaretavolacomecertificata. TestiPost/Kew/Grilliindicaconfermatetrameria/8stami. Generarerevisionenellostessostilecon4petali8stami,polverefoglieverdeoliva/brunaverdastra,capsulachiaramente4logge,seminoriproduzionecarnosa; nessuntesto/codice. Originale1956noneliminare.
