@@ -232,3 +232,10 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Trascrizione mostra «II KINGS10:27» mentre il testo citato corrisponde al confronto cedri/sicomori di1Re10:27; conservare distinzione fra errore della trascrizione e errore verificato del facsimile. Analogamente «2Cronache22:14» resta anomalia da verificare sul facsimile, non errore dell’edizione certificato.
 - Apparati supplementari non integralmente esposti dal servizio: controllo negativo nell’intero libro NON certificato; riservaP2 per Supplementary Notes/appendici e P3 facsimile/figure. Download diretto urllib fallito403, nessun aggiramento né nuova ripetizione dello stesso URL.
 - Prossimo aggiornare #266/#268/#269 e fonte#5821; le riserve sono documentali e non autorizzano affermazioni pubbliche non sostenute.
+
+
+## Lotto 18.16 — Cedrus: apparati visuali e correzione del rinvio 1Re
+- Visionati facsimili Grilli tab.7 p.183/PDF185, tab.8 p.184/PDF186, tab.11 p.188/PDF190, tab.12 p.190/PDF192. Correzione rispetto al sottolotto18.8: distribuzione8/30/15/17/0 è TAB.8, non7a. I70 riferimenti/20libri restano conteggio del volume; primato «dopo incenso» non adottato come graduatoria universale (tabella pone grano175,incenso159,cedro70).
+- Bibbia CEI2008 ufficiale www.bibbiaedu.it/CEI2008/at/1Re/5/ reperita: discorso sulle piante1Re5:13, corrisponde a4:33 Diodati/KJV. Dunque1Re5:6 a p.118 è rinvio errato in questa numerazione, non semplice variante equivalente. Tab.11 del volume usa correttamente5:13. Da esplicitare in commento originale senza replicare ampiamente il testoCEI.
+- Originale ebraico1Re4:33 e Salmo92:12, BDBH730 controllati. Settanta greca/Vulgata da confrontare con testimoni accessibili; prima pagina sep era traduzione inglese Brenton, NON originale greco: non attestarne lettura come testo greco.
+- Checkpoint Moldenke zip recuperato: contiene traduzioni e42figure, non PDF/facsimile completo; individuata vignetta cedro p.64 da visionare, fonte originaria delle riprese da verificare. Prossimo modifiche WordPress già preparate e relazioni.
