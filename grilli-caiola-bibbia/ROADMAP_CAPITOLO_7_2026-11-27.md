@@ -796,3 +796,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 41.3 — Wiebes (1968) — Vespe del sicomoro: campioni zoologici africani
 - Fonte #8159 pubblicata e riletta, relazione {"success":true,"data":{"saved":true,"kind":"source_citations","id":6065}}. Consultazione e limiti come 41.1; niente deduzioni sulla perdita di semi. Prossimo: registrare Greeff2025.
+
+
+## Lotto 41.4 — Greeff, Mnguni e Warren (2025) — Competizione fra le vespe del sicomoro
+- Fonte #8161 pubblicata e riletta, relazione {"success":true,"data":{"saved":true,"kind":"source_citations","id":6066}}. Consultazione e limiti come 41.1; niente deduzioni sulla perdita di semi. Prossimo: integrare botanica #367 e audit.
