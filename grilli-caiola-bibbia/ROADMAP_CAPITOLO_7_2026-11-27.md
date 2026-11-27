@@ -917,3 +917,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 47.3 — Botanica #2540
 - Integrato confronto Dufour-Dror 2002 da testo originale, conservati contenuti utili; rettificata frase bibliografica precedente sulla sola scheda. Rilettura esatta positiva.
+
+
+## Lotto 47.3 — Botanica #2455
+- Integrato confronto Dufour-Dror 2002 da testo originale, conservati contenuti utili; collegata fonte esistente senza duplicarla. Rilettura esatta positiva.
