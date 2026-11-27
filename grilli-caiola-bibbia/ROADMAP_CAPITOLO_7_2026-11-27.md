@@ -26,7 +26,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | 19 | 131 (133) | Rosa phoenicea L. | ATL-0200 | 2677 | Chiusa editorialmente con riserve (lotto32.2); tavola#2679 conservata |
 | 20 | 132 (134) | Pterocarpus santalinus | ATL-0185 (ATL-0166) | 2441 | Chiusa editorialmente con riserve (lotto33.2); Santalum#3212 distinto |
 | 21 | 133 (135) | Ficus sycomorus | ATL-0106 | 367 | Chiusa editorialmente con riserve (lotto34.3); tavola corretta#8092 |
-| 22 | 134 (136) | Tamarix aphylla | ATL-0250 | 3749 | Da revisionare |
+| 22 | 134 (136) | Tamarix aphylla | ATL-0250 | 3749 | Chiusa editorialmente con riserve (lotto35.4); famiglia Frankeniaceae/APG V |
 | 23 | 135 (137) | Pistacia atlantica | ATL-0175 (ATL-0159) | 2291 | Da revisionare |
 
 23 corrispondenze monografiche distinte + 1 rimando mirra = 24 ID pubblicati primari. Candidati comparativi separati, non contati come voci aggiuntive; per cap.7 potranno essere necessarie revisioni trasversali documentate. Verifiche Kew preliminari: Vachellia subsp. raddiana https://powo.science.kew.org/taxon/77132778-1 ; Ulmus https://powo.science.kew.org/taxon/837119-1 e /taxon/60478977-2 ; Quercus calliprinos https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295898-1 ; Rosa phoenicia https://powo.science.kew.org/taxon/733674-1. Non equivalgono a revisione sistematica completa.
@@ -654,3 +654,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 35.3 — Tamarix: relazioni bibliografiche e nomenclatura in linea
 - FonteKew#3752 aggiornata a famiglia corrente e ripulita da promemoriaATL. Famiglia assegnata#80 verificata con lettura separata. Aggiunti rapporti fonte→botanica/medicina e Grilli→trecitazioni#3786–3788; collegamenti nuovi distinti da quelli storici senza alterare riconciliazioni protette. Scheda lemma#3785 e trecitazioni lette: attestazioni diʾēšel corrette, treidentificazioni controverse conservate. Ger17:6 discusso come confronto lessicale, senza creare una relazione specie-certa.
+
+## Lotto 35.4 — Tamarix: chiusura editoriale e controlli
+- Relazioni nuove#6024–6033 rilette nelle risposte di salvataggio; restano i collegamenti storici puntuali#2853–2873/#5113/#5157/#5207–5208. SEO8schede verificato. Audit locale12schede (botanica,medicina,5fonti,APG V,lemma,3citazioni): H1unico, nessunALTmancante, nessuna nota candidata o warning. Tavola#3768 conservata; featured e plate coincidenti.
+- LimitiP1: controlloformulazione/controlli Gul2023 e sinergia Aljarbou2025 non dimostrata; P2 integrali delle rassegne2020/2024 e articoloVenturella2018 non interamente collazionati (abstract/scheda primaria verificati), supplementi sperimentali non tutti esaminati; P3 HTTPpubblico non verificato. Ulteriore allineamento APG V delle altre Tamarix del sito da inventariare separatamente, senza estendere questa revisione automaticamente a tutti i taxa.
+- **22/23 monografie chiuse editorialmente con riserve; ultima voce Pistacia atlantica#2291,p135.** Chiusura editoriale non equivale a revisione scientifica priva di riserve.
