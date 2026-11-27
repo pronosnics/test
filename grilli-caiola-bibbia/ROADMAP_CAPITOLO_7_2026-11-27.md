@@ -324,3 +324,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.42 — Lawsonia: legami biblici nuovi e identificazione
 - Creatiduepassitermini#450/#451edidentificazione678probabileCant1:14#7812→Lawsonia#1955/kofer#7810. #244legatolemmakoferpreservandomelograno/nardo. #520vecchiotermnullstatuscontroversanonmodificatoper nonaggirareapprovazione;in coda pianoallineamentoa probabileconlemmaspecifico,noncrearesecondaidentificazionesovrapposta. Prossimobibliografia,SEOeaudit.
+
+
+## Lotto 20.43 — Lawsonia: bibliografia strutturata collegata
+- Create33relazioni bibliografiche,ID5822,5823,5824,5825,5826,5827,5828,5829,5830,5831,5832,5833,5834,5835,5836,5837,5838,5839,5840,5841,5842,5843,5844,5845,5846,5847,5848,5849,5850,5851,5852,5853,5854;risposte positive e richieste conservate perreadback. Novefontinuove7792–7806(dispari/intervallo IDrealenell’elenco) e7817,nessunaripetizionedelle6plantoriginali. NuovilocilegittimiKewconservazione/genere edMoldenkesu244Lawsonia124–125distintidaPunica190–191. Prossimo riletturatotali, SEO,audit econtrollopubblico.
