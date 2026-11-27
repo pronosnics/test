@@ -285,3 +285,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.33 — Cupressus: aggiornata scheda1551
 - IntegratiGrilli119/Sir24:13corretto,Tristram/Balfour,archeobotanica1989–1994,Scali2026,Cecchi2024,Meunier1994,J.foetidissima. Ripuliteistruzionifuture,rimosso paragrafo diagnostico ripetuto,URLpreservato; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
+
+
+## Lotto 19.37 — Cupressus: validazione medicinale respinta
+- Aggiornamento#1555 respinto INVALID_ARGUMENT «Evidenza non valida» per valoreliberodelcampo pdb_evidence_level. Riletto: operazione non applicata, metadati ancora vuoti, modified2026-11-19 17:14:29; botanica#1551 lotto19.33 salvata. Nessuna nuova creazione orelazioneripetuta. Risolvere valorecontrollato prima diritentare e poi completare#1557/#1561 noneseguite perinterruzione.
