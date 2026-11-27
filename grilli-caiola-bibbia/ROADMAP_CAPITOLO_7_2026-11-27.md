@@ -345,3 +345,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.51 — Cupressus: aggiornata scheda1556
 - Aggiunta alternativaJ.foetidissima e confrontoaccadicoattribuitoaDafni; fonte lessicale compilata; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/b%c9%99ros-%d7%91%d6%b0%d6%bc%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h1265-cipresso-abete-o-ginepro/. Prossimo relazioni e QA.
+
+
+## Lotto 19.52 — Cupressus: conservazione e nuova relazione distinta
+- KewGeneralinformationaperto riportaLC, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261974-1/general-information;IUCNdiretto403,nessunassessmentannodatoinferito.EUFORGENapertopercontesto,nessunanuovaattribuzionefilogeograficaprimaria. Nuovarelazione#5821fonte#5289locusconservazione distinto da#4203tassonomia,nonfonderli;38nuove cap19#5784–5821,cap7tot154 nuove,3assorbimentiprecedentiseparati,saldo151. Cupressaceae#65assegnataverificataconsecondapaginazione. Prossimo auditglobale della specie.
