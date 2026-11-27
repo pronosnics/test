@@ -1799,3 +1799,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.8: audit 31 identificazioni, proposta 14 operazioni pending ae28691d-6766-4def-b08c-4d8476f0ec5e; sette contenuti aggiornati, 8 relazioni #6177–6184, SEO #3980, sei citazioni ripulite. Readback/audit locale positivi. Approvazione amministrativa e riserve residue ancora aperte.
 
 - Cap.8: 14 riconciliazioni applicate e verificate, nuova fusione singola pending be427f15-dcea-4a6f-9000-71db1f17eda9. Approfondimento sardo Schoenoplectus #3329, nuove fonti #8390/#8392 e relazioni #6185–6186. Audit locale positivo; HTTP ancora 403 e altre riserve aperte.
+
+- Cap.8: 15/15 operazioni di riconciliazione applicate/verificate. Due nuove tavole verticali senza scritte individuate in Libreria e visionate; trasferimento automatico impedito da accesso raw, predisposto upload browser. Vecchi allegati ancora attivi; riserve documentali e HTTP aperte.
