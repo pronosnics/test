@@ -940,3 +940,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 48.3 — Botanica #2540
 - Integrato confronto ecologico da Dufour-Dror2004, distinta associazione climatica da tolleranza fisiologica e areale storico da POWO corrente. Testo precedente preservato, rilettura esatta positiva.
+
+
+## Lotto 48.3 — Botanica #2455
+- Integrato confronto ecologico da Dufour-Dror2004, distinta associazione climatica da tolleranza fisiologica e areale storico da POWO corrente. Testo precedente preservato, rilettura esatta positiva.
