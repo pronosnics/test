@@ -220,3 +220,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.11 — Retama: aggiornata scheda2596
 - Ripulita fonte #2596: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/youssef-amer-ghaly-e-hamed-2024-a-spotlight-on-retama-spp/. Prossimo relazioni e QA.
+
+
+## Lotto 22.12 — Retama: aggiornata scheda2598
+- Ripulita fonte #2598: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/leon-gonzalez-et-al-2018-genus-retama-usi-fitochimica-e-farmacologia/. Prossimo relazioni e QA.
