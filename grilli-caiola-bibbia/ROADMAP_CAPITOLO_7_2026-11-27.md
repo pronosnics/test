@@ -224,3 +224,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.12 — Retama: aggiornata scheda2598
 - Ripulita fonte #2598: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/leon-gonzalez-et-al-2018-genus-retama-usi-fitochimica-e-farmacologia/. Prossimo relazioni e QA.
+
+
+## Lotto 22.13 — Retama: aggiornata scheda2600
+- Ripulita fonte #2600: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/plants-of-palestine-retama-raetam-white-weeping-broom/. Prossimo relazioni e QA.
