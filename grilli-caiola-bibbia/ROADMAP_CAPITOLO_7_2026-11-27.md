@@ -227,3 +227,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.13 — Kumar e colleghi (2019) — Ebano di Ceylon: limiti della propagazione per margotta
 - Pubblicata e riletta #7829, Fonte consultata e limiti registrati nei lotti precedenti; nessuna efficacia clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kumar-2019-diospyros-ebenum-margotta/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 21.14 — ICFRE–IFGTB — Progetto 2023–2028 su Diospyros ebenum e Xylia xylocarpa
+- Pubblicata e riletta #7831, Fonte consultata e limiti registrati nei lotti precedenti; nessuna efficacia clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/icfre-ifgtb-2023-2028-diospyros-ebenum-germoplasma/. Prossimo relazioni, SEO e QA.
