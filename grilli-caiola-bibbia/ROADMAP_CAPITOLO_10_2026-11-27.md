@@ -215,3 +215,7 @@ Rilette #2619 e #2620. Integrati il lutto per Giacobbe e un saggio veterinario d
 
 ### 10.7 — SALVIA PALAESTINA
 Pubblicate #8677/#8679, tavola #8681 assegnata e verificata, distinzione da S. judaica, tre fonti e relazione controversa #695. Prossima S. spinosum. Vedi [DOSSIER_CAPITOLO_10_07_SALVIA_PALAESTINA_2026-11-27.md](DOSSIER_CAPITOLO_10_07_SALVIA_PALAESTINA_2026-11-27.md).
+
+
+### 10.8 — SARCOPOTERIUM SPINOSUM
+Corrette morfologia e terminologia del frutto in #3252, tradotti e aggiornati i metadati medicinali #3253. Prossima Ziziphus. Vedi [DOSSIER_CAPITOLO_10_08_SARCOPOTERIUM_SPINOSUM_2026-11-27.md](DOSSIER_CAPITOLO_10_08_SARCOPOTERIUM_SPINOSUM_2026-11-27.md).

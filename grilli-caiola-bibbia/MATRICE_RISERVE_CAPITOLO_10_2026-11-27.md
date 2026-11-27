@@ -51,3 +51,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.7** P1-L analogia artistica; P2-A Hepper, originali Hareuveni/Manor-Friedman e facsimile del protologo; P2-D campioni e metodi degli studi fitochimici. P3 HTTP esterno.
+
+
+**10.8** P1-L corona indeterminata ed efficacia clinica non accertata. P2-A opere sindoniche storiche, Hepper; P2-D integrazione completa dei supplementi e dei protocolli moderni. P3 semantica di Pr 22,5 e HTTP.

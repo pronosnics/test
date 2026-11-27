@@ -1922,3 +1922,6 @@ Capitolo 10.6 — Rilette #2619 e #2620. Integrati il lutto per Giacobbe e un sa
 
 
 Capitolo 10.7 — Pubblicate #8677/#8679, tavola #8681 assegnata e verificata, distinzione da S. judaica, tre fonti e relazione controversa #695. Prossima S. spinosum.
+
+
+Capitolo 10.8 — Corrette morfologia e terminologia del frutto in #3252, tradotti e aggiornati i metadati medicinali #3253. Prossima Ziziphus.
