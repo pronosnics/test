@@ -1910,3 +1910,6 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap10 10.3.4: Aburjai2001 testo digitale, RCT 2016 abstract (38 pazienti, 8 settimane, surrogati), Tarhan2023 comparativa, Çoruh2007, Jamshidzadeh2005 tossicità preclinica, Mehrzadeh2024 abstract; #1807/#1810 aggiornati, 6 fonti #8615–8625 dispari, rel #6321–6332 rilette, audit 8/8. Riserve integrali e tassonomiche mantenute.
 
 - Cap10 10.3.5: Frei1982 primario recuperato #8627, Danin/Baruch tabelle aggiornate, Boi2017 fig2 visionata, Litt indiretto, apparati parziali. Tre botaniche e tre fonti preesistenti aggiornate, sei rel #6333–6338, audit 7/7. Riserve integrali e tecniche mantenute.
+
+
+Capitolo 10, ripresa verificata. Dossier 10.1–10.4 già presenti; esito e riserve del cisto nell’ultimo paragrafo della roadmap specifica. Ricontrollati PDF 157–169 e figure 101–110. Il primo lotto da completare è 10.5, Linum usitatissimum.

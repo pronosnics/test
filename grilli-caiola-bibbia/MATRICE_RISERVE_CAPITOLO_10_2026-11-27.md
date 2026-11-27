@@ -38,3 +38,7 @@
 - 10.3.4: P1-L RCT preliminare su surrogati, saggi non clinici, sicurezza e trasferibilità tassonomica non stabilite. P2-A integrali RCT2016/Tarhan2023/Çoruh2007/Jamshidzadeh2005/Mehrzadeh2024, facsimile e voucher Abbadi00-24; P2-D Hani2024 e correzione, altri studi preclinici, Sindone e storici. P3 tavola/SEO/HTTP e duplicato lemma H1534 invariati. Audit locale 8/8, 12 relazioni rilette.
 
 - 10.3.5: P1-L attribuzioni Frei/Baruch contestate, Boi confronto immagini non riclassificazione dei 91; polline non prova autonoma datazione/geografia/corona. P2-A Frei1982 resoconto recuperato, immagini specifiche, Danin1999/2008 integrali, lettera Litt non acquisiti; indice versetti da completare. P3 tavola/SEO/HTTP/duplicato lemma aperti. Audit locale 7/7. Addenda Aloe/Zygophyllum registrati.
+
+
+### Riallineamento dopo il lotto 10.4
+Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei dossier. P3: la nuova proposta Gundelia è stata respinta; resta online #1808. Cistus #7394 mantenuta come schema, capsula da verificare. P2-A/P2-D e HTTP restano distinti. Il riscontro delle figure originali 101–110 è completato; la revisione delle tavole dell’Atlante è indipendente.
