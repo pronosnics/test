@@ -244,3 +244,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.17 — Diospyros: aggiornata scheda5278
 - Completati autore, titolo, natura e URL della fonte UBS; varianti ketiv/qere e alternative botaniche verificate; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/ubs-havnim-ezechiele-2715-ebano-diospyros-dalbergia/. Prossimo relazioni e QA.
+
+
+## Lotto 21.18 — Diospyros: aggiornata scheda5281
+- Riutilizzata monografia Singh #5281 ampliando titolo e contenuto all'opera intera; conservati riferimento Coromandel e URL esistente, aggiunte pp89–94 per D.ebenum senza duplicare la fonte; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bsi-singh-2005-diospyros-melanoxylon-149-161/. Prossimo relazioni e QA.
