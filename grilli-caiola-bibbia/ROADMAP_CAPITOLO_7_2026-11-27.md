@@ -158,3 +158,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.1 — Lawsonia inermis ATL-0127#1955: precontrollo
 - Letta botanica completa#1955,modified2026-11-24 18:36:09;una botanicaLawsonia,nessunamedicina trovata conricerca scientifica(ricontrollarehenné).6relazioni#1072/#1073/#4083–4086,Moldenke/Duke/Kew/Post/Zohary/FDA; nessunduplicato. Unaidentificazione#520Cant4:13#244statuscontroversa,malgrado testo dica moltoprobabile: verificarefontiegrado,nonmodificare senza piano. Tavola1956featured=plate,medium320×480,45794byte,SHA73768391be36d4379a84cac551be0da3a0f0926599736be380bb77d23576084c;captioncontieneATLoperativo da ripulire. SEOesistentecompleta. Studi2026citatiinbodymanoncollegatistrutturalmente da verificareprimariamente. Prossimo Grilli120/PDF122fig72 eoriginaliobbligatori.
+
+
+## Lotto 20.2 — Lawsonia: Grilli120fig72 letta e visionata
+- Testooriginalep120/PDF122efotofig72visionati.2–8m,ramitaloraspinescenti,foglieopposte,fioritetrameri,pannocchie,capsuleplurisperme,tinturalawsone.Misure40–45semi,spinedopodueanni,contenutocoloranteneipiccioli,calendarioMaggio–Luglio,Iranmaggiorproduttore easserzioneanticoCyperus da verificare, nontrasferire comeconsenso moderno. IpotesipiantagioniavignediEngaddi/Salomoneenarrativamummie da distinguere daevidenzaprimaria. Abortivo/tagliodell’hashish nonricettanéefficacia dimostrata. LetturaallegoricaCultrera1861 soltantoattribuzione delvolume, codaCultrera giàdifferita dall’utente. CaptionATLda ripulire; fonti successive.
