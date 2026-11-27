@@ -276,3 +276,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.30 — Cupressus: aggiornata scheda1955
 - IntegratiGrilli120,riferimenticlinici favorevoli/negativi e nuova medicina; corretto numero8stami,naftochinone,limitecomposizione caso2025; rimosse notePDFconcordato/Balfournegativodacontenutopubblico, linkKew/TIPs corretti; aggiornatalinklemma/passonuovi; URLpreservato; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
+
+
+## Lotto 20.31 — Cupressus: aggiornata scheda244
+- PassocondivisoCant4:13integratoconkofer,senzarimuoverePunica/nardo; ripulitanotaredazionale; identificazione#520nonmodificata inattesadipianocontrollato; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/cantico-4-13-giardino-melagrani/. Prossimo relazioni e QA.
