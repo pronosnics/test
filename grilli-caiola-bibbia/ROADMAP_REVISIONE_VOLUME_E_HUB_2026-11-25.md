@@ -1916,3 +1916,6 @@ Capitolo 10, ripresa verificata. Dossier 10.1–10.4 già presenti; esito e rise
 
 
 Capitolo 10.5 — Aggiornata #1976; pubblicata e collegata medicina #8670, fonte EMA #8668 e quattro relazioni. Collazione del capitolo e delle fonti, audit in dossier. Prossima specie Rhamnus.
+
+
+Capitolo 10.6 — Rilette #2619 e #2620. Integrati il lutto per Giacobbe e un saggio veterinario distinto dalle attività degli altri ramni. Prossima S. palaestina.

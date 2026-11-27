@@ -207,3 +207,7 @@ Riletto l’originale di 210 pagine. Il cap. 10 «Piante del Candelabro Ebraico 
 
 ### 10.5 — LINUM USITATISSIMUM
 Aggiornata #1976; pubblicata e collegata medicina #8670, fonte EMA #8668 e quattro relazioni. Collazione del capitolo e delle fonti, audit in dossier. Prossima specie Rhamnus. Vedi [DOSSIER_CAPITOLO_10_05_LINUM_USITATISSIMUM_2026-11-27.md](DOSSIER_CAPITOLO_10_05_LINUM_USITATISSIMUM_2026-11-27.md).
+
+
+### 10.6 — RHAMNUS LYCIOIDES SUBSP GRAECA
+Rilette #2619 e #2620. Integrati il lutto per Giacobbe e un saggio veterinario distinto dalle attività degli altri ramni. Prossima S. palaestina. Vedi [DOSSIER_CAPITOLO_10_06_RHAMNUS_LYCIOIDES_SUBSP_GRAECA_2026-11-27.md](DOSSIER_CAPITOLO_10_06_RHAMNUS_LYCIOIDES_SUBSP_GRAECA_2026-11-27.md).

@@ -45,3 +45,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.5** P1-L tessuto e identità della reliquia distinti. P2-A Hepper, facsimile Moldenke e alcuni integrali moderni; P2-D collazione clinica e lessicale residua. P3 verifica HTTP separata.
+
+
+**10.6** P1-L identità della corona e del toponimo; nessuna inferenza clinica dal saggio veterinario. P2-A Hepper e originali di alcune interpretazioni sindoniche; P2-D confronto critico completo con apparati e voucher originale.
