@@ -868,3 +868,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 45.1 — Mohseni et al. 2025: sicurezza Pistacia
 - DOI10.1016/j.hermed.2024.100988, Journal of Herbal Medicine49:100988; abstract e sezioni indicizzate originali editore https://www.sciencedirect.com/science/article/pii/S2210803324001453 e /abs/pii/S2210803324001453 consultati; apertura diretta 403, PDF a pagamento, ResearchGate senza integrale, ricerche alternative non risolutive. 26 RCT/1851 soggetti, P. vera/lentiscus/atlantica, ricerca fino ad agosto 2023; 14 vs 13 eventi, RR0,99 IC95%0,48–2,05; ritiri RR0,81 IC95%0,62–1,05, non significativi. Prevalenza eventi gastrointestinali lievi, autori non riportano eventi gravi nei trial inclusi e segnalano alto rischio di bias e campioni piccoli. Non equivalenza né sicurezza universale; tabelle, denominatori specifici, rischio di bias per studio, raccolta attiva eventi e sovrapposizione coorti non verificabili; non attribuire effetti a specie/preparazioni singole. Non copre pubblicazioni dopo agosto2023; P. terebinthus non fra taxa elencati. Fonte non già presente per autore e DOI. Prossimo: registrare fonte e integrare esclusivamente le tre schede medicinali pertinenti.
+
+
+## Lotto 45.2 — Fonte Mohseni #8183
+- Pubblicata e riletta, DOI e anno verificati; SEO salvata e verificata. Abstract ed estratti editore, non integrale; RR e IC riportati con limiti. Prossimo: collegamenti e tre schede medicinali.
