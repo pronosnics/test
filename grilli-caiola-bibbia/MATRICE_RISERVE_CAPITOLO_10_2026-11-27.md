@@ -20,3 +20,5 @@
 - 10.1.6: risolta P2-A monografia EMA integrale (625788/2015); assessment report non collazionato. Hepper/Greppin ancora senza integrale. P3 tavola #676 e HTTP aperte; altre riserve invariate. 10.2 P1-L Elim e Sindone non identificazioni certe; P2-D fonti, anelli di crescita e fisiologia da collazionare; P3 tavola/SEO/HTTP. Grilli p159 collegata #6287.
 
 - 10.2.1: P2-D corrette interpretazioni salinità e longevità; P2-A integrali Koller1955/Agami1986, facsimile Waisel1970, studio dendrocronologico1963; Post ricerca letterale zero ma OCR non conclusivo; altri storici e filologia aperti. Danin fig20/65/66 e Zohary facsimile verificati. P3 immagine/SEO/HTTP ancora aperti. Audit locale 4/4.
+
+- 10.2.2: Post testo originale p187 recuperato (OCR), BDB H362 e conteggio corretti; P1-L Elim non fitonimo dimostrato. P2-A Bailey/Danin PDF originale (403 e ricerca Libreria non restituito), Moldenke integrale/supplementi, Tristram/Balfour specifici, Hepper; Dafni ricerca binomio/genere negativa nel testo HTML, sinonimi da verificare. P2-D medicina separata da valutare; P3 SEO/tavola/HTTP. Audit locale 3/3.
