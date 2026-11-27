@@ -244,3 +244,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.17 — Flora of Israel — Retama raetam: rami fotosintetici e habitat
 - Pubblicata e riletta #7850, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/flora-israel-retama-raetam-retrae/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 22.18 — Izhaki e Ne’eman (1997) — Lepri e dispersione dei semi di retama
+- Pubblicata e riletta #7852, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/izhaki-neeman-1997-retama-raetam-lepri/. Prossimo relazioni, SEO e QA.
