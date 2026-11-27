@@ -154,3 +154,9 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Data 27/11/2026, ATL-0055 WP#266. Letto testo originale Grilli2013 p.118/PDF120 e visionata figura70 (foto A.Travaglini), riletta introduzione pp.111–112/PDF113–114. Coni maturi in circa due anni, aghi su brachiblasti, distinzione portamento giovanile/adulto e usi del legno confermati.
 - Non adottare come dati contemporanei universali il tronco «5–8 m di larghezza», i «2500 anni» non documentati dendrocronologicamente, le poche centinaia di cedri libanesi da Databook1986, o «secondo albero più citato dopo incenso»: mantenere attribuzione ai criteri del volume e verificare apparati. Ricontrollare numerazione 1Re5:6 CEI rispetto 4:33 in altre versioni, senza classificare automaticamente come refuso.
 - Tentativo di registrazione precedente interrotto prima della chiamata GitHub per errore locale ReferenceError; nessun effetto WordPress né commit parziale. Nessuna modifica WP in questo sottolotto. Prossimo: registrare Zohary104–105 letto e visionato, poi Duke84–86 e altre fonti.
+
+
+## Lotto 18.3 — Cedrus: Zohary104–105 e fotografie verificati
+- Originale Zohary1982 pp.104–105/PDF105–106 letto integralmente per la voce Cedar; entrambe fotografie e didascalie visionate: cedro adulto nei boschi libanesi e giovani cedri coltivati sui monti di Gerusalemme. Distinguere piantagioni e distribuzione spontanea; la fotografia israeliana non dimostra indigenato.
+- Erez con Libano esplicito sostiene C.libani; altre occorrenze possibili Pinus halepensis; Lev14:6 e Num19:6 interpretati anche come tamerici o ginepro fenicio. Confronto presente nel corpo #266 ma fonte ancora da strutturare. Longevitá 2000–3000 anni è affermazione del volume, non datazione individuale verificata.
+- Nessuna modifica WP. Prossimo Duke84–86/PDF110–112, poi originali Post/Tristram/Balfour e Dafni; non rinviare Zohary alla chiusura.
