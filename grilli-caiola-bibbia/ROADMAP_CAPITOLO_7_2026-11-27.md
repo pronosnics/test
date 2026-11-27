@@ -201,3 +201,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.12 — Cupressus: Liphschitz–Biger1989 contro ricostruzione ampia
 - Abstractoriginale editore e repositoryTelAvivUniversity https://cris.tau.ac.il/en/publications/cupressus-sempervirens-in-israel-during-antiquity/ letti, IsraelJBot38(1):35–45,DOI10.1080/0021213X.1989.10677109. Resti rari, soprattuttozonearide dovealbero noncrescevanaturalmente; propostaimportazionelegname, nonprovaassolutadell’assenza. Diverge daampiadiffusione prospettata daZohary/Moldenke, daesporre. Integrale,tabelle,campionari,finanziamenti nonacquisiti; P2, nessun sitoarcheologico inventato. RicercaDOI nell’Atlante negativa; nuova fontegiustificata.
+
+
+## Lotto 19.13 — Cupressus: Scali etal2026 risposta al Seiridium
+- Testo originaleeditore recuperato dalla ricerca indicizzata https://www.nature.com/articles/s41598-026-62624-x, mentreopenHTMLredirigeaIDPnonaccessibile; non letta paginaautenticata. DOI10.1038/s41598-026-62624-x,SciRep16:29893,25set2026. Metodi:120innesti4anni,4cloniCNR(2resistenti,1putativo,1suscettibile),2ceppipatogeno,3tempi,controlliferita/nonferiti. TrascrittomicadualRNAseq,geniRputativi e rispostastress; omologianonvalidafunzione,4cloninonrappresentanointeraspecie;validazioneGWASnonfatta. PDF fallito; figure/supplementi efinanziamenti daapprofondire. RicercaDOIAtlante negativa.
