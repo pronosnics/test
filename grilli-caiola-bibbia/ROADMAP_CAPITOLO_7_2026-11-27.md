@@ -821,3 +821,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 42.3 — Eftekharafzali et al. (2018) — Qualità della vita e resina di Pistacia mutica
 - Fonte #8166 pubblicata e riletta; relazione medicinale {"success":true,"data":{"saved":true,"kind":"source_citations","id":6068}}; SEO true. Limiti consultazione e coorti come lotto 42.1; nessuna duplicazione del conteggio dei pazienti. Prossimo: registrare fonte successiva.
+
+
+## Lotto 42.4 — Afrasiabian et al. (2017)
+- Fonte #8168 pubblicata e riletta dopo ripresa della bozza creata nella chiamata precedente; relazione medicinale #6069; SEO verificata. IRCT2016042527599N1, non verificato direttamente nel registro. Limiti come 42.1; facsimile PDF editore inaccessibile, consultato testo originale riprodotto. Nessun beneficio aggiuntivo dimostrato rispetto alla triplice terapia. Prossimo: integrazione #2301 e #2291.
