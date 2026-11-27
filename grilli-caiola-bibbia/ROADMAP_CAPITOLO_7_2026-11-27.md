@@ -736,3 +736,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 38.3 — Pistacia atlantica #2291: integrazione Lardos
 - Aggiornato HTML con sezione documentata Lardos 2011, preservato il testo precedente (readback positivo). Collegamento fonte #3638: {"success":true,"data":{"saved":true,"kind":"source_citations","id":6063}}. Nessuna variazione identificazioni, tassonomia, tavola o SEO; nessuna affermazione clinica nuova. Prossimo: integrare medicina #2301.
+
+
+## Lotto 38.4 — Pistacia atlantica #2301: integrazione Lardos
+- Aggiornato HTML con sezione documentata Lardos 2011, preservato il testo precedente (readback positivo). Collegamento fonte #3638: {"success":true,"data":{"saved":true,"kind":"source_citations","id":6064}}. Nessuna variazione identificazioni, tassonomia, tavola o SEO; nessuna affermazione clinica nuova. Prossimo: rilettura relazioni, audit locale e riallineamento generale.
