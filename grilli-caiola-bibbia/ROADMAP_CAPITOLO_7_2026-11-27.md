@@ -154,3 +154,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Otto relazioni bibliografiche: #900–903,#4203–4206. CoppiaZohary#900/#4206 stesso oggetto,pp106–107 eclaim sovrapposti,candidata a fusione conservativa; #901voce89 e#902supplemento281Moldenke sono loci distinti da conservare. Non sovrascrivere pianoCedrus pendente; eventuali proposteCupressus in coda.
 - Tavola#1553 featured=plate,medium320×480,53032byte,SHA256dd434135751ddfe3dc0e6e9ac6fd921f8310b4f5f06d4c649b0a2fe84620436d,ALTpresente; immagine non ancora visionata in questo ciclo. Corpo contiene istruzioni su consultazioni future da ripulire.
 - Prossimo Grilli119/PDF121fig71,Zohary106–107/PDF107–108,Duke160–162/PDF186–188,Moldenke89–91+281,Post748,Tristram348–349,Balfour1857 e1885,Dafni2019,letteratura moderna e QA.
+
+
+## Lotto 19.2 — Cupressus: Grilli119fig71 verificati
+- Letto originale Grilli2013p119/PDF121 e visionatafotofig71. Portamento aperto/colonnare,foglie squamiformi,coni e usi del legno. Rinvio «Siracide23,13» incongruente: poesia cedro/cipresso è24:13, già verificata e oraWP#7755. Non assumere che l’arca fosse di cipresso, ipotesigofer controversa; non trasferire misurepollinifere1,5cm o calendarioaprile–maggio senza confronto moderno.
+- Apparati tab7p183cipresso23/4libri,tab8p1841/8/4/10/0=23; p119dice8Profetici,tab8neconta10: discrepanza interna da documentare senza uniformarla arbitrariamente. «Fiori» in volume è linguaggio divulgativo perconi, non fiori diangiosperme. Nessuna modificaWP. Prossimo Zohary.
