@@ -55,3 +55,7 @@ Cedrus: Mutlu integrale/voucher/selettività ancora non verificati; nuovo studio
 
 ## Lotto54
 Cedrus: originali Loizzo2007/2008, Elias2019 e Zgheib2020 consultati testualmente, voucher/deposito riferiti distinti; facsimili non collazionati e screenshot Elias falliti, supplementi non acquisiti. Fonti #8225/#8227/#8229/#8231, relazioni #6096–6100, botanica/medicina aggiornate e audit6/6. Mutlu/Younes riserve invariate. Nuova pista altitudine2026 DOI10.1038/s41598-026-52703-4 non valutata. Prossimo lotto55 Diospyros Howard–Norlindh. Nessun pending.
+
+
+## Lotto55
+Diospyros: Howard–Norlindh BHL403/BioStor inaccessibile, P2 mantenuta; Jahanbanifard2020 PDF originale, fig1E e conclusioni visionate, Michael2025 testo pertinente letto ma rapporto Cavanagh2021 e facsimile non acquisiti. Fonti #8235/#8237, relazioni #6101–6103, botanica/citazione aggiornate e audit4/4. Prossimo lotto56 Mersa Gawasis, Uluburun, Dixon/Hepper e Cooper2024. Identificazione controversa invariata.
