@@ -1791,3 +1791,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.8, 8.9 secondo passaggio: platano #2336, fonti Rinaldi 2019 #8369 e Ashokan 2026 #8351, supplemento Moldenke, apparati Grilli, relazioni #6167–6171; 22 relazioni botaniche; SEO medicina #2357 compilato. Tavola #2337 con titolo non conforme; 8.8/8.9 aperti.
 
 - Cap.8, 8.9 terzo passaggio: platano, farmacologia e allergologia; #2344 rettificata, #8373/#8375 pubblicate e relazioni #6172–6175; botanica/medicina aggiornate, readback positivo, 24/5 relazioni. Persistono riserve storiche e iconografiche, HTTP; 8.8/8.9 aperti.
+
+- Cap.8: audit editoriale preliminare 22/22 schede; otto provenienze tecniche ripulite, SEO Arundo #4880 compilato, H1/ALT locali positivi. Verbale AUDIT_CAPITOLO_8_2026-11-27.md. Chiusura scientifica non dichiarata: riserve storiche e tavole/HTTP ancora aperte.
