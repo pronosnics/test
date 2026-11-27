@@ -1906,3 +1906,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap10 10.3.2: Zohary/Duke/Post originali, Moldenke trascrizione, Danin Anastatica, SAHD 2026 #8601 e rel #6308–6313; 7 schede aggiornate, audit 8/8; duplicazione H1534 #672/#1809 registrata, nessuna migrazione distruttiva. Riserve storici/medicina/tecniche mantenute.
 
 - Cap10 10.3.3: Lev-Yadun/Abbo testo e correzione attribuzione fitochimica e ricetta; Mattana2022 germinazione; Haghi/Matthäus 2011 composizione con riserva tassonomica; #1807/#1810 aggiornati, 4 fonti #8605/8607/8609/8611, rel #6314–6320, audit locale 6/6. Riserve mantenute.
+
+- Cap10 10.3.4: Aburjai2001 testo digitale, RCT 2016 abstract (38 pazienti, 8 settimane, surrogati), Tarhan2023 comparativa, Çoruh2007, Jamshidzadeh2005 tossicità preclinica, Mehrzadeh2024 abstract; #1807/#1810 aggiornati, 6 fonti #8615–8625 dispari, rel #6321–6332 rilette, audit 8/8. Riserve integrali e tassonomiche mantenute.
