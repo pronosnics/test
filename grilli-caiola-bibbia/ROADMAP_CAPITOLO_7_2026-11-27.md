@@ -256,3 +256,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.20 — Diospyros: aggiornata scheda1704
 - Botanica #1704 aggiornata: morfologia sessuale specialistica, Grilli/alternativa Dalbergia, divergenza Settanta, studio animale con esiti nulli e favorevoli, limiti della propagazione; rimossa nota futura Coromandel, mantenuti testi precedenti e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/ebano-di-ceylon-diospyros-ebenum-bibbia-ezechiele-2715/. Prossimo relazioni e QA.
+
+
+## Lotto 21.21 — Diospyros: aggiornata scheda1709
+- Medicina #1709 revisionata integralmente e completati tutti i metadati pertinenti; mantenuto collegamento strutturato alla botanica, distinti tradizione e modello animale, risultati nulli, limiti di sicurezza e parti; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/usi-medicinali/ebano-di-ceylon-diospyros-ebenum-usi-storici-e-sicurezza/. Prossimo relazioni e QA.
