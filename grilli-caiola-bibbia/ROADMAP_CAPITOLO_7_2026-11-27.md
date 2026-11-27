@@ -779,3 +779,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 40.3 — Sicomoro: aggiornamento #368
 - Integrati risultati negativi Artemia e ingresso calcio GH4C1, limiti dell'abstract e possibile confondimento antibatterico del saggio a disco, senza attribuirlo a Mousa come fatto dimostrato. Testo precedente preservato, rilettura positiva. Nessuna nuova fonte duplicata, nessuna attribuzione di efficacia o sicurezza clinica. P2 integrale Mousa e tesi 1995 aperta. Prossimo: audit e verifica relazioni esistenti.
+
+
+## Lotto 40.4 — Sicomoro: Mousa e audit
+- Piano precedente b0e6360c-898b-410e-a560-65ad8d2e0548 applied, readback #151/#6014 conforme. Fonte #373 e medicinale #368 aggiornate e rilette preservando testo; aggiunti esiti negativi da abstract primario Mousa1994 e limiti del modello. Integrale e tesi 1995 non acquisiti, riserva P2 mantenuta; nessuna prova di sicurezza o efficacia clinica. Nessuna nuova fonte/relazione. Audit locale #367/#368/#373 positivo 3/3, H1 unico, zero ALT mancanti/note candidate/warning. Tavola #8092 invariata; HTTP non verificato nuovamente.
+- Relazione #153 esistente riletta, primo tentativo anteprima respinto per locator troppo lungo; riprovato con locator breve: {"id":"a53596c8-ddfc-44c7-bc75-6f02ca773432","status":"pending","applied":false}. Approvazione amministrativa se pending, poi readback. Prossimo P2: Galil ed Eisikowitch 1968, Pollination ecology of Ficus sycomorus in East Africa (Ecology 49:259–269, DOI10.2307/1934454), fonte #8099: cercare integrale e confrontare ruolo delle vespe e riproduzione africana. Stato 23/23 chiuse editorialmente con riserve.
