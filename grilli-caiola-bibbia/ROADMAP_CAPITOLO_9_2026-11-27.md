@@ -47,3 +47,5 @@ ID WP e stato publish verificati via atlas-list/get. Codici ATL da riconciliare 
 - 9.4 secondo passaggio: Süntar2011, Yener2025, Zengin2019; nuove fonti #8488/#8490/#8492, #6251–6253, medicina #2709 aggiornata/riletta, SEO 3/3, audit locale finale 5/5. Risultati negativi e limiti clinici esplicitati; lavori 2025–2026 ulteriori individuati ma non ancora integrati. Dossier aggiornato, lotto aperto.
 
 - 9.4 terzo passaggio: Haroutounian2026 (discrepanza testo/tab.2 e attività antiossidante/anti-influenzale meno favorevole), Bakr–Rahimi2026 (quattro popolazioni irachene, abstract), Akkol2015 (iperoside, abstract); fonti #8496/#8498/#8500, relazioni #6254–6256, medicina #2709 aggiornata/riletta, SEO 3/3 e audit locale 5/5. Nomenclatura qualificata mantenuta. Lotto aperto; riserve nel dossier.
+
+- 9.4 integrazione terzo passaggio: Yıldırım2025 #8506 (abstract editore, olio e saggi comparativi con controlli più attivi), relazione #6257, medicina aggiornata/riletta, SEO 4/4 e audit locale 6/6. Ricontrollate tabelle Haroutounian HTML/PMC; corrette attribuzioni già presenti. Restano riserve, segue collazione storica/filologica.
