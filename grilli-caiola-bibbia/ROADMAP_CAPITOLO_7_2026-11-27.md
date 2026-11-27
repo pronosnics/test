@@ -296,3 +296,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.35 — Cupressus: aggiornata scheda5166
 - Completati metadati bibliografici prima vuoti; fonte esistente riutilizzata, lettura/fonti registrate nei passaggi precedenti; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/fda-henne-nero-tatuaggi-ppd-allergie/. Prossimo relazioni e QA.
+
+
+## Lotto 20.36 — Lawsonia: greco del Cantico ricontrollato
+- LXXtestogrecolettoBlueLetterBibleCCAT,https://www.blueletterbible.org/lxx/sng/1/ v14κύπρου ehttps://www.blueletterbible.org/lxx/sng/4/ v13κύπροι;le parole non sono κυπάρισσος(Cupressus) néΚύπροςcomeattributoisola. NessunStrongNTautomaticodaABP,chespessoassociaG2954aCipro. Fonti testuali verificatenelleforme,nonnuovatraduzioneintegraleriprodotta. FontegiàBDB#7804perriscontroebraico; moderni foliare/hebrewnonprovanousomedicinale. Prossimo relazionieaudit;#520identificazioneprudenzialecontoverse rimane daallinearetramitepianocontrollato.
