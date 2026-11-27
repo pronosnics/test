@@ -880,3 +880,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 45.3 — Scheda medicinale #2327
 - Integrata sintesi Mohseni da abstract/estratti con limiti specifici della specie, testo precedente conservato e rilettura positiva. Relazione 6078. 
+
+
+## Lotto 45.3 — Scheda medicinale #604
+- Integrata sintesi Mohseni da abstract/estratti con limiti specifici della specie, testo precedente conservato e rilettura positiva. Relazione 6079. 
