@@ -50,3 +50,6 @@ Riserve ancora aperte: Azab 2018 studio antifungino distinto e testo integrale s
 
 ## Aggiornamento trasversale da 9.2
 Piano c81e2375-e404-4eba-befe-3796a30c4602 applicato: verificati #1148/#268/#269 con p.158 Zohary. Integrato Arviv et al. 2016 #8433, relazione #6217, su pascolo caprino comparativo (nitrati medi <1% nei campioni, comportamento aggregato, nessuna sicurezza generalizzabile). #2080 aggiornato/riletto; audit locale positivo. Riserve P2/P3 restanti conservate.
+
+## Integrazione trasversale da 9.2 — 27/11/2026
+Piano locatori Zohary c81e2375-e404-4eba-befe-3796a30c4602 applicato alle 17:54:46 GMT; integrato studio Arviv 2016 #8433 su pascolo caprino aggregato dei due cardi e limiti di sicurezza; #2080 aggiornato/riletto. Relazioni #6217/#6224 sovrapposte, da consolidare preservando dettagli dopo piano Silybum pendente. Audit locale positivo. Riserve HTTP e documentali invariate.
