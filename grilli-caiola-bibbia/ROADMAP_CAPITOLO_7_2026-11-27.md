@@ -264,3 +264,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.22 — Abeid e colleghi (2026) — Retama raetam e MRSA: variazione stagionale in vitro
 - Pubblicata e riletta #7860, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/abeid-2026-retama-raetam-mrsa-stagioni/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 22.23 — Retama: aggiornata scheda2596
+- Precisato titolo originale completo della revisione Youssef2024, verificato sul frontespizio primario; conservati DOI/autori; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/youssef-amer-ghaly-e-hamed-2024-a-spotlight-on-retama-spp/. Prossimo relazioni e QA.
