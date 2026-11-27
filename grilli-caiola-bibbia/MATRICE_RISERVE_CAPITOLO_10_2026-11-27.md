@@ -18,3 +18,5 @@
 - Addendum iconografico 10.1.5: generata una nuova bozza a colori senza testo (27/11/2026, gen 41204278-3f3e-4a90-a79a-0c9e2b077fb5). Non approvata per pubblicazione: dettagli del gineceo mostrano stigma lobato vistoso, non coerente con stigma semplice nella diagnosi generica di Post p782; racemo troncato al margine superiore. Conservata #676, nessuna modifica media. P3 resta aperta; nuova tavola da validare prima dell’upload.
 
 - 10.1.6: risolta P2-A monografia EMA integrale (625788/2015); assessment report non collazionato. Hepper/Greppin ancora senza integrale. P3 tavola #676 e HTTP aperte; altre riserve invariate. 10.2 P1-L Elim e Sindone non identificazioni certe; P2-D fonti, anelli di crescita e fisiologia da collazionare; P3 tavola/SEO/HTTP. Grilli p159 collegata #6287.
+
+- 10.2.1: P2-D corrette interpretazioni salinità e longevità; P2-A integrali Koller1955/Agami1986, facsimile Waisel1970, studio dendrocronologico1963; Post ricerca letterale zero ma OCR non conclusivo; altri storici e filologia aperti. Danin fig20/65/66 e Zohary facsimile verificati. P3 immagine/SEO/HTTP ancora aperti. Audit locale 4/4.
