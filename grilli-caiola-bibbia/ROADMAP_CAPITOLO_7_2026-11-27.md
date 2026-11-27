@@ -732,3 +732,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 38.2 — Riutilizzo fonte Lardos #3638
 - Ricerca titolo/autore/DOI: fonte #3638 già pubblicata con DOI corretto; due relazioni esistenti #2776/#4343 conservate. Visionati inoltre PDF pp.11 e22. Aggiornata fonte #3638 aggiungendo metodi/tab.1, tab.3 p.13, discussione pp.21–22, distinzione fra oleoresina, oli essenziali e studi su altri taxa. Testo precedente preservato, rilettura positiva. Nessun duplicato. Prossimo: collegare la fonte a #2291/#2301 e integrare i due testi, preservando HTML preesistente.
+
+
+## Lotto 38.3 — Pistacia atlantica #2291: integrazione Lardos
+- Aggiornato HTML con sezione documentata Lardos 2011, preservato il testo precedente (readback positivo). Collegamento fonte #3638: {"success":true,"data":{"saved":true,"kind":"source_citations","id":6063}}. Nessuna variazione identificazioni, tassonomia, tavola o SEO; nessuna affermazione clinica nuova. Prossimo: integrare medicina #2301.
