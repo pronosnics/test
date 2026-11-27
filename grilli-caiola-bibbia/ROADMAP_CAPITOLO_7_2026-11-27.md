@@ -232,3 +232,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.19 — Nounah e colleghi (2026) — Semi e foglie di Lawsonia inermis
 - Pubblicata e riletta #7792, New insights into the chemical composition and biological activities of Lawsonia inermis seeds and leaves: a comparative study; 10.1038/s41598-026-47202-5; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/nounah-2026-lawsonia-semi-foglie/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.20 — Chilmeran e colleghi (2026) — Revisione degli studi clinici sull’henné
+- Pubblicata e riletta #7794, Clinical efficacy and safety of Lawsonia inermis (Henna): A systematic review of human clinical studies; 10.1016/j.ctim.2026.103470; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/chilmeran-2026-revisione-clinica-henne/. Prossimo relazioni, SEO e QA.
