@@ -909,3 +909,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 47.1 — Balfour 1857 e Dufour-Dror 2002
 - BHL bibliografia 210382, Boston Public Library BS665 .B33, scan 2024; catalogo confermato, apertura BHL e variante field 403, API metadata non accessibile; Google Books Oxford 42UDAAAAQAAJ (2006) pagine 5/19 non accessibili; ricerca IA/Boston non ha restituito facsimile. Nessuna collazione nuova 1857, distinguere 1885. P2 mantenuta.
 - Dufour-Dror ed Ertas 2002: recuperato testo originale PDF editore https://revistas.uma.es/index.php/abm/en/article/download/7332/6837/24507 , pp.237–242, metodi pp.238–239, risultati/tab.1 pp.239–240, conclusioni pp.240–241. 120 campioni complessivi, Anatolia occidentale/Ramot-Menashe, selezione maturi e varietà nominotipica israeliana; diametro cupola medio 34 vs 52 mm, porzione ghianda scoperta 28 vs 12 mm, squame 9×2 vs 19×5 mm, lunghezza complessiva 48 vs 44 mm non discriminante robusta. Screenshot 0–3 falliti (URL restricted), figure non certificate visivamente. Fonte #2539 esistente, integrare senza duplicare. Articolo 2004 dei medesimi autori reperito come testo caricato dall'autore, da esaminare separatamente. 
+
+
+## Lotto 47.2 — Fonte #2539
+- Testo originale Dufour-Dror 2002 collazionato e integrato nella fonte esistente, conservato testo precedente, sostituito estratto operativo obsoleto con sintesi pubblica. Readback positivo. Figure non certificate. Prossimo: aggiornare due schede botaniche e locatore #1597.
