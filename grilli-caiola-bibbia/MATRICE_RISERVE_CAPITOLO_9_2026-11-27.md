@@ -1,0 +1,29 @@
+# Capitolo 9 — Matrice delle riserve scientifiche e tecniche
+27 novembre 2026. Fonte di base: Grilli Caiola, Guarrera e Travaglini 2013, pp.149–154, quattro monografie pp.151–154. Sintesi dei dossier e delle verifiche live registrate; non una nuova attestazione di lettura degli integrali indisponibili.
+
+## Classificazione
+- P1-L: limite intrinseco dell'evidenza, non lacuna da colmare con congetture.
+- P2-A: accesso incompleto a fonti o versioni originali; acquisire e collazionare solo materiale pertinente.
+- P2-D: limiti dei dati, nomenclatura, apparati, metodi, voucher o risultati disaggregati.
+- P3: qualità iconografica, registro e operazioni tecniche.
+- Chiusa: intervento documentato e verificato; non equivale a validazione clinica o filologica assoluta.
+
+| Lotto | P1-L | P2-A | P2-D | P3 |
+|---|---|---|---|---|
+| 9.1 Notobasis syriaca (#2080/#2095) | ḥôaḥ H2336 e barqannîm H1303 non identificano la specie; nessuna efficacia clinica dimostrata; dati su pascolo caprino aggregato non generalizzabili | Hepper; facsimile Moldenke p.206 non restituito; supplementi e altri loci pertinenti non integralmente collazionati | Apparati e versioni critiche residue; discordanza testo/tabella Azab studio animale (PGE2 ippocampo); non confondere frequenza vegetale e infestazione | ATL-0144 dal nome media, da verificare nel registro; HTTP; tavola #2081 conservata come illustrazione |
+| 9.2 Silybum marianum (#3482/#3483) | dardar/ḥôaḥ/barqannîm non specie-specifici; evidenza clinica eterogenea, non generalizzare integratori o silibinina specialistica | Hepper; ulteriori originali pertinenti non acquisiti | Apparati critici e tabelle residue; discrepanza p=0,02/p=0,0005 Arviv; Amini 2026 sottogruppi controllati non confermano riduzioni AST/ALT, non dimostrato beneficio clinico durevole; dati osservazionali Toxins | ATL-0207 da registro; HTTP; tavola #3485 conservata |
+| 9.3 Centaurea iberica (#942/#946) | Identità biblica controversa; saggi cellulari, animali e biochimici non prova terapeutica | Hussain 2004 PMID14750205 integrale; Kahraman 2025 DOI10.1016/j.sajb.2024.11.004 tabelle; versione definitiva Çavuşoğlu; Hayta–Bagci 2013; Senatore et al. 2005 dati disaggregati; Reda 2026 review tabelle specie-specifiche; Moldenke p.72; Hepper | Discordanza PDF2023/HTML2024 Çavuşoğlu, corolle gialle in Zohary vs diagnosi e foto; dati e voucher pertinenti; apparati residui | Codice ATL da registro; tavola #943 da correggere per pappo breve e appiattito e brattee; due proposte non approvate; HTTP |
+| 9.4 Rubus creticus (#2708/#2709) | Nomi biblici bátos/seneh/barqannîm non specifici, nessuna efficacia clinica dimostrata per gli studi preclinici | Zengin 2019 PMID30914354, Akkol 2015 DOI10.1016/j.hermed.2015.09.002, Bakr–Rahimi 2026 DOI10.1016/j.bse.2025.105176, Yıldırım 2025 DOI10.1080/0972060X.2025.2523588 integrali non acquisiti; Yener 2025 tabella fitochimica completa; Hepper | POWO trattamento accettato con annotazione nom.rej., verificare esito della proposta nomenclaturale 3118 e atti applicabili; Haroutounian 2026 discrepanze testo/tabella; apparati e dati disaggregati | ATL-0180 da registro; tavola #2721 conservata e ALT corretto; HTTP; migrazione fisica dei duplicati H1303/Gdc8 |
+
+## Interventi chiusi nel ciclo
+- Notobasis: Azab 2018 studio animale e antifungino distinti, consultazioni registrate nei dossier; locatori Zohary p.158 riconciliati; Balfour p.54, Sereno, Moldenke p.71 e confronto testuale acquisiti nei limiti indicati.
+- Silybum: Amini 2026 integrale e tab.5/fig.3 acquisiti nel precedente lotto; claim #2665 corretto; nove fusioni complessive dei due piani di audit applicate e verificate (non tutte riguardano Silybum). Rassegna narrativa Toxins distinta da revisione sistematica.
+- Centaurea: term_id #159→#8479 (G5146), #160→#2093 (H2336), relazioni passo–lemma #459/#460 verificate; plant_id medicina #946 corretto a #942. Non risolte le discordanti versioni di Çavuşoğlu.
+- Rubus: Erdemoğlu 2003 integrale esaminato durante audit (esiti antinocicettivi animali, non antinfiammatori significativi, rischio gastrico da qualificare); collazione storica Post/Moldenke/Tristram/Zohary/Balfour registrata; ALT #2721 corretto. Consolidamento editoriale Gdc8/H1303, otto citazioni e quattro nuove relazioni botaniche, canonical tre indirizzi verificati in WP; non fusione fisica.
+
+## Coda operativa
+1. P3 iconografia: correggere miratamente #943; verificare lunghezza e forma pappo rispetto a cipsela, incavo basale e spine delle brattee; no scritte; controllare il file effettivo e featured/ALT. Non pubblicare tentativi non conformi.
+2. P3 migrazione: predisporre operazione atomica e reversibile per #2718→#2091, #2719→#2092, #2713→#2094, preservando tutti i riferimenti, incluso Rubus ulmifolius #2732, e reindirizzamenti 301 verificati. Non contare relazioni vecchie e nuove come prove indipendenti. Due coppie di citazioni duplicate sui vecchi indirizzi (#1864/#1866, #1865/#1867) già censite.
+3. P3 verificare head/HTTP anonimo (precedente CONNECT 403; nessuna attestazione pubblica), codici ATL dal registro autorevole.
+4. P2 verificare originali mancanti, nomenclatura Rubus e dati/tabelle pertinenti. Non ripetere l'intero ciclo senza nuove evidenze. P1-L mantenere le cautele nel testo pubblico.
+Stato: revisione scientifico-editoriale del capitolo completata con riserve, non chiusura iconografica e tecnica definitiva.
