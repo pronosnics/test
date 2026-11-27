@@ -788,3 +788,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 41.1 — Sicomoro: ecologia africana, fonti
 - Piano Mousa a53596c8-ddfc-44c7-bc75-6f02ca773432 applied 27/11 12:33 GMT, #153 riletta conforme, pending=null. Galil/Eisikowitch1968 Ecology DOI10.2307/1934454: abstract Wiley confermato, integrale non ottenuto. 1969 Further studies identificato BHL66355/Zenodo16568002, PDF oltre limite 5,195,159 byte, non collazionato. Wiebes1968 Zool Meded42(28):307–320, https://repository.naturalis.nl/pub/318095/ : originale pp.307–309 con screenshot di tutte tre pagine, fig.1; campioni RMNH e coabitazione C.arabicus/C.galili, non prova doppia impollinazione. Greeff/Mnguni/Warren2025 DOI10.1098/rspb.2025.0859, abstract e discussione editore, versione accettata Pretoria https://repository.up.ac.za/server/api/core/bitstreams/09dcc113-2855-412a-8a1e-9c1b8637fcf1/content, metodi §§2c–d e tab.4–5 esaminati testualmente; screenshot 403, supplementi e dati grezzi non collazionati. C.galili non impollinatore; competizione e alterazione sex ratio stimata, non misure di perdita di semi. Prossimo: integrazione delle fonti e scheda senza duplicati.
+
+
+## Lotto 41.2 — Fonte #8099 integrata
+- Precisate funzioni delle vespe e morfologia fiorale sulla base dell'abstract originale; HTML precedente conservato, readback positivo. Nessuna promozione a integrale. Prossimo: registrare Wiebes e Greeff, ricerche antidoppione per autore/titolo negative.
