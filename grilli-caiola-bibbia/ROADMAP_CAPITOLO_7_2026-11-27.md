@@ -205,3 +205,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.13 — Cupressus: Scali etal2026 risposta al Seiridium
 - Testo originaleeditore recuperato dalla ricerca indicizzata https://www.nature.com/articles/s41598-026-62624-x, mentreopenHTMLredirigeaIDPnonaccessibile; non letta paginaautenticata. DOI10.1038/s41598-026-62624-x,SciRep16:29893,25set2026. Metodi:120innesti4anni,4cloniCNR(2resistenti,1putativo,1suscettibile),2ceppipatogeno,3tempi,controlliferita/nonferiti. TrascrittomicadualRNAseq,geniRputativi e rispostastress; omologianonvalidafunzione,4cloninonrappresentanointeraspecie;validazioneGWASnonfatta. PDF fallito; figure/supplementi efinanziamenti daapprofondire. RicercaDOIAtlante negativa.
+
+
+## Lotto 19.14 — Cupressus: Cecchi etal2024 allergia Cup s7
+- Abstractoriginale PubMedPMID37758056 letto tramite ricerca,DOI10.1016/j.anai.2023.09.011. Online26set2023, fascicolodefinitivoAnnAllergyAsthmaImmunol132(1):82–90.e1,gen2024: citare2024/online2023.23pazienti selezionati persospettaallergiaPru p7 e14controlli;tests cutanei,IgE,BAT,Westernblot,Cup s7 reattivo73,9%nelgrupposelezionato. Nonprevalenzanellapopolazione,nonogniallergicoalcipressohaalimentare. IntegraleFlorence403,metodidettagliati,tabelle,COI/fundingP2. Studioallergologico clinico,nessunaevidenzaterapeutica. RicercaDOIAtlante negativa.
