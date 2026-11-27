@@ -71,3 +71,7 @@ Western–McLeod1995, Bass1989 e Giachi2016 testi pertinenti consultati, fonti #
 
 ## Lotto58
 Abies: nuovo modello2026 abstract e script Zenodo, integrale/input/output non acquisiti. Vachellia: Uni2023 metodi e risultati testuali, serra e giovani piante, dati/figure residui. Laurus: Zabtani2025 PDF sezioni pertinenti e screenshot171/190/191, Arad/Gerico primari ancora riserva. Cupressus: Lev1993 testo originale recuperato, SEM non visionate, Liphschitz1989/Cecchi/Meunier integrali non acquisiti. Fonti #8257/#8260/#8263 e relazione #6116–6118, fonte7773 e 4 botaniche integrate, audit8/8. Altre riserve storiche e metodologiche restano tracciate. Lotto59 successivo; non certificazione senza riserve.
+
+
+## Lotto59
+Carrubo: Ramón-Laca/Mabberley2004 testo pertinente, ipotesi storico-biogeografica non prova primaria. Retama: Gomaa2018 fenologia e semi sei popolazioni, facsimili/dati non acquisiti. Boswellia: Raffaelli2008 manoscritto accettato UniFi, confronto prima/dopo12piante; screenshot403, Raffaelli2003 integrale ancora riserva. Pterocarpus: Mohana Kumara2026 361 individui/22 popolazioni/16SSR, discordanza abstract/AMOVA esplicitata, supplementi non acquisiti; Biswas clinico integrale ancora riserva. Fonti #8268/#8271/#8274/#8277, relazioni #6119–6122, quattro botaniche aggiornate e readback esatto, audit8/8 dopo correzione marcatore8274. Restanti riserve mantenute, pending=null. Prossimo lotto60.
