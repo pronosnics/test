@@ -51,3 +51,7 @@ Lawsonia: Renaut2009 sezioni pertinenti lette (facsimile non collazionato), McCr
 
 ## Lotto 53
 Cedrus: Mutlu integrale/voucher/selettività ancora non verificati; nuovo studio Younes2026, abstract e sezioni indicizzate originali, fonte #8222 e relazione #6095, medicina #268 integrata, audit locale4/4. Prossimo lotto54 originali Loizzo/2-himachelen-7-ol/variabilità coni, poi Diospyros. Riserve non chiuse artificiosamente.
+
+
+## Lotto54
+Cedrus: originali Loizzo2007/2008, Elias2019 e Zgheib2020 consultati testualmente, voucher/deposito riferiti distinti; facsimili non collazionati e screenshot Elias falliti, supplementi non acquisiti. Fonti #8225/#8227/#8229/#8231, relazioni #6096–6100, botanica/medicina aggiornate e audit6/6. Mutlu/Younes riserve invariate. Nuova pista altitudine2026 DOI10.1038/s41598-026-52703-4 non valutata. Prossimo lotto55 Diospyros Howard–Norlindh. Nessun pending.
