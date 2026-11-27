@@ -921,3 +921,10 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 47.3 — Botanica #2455
 - Integrato confronto Dufour-Dror 2002 da testo originale, conservati contenuti utili; collegata fonte esistente senza duplicarla. Rilettura esatta positiva.
+
+
+## Lotto 47.4 — Balfour e morfometria querce: audit
+- Balfour1857: confermate digitalizzazioni Boston BHL210382 (2024) e Oxford Google Books42UDAAAAQAAJ (2006); scansioni non accessibili, riserva P2 mantenuta. Nessuna modifica bibliografica basata sul solo catalogo.
+- Dufour-Dror ed Ertaş2002, DOI10.24310/abm.v27i0.7332, testo originale pp.237–242 e tab.1 estratti direttamente dal PDF editore; screenshot respinti per URL restricted. Fonte #2539, botaniche #2540/#2455 aggiornate e rilette, estratto obsoleto fonte corretto; relazione nuova #6081 riletta, nessun duplicato. Audit locale positivo 3/3, H1 unico, zero ALT mancanti/note candidate/warning; tavole #2541/#2493 conservate. Riserva sulla consultazione testuale risolta, figure non certificate, HTTP pubblico non riverificato.
+- Piano a32015a1-b366-4cab-9214-6aa848934f25 pending, applied=false, rettifica #1597 per livello di consultazione, pagine e affermazione; approvazione obbligatoria nel pannello https://piantedellabibbia.altervista.org/wp-admin/admin.php?page=pdba-reconcile . Dopo approvazione rileggere relazione e pending=null.
+- Prossimo lotto 48: Dufour-Dror ed Ertaş2004 DOI10.1046/j.0305-0270.2003.01036.x, testo originale caricato dall'autore su https://www.researchgate.net/publication/230087697_Bioclimatic_perspectives_in_the_distribution_of_Quercus_ithaburensis_Decne_subspecies_in_Turkey_and_in_the_Levant ; confrontare dati bioclimatici con areali attuali Kew, limiti storici e Ne’eman1993. Non dedurre assenza attuale in Libano/Siria dalle sole ricerche del 2004. Riserve P2 restanti e dossier separati mantenuti; stato editoriale 23/23.
