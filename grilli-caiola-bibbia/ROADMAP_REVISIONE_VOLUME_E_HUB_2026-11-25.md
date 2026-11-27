@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.1 quarto passaggio (27/11):** revisione editoriale Notobasis completata con riserve. Piano precedente applicato; confronto LXX/Vulgata, fonte #8420, relazioni #6196–6204, Balfour p.54 e Moldenke p.206; audit locale positivo. Nuovo piano locatori Zohary c81e2375-e404-4eba-befe-3796a30c4602 pending; HTTP 403. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md). Segue Silybum.
+
 **Cap.9 — 9.1 terzo passaggio (27/11):** corretti risultati completi Azab 2018, nuova fonte #8409, relazioni #6194–6195, Sereno originale, IPNI e Moldenke p.71, apparati parziali. Tavola #2081 visionata/conservata, SEO 5 fonti e audit locale 10/10. Riconciliazione pending 808d5a69-f657-4626-8a30-a09e24baa777; lotto aperto. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md).
 
 **Cap.9 — aggiornamento 9.1 (27/11):** quattro fonti nuove #8397/#8399/#8401/#8403, riuso #3414, relazioni #6189–6193, botanica/medicina aggiornate e rilette; audit locale 6/6. Restano fonti integrali e verifiche documentali/iconografiche, lotto aperto. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md).
