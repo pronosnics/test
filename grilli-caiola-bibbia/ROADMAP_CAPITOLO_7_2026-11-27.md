@@ -22,7 +22,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | 15 | 127 (129) | Populus alba | ATL-0181 (ATL-0163) | 2391 | Chiusa editorialmente con riserve (lotto 28.5) |
 | 16 | 128 (130) | Pistacia vera | ATL-0178 (ATL-0160) | 2312 | Chiusa editorialmente con riserve (lotto 29.10); nuova tavola #8047 |
 | 17 | 129 (131) | Quercus ithaburensis | ATL-0191 (ATL-0171-QT) | 2540 | Chiusa editorialmente con riserve (lotto 30.4); vallonea #2455 distinta |
-| 18 | 130 (132) | Quercus calliprinos | ATL-0188 (ATL-0168) | 2464 | Kew sinonimo Q. coccifera; confronto #2508 ATL-0189 (ATL-0169), nessuna fusione presunta |
+| 18 | 130 (132) | Quercus calliprinos | ATL-0188 (ATL-0168) | 2464 | Chiusa editorialmente con riserve (lotto 31.4); Q. coccifera secondo Kew, #2508 distinta |
 | 19 | 131 (133) | Rosa phoenicea L. | ATL-0200 | 2677 | Rosa phoenicia Boiss. già pubblicata; grafia/autore volume da correggere |
 | 20 | 132 (134) | Pterocarpus santalinus | ATL-0185 (ATL-0166) | 2441 | Da revisionare; non confondere con Santalum album #3212 |
 | 21 | 133 (135) | Ficus sycomorus | ATL-0106 | 367 | Da revisionare |
@@ -578,3 +578,11 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - #2476 riscritta con surveyJaradat#8054 e studiJaber#8063/#8065/#8067,distinti per metodi e preparati. IncongruenzaA2780 resa esplicita nel corpo senza inferire dolo o conoscenza dell’effettiva linea utilizzata; no conclusioni di sicurezza clinica,dosi o ricette. Campionamento2025 identificato,triplicati analitici distinti da repliche biologiche. Metadati e data27/11 aggiornati.
 - Gen18:1 nuova citazione#8069 pubblicata dopo ricercaany esatta negativa; MT H436 e CEI2008verificati,parafrasi originale; lemma#562 riutilizzato,Gen18:8#565 distinto. Aggiunte anche associazionecontroversaQ.coccifera→Gen13:18#8056 e relazione a fonte#775. Relazioni: [{"success":true,"data":{"saved":true,"kind":"source_citations","id":5987}},{"success":true,"data":{"saved":true,"kind":"source_citations","id":5988}},{"success":true,"data":{"saved":true,"kind":"source_citations","id":5989}},{"success":true,"data":{"saved":true,"kind":"source_citations","id":5990}},{"success":true,"data":{"saved":true,"kind":"source_citations","id":5991}},{"success":true,"data":{"saved":true,"kind":"passage_terms","id":454}},{"success":true,"data":{"saved":true,"kind":"identifications","id":682}},{"success":true,"data":{"saved":true,"kind":"identifications","id":683}}].
 - Prossimo: readbackmedicina/citazione,sintesi/link botanica,kermes con fonte#7250 già esistente,SEO/fonti,verifica comparativa#2508e#2511,audit. 17/23 chiuse,quercia spinosa aperta.
+
+
+## Lotto 31.4 — Quercia spinosa: verifica e chiusura editoriale
+- Riletti dopo salvataggio medicina #2476 e nuova Gen18:1 #8069; main #2464 integrata con collegamenti a Mamre, sintesi preclinica e archeologia del kermes. Fonte Sukenik #7250 riusata, bibliografia completata e abstract esplicitamente distinto dall’integrale. Relazioni #5992 (Sukenik) e #5993 (Jaradat) alla botanica. Nessuna diagnosi della quercia ospite da un tessuto tinto.
+- Comparativa #2508 e medicina #2511 ricontrollate: taxon occidentale distinto; eliminati rimando tecnico e promemoria “Grilli NON letto” dai contenuti di #2508. Nessuna fusione di taxa, cancellazione protetta o nuova attribuzione clinica.
+- SEO memorizzato e verificato per #2476, #8060, #8063, #8065, #8067, #8069 e #7250. Audit locale di 10 contenuti e readback main; tavola #2494 già vista e conservata, distinta dai documenti primari. Head/HTML pubblico resta non certificato (tunnel403, ultimo controllo29.10).
+- Riserve: P1 discordanza tabelle Jaradat e controllo A2780 descritto come normale nonostante catalogazione tumorale, esplicitate pubblicamente; P2 integrali/residui Jaber, apparati genetici e Sukenik non completamente verificati; P3 figure originali scientifiche non tutte visionate. Nessuna certificazione scientifica integrale.
+- **18/23 monografie chiuse editorialmente con riserve; 5 restanti. Prossima Rosa phoenicia #2677, Grilli p131.**
