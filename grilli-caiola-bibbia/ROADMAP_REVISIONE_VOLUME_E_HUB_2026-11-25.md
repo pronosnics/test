@@ -1797,3 +1797,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.8: recuperati PDF Duke, Tristram e Balfour dalla Libreria e ricollazionati testi pertinenti di papiro/platano; 345–348 Duke confermato, schede #427/#2336 e metadato #2357 aggiornati, relazione #6176. Riserve testuali dei tre autori per le pagine recuperate risolte; restano altre riserve e audit conclusivo.
 
 - Cap.8: audit 31 identificazioni, proposta 14 operazioni pending ae28691d-6766-4def-b08c-4d8476f0ec5e; sette contenuti aggiornati, 8 relazioni #6177–6184, SEO #3980, sei citazioni ripulite. Readback/audit locale positivi. Approvazione amministrativa e riserve residue ancora aperte.
+
+- Cap.8: 14 riconciliazioni applicate e verificate, nuova fusione singola pending be427f15-dcea-4a6f-9000-71db1f17eda9. Approfondimento sardo Schoenoplectus #3329, nuove fonti #8390/#8392 e relazioni #6185–6186. Audit locale positivo; HTTP ancora 403 e altre riserve aperte.
