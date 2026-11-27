@@ -288,3 +288,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.33 — Cupressus: aggiornata scheda5164
 - Completati metadati bibliografici prima vuoti; fonte esistente riutilizzata, lettura/fonti registrate nei passaggi precedenti; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/post-1896-lawsonia-alba-320/. Prossimo relazioni e QA.
+
+
+## Lotto 20.34 — Cupressus: aggiornata scheda5165
+- Completati metadati bibliografici prima vuoti; fonte esistente riutilizzata, lettura/fonti registrate nei passaggi precedenti; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/zohary-1982-henna-kofer-190/. Prossimo relazioni e QA.
