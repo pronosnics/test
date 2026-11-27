@@ -214,3 +214,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.15 — Lawsonia: tavola corretta e selezionata
 - Secondoeditgenerated_images/exec-b5815243-228e-4780-9fd5-f875493602ff.png visionato: fioreanalitico4petali/8anterein4coppie,metàfiore4stamivisibili,capsula4logge,polvereverdeoliva,colorivivi,sfondochiaro,nessunscritto. RisoltoP1visualedi20.12;nonsostituitoancoraWP. ConvertireWebP,uploadcontrollato e verificaassociazione.
+
+
+## Lotto 20.16 — Lawsonia: Nounah2026 e SCCS primari
+- Nounah etalSciRep16:16894,DOI10.1038/s41598-026-47202-5,11apr2026(versionrecord2giu2026). AbstractoriginaleHTMLletto,metodiPDFindicizzati:materialeset2019TazarineMarocco,voucherRAB114594Rabat,estrazioniesano/metanoloacqua80:20,sonicazione,nonpreparazionidomestiche. Oliosemi eestrattipolarinonintercambiabili;DPPH/ABTS edeffettiantibattericoinvitro,nonbeneficioumanodimostrato. FondiQassimQU-APC-2026,noCOIdichiarati;fig/tabelle/supplementino visionati,noncollazioneintegrale. SCCS/1511/13originalePDF45p,conclusione p40letta:parere19set2013,corrigendum12nov2021,batch1271/830.72,lawsone max1,4%incondizionicosmetichedescritte,nonaltriestratti/bodypaint;richiestarivalutazionegenotossicitàlawsone. DOI10.2772/71314,ISBN978-92-79-30118-6. Nonconvertireparerecosmeticoinassoluzioneclinicageneralenéinricetta.
