@@ -274,3 +274,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.23 — Cedrus: ripulito e riletto passo #274
 - WP#274 aggiornato con controllo versione e readback publish positivo. Tolte note future/tecniche dai metadati e dal corpo, preservati testo Diodati e commento scientifico; note sulle pagine mancanti trasferite qui, non prova di revisione integrale dei testimoni. Inserito collegamento reale alla palma#308. Identificazioni strutturate non modificate.
 - Per#377/#379/#380/#382 restano da ripulire eventuali campi troncati e ridondanze in sede di revisione Ficus sycomorus; nessun cambiamento della specie identificata. Prossimo bibliografia/SEO/audit prima della chiusuraCedrus.
+
+
+## Lotto 18.24 — Cedrus: ripulito e riletto passo #377
+- WP#377 aggiornato con controllo versione e readback publish positivo. Tolte note future/tecniche dai metadati, preservati testo Diodati e commento scientifico; note sulle pagine mancanti trasferite qui, non prova di revisione integrale dei testimoni.  Identificazioni strutturate non modificate.
+- Per#377/#379/#380/#382 restano da ripulire eventuali campi troncati e ridondanze in sede di revisione Ficus sycomorus; nessun cambiamento della specie identificata. Prossimo bibliografia/SEO/audit prima della chiusuraCedrus.
