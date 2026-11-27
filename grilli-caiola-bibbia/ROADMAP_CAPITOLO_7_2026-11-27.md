@@ -186,3 +186,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.8 — Lawsonia: tavola e figure visionate
 - Tavola1956medium45794byte recuperata inunblocco,SHAverificata,visionata:arbusto,foglieopposte,pannocchiechiare,capsule/semi,fogliesecce/polvere;nessunscritto. Conservazioneprevistadopocontrollodettagli8stami/4petali,fullresolutionnoncertificata. VisionateZohary190/PDF191fotofiori,Tristram340/PDF352incisione,Dukefig1.60p242/PDF268,MoldenkeFigura20p100originalecrop(Blanco1877secondodidascalia). Non trasferirecolorazionicapsulebluDukecomecaratterediasgnostico.
+
+
+## Lotto 20.9 — Lawsonia: ALT e caption ripuliti
+- Tavola1956metadatiaggiornaticonfingerprint/readbackpositivo;eliminatoATL-0127dalladidascalia e spiegazionetecnicaIllustrazionedigitale. Nessunupload/sostituzione effettuata;fileinvariato. Prossimo fontimoderne e filologia.
