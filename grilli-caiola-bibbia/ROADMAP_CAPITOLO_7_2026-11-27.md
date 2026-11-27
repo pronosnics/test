@@ -154,3 +154,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - #1551/#1555/lemmi/passirevisionati;8fontinuove,2nuovipassi#7775/#7777,lemma#7781;38nuoverelazioni#5784–5821,3nuoveidentificazioni675–677,3passitermini447–449. Tavola1553conservata;29auditlocali+1miratopositivi;pagina/head/heropubblicoverificati;23SEOcompletate.
 - RiserveP2/P3eduplicaticontrollatineldossier; pianocedroancorapending, non sovrascritto. Totale154relazioninuove,3assorbimentiprecedenti,saldo151. Stato6/23chiuse editorialmente con riserve,1inattesatecnica(Cedrus),16da revisionare.
 - **Ripresa: Lawsonia inermis ATL-0127 WP#1955,Grilli120/PDF122fig72.** Nessuna seconda botanica. Continuare autonomia e commit dopo ogni passaggio.
+
+
+## Lotto 20.1 — Lawsonia inermis ATL-0127#1955: precontrollo
+- Letta botanica completa#1955,modified2026-11-24 18:36:09;una botanicaLawsonia,nessunamedicina trovata conricerca scientifica(ricontrollarehenné).6relazioni#1072/#1073/#4083–4086,Moldenke/Duke/Kew/Post/Zohary/FDA; nessunduplicato. Unaidentificazione#520Cant4:13#244statuscontroversa,malgrado testo dica moltoprobabile: verificarefontiegrado,nonmodificare senza piano. Tavola1956featured=plate,medium320×480,45794byte,SHA73768391be36d4379a84cac551be0da3a0f0926599736be380bb77d23576084c;captioncontieneATLoperativo da ripulire. SEOesistentecompleta. Studi2026citatiinbodymanoncollegatistrutturalmente da verificareprimariamente. Prossimo Grilli120/PDF122fig72 eoriginaliobbligatori.
