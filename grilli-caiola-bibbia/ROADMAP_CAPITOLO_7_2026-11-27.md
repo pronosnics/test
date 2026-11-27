@@ -225,3 +225,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.18 — Liphschitz e Biger (1989) — Il cipresso nell’Israele antico
 - Pubblicata e riletta #7763, Cupressus sempervirens in Israel during antiquity; 10.1080/0021213X.1989.10677109; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/liphschitz-biger-1989-cipresso-israele-antichita/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.19 — Cecchi e colleghi (2024) — Sensibilizzazione a Pru p 7 e Cup s 7
+- Pubblicata e riletta #7765, Optimization of the diagnosis and characterization of gibberellin-regulated protein sensitization: An Italian cohort study; 10.1016/j.anai.2023.09.011; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/cecchi-2024-allergia-cipresso-pru-p7-cup-s7/. Prossimo relazioni, SEO e QA.
