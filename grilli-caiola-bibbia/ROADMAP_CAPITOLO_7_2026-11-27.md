@@ -312,3 +312,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.39 — Plinio — Naturalis historia XII, §109: cypros e profumeria antica
 - Pubblicata e riletta #7817, TestoprimariointraduzioneingleseRackham1952consultatoXII109;latinocliccato ma noncollazionato,nessunadichiarazioneintegrale;nuovolocusrispettofontiPliniogiàesistenti; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/plinio-naturalis-historia-xii109-cypros/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.40 — Cupressus: aggiornata scheda7810
+- IntegrategrecoLXXverificato e formessingolare/plurale; nessun numeroStrongNTG2954 attribuito; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/kofer-h3724-henne-cantico/. Prossimo relazioni e QA.
