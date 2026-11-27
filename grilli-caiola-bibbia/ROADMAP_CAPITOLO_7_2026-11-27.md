@@ -252,3 +252,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.19 — Diospyros: aggiornata scheda7817
 - Riutilizzata fonte Plinio #7817 per §§17–20 aggiungendo l'ebano; conservato integralmente contenuto henné §109 e URL della scheda; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/plinio-naturalis-historia-xii109-cypros/. Prossimo relazioni e QA.
+
+
+## Lotto 21.20 — Diospyros: aggiornata scheda1704
+- Botanica #1704 aggiornata: morfologia sessuale specialistica, Grilli/alternativa Dalbergia, divergenza Settanta, studio animale con esiti nulli e favorevoli, limiti della propagazione; rimossa nota futura Coromandel, mantenuti testi precedenti e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/ebano-di-ceylon-diospyros-ebenum-bibbia-ezechiele-2715/. Prossimo relazioni e QA.
