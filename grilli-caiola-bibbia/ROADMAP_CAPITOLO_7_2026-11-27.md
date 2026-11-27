@@ -244,3 +244,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.22 — Elyasi e colleghi (2022) — Henné e curcuma nella sindrome mano-piede
 - Pubblicata e riletta #7798, Topical henna and curcumin (Alpha®) ointment efficacy for prevention of capecitabine induced hand-foot syndrome: A randomized, triple-blinded, placebo-controlled clinical; 10.1007/s40199-022-00438-8; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/elyasi-2022-henne-curcuma-mano-piede/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.23 — Niazi e colleghi (2022) — Henné nell’epidermolisi bollosa: studio pilota
+- Pubblicata e riletta #7800, Efficacy of a topical formulation of Henna (Lawsonia inermis) on the itch and wound healing in patients with epidermolysis bullosa: A pilot single-arm clinical trial; 10.5826/dpc.1203a115; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/niazi-2022-henne-epidermolisi-bollosa-pilota/. Prossimo relazioni, SEO e QA.
