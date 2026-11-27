@@ -846,3 +846,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 43.3 — Schede #2301 e #2291
 - Sostituiti esclusivamente i passaggi Azizi precedentemente basati sull'abstract, mantenuto il restante HTML identico; readback esatto. Integrati voucher, registro, formulazione/comparatore, risultati VAS, adverse events, limiti interpretativi; differenza fra variazioni VAS inferiore a un punto, significatività statistica distinta da rilevanza clinica. Prossimo: audit e rettifica relazioni #6044/#6045.
+
+
+## Lotto 43.4 — Pistacia atlantica: Azizi 2025, audit e checkpoint
+- Fonte #8121, botanica #2291, medicinale #2301 aggiornate e rilette; i passaggi obsoleti sull'abstract sostituiti, resto conservato. Registro IRCT verificato direttamente, voucher BMS-411 dichiarato, comparatore contiene 1% Baneh; differenza fra variazioni VAS inferiore a un punto. Audit locale 3/3, H1 unico, zero ALT mancanti/note candidate/warning. Tavola #2292 invariata; HTTP pubblico non riverificato. Testo originale estratto, screenshot 404, supplementi non acquisiti e campione non rideterminato. Nessuna nuova fonte o relazione duplicata. Rettifica #6044/#6045: {"id":"a20e9484-1d2e-4e3c-9c8c-43a4d940b8d4","status":"pending","applied":false}. Approvazione amministrativa se pending e readback.
+- Prossimo P2: confronto dei trial gonartrosi precedenti Peivastegan 2020 DOI10.5812/semj.98293 (voucher 267-HC, PDF editore), Khamevar 2021 DOI10.1002/ptr.7178 e Mohtashami 2023 DOI da verificare (materiale kurdica); distinguere olio fisso/oleoresina e coorti, prima di ogni sintesi. Restanti riserve mantenute; 23/23 monografie chiuse editorialmente, non chiusura scientifica integrale.
