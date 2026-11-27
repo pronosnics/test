@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.4 terzo passaggio (27/11):** Haroutounian2026, Bakr–Rahimi2026, Akkol2015; #8496/#8498/#8500 e #6254–6256, medicina #2709 aggiornata/riletta, SEO 3/3 e audit locale 5/5. Discordanza testo/tabella e risultati negativi esplicitati; due studi solo abstract, riserve nomenclaturali e amministrative. [Dossier](CAP9_04_RUBUS_CRETICUS.md). Lotto aperto.
+
 **Cap.9 — 9.4 secondo passaggio (27/11):** tre fonti #8488/#8490/#8492 e #6251–6253, medicina aggiornata/riletta; Süntar2011, Yener2025 e Zengin2019, esiti negativi e limiti. SEO 3/3, audit locale 5/5. [Dossier](CAP9_04_RUBUS_CRETICUS.md). Lotto aperto.
 
 **Cap.9 — 9.4 avvio (27/11):** Rubus #2708/#2709 aggiornate/rilette; Grilli p.154, nomenclatura POWO accettato con nom.rej. qualificata, Lev-Yadun2009 #8484, Sereno e studi2003, relazioni #6248–6250. Audit locale3/3, SEO verificato; duplicati Gdc8/H1303 da valutare. [Dossier](CAP9_04_RUBUS_CRETICUS.md). Lotto aperto.
