@@ -1925,3 +1925,6 @@ Capitolo 10.7 — Pubblicate #8677/#8679, tavola #8681 assegnata e verificata, d
 
 
 Capitolo 10.8 — Corrette morfologia e terminologia del frutto in #3252, tradotti e aggiornati i metadati medicinali #3253. Prossima Ziziphus.
+
+
+Capitolo 10.9 — Aggiornate #4269 e #4271 con etnobotanica e trial topico aggiuntivo alla clindamicina. Prossima Lycium.

@@ -219,3 +219,7 @@ Pubblicate #8677/#8679, tavola #8681 assegnata e verificata, distinzione da S. j
 
 ### 10.8 — SARCOPOTERIUM SPINOSUM
 Corrette morfologia e terminologia del frutto in #3252, tradotti e aggiornati i metadati medicinali #3253. Prossima Ziziphus. Vedi [DOSSIER_CAPITOLO_10_08_SARCOPOTERIUM_SPINOSUM_2026-11-27.md](DOSSIER_CAPITOLO_10_08_SARCOPOTERIUM_SPINOSUM_2026-11-27.md).
+
+
+### 10.9 — ZIZIPHUS SPINA CHRISTI
+Aggiornate #4269 e #4271 con etnobotanica e trial topico aggiuntivo alla clindamicina. Prossima Lycium. Vedi [DOSSIER_CAPITOLO_10_09_ZIZIPHUS_SPINA_CHRISTI_2026-11-27.md](DOSSIER_CAPITOLO_10_09_ZIZIPHUS_SPINA_CHRISTI_2026-11-27.md).
