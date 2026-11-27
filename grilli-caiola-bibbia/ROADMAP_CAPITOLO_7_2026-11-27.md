@@ -265,3 +265,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.28 — Siracide 50:10 — Ulivo fecondo e cipresso nella lode di Simone
 - Pubblicata e riletta #7775, Greco letto suAdFontes50:10,CEIufficiale solo confronto; nessun testo moderno riprodotto; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/citazioni/siracide-50-10-ulivo-cipresso-simone/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.29 — Salmo 104:17 — Bərôšîm e il nido della cicogna
+- Pubblicata e riletta #7777, Ricerca doppianumerazione negativa; passodistinto da104:16; metadati completi; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/citazioni/salmo-104-17-beroshim-nido-cicogna/. Prossimo relazioni, SEO e QA.
