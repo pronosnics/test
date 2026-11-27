@@ -304,3 +304,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.37 — Lawsonia: genere e confronto conservazione
 - KewgenereLawsoniahttps://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:25464-1aperto:Include1AcceptedSpecies,L.inermis. Contrasto conelencoterziariodi2specie nonadottato, mantenere«monospecificoneltrattamentoKew». KewgeneralinformationspecieriportaLC(riscontroindirettoIUCNvalutazione2019pub2020secondorecordDOI10.2305/IUCN.UK.2020-3.RLTS.T138450837A149445045.en),noneffettodiassenza minacce locali. FloraIsraelricercaLawsonianonrestituiscevoceprimariapertinente,nonprovadiassenzanellaregione. PrimariDioscorideI95eanalisi pigmentimummie individuatisoloindirettamente,nonattribuirecomelettidirettamente.PlinioXII109latino/traduzioneinlettura.
+
+
+## Lotto 20.38 — Cupressus: aggiornata scheda1955
+- Precisato monospecificosecondoKew eLCattribuita; ripulitiresidui diresocontolavorazione inPost e mantenutilimitiattribuzionelocalità; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
