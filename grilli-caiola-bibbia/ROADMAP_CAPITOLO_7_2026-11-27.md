@@ -301,3 +301,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.40 — Cupressus: aggiornata scheda1561
 - Genesi6:14: metadati biblici prima vuoti completati con parafrasi originale; identificazione controversa preservata; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/genesi-614-il-legno-di-gofer-dellarca/. Prossimo relazioni e QA.
+
+
+## Lotto 19.41 — Cupressus: aggiornata scheda1551
+- Corrette spaziature nel testo visibile e terminologia oligomeri di proantocianidine; href conservati; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/cipresso-mediterraneo-cupressus-sempervirens-l-bibbia-zohary-e-botanica/. Prossimo relazioni e QA.
