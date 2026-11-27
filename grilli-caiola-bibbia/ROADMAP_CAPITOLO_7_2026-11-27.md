@@ -320,3 +320,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.41 — Cupressus: aggiornata scheda1955
 - InseritofonteclassicaPlinioXII109concontestocommerciale e limiteLigustrum;nessunricettario o usomedicalebiblicoinferito; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
+
+
+## Lotto 20.42 — Lawsonia: legami biblici nuovi e identificazione
+- Creatiduepassitermini#450/#451edidentificazione678probabileCant1:14#7812→Lawsonia#1955/kofer#7810. #244legatolemmakoferpreservandomelograno/nardo. #520vecchiotermnullstatuscontroversanonmodificatoper nonaggirareapprovazione;in coda pianoallineamentoa probabileconlemmaspecifico,noncrearesecondaidentificazionesovrapposta. Prossimobibliografia,SEOeaudit.
