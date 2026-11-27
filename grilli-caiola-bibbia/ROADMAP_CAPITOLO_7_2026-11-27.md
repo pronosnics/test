@@ -245,3 +245,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.23 — Meunier, Villie e Bastide (1994) — Proantocianidine del cipresso ed elastasi
 - Pubblicata e riletta #7771, PubMed7884634, abstract originale; integrale e autenticazione botanica non acquisiti; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/meunier-1994-cipresso-proantocianidine-elastasi/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.24 — Cupressus: completati metadati fonte5289
+- Fonte esistente#5289 aggiornata con autori,titolo,edizione/anno,editore e URL/DOI pertinenti; readback positivo. Nessuna nuova fonte duplicata. Prossimo contenuti e relazioni.
