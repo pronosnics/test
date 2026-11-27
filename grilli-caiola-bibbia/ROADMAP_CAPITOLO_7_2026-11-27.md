@@ -268,3 +268,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.23 — Retama: aggiornata scheda2596
 - Precisato titolo originale completo della revisione Youssef2024, verificato sul frontespizio primario; conservati DOI/autori; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/youssef-amer-ghaly-e-hamed-2024-a-spotlight-on-retama-spp/. Prossimo relazioni e QA.
+
+
+## Lotto 22.24 — Retama: tre studi animali di Duke e limiti di accesso
+- Recuperati e letti abstract primari indicizzati: PMID15848016 (diuresi acuta, estrattoacquosopartiaeree endovena inratti normali, quattroore; effetti nulli sualcuniparametri), PMID15852497 (ipoglicemia/perfusioneendovenosa, insulinabasalepressochéinvariata e glicosuria aumentata) ePMID15013197 (metabolismo lipidico, somministrazionioralisingole/ripetute inratti). Queste vie/preparazioni non equivalgono a una tisana né a efficacia umana. Nuove aperturePubMed restituiscono paginevuote/recaptcha; non insistere suglistessiURL. Integrali/voucher/COI restanoP2; nessun dato numerico di dose introdotto nelpubblico.
+- DOI2026Abeid: accesso alPDF dalviewer restituisce solo intestazione, integrale non letto; fonte nuova limitata all'abstract. Studi2025Bouzenna/2026Kouadri letti nelle sezioni primarie pertinenti, nessuna pretesa di tuttefigure. FonteBDBprecisa creata; da trasferire adessa quattro vecchierelazioni errate#1684/#1689/#1701/#1705 nel flusso controllato. Prossimo aggiornamenti schede e fonte deltoponimo.
