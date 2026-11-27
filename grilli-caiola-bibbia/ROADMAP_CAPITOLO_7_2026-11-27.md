@@ -208,3 +208,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 22.8 — Retama: lessici e testi greci verificati
 - BDBH7574 suBLB letto: rōtem/plurale, 1Re19:4–5, Giobbe30:4, Sal120:4; BDBH7575 letto: nome di luogo Numeri33:18–19, non specie. TrascrizioniLXX lette tramite concordanzaBLB:1Re19:4 ραθμ,19:5 φυτóν; Sal119:4LXXcarbonidesertici, Giobbe30:4 radicidilegni senza diagnosi esclusiva. Non imporre un unico fitonimo greco a ogni passo.
 - FloraIsrael: testo primario indicizzato letto, apertura diretta403; distinguerlo da collazione facsimile. FotoGrilli e tavola2613 visionate; tavola conservabile come illustrazione, non misura di profonditàradicale. Riserve sull'originaleMoldenke efig78 restano. Prossimo pubblicazione nuovefonti, puliziainglese/note, metadati e coda controllata per fonte559 errata.
+
+
+## Lotto 22.9 — Retama: aggiornata scheda2592
+- Ripulita fonte #2592: contenuto italiano, rimosse istruzioni interne di consultazione da corpo e metadati, mantenuti fatti scientifici e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-retama-raetam-forssk-webb-berthel-nome-accettato-sinonimi-e-areale/. Prossimo relazioni e QA.
