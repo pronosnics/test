@@ -1888,3 +1888,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.10 lotto 10.1.5: Balfour testo e nota Trevor recuperati; Roumpekas ed Eggli pubblicati #8548/#8550, tre relazioni #6283–6285; #666/670/683 aggiornati, audit locale 12/12. Tavola non ancora sostituita, riserve bibliografiche nel dossier.
 
 - Addendum iconografico 10.1.5: generata una nuova bozza a colori senza testo (27/11/2026, gen 41204278-3f3e-4a90-a79a-0c9e2b077fb5). Non approvata per pubblicazione: dettagli del gineceo mostrano stigma lobato vistoso, non coerente con stigma semplice nella diagnosi generica di Post p782; racemo troncato al margine superiore. Conservata #676, nessuna modifica media. P3 resta aperta; nuova tavola da validare prima dell’upload.
+
+- Cap10 10.1.6: EMA monografia integrale recuperata, #670 aggiornata, #8553/#6286, audit locale positivo. Aloe ancora aperta per riserve; avviata revisione differenziale 10.2 #3937, Grilli p159 facsimile, Kew nome Zygophyllum dumosum accettato, relazione #6287. 0/10 chiuse definitivamente.
