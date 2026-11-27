@@ -207,3 +207,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.9 — Diospyros: propagazione, risultati sfavorevoli conservati
 - Kumar, Maheswarappa, Hegde e Salimath2019, DOI10.20546/ijcmas.2019.812.188, PDF originale pp1568–1574 letto nelle sezioni metodi, risultati, tabella1, discussione e ringraziamenti. Esperimento2017–18 Ponnampet su cinque alberi: radicazione iniziale modesta, miglior valore riportato4,75% a60giorni, controllo0; colonna rooting success0 in tutti gruppi e mancata produzione nuovi getti/morte radici. Non presentare la radicazione iniziale come protocollo di riproduzione riuscito. Replicazione delle margotte e voucher non chiariti nel testo consultato; ringraziamentiCollegeForestry/KarnatakaForestDepartment, nessuna dichiarazioneCOI autonoma trovata nelle sezioni lette, non inferire assenza. Titolo endangered non categoriaIUCNcorrente, che Kew riportaDD. Figure e grafici da verificare graficamente. Prossimo fonte bibliografica e integrazione pubblica breve.
+
+
+## Lotto 21.10 — Fareed e colleghi (2026) — Diospyros ebenum: frazioni fogliari e modello animale
+- Pubblicata e riletta #7823, Fonte primaria o repertorio consultato nei limiti descritti nei lotti21.4–21.9; nessuna evidenza clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/fareed-2026-diospyros-ebenum-scopolamina-e71397/. Prossimo relazioni, SEO e QA.
