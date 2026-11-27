@@ -248,3 +248,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.23 — Niazi e colleghi (2022) — Henné nell’epidermolisi bollosa: studio pilota
 - Pubblicata e riletta #7800, Efficacy of a topical formulation of Henna (Lawsonia inermis) on the itch and wound healing in patients with epidermolysis bullosa: A pilot single-arm clinical trial; 10.5826/dpc.1203a115; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/niazi-2022-henne-epidermolisi-bollosa-pilota/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.24 — SCCS — Parere sull’henné, condizioni cosmetiche e limiti
+- Pubblicata e riletta #7802, Opinion on Lawsonia inermis (Henna), COLIPA C169, SCCS/1511/13; Corrigendum12November2021; 10.2772/71314; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/sccs-henne-c169-1511-13-corrigendum2021/. Prossimo relazioni, SEO e QA.
