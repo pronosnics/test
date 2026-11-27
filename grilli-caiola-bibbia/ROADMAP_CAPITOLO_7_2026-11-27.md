@@ -237,3 +237,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.21 — Brown–Driver–Briggs — Bərôš, gōfer e tirzāh
 - Pubblicata e riletta #7769, A Hebrew and English Lexicon of the Old Testament: voci bərôš (H1265), gōfer (H1613), tirzāh (H8645); https://biblehub.com/bdb/1265.htm; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-berosh-gofer-tirzah-conifere/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.22 — Cupressus: Meunier1994 e limiti originali moderni
+- Ricondotto X7884634 diDuke all’originaleMeunierM.T.,VillieF.,BastideP.,JPharmBelg49(6):453–461,1994,PMID7884634,https://pubmed.ncbi.nlm.nih.gov/7884634/,abstractletto: oligomeriproantocianidolicieinterazioneelastasi/elastina insistema biochimico; concentrazioni dipendentidaltest,nessunaprovaclinica di trattamentovascolare. Integrale francese,voucher,statistica,COI/fundingnoncollazionati. HALPasteur04675298/manoscrittoCecchiindividuato maAnubisAccessDenied9e4edb5b6b850c41; nonaggirare. ScaliPDF15p inizialmenteestrattodalweb(refturn305036665view7),poiIDPnonaccessibileanchefind/screenshot;correggereprecedenteasserzionegenericaPDFfallito: testo parzialeconsultato,figurenonvisionate.
