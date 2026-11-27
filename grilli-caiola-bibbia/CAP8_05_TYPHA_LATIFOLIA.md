@@ -20,3 +20,6 @@ Nessuna voce specifica per T. latifolia nel registro legacy esaminato. Il codice
 ## Riserve e continuità
 
 P1-L specie evangelica indeterminata. P2-A Smith 1877, Hepper; P2-D voucher recenti, assegnazione di un codice operativo nel registro appropriato senza riuso di codice legacy. P3 verifica pubblica.
+
+### Audit trasversale
+Zohary p.136 (PDF137, testo e facsimile) e Duke pp.474–477 (PDF500–503, testo) ricollazionati: refuso Es 3,3 per 2,3 e distinzione del genere dalla singola specie. #8330/#8332 aggiornate, relazioni #6178–6179; SEO #3980 compilato. Readback/audit positivo. Nessuna modifica di certezza biblica.
