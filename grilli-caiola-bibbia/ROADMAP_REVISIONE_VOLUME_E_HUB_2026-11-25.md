@@ -1919,3 +1919,6 @@ Capitolo 10.5 — Aggiornata #1976; pubblicata e collegata medicina #8670, fonte
 
 
 Capitolo 10.6 — Rilette #2619 e #2620. Integrati il lutto per Giacobbe e un saggio veterinario distinto dalle attività degli altri ramni. Prossima S. palaestina.
+
+
+Capitolo 10.7 — Pubblicate #8677/#8679, tavola #8681 assegnata e verificata, distinzione da S. judaica, tre fonti e relazione controversa #695. Prossima S. spinosum.

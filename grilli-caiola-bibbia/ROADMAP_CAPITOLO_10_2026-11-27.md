@@ -211,3 +211,7 @@ Aggiornata #1976; pubblicata e collegata medicina #8670, fonte EMA #8668 e quatt
 
 ### 10.6 — RHAMNUS LYCIOIDES SUBSP GRAECA
 Rilette #2619 e #2620. Integrati il lutto per Giacobbe e un saggio veterinario distinto dalle attività degli altri ramni. Prossima S. palaestina. Vedi [DOSSIER_CAPITOLO_10_06_RHAMNUS_LYCIOIDES_SUBSP_GRAECA_2026-11-27.md](DOSSIER_CAPITOLO_10_06_RHAMNUS_LYCIOIDES_SUBSP_GRAECA_2026-11-27.md).
+
+
+### 10.7 — SALVIA PALAESTINA
+Pubblicate #8677/#8679, tavola #8681 assegnata e verificata, distinzione da S. judaica, tre fonti e relazione controversa #695. Prossima S. spinosum. Vedi [DOSSIER_CAPITOLO_10_07_SALVIA_PALAESTINA_2026-11-27.md](DOSSIER_CAPITOLO_10_07_SALVIA_PALAESTINA_2026-11-27.md).
