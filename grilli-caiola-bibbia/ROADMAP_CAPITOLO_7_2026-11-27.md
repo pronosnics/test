@@ -182,3 +182,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.7 — Lawsonia: Dafni–Böck2019 tab3p9
 - Letto originalePDFp9,tabella3Lawsonia/Henna/Koffer,categoriaA;testimonianzeEgitto e tradizionepostbiblica,BT.Sheviiit7:6,PB.Cant4:13,nonprescrizioneBiblica. OrigineEA/importatasecondorepertoriodell’articolononcorrispondeesattamenteaKew2026;esplicitaredifferenzafonti,nonfonterneareali. Fontegenericagià#2069 riutilizzabile,nessunnuovoduplicatoDOI.
+
+
+## Lotto 20.8 — Lawsonia: tavola e figure visionate
+- Tavola1956medium45794byte recuperata inunblocco,SHAverificata,visionata:arbusto,foglieopposte,pannocchiechiare,capsule/semi,fogliesecce/polvere;nessunscritto. Conservazioneprevistadopocontrollodettagli8stami/4petali,fullresolutionnoncertificata. VisionateZohary190/PDF191fotofiori,Tristram340/PDF352incisione,Dukefig1.60p242/PDF268,MoldenkeFigura20p100originalecrop(Blanco1877secondodidascalia). Non trasferirecolorazionicapsulebluDukecomecaratterediasgnostico.
