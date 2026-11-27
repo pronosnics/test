@@ -32,3 +32,5 @@ I nomi della terza colonna identificano il soggetto di lavoro. La ricezione tass
 - 8.3 · Phragmites australis · WP #2243, #2251. Verificate fillotassi e rachilla, separati il testo sul canneto e i passi sui flautisti. [Dossier](CAP8_03_PHRAGMITES_AUSTRALIS.md).
 
 - 8.4 · Schoenoplectus lacustris · WP #3329, #3330. Distinti ʾāḥû di Gen 41,2 e ʾagmôn di Is 58,5. Integrata la tradizione sarda con provenienza esplicita. [Dossier](CAP8_04_SCHOENOPLECTUS_LACUSTRIS.md).
+
+- 8.5 · Typha latifolia · WP #8330, #8332, #3980. Create e pubblicate botanica #8330 e medicina #8332. Famiglia Typhaceae #39 verificata, tavola #8331, fonte #8328, identificazioni controverse #688–689. [Dossier](CAP8_05_TYPHA_LATIFOLIA.md).
