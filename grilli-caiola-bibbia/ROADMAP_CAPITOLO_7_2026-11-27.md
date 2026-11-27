@@ -354,3 +354,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - 27/11/2026, ATL-0127, WP #1955. Rilettura diretta: identificazioni #520 (Cantico4:13) e #678 (Cantico1:14), nessun duplicato; passaggi-lemmi #450/#451 presenti, conservati #32 melograno e #439 nardo su #244. Famiglia assegnata Lythraceae #62 corretta. Il piano Cedrus 5e07d6f5-aaa6-4879-8447-9426725f9c9f resta pending; non sovrascritto.
 - Coda Lawsonia: identificazione #520, impostare term_id7810 e status probabile; conservare source_id5165, spiegazione e fonti; armonizzare locatore e motivazione con Cantico1:14. Preparare preview solo dopo risoluzione del piano attuale. Non creare duplicato per aggirare l'approvazione. P3 strutturale; fino all'applicazione stato revisione completata, allineamento identificativo pendente, non conteggiata chiusa.
 - Relazioni bibliografiche finali: botanica19, medicina9, lemma3, Cantico1:14 cinque, Cantico4:13 cinque (tre nuove); 33 nuove #5822–5854. Capitolo187 nuove, tre assorbite pregresse, saldo184. Nessuna nuova botanica.
+
+
+## Lotto 20.50 — Lawsonia: audit mirato dopo ritocchi
+- Rilettura aggiornata #1955/#7812 e audit locale mirato: 2/2, H1 unico, ALT/note/warning senza anomalie. La verifica pubblica precedente certifica tavola e collegamenti, non un nuovo controllo HTTP dopo i soli ritocchi. Restano riserve P2/P3 analitiche del dossier e allineamento #520; prossimo salvataggio dossier e avvio Diospyros ebenum #1704.
