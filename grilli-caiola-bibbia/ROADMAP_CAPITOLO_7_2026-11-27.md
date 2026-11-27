@@ -276,3 +276,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.25 — Diospyros: aggiornata scheda5276
 - Completati metadati della fonte Kew comparativa #5276, preservati contenuto e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-diospyros-melanoxylon-roxb-willd-varieta/. Prossimo relazioni e QA.
+
+
+## Lotto 21.26 — Ezechiele 27:15 — Testo masoretico e Settanta a confronto
+- Pubblicata e riletta #7840, Fonte testuale primaria letta direttamente; ricerca precedente Settanta senza fonte equivalente specifica; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/ezechiele-27-15-testo-masoretico-settanta/. Prossimo relazioni, SEO e QA.
