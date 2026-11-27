@@ -1902,3 +1902,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap10 10.2.5: apparati Grilli, tavola #3941 visionata (ali del frutto da chiarire), SEO 2/2, medicina collegata, El Hadidi #8586/#6304; audit locale 3/3, HTTP 403. Riserve mantenute, 0/10 definitive.
 
 - Cap10 10.3.1: Grilli p160 facsimile, tipificazione Vitek/Jarvis2007 e diagnosi s.str. Vitek et al2017; #1807 aggiornato, #1810 collegato e meta evidence traditional, #8589/#8591 pubblicate, rel #6305–6307, audit locale 4/4. Riserve Aloe/Zygophyllum mantenute, 0/10 definitive.
+
+- Cap10 10.3.2: Zohary/Duke/Post originali, Moldenke trascrizione, Danin Anastatica, SAHD 2026 #8601 e rel #6308–6313; 7 schede aggiornate, audit 8/8; duplicazione H1534 #672/#1809 registrata, nessuna migrazione distruttiva. Riserve storici/medicina/tecniche mantenute.
