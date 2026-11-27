@@ -340,3 +340,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.46 — Lawsonia: verifica pubblica completata
 - 27/11/2026. ATL-0127, WP #1955. Pagina pubblica aperta e visionata nel browser: H1 unico, meta description presente, nuova tavola #7791 effettivamente servita a 960×1440, collegamenti a medicina #7808, lemma #7810 e Cantico 1:14 #7812 visibili. Screenshot controllato. Nessun marcatore operativo rilevato nel main. Due vecchi URL bibliografici residui (Kew abbreviato e TIPs /es/story/henna/) e due refusi da correggere con sostituzioni puntuali, senza regex generali sui DOI. Prossimo: correzione mirata e verifica relazioni/famiglia; riconciliazione #520 ancora da allineare senza duplicare.
+
+
+## Lotto 20.47 — Lawsonia: aggiornata scheda1955
+- Corrette tutte le occorrenze dei due URL bibliografici obsoleti, accordo grammaticale naftochinone e spazi puntuali dei riferimenti; nessuna trasformazione generale dei DOI; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/henne-lawsonia-inermis-cantico-cantici-en-gedi-bibbia/. Prossimo relazioni e QA.
