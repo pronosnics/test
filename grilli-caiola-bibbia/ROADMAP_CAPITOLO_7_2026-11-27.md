@@ -221,3 +221,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.17 — Scali e colleghi (2026) — Resistenza del cipresso al cancro da Seiridium
 - Pubblicata e riletta #7761, Disease resistance in cypress involves a dynamic transcriptome-wide response that includes resistance genes characterized in model pathosystems; 10.1038/s41598-026-62624-x; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/scali-2026-cupressus-seiridium-trascrittomica/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.18 — Liphschitz e Biger (1989) — Il cipresso nell’Israele antico
+- Pubblicata e riletta #7763, Cupressus sempervirens in Israel during antiquity; 10.1080/0021213X.1989.10677109; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/liphschitz-biger-1989-cipresso-israele-antichita/. Prossimo relazioni, SEO e QA.
