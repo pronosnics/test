@@ -236,3 +236,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 21.15 — Diospyros: tavola caricata e integrità verificata
 - ATL-0095 WP#1704. Nuova tavola#7833, WebP1200×1311,473084byte,SHA256731f9fbefad70954092051f8327b29ae12f02f43e3ce850dcc03893f9a0a63ce. Upload in dieci blocchi con start/chunk/finish positivo; media-info conferma byte,SHA,featured=plate e ALT/caption compilati. Vecchio#1705 conservato. Nuova immagine visionata, illustrazione botanica non campione certificato; verifica pubblica ancora da fare.
 - Tentativo unico downloadBSISinghPDF per visione grafica restituisce503; testo originale tramite servizio web letto, facsimile fig19 non recuperato localmente. RiservaP3, non dichiarato successo. Prossimo completare le fonti pregresse e schede.
+
+
+## Lotto 21.16 — Diospyros: aggiornata scheda5277
+- Completati metadati Kew #5277; nome accettato e unplaced confermati dai record primari; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-diospyros-ebenum-ebenaster-nomenclatura/. Prossimo relazioni e QA.
