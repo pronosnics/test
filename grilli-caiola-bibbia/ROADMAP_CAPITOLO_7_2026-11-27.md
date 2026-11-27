@@ -872,3 +872,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 45.2 — Fonte Mohseni #8183
 - Pubblicata e riletta, DOI e anno verificati; SEO salvata e verificata. Abstract ed estratti editore, non integrale; RR e IC riportati con limiti. Prossimo: collegamenti e tre schede medicinali.
+
+
+## Lotto 45.3 — Scheda medicinale #2301
+- Integrata sintesi Mohseni da abstract/estratti con limiti specifici della specie, testo precedente conservato e rilettura positiva. Relazione 6077. Aggiornato anche il metadato obsoleto sul livello di consultazione Azizi.
