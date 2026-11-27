@@ -313,3 +313,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.43 — Cupressus: relazioni e duplicati ricontrollati
 - Letterelazionidi16contenuticollegati. #1556ha6fonti incl.#4337lessicogiàdedicatoaH1265/H1266: riutilizzarloperH1265; nuova#7769destinataancheH1613/H8645,loci distinti, non duplicare collegamentobərôš. #1555ha1Duke;#1557/#1558/#1561ognuna1Moldenke. #531presentaverisovrapposizioni#258/#278,#259/#279,#269/#289;#480Dukep69–70diversoda279da conservare. Insieme#900/#4206Zoharycandidatoafusioneconservativa in coda, pianoCedrusancorapending,non sovrascritto. Nuovifonti8:#7761,#7763,#7765,#7767,#7769,#7771,#7773,#7779;nuovipassi#7775/#7777 elemma#7781. Prossimo collegamentistrutturati eSEO.
+
+
+## Lotto 19.44 — Cupressus: aggiornata scheda7769
+- Precisato ambito della nuova fonteH1613/H8645 rispetto alla preesistente#4337H1265/H1266; distinzione dei loci, nessuna fusione indiscriminata; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-berosh-gofer-tirzah-conifere/. Prossimo relazioni e QA.
