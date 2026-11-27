@@ -159,3 +159,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 19.2 — Cupressus: Grilli119fig71 verificati
 - Letto originale Grilli2013p119/PDF121 e visionatafotofig71. Portamento aperto/colonnare,foglie squamiformi,coni e usi del legno. Rinvio «Siracide23,13» incongruente: poesia cedro/cipresso è24:13, già verificata e oraWP#7755. Non assumere che l’arca fosse di cipresso, ipotesigofer controversa; non trasferire misurepollinifere1,5cm o calendarioaprile–maggio senza confronto moderno.
 - Apparati tab7p183cipresso23/4libri,tab8p1841/8/4/10/0=23; p119dice8Profetici,tab8neconta10: discrepanza interna da documentare senza uniformarla arbitrariamente. «Fiori» in volume è linguaggio divulgativo perconi, non fiori diangiosperme. Nessuna modificaWP. Prossimo Zohary.
+
+
+## Lotto 19.3 — Cupressus: Zohary106–107 e tre illustrazioni verificati
+- Originale pp106–107/PDF107–108 letto integralmente e visionato: Cupressus,Abies,Juniperus rappresentati separatamente. Bərôš collettivo; Abiesconcedro/Libano,JuniperusconSenir; burāšu è argomento storico citato daCampbellThompson1949, non nuova collazione accadica primaria. Zohary includeJ.foetidissima come alternativa, da non omettere.
+- Cipresso nativo ricostruito da autore anche mediante polline/legno archeologico, primari specifici da acquisire; immagine di p107non dimostra una specie per versetto. Fonte#1554 giàduevoltecollegata#900/#4206,non creareterzarelazione. Prossimo Duke160–162.
