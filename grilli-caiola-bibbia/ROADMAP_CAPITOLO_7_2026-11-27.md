@@ -944,3 +944,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 48.3 — Botanica #2455
 - Integrato confronto ecologico da Dufour-Dror2004, distinta associazione climatica da tolleranza fisiologica e areale storico da POWO corrente. Testo precedente preservato, rilettura esatta positiva.
+
+
+## Lotto 48.4 — Bioclimatologia querce: audit e checkpoint
+- Rettifica #1597 applicata 27/11/2026 13:12:46 GMT, verificata. Dufour-Dror ed Ertaş2004 #8194 pubblicata, relazioni #6082/#6083 rilette conformi, botaniche #2540/#2455 integrate e rilette, precedente testo conservato, SEO fonte verificata. Confronto dati storici e POWO corrente, nessuna deduzione di assenza locale o ricostruzione dell'areale biblico. Audit locale positivo 3/3, H1 unico, zero ALT mancanti/note candidate/warning, tavole #2541/#2493 conservate, nessun duplicato nuovo; pending=null, nessuna approvazione. Facsimile e figure 2004 non collazionati visivamente; HTTP pubblico non riverificato.
+- Prossimo lotto 49: Ne’eman1993, Variation in leaf phenology and habit in Quercus ithaburensis, record AGRIS https://agris.fao.org/search/en/providers/122535/records/65dea75a7c7033e84beb489e e possibile copia Academia https://www.academia.edu/29544369/Variation_in_Leaf_Phenology_and_Habit_in_Quercus_Ithaburensis_a_Mediterranean_Deciduous_Tree ; cercare originale e distinguere da Ne’eman2016 #8051. Considerare studio anatomia xilematica https://www.sciencedirect.com/science/article/pii/S0098847216302209 solo dopo verifica metodi e campioni. Altre riserve e dossier separati mantenuti; stato editoriale 23/23, scientifico con riserve.
