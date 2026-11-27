@@ -1894,3 +1894,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap10 10.2.1: originali Zohary/Duke/Danin collazionati; rettifiche germinazione e conteggio incrementi in #3937, fonti #8557/8559/8561 e rel #6288–6290, audit locale 4/4. Riserve integrali Koller/Agami, facsimile Waisel, altri approfondimenti aperti. 0/10 definitive.
 
 - Cap10 10.2.2: Post p187 recuperato malgrado OCR, BDB H362 sei occorrenze; #3937/#315 aggiornati, fonte #8565 e relazioni #6291–6293, audit locale 3/3. Bailey/Danin e storici residui da ricollazionare. 0/10 definitive.
+
+- Cap10 10.2.3: #3937 integrata con epigenetica/proteomica/endofiti/metabolomica; fonti #5062/#5063 completate, #8570/#8572 pubblicate e relazioni #6294–6295, audit locale 5/5. Bailey/Danin ancora 403, Granot integrale da acquisire; medicina, Sindone e verifiche tecniche aperte. 0/10 definitive.
