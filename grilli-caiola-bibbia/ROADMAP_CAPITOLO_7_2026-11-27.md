@@ -165,3 +165,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.1 — Diospyros ebenum: precontrollo WordPress
 - 27/11/2026. ATL-0095, WP #1704, URL preservato. Letta scheda completa; confronto #1716 D.melanoxylon Roxb. distinto, nessuna fusione. Otto relazioni bibliografiche, una identificazione #243 Ezechiele27:15 #1706, lemma#1707, statuscontroversa coerente con incertezza specifica. SEO botanica già completa. Individuata nota interna futura sulla scheda Coromandel da rimuovere. Recuperati medicina, tavola e metadati; prossimo ricollazione Grilli p121/PDF123 fig73 e fonti obbligatorie. Conteggi capitolo invariati; pulizia temporanei Lawsonia completata dopo verifica positiva.
+
+
+## Lotto 21.2 — Diospyros: Grilli p121 e Zohary p124 ricollazionati
+- Originali testuali: Grilli2013 p121/PDF123 fig73; Zohary1982 p124/PDF125. Grilli riporta autore Koenig ex Retz. contro J.Koenig Kew; 30m, foglie glabre e fiori maschili distinti dai femminili, bacca~2cm con calice persistente, durame/alburno. Non trasferire espressione legno nero durissimo a Dalbergia senza distinguere generi. Zohary tratta D.ebenum ma ammette più Diospyros e incertezza delle rotte, incluso bivio India/Africa nei prodotti; la specie biblica rimane controversa. FiguraGrilli preparata per visione diretta. Prossimo Duke, Moldenke e fonti ottocentesche.
