@@ -256,3 +256,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.25 — Brown–Driver–Briggs — Kōfer H3724: henné e omonimi
 - Pubblicata e riletta #7804, A Hebrew and English Lexicon of the Old Testament — Kōfer, voceIII (H3724); https://biblehub.com/bdb/3724.htm; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-kofer-h3724-henne-omonimi/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 20.26 — UBS TIPs — Henné, grappoli e giardino del Cantico
+- Pubblicata e riletta #7806, Translation Insights and Perspectives — Henna; https://tips.translation.bible/tip_term/henna/; consultazione e limiti descritti nei lotti20.10–17; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/ubs-tips-henne-cantico-grappolo/. Prossimo relazioni, SEO e QA.
