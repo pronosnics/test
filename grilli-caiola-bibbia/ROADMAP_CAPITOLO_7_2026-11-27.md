@@ -309,3 +309,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.42 — Cupressus: aggiornata scheda7771
 - Corrette spaziature nel testo visibile e terminologia oligomeri di proantocianidine; href conservati; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/meunier-1994-cipresso-proantocianidine-elastasi/. Prossimo relazioni e QA.
+
+
+## Lotto 19.43 — Cupressus: relazioni e duplicati ricontrollati
+- Letterelazionidi16contenuticollegati. #1556ha6fonti incl.#4337lessicogiàdedicatoaH1265/H1266: riutilizzarloperH1265; nuova#7769destinataancheH1613/H8645,loci distinti, non duplicare collegamentobərôš. #1555ha1Duke;#1557/#1558/#1561ognuna1Moldenke. #531presentaverisovrapposizioni#258/#278,#259/#279,#269/#289;#480Dukep69–70diversoda279da conservare. Insieme#900/#4206Zoharycandidatoafusioneconservativa in coda, pianoCedrusancorapending,non sovrascritto. Nuovifonti8:#7761,#7763,#7765,#7767,#7769,#7771,#7773,#7779;nuovipassi#7775/#7777 elemma#7781. Prossimo collegamentistrutturati eSEO.
