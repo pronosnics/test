@@ -366,3 +366,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 18.41 — Cedrus: SEO salvata e verificata #7742
 - TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7742 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7742,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"ʾErez H730: cedro e legname | Brown–Driver–Briggs","description":"Il lessico Brown–Driver–Briggs distingue albero, legname edilizio e legno rituale per l’ebraico ʾerez, Strong H730.","focus_keyword":"erez H730"},"sha256":"e9e69e0d69e08f7df75f2cd18be5c41c44f2ee8aa6626543363b48124ce5ba8a"}. Non equivale a controllo headHTMLpubblico.
 - Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
+
+
+## Lotto 18.42 — Cedrus: SEO salvata e verificata #7747
+- TitoloSEO,metadescription e focuskeyphrase compilati/corretti su#7747 con fingerprint atteso; plugin verifica rilettura. Risposta {"id":7747,"verified":true,"note":"Verifica dei metadati memorizzati. Cache e indexables Yoast/HTML pubblico richiedono audit separato.","values":{"title":"Oli di cedro e biofilm | Manoharan 2017","description":"Saggi sui biofilm di Candida con oli commerciali: risultati preclinici e limiti dell’attribuzione botanica a Cedrus libani.","focus_keyword":"oli di cedro biofilm"},"sha256":"d7a9e8897641d1e125bfbb7a7e6f8ec4445cf63ada1def82fc6c291d541a576d"}. Non equivale a controllo headHTMLpubblico.
+- Prossimo audit locale dell’insieme e verifica pubblica; riserve documentali non chiuse automaticamente.
