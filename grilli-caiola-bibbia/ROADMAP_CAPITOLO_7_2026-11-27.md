@@ -325,3 +325,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.46 — Cupressus: appendice anatomica1994 collazionata
 - Lettaappendice pp395–396: cipresso tracheidi,anelli ondulati,assenza canalire siniferi,punteggiaturecupressoidi,raggi alti e paretilisce;confronto direttoJuniperusphoenicea, non genetica/barkbarcode. DiagnosiQ.calliprinosdiffusoporus vsQ.ithaburensisporositàanulare utile allefuturequerce;Tamarixdeterminabilesoloagenere,autoriipotizzanoT.tetragyna,non aphylla. Salixacmophyllaipotesigeografica,legnonondistinguespecie. Riservarequestidati ai taxapertinenti; conto32tabella confermato, frequenzanonabbondanza. FigSEMnonancoravisionate.
+
+
+## Lotto 19.47 — Cupressus: relazioni bibliografiche create
+- Create 37 relazioni documentate, senza ripetere quelle presenti. Risposte positive conservate; ID 5784,5785,5786,5787,5788,5789,5790,5791,5792,5793,5794,5795,5796,5797,5798,5799,5800,5801,5802,5803,5804,5805,5806,5807,5808,5809,5810,5811,5812,5813,5814,5815,5816,5817,5818,5819,5820. Copertura botanica,medicina,lemmi,nuovipassi e passi condivisi; locatori distinti. Prossimo readback relazioni, legami passitermini e identificazioni.
