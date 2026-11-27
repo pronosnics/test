@@ -194,3 +194,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.10 — Lawsonia: accessi moderni e studio clinico negativo
 - PMC13230854/12360392/pmid35320555mostraverificaRECAPTCHA;noninteragito. ScienceDirectreview2026HTTP403. RicercaindicizzataoriginalePMC35320555forniscemetodi/risultati/tab1/fundingdeltrialAlpha:135screened,110eligible,90completers46/44,formulacommercialeLawsonia+Curcuma,4ciclichemioterapia,endpointWHO-HFSnondiversofragruppi(P>0,05),ritardoposthoceffettoesplorativo. Testoasserisceanche110completedcontraddittorio con46+44=90: segnalareinroadmap,nonarbitrariamenteusare110comeanalizzati.FundingMashhadUniversity,prodottoacquistato. Evidenzanegativaindispensabile,nonattribuireefficaciasingolahenna. Nuovostudiomoderne/fonte da creare solo dopoDOI/autori echeckduplicati.
+
+
+## Lotto 20.11 — Lawsonia: controllo variante grande e recupero errorelocale
+- DownloadBalfour1885lightofword403,nessunfilelocale creato,rgfilemancante noncontrollonegativosul1885;PDFwebscansionato265pconcoverOCR,voceancoranoncollazionata. Tavola1956variante960×1440322658byte,SHA523125f328c65c3dd33a589920320a2008378e6aaa07330f0c5d1c23548308f5recuperatain7blocchi. Primotentativoscritturalocaleunicoargomentobase64fallitoARG_MAX,recuperatoperblocchisenzaripeterelettureMCP;SHAfinale corretto eimmaginevisionata. Nessunamodificaallafigura. Prossimo controlloconclusivofiori/didascalia eprimari moderni.
