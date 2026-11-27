@@ -47,3 +47,7 @@ Le cinque fusioni Cupressus/Is41:19/Diospyros sono applied e rilette, nessuna pr
 
 ## Aggiornamento lotto52
 Lawsonia: Renaut2009 sezioni pertinenti lette (facsimile non collazionato), McCreesh/Gize/David2011 PDF completo e figg.1–2 visionati; fonti #8216/#8217, relazioni #6092–6094, botanica #1955 e lemma #7810 aggiornati e riletti; audit locale4/4. David/Garner2003 abstract e bibliografia originali soltanto, p159 non collazionata, tesi McCreesh2009 integrale ancora non acquisito; dati grezzi/sovrapposizione campioni non verificati. Ipotesi storico-linguistica non datazione del Cantico. Nessun pending. Prossimo lotto53 Cedrus Mutlu e originali pertinenti, poi Diospyros Howard–Norlindh.
+
+
+## Lotto 53
+Cedrus: Mutlu integrale/voucher/selettività ancora non verificati; nuovo studio Younes2026, abstract e sezioni indicizzate originali, fonte #8222 e relazione #6095, medicina #268 integrata, audit locale4/4. Prossimo lotto54 originali Loizzo/2-himachelen-7-ol/variabilità coni, poi Diospyros. Riserve non chiuse artificiosamente.
