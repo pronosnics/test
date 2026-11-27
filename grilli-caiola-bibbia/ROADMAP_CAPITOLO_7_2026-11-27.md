@@ -277,3 +277,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.31 — Lev-Yadun e Weinstein-Evron (1994) — Legni natufiani di el-Wad
 - Pubblicata e riletta #7779, Testooriginale,metodi e tabella1pp391–394,appendice in corso; discrepanzetestotabella mantenute inroadmap; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/lev-yadun-weinstein-evron-1994-legni-natufiani-el-wad/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 19.32 — Kypárissos — κυπάρισσος: il cipresso nel Siracide
+- Pubblicata e riletta #7781, Greco testuale ricontrollato inAdFontes50:10; scheda nonesistente ricercakyparissos; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/nomi-biblici/kyparissos-cipresso-siracide/. Prossimo relazioni, SEO e QA.
