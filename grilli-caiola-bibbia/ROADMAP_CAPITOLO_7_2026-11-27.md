@@ -240,3 +240,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.16 — Diospyros: aggiornata scheda5277
 - Completati metadati Kew #5277; nome accettato e unplaced confermati dai record primari; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kew-powo-diospyros-ebenum-ebenaster-nomenclatura/. Prossimo relazioni e QA.
+
+
+## Lotto 21.17 — Diospyros: aggiornata scheda5278
+- Completati autore, titolo, natura e URL della fonte UBS; varianti ketiv/qere e alternative botaniche verificate; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/ubs-havnim-ezechiele-2715-ebano-diospyros-dalbergia/. Prossimo relazioni e QA.
