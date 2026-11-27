@@ -260,3 +260,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.21 — Conforti e colleghi (2004) — Attività sperimentali della retama siciliana gussonei
 - Pubblicata e riletta #7858, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/conforti-2004-retama-raetam-gussonei/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 22.22 — Abeid e colleghi (2026) — Retama raetam e MRSA: variazione stagionale in vitro
+- Pubblicata e riletta #7860, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/abeid-2026-retama-raetam-mrsa-stagioni/. Prossimo relazioni, SEO e QA.
