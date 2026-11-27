@@ -166,3 +166,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.3 — Lawsonia: Zohary190 originale ricollazionato
 - PDF191,p190testooriginale letto:ciuffifioriprofumatibiancastri,arbustofino4m,capsulegloboseplurisperme,usitintoridellefoglie,profumomehendidaifiori,decottocortecciausitradizionali. Originedadomesticazioneremota incerta,nonguardareIndiaesclusiva; citakufraaramaico/accadico nonnuovacollazioneprimaria. Piantedomesticheincortili/alberisingoli,nonassumeretenutabiblicaintensiva. EnGhediscomparsa osservata1982,Gerico/Giordano/costa presenti alloradata. Foto ecapfamiliareWillowherbda leggere criticamenterispettoLythraceaemoderna. Fonte#5165esistente.
+
+
+## Lotto 20.4 — Lawsonia: Moldenke124–125 e note
+- Rilettavoce122pp124–125nella traduzioneutente,rinviofig20p100daoriginalecrop;Lawsoniaalba/spinosa sinonimi,noncanfora/cipresso;Indiaorigineasserzionestorica nonKewattuale. Usitinturepellebarbacrinieretessutieprofumicerimoniali;catecùaggiuntohistorico nonricetta. Dt21:11–12interpretazionesuornamenticattivenonhenné nominatoesplicitamente. Post#266bibliografiamoldenkeindicaaltroapparato/località,vocePostp320nonleelencatutte: nessunafalsa attribuzione.P2facsimile124–125,apparatiinglesi/supportiHasselquist1766eSonnininonverificatiintegri;continuareprimary.
