@@ -14,3 +14,6 @@ Registro legacy ATL-0033. Grilli p. 140/PDF 142 e fotografia 89: asse cavo con n
 ## Riserve e continuità
 
 P1-L specie del qāneh e materiale dei flauti indeterminati. P2-A Hepper 1992 sull’astuccio, citato indirettamente a p. 140. P2-D reperti egizi e loro identificazione specifica. P3 risposta pubblica da verificare.
+
+### Audit trasversale
+Post p.875 (PDF885) testo originale ricollazionato; confronto lemma sericeo Arundo e rachilla pelosa Phragmites integrato in #4880, relazione #6177. Readback/audit locale positivo. Hepper originale ancora non accessibile; SEO già integrato nel verbale generale.
