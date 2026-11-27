@@ -202,3 +202,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 20.12 — Lawsonia: errore diagnostico nella tavola e correzione avviata
 - Visione960×1440 evidenzia diversi fioria5petali e numerostamisuperiorea8;polverecoloreruggineconfondelafogliaessiccataconcoloretintorio sviluppato. P1visuale da correggere,nonconservaretavolacomecertificata. TestiPost/Kew/Grilliindicaconfermatetrameria/8stami. Generarerevisionenellostessostilecon4petali8stami,polverefoglieverdeoliva/brunaverdastra,capsulachiaramente4logge,seminoriproduzionecarnosa; nessuntesto/codice. Originale1956noneliminare.
+
+
+## Lotto 20.13 — Lawsonia: Kew, BDB e TIPs verificati
+- KewaccettaLawsoniainermisL.,Lythraceae,SpPl3401753;sinonimiL.albaLam./L.spinosaL.;nativoNETropAfrica/Arabia/SPakistanIndia,introdottoPalestine/Egypt/LebanonSyria. ElencocontienePanamáfraNativeincongruenteconriassunto:nontrasferireanomaliadatabasecomeoriginenativaAmeriche;rimandareall’arealesinteticoattribuito. BDBH3724vociI–IVdistinte:IIIpiantahennéCant1:14/4:13;IIpitchGen6:14nonstessosensobotanico,nonconfonderegōferH1613. Hebrew1:14’eshkolhakkofer,4:13kefarim;TIPsKoopsconfrontoghirlanda/grappolo,affermaspontaneitàanticaoasisenzafontearcheobotanicaprimariaquiacquisita. Nonadottarecomeprova. RicercaH3724/kophernegativa,nuovolemmaegiustificato;Cant1:14assenteanchequeryCantico1. Prossimonuovipassi/lemmaefonti.
