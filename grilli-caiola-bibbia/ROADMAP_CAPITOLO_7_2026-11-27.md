@@ -239,3 +239,8 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 - Bibbia CEI2008 ufficiale www.bibbiaedu.it/CEI2008/at/1Re/5/ reperita: discorso sulle piante1Re5:13, corrisponde a4:33 Diodati/KJV. Dunque1Re5:6 a p.118 è rinvio errato in questa numerazione, non semplice variante equivalente. Tab.11 del volume usa correttamente5:13. Da esplicitare in commento originale senza replicare ampiamente il testoCEI.
 - Originale ebraico1Re4:33 e Salmo92:12, BDBH730 controllati. Settanta greca/Vulgata da confrontare con testimoni accessibili; prima pagina sep era traduzione inglese Brenton, NON originale greco: non attestarne lettura come testo greco.
 - Checkpoint Moldenke zip recuperato: contiene traduzioni e42figure, non PDF/facsimile completo; individuata vignetta cedro p.64 da visionare, fonte originaria delle riprese da verificare. Prossimo modifiche WordPress già preparate e relazioni.
+
+
+## Lotto 18.17 — Cedrus: aggiornata e riletta scheda #266
+- Aggiornata WP#266 con expected_modified_gmt corrente, rilettura publish positiva; contenuto 24483caratteri. Botanica: rimosse note operative e riepiloghi sovrapposti, bibliografia ampliata, numerazione1Re4:33/5:13 distinta, conteggi Grilli attribuiti, Tristram/Balfour diretti e genetica2026 integrati; limiti dell’identificazione chimica Kabri esplicitati. Provenienza tavola ripulita,featured/plate#7737 preservati.
+- Relazioni bibliografiche e SEO non ancora completate. Prossimo creare collegamenti con fonti esistenti/nuove e controllare i passi collegati prima della chiusura.
