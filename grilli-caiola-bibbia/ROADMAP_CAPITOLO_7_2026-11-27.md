@@ -169,3 +169,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 ## Lotto 19.4 — Cupressus: Duke160–162 ricollazionato
 - Letto originale Duke2008pp160–162/PDF186–188, voceItalianCypress,Attività/Indicazioni/Dosages/Downsides. FNFF=X, nessun dosaggio pubblico da derivare dalle quantità storiche. Usi regionali e parti distinti, avvertenza renale e allergenicità. X7884634 antielastasi è pista primaria,non prova clinica.
 - Riferimenti costruzioni/porte millenarie/Ciproetimologia e usoarca sono affermazioni storiche del repertorio,non evidenze verificate in questo ciclo. Non trasferire trattamento di tumori oaborto all’uso clinico. Medicina#1555 da rileggere e aggiornare con studi affidabili. Figura1.39p161 ancora da visionare. Prossimo Post/Tristram/Balfour eMoldenke.
+
+
+## Lotto 19.5 — Cupressus: Post1896 p748 fig338
+- Originale estratto dal PDF, p748/PDF758: Cupressus sempervirens L.,5–25m, chioma variabile, coni20–30mm, ambiente montano intermedio, fioritura primaverile e forma colonnare coltivata nei cimiteri. Fonte#5290 già presente; metadati bibliografici vuoti da completare. Dati storici, non censimento moderno; confronto morfologico da completare. Prossimo Tristram348–349.
