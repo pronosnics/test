@@ -252,3 +252,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.19 — Kouadri e colleghi (2026) — Dromedari e germinazione delle Fabaceae sahariane
 - Pubblicata e riletta #7854, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/kouadri-2026-dromedari-retama-raetam-semi/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 22.20 — Bouzenna e colleghi (2025) — Retama raetam e ferite in un modello animale
+- Pubblicata e riletta #7856, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bouzenna-2025-retama-raetam-cicatrizzazione-animale/. Prossimo relazioni, SEO e QA.
