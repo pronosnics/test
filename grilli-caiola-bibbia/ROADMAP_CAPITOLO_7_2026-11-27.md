@@ -325,3 +325,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.37 — Retama: aggiornata scheda2606
 - Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/salmo-1204-i-carboni-ardenti-della-ginestra-ro%e1%b9%afem/. Prossimo relazioni e QA.
+
+
+## Lotto 22.38 — Retama: aggiornata scheda2608
+- Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/numeri-3318-19-ri%e1%b9%afma-il-toponimo-del-deserto-e-la-ginestra/. Prossimo relazioni e QA.
