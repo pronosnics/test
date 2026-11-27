@@ -67,3 +67,7 @@ Diospyros: Gerisch2010 PDF e inventario visionati, Pulak2008 testo pertinente le
 
 ## Lotto57 e piano conclusivo
 Western–McLeod1995, Bass1989 e Giachi2016 testi pertinenti consultati, fonti #8249/#8251/#8253, relazioni #6110–6115, botanica/citazione aggiornate e audit5/5. Haldane/Dixon/Hepper/Howard–Norlindh integrali e referti/facsimili restano coda bibliotecaria. Ciclo ebano concluso sul materiale accessibile, identificazione controversa invariata. Sei lotti di lavoro proposti 58–63: raggruppare riserve delle altre specie e audit finale, senza promessa di risolvere limiti intrinseci o accessi bloccati. Dettagli nella roadmap. Nessun pending.
+
+
+## Lotto58
+Abies: nuovo modello2026 abstract e script Zenodo, integrale/input/output non acquisiti. Vachellia: Uni2023 metodi e risultati testuali, serra e giovani piante, dati/figure residui. Laurus: Zabtani2025 PDF sezioni pertinenti e screenshot171/190/191, Arad/Gerico primari ancora riserva. Cupressus: Lev1993 testo originale recuperato, SEM non visionate, Liphschitz1989/Cecchi/Meunier integrali non acquisiti. Fonti #8257/#8260/#8263 e relazione #6116–6118, fonte7773 e 4 botaniche integrate, audit8/8. Altre riserve storiche e metodologiche restano tracciate. Lotto59 successivo; non certificazione senza riserve.
