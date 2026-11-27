@@ -1904,3 +1904,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap10 10.3.1: Grilli p160 facsimile, tipificazione Vitek/Jarvis2007 e diagnosi s.str. Vitek et al2017; #1807 aggiornato, #1810 collegato e meta evidence traditional, #8589/#8591 pubblicate, rel #6305–6307, audit locale 4/4. Riserve Aloe/Zygophyllum mantenute, 0/10 definitive.
 
 - Cap10 10.3.2: Zohary/Duke/Post originali, Moldenke trascrizione, Danin Anastatica, SAHD 2026 #8601 e rel #6308–6313; 7 schede aggiornate, audit 8/8; duplicazione H1534 #672/#1809 registrata, nessuna migrazione distruttiva. Riserve storici/medicina/tecniche mantenute.
+
+- Cap10 10.3.3: Lev-Yadun/Abbo testo e correzione attribuzione fitochimica e ricetta; Mattana2022 germinazione; Haghi/Matthäus 2011 composizione con riserva tassonomica; #1807/#1810 aggiornati, 4 fonti #8605/8607/8609/8611, rel #6314–6320, audit locale 6/6. Riserve mantenute.
