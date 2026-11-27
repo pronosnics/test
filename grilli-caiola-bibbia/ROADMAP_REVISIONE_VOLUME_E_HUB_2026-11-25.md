@@ -1882,3 +1882,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Cap.10 lotto 10.1.2: #670 aggiornata con Cochrane, Huang 2024 ed EFSA 2018; 4 fonti #8530/8532/8534/8536 pubblicate, 5 relazioni #6270–6274, audit locale 7/7. Riserve storiche, EMA e integrale Huang, filologia, tavola e HTTP aperte. 0/10 chiuse.
 
 - Cap.10 lotto 10.1.3: filologia e Sindone aggiornate #666/#673/#683, fonti #8541/#8543 e relazioni #6275–6282. Collazioni storiche precedenti recuperate da #700, nuove letture originali residue registrate; 0/10 chiuse.
+
+- Cap.10 lotto 10.1.4: apparati Grilli incongruenza conteggi 9/6, tavola #676 ispezionata via byte MCP (cartiglio/margini da correggere), SEO 4/4, relazione controversa Aquilaria #694, audit locale 10/10; HTTP 403. Aloe aperta, 0/10 definitive.
