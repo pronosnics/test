@@ -193,3 +193,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.10 — Cupressus: Dafni–Böck2019 tabella e discussione
 - PDF originale,tabella Cupressus/Juniperus pp7–8 e discussioneBrosh p11: Amar,Löw,Felix sostengono nome aggregato specialmenteJuniperus; confrontoZoharyAbies; accadico burāšu=ginepro,šurmēnu=cipresso secondo lessico citato dagli autori. Non nuova collazione dei testi accadici o prova della specie per versetto. UsimedicinaliAnticoOriente nonconfondibili con usiebraicibiblici. Fonte#4335 specialistica presente; metadati vuoti da completare.
+
+
+## Lotto 19.11 — Cupressus: Kew e confronto morfologico moderno
+- KewPOWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261974-1 aperto: nomeaccettatoL.,Cupressaceae, nativoE.Mediterraneo–Iran incl.Palestine,introdottoItalia;var.horizontalis(Mill.)G.Don sinonimo. HortFloraRoyalBotanicGardensVictoria/Spencer1995 https://hortflora.rbg.vic.gov.au/taxon/ad8acada-5340-11e7-b82b-005056b0018f letto: conipolliniferi~3mm, strobili2–3,5cm,8–14squame. FlorChina risulta4–8mm negli indici ma pagina403; non considerarla collazioneintegrale. Differenze impediscono copiare1,5cm diGrilli come misura standard. FloraIsraelhttps://flora.org.il/en/plants/CUPSEM/ eversioneebraica403, recordtrovato ma pagina nonletta. Prossimo studi moderni.
