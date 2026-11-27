@@ -288,3 +288,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.28 — Diospyros: rilettura17 contenuti e SEO completata
 - Riletti17 contenuti pubblicati (botanica, comparativa, medicina, lemma, citazione, fonti). Nessun marcatore operativo rilevato nei testi salvati. SEO aggiornate15 con fingerprint e verifica interna del plugin; preservate quelle già complete di botanica/comparativa, aggiornata fonte condivisaPlinio per includere ebano e henné. FamigliaEbenaceae#9 confermata. Due relazioniTristram#5856/#5857 sono legittime, p349 e p82 per affermazioni differenti, non duplicati. Prossimo audit locale e verifica pubblica.
+
+
+## Lotto 21.29 — Diospyros: audit locale17/17 positivo
+- Audit locale dei17 contenuti: H1 unico, zero ALT mancanti, marcatori automatici o warning. Rilettura effettiva e SEO documentate21.28. Relazioni nuove#5855–5877, totali e legittime doppie pagineTristram registrati; vecchio doppio dossier950/4188 in coda controllata da valutare, non assorbito. Conservata identificazionecontroversa#243 e lemma-passaggio#210. Prossimo controllo browser su nuova tavola#7833 e collegamenti, quindi dossier eRetama.
