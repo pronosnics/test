@@ -15,3 +15,5 @@ ID WP e stato publish verificati via atlas-list/get. Codici ATL da riconciliare 
 - Cap.8: audit amministrativo completato secondo roadmap corrente (15 operazioni applicate); due tavole papiro/platano ancora da sostituire a cura dell'utente, riserve documentali/HTTP aperte. Non riaprire in questo capitolo.
 ## Sequenza
 9.1–9.4: confronto fonti singolarmente, nomenclatura, passi/lemmi, medicina, fonti e relazioni, SEO, tavola visiva, readback; dossier individuali e aggiornamento roadmap generale. 9.5: audit trasversale e verbale. Inventario Libreria verificato: Grilli, Moldenke, Zohary, Duke, Post, Tristram, Balfour 1857, Dafni–Böck; Hepper non individuato. Riserve P1/P2/P3 da registrare.
+
+- **9.1 primo passaggio:** #2080/#2095 aggiornati e riletti; relazioni #6187–6188; audit locale 2/2 e SEO verificato. [Dossier](CAP9_01_NOTOBASIS_SYRIACA.md). Riserve aperte: fonti residue, studi 2018/2022/2025/2026, apparati, passi, tavola e HTTP. Media con codici nel nome file: #2081 ATL-0144, #3485 ATL-0207, #2721 ATL-0180; da confermare nel registro, non dedurre codice per #942. Prossimo: completare 9.1.
