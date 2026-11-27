@@ -236,3 +236,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.15 — Retama: tavola conservata, metadati ripuliti
 - Tavola#2613 visionata: cespuglio, rami quasi afilli, fiori papilionacei, legumi/semi e radici; nessuna scritta e nessun errore macroscopico tale da imporre sostituzione. Conservata. ALT e caption semplificati eliminando «illustrazione originale ricostruttiva», fingerprint e rilettura media-info positivi. Visione medium320×480, non verifica di ogni microdettaglio anatomico dell'originale. Nessun nuovo upload. Prossimo fonti primarie e revisione bot/med/lemmi/citazioni.
+
+
+## Lotto 22.16 — Brown–Driver–Briggs — Rōṯem H7574 e Riṯmâ H7575
+- Pubblicata e riletta #7848, Ricerca duplicati negativa e contenuti consultati nei limiti documentati; fonte pertinente a una correzione o dato specifico; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/bdb-rotem-h7574-rithma-h7575/. Prossimo relazioni, SEO e QA.
