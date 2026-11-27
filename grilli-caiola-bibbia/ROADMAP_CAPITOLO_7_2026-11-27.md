@@ -215,3 +215,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 21.11 — Sosef (1995) — PROSEA, Diospyros ebenum
 - Pubblicata e riletta #7825, Fonte primaria o repertorio consultato nei limiti descritti nei lotti21.4–21.9; nessuna evidenza clinica attribuita; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/fonti-bibliografiche/sosef-1995-prosea-diospyros-ebenum/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 21.11b — Diospyros: recupero dopo mismatch transitorio di rilettura
+- Le pubblicazioni Fareed21.10 e PROSEA21.11 risultano entrambe presenti con il rispettivo diario GitHub. Il primo readback di21.11 ha restituito contenuto differente; rilettura fresca di main acquisita, verificato il sottolotto21.11, nessuna ripetizione delle pubblicazioni. L'helper ora rilegge lo specifico commit restituito da update_file, così verifica il contenuto effettivamente scritto senza dipendere dalla freschezza del riferimento main. Prossimo pubblicare le sole fonti BDB, Kumar eIFGTB ancora non create.
