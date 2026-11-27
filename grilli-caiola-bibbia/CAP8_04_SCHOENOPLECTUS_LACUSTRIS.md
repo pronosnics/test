@@ -14,3 +14,6 @@ Registro legacy ATL-0226. Grilli p. 142/PDF 144, fig. 91 (didascalia con grafia 
 ## Riserve e continuità
 
 P1-L specie del pascolo e dei giunchi. P2-A Hepper e fonti primarie sarde; P2-D archeobotanica dei manufatti e attribuzione dei campioni medicinali. P3 controllo pubblico.
+
+### Approfondimento tradizioni sarde
+Regione Sardegna e comuni (2020), Piano di gestione ZPS Stagno di Pauli Majori, §6.8 p.142, testo/facsimile consultati, fonte #8390; Portale Flora d’Italia, schede 8027/9586, fonte #8392. Uso fenu nelle barche da pesca is fassonis confermato a livello etnobotanico, ma entrambe le specie S. lacustris e S. tabernaemontani registrate in Sardegna, voucher dei singoli materiali non disponibile. #3329 aggiornato e riletto, relazioni #6185–6186. Fusione 2534/2535 proposta pending be427f15-dcea-4a6f-9000-71db1f17eda9; audit locale positivo, HTTP 403.
