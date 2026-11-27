@@ -293,3 +293,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.38 — Cupressus: medicina1555 aggiornata e controllo salvataggio
 - Valorecontrollato traditional accettato; #1555 modificata e riletta, collegata1551, metadati prima vuoti completati; distinti usitradizionali,Meunier1994biochimico eCecchi2024diagnostico senza efficaciaterapeutica. Errorelocale JavaScript ck undefined dopo readback impediva solo ilregistro: nessuna ripetizione dell’update, checkpointora recuperato e helper resoautonomo. Prossimo#1557/#1561,non ancora aggiornati.
+
+
+## Lotto 19.39 — Cupressus: aggiornata scheda1557
+- Gōfer: campi lessicali prima vuoti compilati; incertezza e distinzioneH1265 mantenute; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/gofer-%d7%92%d6%b9%d7%a4%d6%b6%d7%a8-h1613-il-legno-dellarca-di-noe/. Prossimo relazioni e QA.
