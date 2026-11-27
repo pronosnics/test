@@ -329,3 +329,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 19.47 — Cupressus: relazioni bibliografiche create
 - Create 37 relazioni documentate, senza ripetere quelle presenti. Risposte positive conservate; ID 5784,5785,5786,5787,5788,5789,5790,5791,5792,5793,5794,5795,5796,5797,5798,5799,5800,5801,5802,5803,5804,5805,5806,5807,5808,5809,5810,5811,5812,5813,5814,5815,5816,5817,5818,5819,5820. Copertura botanica,medicina,lemmi,nuovipassi e passi condivisi; locatori distinti. Prossimo readback relazioni, legami passitermini e identificazioni.
+
+
+## Lotto 19.48 — Cupressus: tre passi collegati a lemmi e specie
+- Creati3legami passitermini e3identificazioni: passage_terms#447,passage_terms#448,passage_terms#449,identifications#675,identifications#676,identifications#677. Sir24:13Cypresscontroversa percontestoErmon,Sir50:10probabile,Sal104:17controversa. Cedrus#674diSir24:13preservata; nessunStrongebraico attribuito al greco. Le8identificazioniprecedenti#228–235nonmodificate. Prossimo readback/audit.
