@@ -1789,3 +1789,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Capitolo 8, lotto 8.9 avviato durante riserve P3 del papiro: Platanus #2336/#2357, Grilli p.147, Plinio e Macrobio #8364/#8366, relazioni #6164–6166; botanica aggiornata e readback/audit locale. Entrambi i lotti 8.8 e 8.9 aperti.
 
 - Cap.8, 8.9 secondo passaggio: platano #2336, fonti Rinaldi 2019 #8369 e Ashokan 2026 #8351, supplemento Moldenke, apparati Grilli, relazioni #6167–6171; 22 relazioni botaniche; SEO medicina #2357 compilato. Tavola #2337 con titolo non conforme; 8.8/8.9 aperti.
+
+- Cap.8, 8.9 terzo passaggio: platano, farmacologia e allergologia; #2344 rettificata, #8373/#8375 pubblicate e relazioni #6172–6175; botanica/medicina aggiornate, readback positivo, 24/5 relazioni. Persistono riserve storiche e iconografiche, HTTP; 8.8/8.9 aperti.
