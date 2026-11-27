@@ -817,3 +817,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 42.2 — Eftekharafzali et al. (2018) — Resina di terebinto e dispepsia funzionale
 - Fonte #8164 pubblicata e riletta; relazione medicinale {"success":true,"data":{"saved":true,"kind":"source_citations","id":6067}}; SEO true. Limiti consultazione e coorti come lotto 42.1; nessuna duplicazione del conteggio dei pazienti. Prossimo: registrare fonte successiva.
+
+
+## Lotto 42.3 — Eftekharafzali et al. (2018) — Qualità della vita e resina di Pistacia mutica
+- Fonte #8166 pubblicata e riletta; relazione medicinale {"success":true,"data":{"saved":true,"kind":"source_citations","id":6068}}; SEO true. Limiti consultazione e coorti come lotto 42.1; nessuna duplicazione del conteggio dei pazienti. Prossimo: registrare fonte successiva.
