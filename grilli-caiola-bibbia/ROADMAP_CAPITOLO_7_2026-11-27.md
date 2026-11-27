@@ -305,3 +305,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.32 — Retama: aggiornata scheda1601
 - Corretto errore sostanziale nel metadato della citazione condivisaGiobbe #1601: Cynomorium è oloparassita, non emiparassita; preservati Atriplex/Malva e le interpretazioni documentate; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/citazioni/giobbe-304-erbe-salate-e-radici-della-ginestra-nel-deserto/. Prossimo relazioni e QA.
+
+
+## Lotto 22.33 — Retama: aggiornata scheda2610
+- Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/ginestra-bianca-retama-raetam-forssk-webb-berthel-bibbia/. Prossimo relazioni e QA.
