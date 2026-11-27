@@ -913,3 +913,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 47.2 — Fonte #2539
 - Testo originale Dufour-Dror 2002 collazionato e integrato nella fonte esistente, conservato testo precedente, sostituito estratto operativo obsoleto con sintesi pubblica. Readback positivo. Figure non certificate. Prossimo: aggiornare due schede botaniche e locatore #1597.
+
+
+## Lotto 47.3 — Botanica #2540
+- Integrato confronto Dufour-Dror 2002 da testo originale, conservati contenuti utili; rettificata frase bibliografica precedente sulla sola scheda. Rilettura esatta positiva.
