@@ -1785,3 +1785,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Capitolo 8, lotto 8.8 (terzo passaggio): collazione storica e studio Bausch 2022 #8357, relazioni #6157–6160, readback/audit locale positivo. Tavola #493 con etichette da sostituire; HTTP anonimo 403. Lotto ancora aperto, 7/9 monografie registrate come trattate.
 
 - Capitolo 8, lotto 8.8 (quarto passaggio): Duke testo pp.172–174 recuperato, Grilli apparati tab.7/8/12, Tallet 2026 #8360 e relazioni #6161–6163; 22 relazioni botaniche del papiro. Tavola prodotta ma upload bloccato DNS, nessuna sostituzione. Persistono riserve; 7/9 monografie registrate come trattate.
+
+- Capitolo 8, lotto 8.9 avviato durante riserve P3 del papiro: Platanus #2336/#2357, Grilli p.147, Plinio e Macrobio #8364/#8366, relazioni #6164–6166; botanica aggiornata e readback/audit locale. Entrambi i lotti 8.8 e 8.9 aperti.
