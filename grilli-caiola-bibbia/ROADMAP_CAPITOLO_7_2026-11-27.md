@@ -277,3 +277,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.25 — Riṯmâ — רִתְמָה (H7575): una tappa nel deserto
 - Pubblicata e riletta #7862, Toponimo pertinente mancante: ricercheRithm e7575 negative; creato distinto dal lemma vegetale esistente1603, nessuna botanica duplicata; controllata assenza duplicati prima della creazione. URL https://piantedellabibbia.altervista.org/nomi-biblici/rithma-h7575-toponimo-deserto/. Prossimo relazioni, SEO e QA.
+
+
+## Lotto 22.26 — Retama: aggiornata scheda2610
+- Botanica aggiornata con confronto Grilli, primari sulla dispersione e ricerca medicinale distinta per campione; metadati tradotti in italiano e rimossa nota Grilli non disponibile, conservato tutto il lavoro Danin/Bailey e URL; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/piante/ginestra-bianca-retama-raetam-forssk-webb-berthel-bibbia/. Prossimo relazioni e QA.
