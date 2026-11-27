@@ -1913,3 +1913,6 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 
 
 Capitolo 10, ripresa verificata. Dossier 10.1–10.4 già presenti; esito e riserve del cisto nell’ultimo paragrafo della roadmap specifica. Ricontrollati PDF 157–169 e figure 101–110. Il primo lotto da completare è 10.5, Linum usitatissimum.
+
+
+Capitolo 10.5 — Aggiornata #1976; pubblicata e collegata medicina #8670, fonte EMA #8668 e quattro relazioni. Collazione del capitolo e delle fonti, audit in dossier. Prossima specie Rhamnus.

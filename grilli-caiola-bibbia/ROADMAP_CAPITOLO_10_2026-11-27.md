@@ -203,3 +203,7 @@ WP #3937 preesistente, 9 relazioni iniziali #3995–4000,5101,5191,5202, già fo
 
 ## Ripresa dal lotto 10.5 — verifica del volume
 Riletto l’originale di 210 pagine. Il cap. 10 «Piante del Candelabro Ebraico e della Sindone» occupa pp. 155–167 (PDF 157–169). Visionate tutte le pagine, le due microfotografie di p. 157 e le fotografie 101–110, nell’ordine delle dieci monografie del censimento. A p. 164 fig. 107 la foto della salvia è affiancata dalla menorah come confronto formale. A p. 163 Gen 50 riguarda Giacobbe, benché il commento stampi Abramo. A p. 156 il rinvio alla sepoltura in Marco è Mc 15,46 (nel testo 15,26). Non ripartire dall’aloe. Quattro dossier preesistenti, primo lotto successivo 10.5.
+
+
+### 10.5 — LINUM USITATISSIMUM
+Aggiornata #1976; pubblicata e collegata medicina #8670, fonte EMA #8668 e quattro relazioni. Collazione del capitolo e delle fonti, audit in dossier. Prossima specie Rhamnus. Vedi [DOSSIER_CAPITOLO_10_05_LINUM_USITATISSIMUM_2026-11-27.md](DOSSIER_CAPITOLO_10_05_LINUM_USITATISSIMUM_2026-11-27.md).

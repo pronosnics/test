@@ -42,3 +42,6 @@
 
 ### Riallineamento dopo il lotto 10.4
 Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei dossier. P3: la nuova proposta Gundelia è stata respinta; resta online #1808. Cistus #7394 mantenuta come schema, capsula da verificare. P2-A/P2-D e HTTP restano distinti. Il riscontro delle figure originali 101–110 è completato; la revisione delle tavole dell’Atlante è indipendente.
+
+
+**10.5** P1-L tessuto e identità della reliquia distinti. P2-A Hepper, facsimile Moldenke e alcuni integrali moderni; P2-D collazione clinica e lessicale residua. P3 verifica HTTP separata.
