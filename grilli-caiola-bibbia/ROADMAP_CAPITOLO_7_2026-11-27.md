@@ -1064,3 +1064,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 59.1 — Ceratonia siliqua
 - Ramón-Laca/Mabberley2004 DOI10.1111/j.1095-8339.2003.00254.x: abstract editore e testo originale riprodotto Academia90594330, pp431–433; riesame paleobotanico/archeologico/filologico, ipotesi sudarabica e selezione medievale, non nuove determinazioni dei reperti né prova genomica. Fonte #8268 pubblicata, SEO verificata, botanica #992 integrata e HTML riletto esattamente, relazione #6119 creata. Meyer1980, Liphschitz1987, D.Zohary2002, Papagiannopoulos2004, Gruendel2006 e originali archeologici non acquisiti integralmente in questo ciclo; facsimile non collazionato. Prossimo Retama; QA complessivo al termine lotto59.
+
+
+## Lotto 59.2 — Retama raetam
+- Gomaa, online2018 DOI10.1080/15324982.2018.1510440: testo originale riprodotto Academia86462912, metodi e risultati tabelle3–5; sei popolazioni Wadi Rishrash, due settori, anticipo fioritura circa10giorni nel2014 più piovoso, differenza tra località non significativa per inizio/durata; banca semi variabile e germinazione iniziale 3%/2,6%, dipendenza da interramento. Figure/facsimile e dati grezzi non acquisiti; nessuna inferenza terapeutica o filologica. Fonte #8271 pubblicata, SEO verificata, botanica #2610 integrata e HTML riletto esattamente, relazione #6120 creata. Izhaki1997 e primari medicinali ancora riserve; tossicità e caso Schmid conservati. Prossimo Boswellia.
