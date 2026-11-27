@@ -313,3 +313,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 22.34 — Retama: aggiornata scheda2612
 - Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/usi-medicinali/ginestra-del-deserto-retama-raetam-usi-storici-alcaloidi-e-limiti-clinici/. Prossimo relazioni e QA.
+
+
+## Lotto 22.35 — Retama: aggiornata scheda1603
+- Ritocco puntuale della spaziatura italiana di riferimenti e parole note nel contenuto e metadati; DOI e URL preservati, nessuna regex generale lettere/cifre; controllo versione e rilettura positivi. URL https://piantedellabibbia.altervista.org/nomi-biblici/ro%e1%b9%afem-%d7%a8%d6%b9%d7%aa%d6%b6%d7%9d-h7574-la-ginestra-del-deserto/. Prossimo relazioni e QA.
