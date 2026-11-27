@@ -10,7 +10,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 | 4 | 116 (118) | Commiphora gileadensis | ATL-0074 | 1307 | Chiusa editorialmente con riserve; rettifiche applicate (lotto 14) |
 | 5 | 117 (119) | Ceratonia siliqua | ATL-0060 | 992 | Chiusa editorialmente con riserve (lotto 17) |
 | 6 | 118 (120) | Cedrus libani | ATL-0055 | 266 | Revisione completata; tre locatori in approvazione (lotto18) |
-| 7 | 119 (121) | Cupressus sempervirens | ATL-0089 | 1551 | Da revisionare |
+| 7 | 119 (121) | Cupressus sempervirens | ATL-0089 | 1551 | Chiusa editorialmente con riserve (lotto19) |
 | 8 | 120 (122) | Lawsonia inermis | ATL-0127 | 1955 | Da revisionare; Cultrera eventualmente condivisa |
 | 9 | 121 (123) | Diospyros ebenum | ATL-0095 | 1704 | Da revisionare, confronto D. melanoxylon #1716 non equivalenza |
 | 10 | 122 (124) | Retama raetam | ATL-0194 (ATL-0174-RR) | 2610 | Da revisionare |
