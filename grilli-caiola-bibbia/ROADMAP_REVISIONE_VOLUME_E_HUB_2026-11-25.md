@@ -1,5 +1,7 @@
 # Roadmap collazione integrale Grilli Caiola – Guarrera – Travaglini (25/11/2026)
 
+**Cap.9 — 9.3 terzo passaggio (27/11):** tre nuove fonti #8466/#8468/#8470 e #6240–6244; medicina e botanica aggiornate/rilette; Bibi 2024, Anwar–Salih 2026, Tristram/Moldenke/Balfour, foto CFIA, SEO 3/3 e audit locale 5/5. [Dossier](CAP9_03_CENTAUREA_IBERICA.md). Lotto aperto; riserve documentate.
+
 **Cap.9 — 9.3 secondo passaggio (27/11):** quattro fonti #8457/#8459/#8461/#8463 e #6236–6239, medicina #946 aggiornata/riletta, SEO 4/4 e audit locale 7/7. Risultati preclinici e negativi, discordanza Çavuşoğlu e limiti di accesso documentati. [Dossier](CAP9_03_CENTAUREA_IBERICA.md). Lotto aperto.
 
 **Cap.9 — 9.3 avvio (27/11):** Centaurea iberica #942/#946 aggiornate/rilette, plant_id ripristinato, metadati medicina compilati, #8452 Hussain 2004 e #6230–6235. Audit locale 3/3, SEO verificato. [Dossier](CAP9_03_CENTAUREA_IBERICA.md). Lotto aperto, riserva pappo tavola.
