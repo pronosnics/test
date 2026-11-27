@@ -792,3 +792,7 @@ Capitolo 6 chiuso editorialmente con riserve (verbale e matrice del 27/11 consul
 
 ## Lotto 41.2 — Fonte #8099 integrata
 - Precisate funzioni delle vespe e morfologia fiorale sulla base dell'abstract originale; HTML precedente conservato, readback positivo. Nessuna promozione a integrale. Prossimo: registrare Wiebes e Greeff, ricerche antidoppione per autore/titolo negative.
+
+
+## Lotto 41.3 — Wiebes (1968) — Vespe del sicomoro: campioni zoologici africani
+- Fonte #8159 pubblicata e riletta, relazione {"success":true,"data":{"saved":true,"kind":"source_citations","id":6065}}. Consultazione e limiti come 41.1; niente deduzioni sulla perdita di semi. Prossimo: registrare Greeff2025.
