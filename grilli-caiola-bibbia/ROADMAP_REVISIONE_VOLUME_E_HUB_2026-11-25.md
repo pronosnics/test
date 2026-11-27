@@ -1890,3 +1890,5 @@ Roadmap specifica: [Capitolo 8](ROADMAP_CAPITOLO_8_2026-11-27.md). 7 monografie 
 - Addendum iconografico 10.1.5: generata una nuova bozza a colori senza testo (27/11/2026, gen 41204278-3f3e-4a90-a79a-0c9e2b077fb5). Non approvata per pubblicazione: dettagli del gineceo mostrano stigma lobato vistoso, non coerente con stigma semplice nella diagnosi generica di Post p782; racemo troncato al margine superiore. Conservata #676, nessuna modifica media. P3 resta aperta; nuova tavola da validare prima dell’upload.
 
 - Cap10 10.1.6: EMA monografia integrale recuperata, #670 aggiornata, #8553/#6286, audit locale positivo. Aloe ancora aperta per riserve; avviata revisione differenziale 10.2 #3937, Grilli p159 facsimile, Kew nome Zygophyllum dumosum accettato, relazione #6287. 0/10 chiuse definitivamente.
+
+- Cap10 10.2.1: originali Zohary/Duke/Danin collazionati; rettifiche germinazione e conteggio incrementi in #3937, fonti #8557/8559/8561 e rel #6288–6290, audit locale 4/4. Riserve integrali Koller/Agami, facsimile Waisel, altri approfondimenti aperti. 0/10 definitive.
