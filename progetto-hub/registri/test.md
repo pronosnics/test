@@ -56,3 +56,6 @@ ZIP pdb-hub-0.2.0.zip, 7640 byte, SHA256 09bd326b019888340cbcca3082586e49794b7a7
 
 ## Lotto 15C.1 — 28 novembre 2026
 Lotto 15C.1 — attivazione confermata da ewpa/get-active-plugins: pdb-hub 0.2.0 e pdb-atlante 0.2.14 attivi. Atlas-health positivo. Inventario pagine: #778, #131, #2035 pubblicate, #8767 e #8770–8776 draft. Audit #129: main locale autenticato completo, H1 unico, nessuna nota rilevata; HTTP anonimo cURL 56 CONNECT 403; nessun rimando hub nel main locale (il footer della bozza non fa parte del renderer locale). Accesso web anonimo home e #778 non disponibile. WPVibe 100/100, 1 reset non speso. Diagnostica Strumenti > Percorsi Atlante richiede accesso amministrativo da browser, non esposta via MCP proprietario. Non certificato il collaudo del modulo nel frontend.
+
+## Lotto 15C.2 — 28 novembre 2026
+Lotto 15C.2 — screenshot amministrativo fornito dall'utente, 28/11/2026 ore 17:01:25 (nome del file): Strumenti > Percorsi Atlante. Tutti gli 8 hub risolti: #778 15/15 publish; #8770 15/15, #8771 26/26, #8772 33/33, #8773 25/25, #8774 26/26, #8775 32/32, #8776 17/17, tutti draft. Totale 189/189, nessuna destinazione mancante segnalata. Collaudo reale risoluzione WordPress positivo; non equivale a test HTTP, rendering frontend, shortcode indice o rimandi inversi effettivi.
