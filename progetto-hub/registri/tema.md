@@ -10,3 +10,6 @@ Bozza WPVibe: header.php, footer.php e assets/editorial-shell.css aggiornati; ma
 
 ## Lotto 5 — 28 novembre 2026
 Modificati solo front-page.php e assets/home-atlas.css nella bozza WPVibe; versione CSS 1.1.0-draft3. Sorgenti aggiornati in prototipo-home. Nessun aggiornamento tema live.
+
+## Lotto 6 — 28 novembre 2026
+Creati in bozza WPVibe page-templates/hub.php, page-percorsi-tematici.php, assets/hub-editorial.css; sorgenti archiviati in prototipo-home/. Template editoriale riutilizzabile per pagine, header/footer conservati. Nessun cambiamento tema pubblico.
