@@ -50,3 +50,6 @@ Rilettura #8776 draft, HTML identico GitHub 9789 caratteri, 8 H2 bilanciati, 3 t
 
 ## Lotto 15A — 28 novembre 2026
 DOM homepage bozza 32239 caratteri: sezione percorsi, sette specie, nessun link a Sukkot/cereali draft, sezione famiglie e contatore 70; URL famiglie presenti, non test HTTP. PHP 8.4.24 lint OK su copia con hash Git identico 62c3b556; 15 test simulati OK. Indice rilettura API identica; 10 destinazioni campionate corrispondenti. Footer modificato dopo verifica DOM. Plugin non installato, diagnostica reale e risoluzione completa non effettuate.
+
+## Lotto 15B — 28 novembre 2026
+ZIP pdb-hub-0.2.0.zip, 7640 byte, SHA256 09bd326b019888340cbcca3082586e49794b7a7fca30f468dc37cb290a9f46f3, 3 file byte-identici ai blob GitHub (PHP 62c3b556, JSON 1f5bed2f, CSS e8a3e652). Lint PHP e 15 test fixture superati. Test simulazione matrice completa: stati attuali soltanto #778 visibile, 167 membri verificati senza esposizione draft; stati simulati pubblicati 8 card, 189 forward/189 reverse, 8 template. Primo tentativo test completo aveva stub get_post_status mancante, corretto stub, nessuna modifica al modulo. Audit HTTP #5750 ancora cURL 56 CONNECT 403; main locale autenticato verificato, H1 unico, 2 immagini con alt, nessuna nota rilevata. Non installato su WP.
