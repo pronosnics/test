@@ -331,3 +331,25 @@ Atlas-media-info full per 15 schede, tutti i file locali presenti, featured=plat
 | 1307 | 1308 | 900×1350 | 287386 | image/jpeg | 25f5f1840d9aad8e1b618f0f454b31f4a6c7f802cf45ec9bc96e48b49fb98156 |
 | 4880 | 4889 | 640×960 | 43124 | image/webp | b93d265cbd0838fd21c9f823a534c8e8dc375de7be18b4e3bd4bdcd5ad02f50e |
 #699 Moggridge 1871 e #4914 Bentley/Trimen 1880 sono tavole storiche secondo filename/ALT; verificare provenienza e qualità visiva, non applicare automaticamente il divieto di scritte delle tavole generate alle fonti storiche. #4836/#4940/#4880 larghezza640, #4914 larghezza689; riserva qualità. Nessuna modifica media. [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md) creata/riletta: 43 legacy e 10 operativi espliciti, 70 legacy mancanti, nessun conflitto in fonti consultate; non inventare codici, verificare altre roadmap/dossier; registro storico 246 record vs count245 e #6177 null. Tentativo di leggere tabelle ATL nelle roadmap 8–10 senza righe corrispondenti al filtro, non prova assenza di codici nel testo. A.3 aperto, 98 media non ancora controllati a livello file, verifica iconografica e ATL non chiuse; medicina e riserve precedenti mantenute.
+
+## A.3 undicesimo passaggio — secondo gruppo media/ATL (28/11/2026)
+Atlas-media-info full per 15 schede, tutti i file locali presenti, featured=plate=attachment, ALT nonvuoti, SHA-256 distinti nel gruppo. 14 WebP e 1 JPEG. Non certifica HTTP né accuratezza dei pixel.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 1583 | 1585 | 1024×1536 | 360300 | image/webp | e3e68ffe5d594f6bc493724d464ec747c443b124e8deebcd3ed701c71891ca00 |
+| 2243 | 2244 | 1086×1448 | 290146 | image/webp | 1cb7a0ba9e17191f24c76887b323d978f5248da3c4b5a232cb22d8129e39161e |
+| 1133 | 1148 | 1086×1448 | 513310 | image/webp | dd5130428d0915883e0052c71f56a549e2e0ccc104d5242792b55fcbc80c93da |
+| 889 | 890 | 1086×1448 | 338652 | image/webp | 21b1e12ffd3c52c53884147f08a624d035556b31138430fbbf304d82810043e6 |
+| 3937 | 8706 | 1024×1536 | 172364 | image/webp | be255f4c4a8650869b094b6caaa39e59fcd9495d20180078e7230b13aafa41a8 |
+| 3482 | 3485 | 1024×1536 | 305578 | image/webp | e6a1bbd94b8a36fea5865631670474f8cc3c04a1a5defd2488f36d31235322a8 |
+| 2080 | 2081 | 1024×1536 | 357348 | image/webp | d67780f1fc60a1fb9b2cf80111affa2a7c7d94836e2bbd6d2af94b66c759facf |
+| 992 | 993 | 1086×1448 | 344264 | image/webp | 63e7988dd85e1e26344058061e2a9e2045f789c457a55a6d8b3f2ba448579159 |
+| 1104 | 1117 | 1086×1448 | 362258 | image/webp | f71f90e283c2808ae608624698c9f862b3900e20c746219519f8e09cc6ff5d75 |
+| 1031 | 1043 | 1086×1448 | 302498 | image/webp | db6089f994ad36ff2e0a62dea22fa6514bde949a610127fb1406da04f50cc355 |
+| 1271 | 1272 | 900×1350 | 255116 | image/jpeg | 7bdb9fc9b43a82a5e4be2319ab77b6162d346bc82b065f73e2b37d94567446d0 |
+| 266 | 7737 | 1086×1449 | 549432 | image/webp | c5bc5e9d6e76e3b6ef437f3d8978b83f4cca0c4ef20ca9d37940505b4081046d |
+| 942 | 943 | 1086×1448 | 323282 | image/webp | d6afc74ec18b668e8cafef2e5ca539f7f1f09f0e88f4d7730ac68653e4e15071 |
+| 1477 | 1479 | 1024×1536 | 345338 | image/webp | 6820ba2745f9159654a700051da211e8c63593afe871fba78137a4fffcd9c82f |
+| 1057 | 1069 | 1086×1448 | 382724 | image/webp | ae0f840ce8f240367e1502fdf4f8cbf95126bd5c4703166de77d2dd0ff9a9495 |
+
+**A.3 undicesimo passaggio (28/11/2026):** secondo gruppo media 15/15 file locali effettivi, featured=plate=attachment, ALT descrittivi non vuoti, SHA-256, 14 WebP/1 JPEG, larghezze 900–1086; cumulativo 30/113. Nessuna modifica WordPress; non verifica visiva né HTTP. [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md) aggiornata con roadmap cap.8–10 e controllo dei nomi nel registro storico: 21 nuovi legacy, totale 64/113, operativi espliciti 10/113, 49 legacy da accertare; nessun codice attribuito a Typha latifolia o Salvia palaestina per analogia. Codici filename non sono prova di codice operativo. Rettifica APG V precedente invariata; famiglie 113/113. Prossimo gruppo media e incrocio capitoli 1–6/dossier; medicine, controllo iconografico e riserve precedenti aperti.
