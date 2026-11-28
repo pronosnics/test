@@ -16,3 +16,6 @@ Chiusura editoriale cap.6 con riserve documentate, non nuova collazione facsimil
 
 ## Lotto 11 — 28 novembre 2026
 Non equiparare tappûaḥ a specie certa; Genesi 3 non nomina il frutto. Boṭnîm controverso, noce del Cantico distinto. Dati archeobotanici riutilizzati dai dossier; non nuova collazione facsimili. Restano tavola originale, controllo grafico, HTTP, integrazione indice e modulo.
+
+## Lotto 12 — 28 novembre 2026
+Preservate tutte le riserve degli apparati e dei capitoli; nessun cambio di status delle identificazioni. Distinguere validità tassonomica, grado di evidenza per singolo passo e tradizione rituale; mĕnōrāh non fitonimo, galgal possibile metafora, ḥāmîṣ aggettivo; non usare papiro/platano come emblemi certi. Duplicati H1534/H5488 e piano #170 demandati al flusso scientifico, non verificato qui stato corrente del piano. Nessuna nuova collazione facsimili. Restano tavola originale, controllo grafico, HTTP, integrazione indice/modulo.
