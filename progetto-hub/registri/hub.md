@@ -16,3 +16,6 @@ Pagina esistente #778 aggiornata conservando 7 righe della tabella, 8 monografie
 
 ## Lotto 8 — 28 novembre 2026
 Creata bozza WordPress #8770, slug quattro-specie-sukkot-piante-festa-capanne; testo in lotto-08-sukkot/sukkot-revisione.html. Riletti estratti pertinenti di nove monografie (cedro agrume, mirto, palma, cinque Salix e Populus euphratica), due citazioni #316/#319, tre lemmi #1274/#528/#2408, fonti #360/#1276/#6036/#775/#1554. Distinti Lv 23:40, Ne 8:15, tradizione rituale e identificazione a specie. Conferma esterna Sefaria e record accademici Langgut 2015/2013; non nuova collazione integrale facsimili. Tabella quattro elementi, otto sezioni, simbolismo attribuito alla lettura midrashica.
+
+## Lotto 9 — 28 novembre 2026
+Creata bozza #8771 cereali-legumi-bibbia. Riletti estratti pertinenti 11 monografie #1031,4117,1961,2206,3561,1981,1834,5747,3953,6177,6254 e dossier capitolo 3 del 25/11. Distinti 7 gruppi alimentari, loglio infestante, ploidia/vestitura, attestazioni consolidate e controverse, Ezechiele 4:9 non prescrizione. Riletti 16 contenuti di lessico e citazioni; non nuova collazione facsimili. Sorgente lotto-09-cereali-legumi/cereali-legumi.html.
