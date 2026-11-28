@@ -37,3 +37,6 @@ Creata bozza #8776 medicina-storica-piante-bibbia. Letti audit A.3 e matrice ris
 
 ## Lotto 15A — 28 novembre 2026
 Lotto 15A: manifesto esplicito 8 hub, 189 associazioni su 168 coppie tipo/slug distinte, derivato dagli href dei corpi effettivi. ID e slug pagine verificati via API. Indice #8767 aggiornato in draft con [pdb_hub_index]; copie prima/dopo in lotto-15-integrazione. Non pubblicato.
+
+## Lotto 15B — 28 novembre 2026
+Matrice completa verificata e allineata dopo correzioni di tre permalink lessicali; 189 associazioni, 167 destinazioni effettive distinte. Nessun cambio scientifico. Sorgenti tre hub aggiornati. 8 fonti esterne alla matrice verificate tramite API.
