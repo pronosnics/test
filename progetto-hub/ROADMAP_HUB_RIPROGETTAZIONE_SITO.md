@@ -24,6 +24,7 @@
 | 15C.2 | Collaudo amministrativo reale e conferma backup | Screenshot utente 28/11 ore 17:01:25: tutti gli 8 hub, 189/189 destinazioni risolte; stati attesi confermati. Utente conferma backup pre-installazione; archivio e ripristino non verificati indipendentemente. Tre registri aggiornati. | Tavole tematiche; collaudo shortcode e rimandi inversi in anteprima, grafica/mobile, SEO e backup pre-pubblicazione; attivazione graduale. |
 | 15D.1-preflight | Standard grafico e collazione copertina sette specie | Checkpoint 15C.2 e stati pagine confermati; 8 monografie rilette; standard verticale 2:3 coerente con CSS sorgente, riserve frumento/miele preservate; WPVibe quota esaurita senza reset. Registro design aggiornato. Nessuna modifica WordPress. | Generare e revisionare copertina #778, conservare originale/derivato, caricare e verificare assegnazione. |
 | 15D.1-tavola | Generazione e revisione visiva prima copertina | PNG 1024×1536 e WebP 445862 byte prodotti, hash e riserve in registro design. Upload diretto EWPA bloccato da DNS; nessun attachment ID, featured #972 invariata. | Upload da browser, verifica ID, metadati e assegnazione #778; quindi 15D.2 Sukkot. |
+| 15D.1-associazione | Caricamento e associazione prima copertina | Attachment #8782 verificato, featured #778 aggiornato e riletto; titolo e ALT verificati, didascalia scritta ma non riletta. Media #972 conservato. | 15D.2 Sukkot; collaudo grafico e didascalia in 15E. |
 
 ## Registri
 
