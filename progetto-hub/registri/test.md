@@ -17,3 +17,6 @@ WPVibe get_page_html: homepage bozza .pdbh renderizzata con H1, form atlas_q, at
 
 ## Lotto 4 — 28 novembre 2026
 DOM anteprima: header e footer presenti, menu #3 e collegamenti alle cinque aree, form atlas_q, collegamenti #percorsi, #approfondimenti, #il-progetto, pagine #778/#2035; foglio editorial-shell.css presente nel head. Non verificati screenshot, tastiera, invio form, viewport o regressione su tutti i CPT.
+
+## Lotto 5 — 28 novembre 2026
+Rendering WPVibe della bozza: .pdbh-library 6 link (quattro fonti, bibliografia, metodo), .pdbh-stats 6 link, .pdbh-grid 6 SVG/6 link, .pdbh-featured 4 link. PHP e CSS scritti senza errore. I link sono presenti nel DOM, non tutti testati singolarmente. Screenshot precedente è verifica desktop della revisione precedente, non di questa. Mobile e contrasto effettivo ancora da controllare. Quota WPVibe segnalata 82/100 prima del salvataggio dei sorgenti.
