@@ -1,83 +1,98 @@
 <?php
 /**
  * Plugin Name: PDB Atlante — Percorsi tematici
- * Description: Associazioni editoriali esplicite tra pagine hub e schede dell'Atlante.
- * Version: 0.1.0
+ * Description: Indice e collegamenti editoriali espliciti, senza modifiche alle relazioni scientifiche.
+ * Version: 0.2.0
  * Requires PHP: 7.4
  */
 if (!defined('ABSPATH')) exit;
-function pdbhub_member_types() { return array('pdb_plant','pdb_quote','pdb_term','pdb_medicine','pdb_source'); }
-function pdbhub_ids($raw) {
+function pdbhub_member_types() { return array('pdb_plant','pdb_quote','pdb_term','pdb_medicine'); }
+function pdbhub_slug_key($slug) { return strtolower(rawurlencode(rawurldecode((string)$slug))); }
+function pdbhub_manifest() {
+    static $manifest=null;
+    if($manifest!==null) return $manifest;
+    $raw=file_get_contents(__DIR__.'/hub-manifest.json');
+    $parsed=$raw!==false?json_decode($raw,true):null;
+    $manifest=is_array($parsed)&&isset($parsed['version'],$parsed['hubs'])&&$parsed['version']===1&&is_array($parsed['hubs'])?$parsed:array('hubs'=>array());
+    return $manifest;
+}
+function pdbhub_page_visible($hub) {
+    $id=(int)$hub['id'];
+    $p=get_post($id);
+    return $p && $p->post_type==='page' && $p->post_status==='publish' && $p->post_password==='' && pdbhub_slug_key($p->post_name)===pdbhub_slug_key($hub['slug']);
+}
+function pdbhub_public_rows() {
+    return array_values(array_filter(pdbhub_manifest()['hubs'],'pdbhub_page_visible'));
+}
+function pdbhub_member_key($type,$slug) { return $type.':'.pdbhub_slug_key($slug); }
+function pdbhub_resolve_member($member) {
+    static $cache=array();
+    if(!in_array($member['type'],pdbhub_member_types(),true)) return 0;
+    $key=pdbhub_member_key($member['type'],$member['slug']);
+    if(array_key_exists($key,$cache)) return $cache[$key];
+    $p=get_page_by_path($member['slug'],OBJECT,array($member['type']));
+    $cache[$key]=$p && $p->post_type===$member['type'] && $p->post_status==='publish' && $p->post_password==='' && pdbhub_slug_key($p->post_name)===pdbhub_slug_key($member['slug'])?(int)$p->ID:0;
+    return $cache[$key];
+}
+function pdbhub_related_rows($id) {
+    $p=get_post($id);
+    if(!$p||$p->post_status!=='publish'||$p->post_password!==''||!in_array($p->post_type,pdbhub_member_types(),true)) return array();
+    $key=pdbhub_member_key($p->post_type,$p->post_name);
     $out=array();
-    foreach(preg_split('/[\s,;]+/',trim((string)$raw)) as $v) {
-        if(!preg_match('/^[1-9][0-9]{0,9}$/D',$v)) continue;
-        $id=(int)$v;
-        if(!in_array($id,$out,true)) $out[]=$id;
-        if(count($out)>=100) break;
+    foreach(pdbhub_public_rows() as $hub){
+        foreach($hub['members'] as $member){
+            if($key!==pdbhub_member_key($member['type'],$member['slug'])) continue;
+            if(pdbhub_resolve_member($member)===(int)$id) $out[]=$hub;
+            break;
+        }
     }
     return $out;
 }
-function pdbhub_valid_members($ids) {
-    return array_values(array_filter($ids,static function($id){
-        return in_array(get_post_type($id),pdbhub_member_types(),true) && get_post_status($id)==='publish';
-    }));
+function pdbhub_render_related($id) {
+    $links='';
+    foreach(pdbhub_related_rows($id) as $hub) $links.='<li><a href="'.esc_url(get_permalink($hub['id'])).'">'.esc_html($hub['title']).'</a></li>';
+    return $links===''?'':'<section class="pdbhub-related" aria-label="Percorsi tematici correlati"><h2>Percorsi tematici correlati</h2><p>Approfondimenti editoriali: non costituiscono identificazioni botaniche certe.</p><ul>'.$links.'</ul></section>';
 }
-function pdbhub_is_hub($id) { return get_post_type($id)==='page' && get_post_meta($id,'_pdbhub_enabled',true)==='1'; }
-add_action('add_meta_boxes_page',static function(){
-    add_meta_box('pdbhub-editor','Atlante: percorso tematico',static function($post){
-        wp_nonce_field('pdbhub_save','pdbhub_nonce');
-        echo '<p><label><input type="checkbox" name="pdbhub_enabled" value="1" '.checked(pdbhub_is_hub($post->ID),true,false).'> Includi questa pagina nell’indice dei percorsi quando pubblicata</label></p>';
-        echo '<p><label for="pdbhub_members">ID delle schede pubblicate, in ordine editoriale (massimo 100)</label></p>';
-        echo '<textarea id="pdbhub_members" name="pdbhub_members" rows="4" style="width:100%">'.esc_textarea(implode(', ',get_post_meta($post->ID,'_pdbhub_member',false))).'</textarea>';
-        echo '<p>Associazioni curate manualmente. Aggiungi [pdb_hub_cards] nel testo per mostrare le schede. Non costituiscono identificazioni botaniche certe.</p>';
-    },'page','normal','default');
-});
-add_action('save_post_page',static function($id){
-    if(wp_is_post_revision($id)||wp_is_post_autosave($id)||!current_user_can('edit_post',$id)) return;
-    if(!isset($_POST['pdbhub_nonce'])||!is_string($_POST['pdbhub_nonce'])||!wp_verify_nonce(sanitize_text_field(wp_unslash($_POST['pdbhub_nonce'])),'pdbhub_save')) return;
-    if(!isset($_POST['pdbhub_members'])||!is_string($_POST['pdbhub_members'])) return;
-    $raw=wp_unslash($_POST['pdbhub_members']);
-    if(strlen($raw)>4000) return;
-    $requested=pdbhub_ids($raw);
-    $ids=pdbhub_valid_members($requested);
-    // Reject invalid IDs without altering the existing associations.
-    if($ids!==$requested) return;
-    update_post_meta($id,'_pdbhub_enabled',isset($_POST['pdbhub_enabled'])&&$_POST['pdbhub_enabled']==='1'?'1':'0');
-    delete_post_meta($id,'_pdbhub_member');
-    foreach($ids as $member) add_post_meta($id,'_pdbhub_member',$member,false);
-});
-function pdbhub_render_cards($ids,$types) {
+function pdbhub_render_index() {
     $out='';
-    foreach(array_slice(array_unique(array_map('intval',$ids)),0,100) as $id){
-        if(!in_array(get_post_type($id),$types,true)||get_post_status($id)!=='publish'||post_password_required($id)) continue;
-        $title=get_the_title($id); $url=get_permalink($id);
-        if(!$url) continue;
+    foreach(pdbhub_public_rows() as $hub){
+        $id=(int)$hub['id']; $cover=has_post_thumbnail($id)?$id:(int)($hub['cover_id']??0);
         $out.='<article class="pdbhub-card">';
-        if(has_post_thumbnail($id)) $out.=get_the_post_thumbnail($id,'medium',array('alt'=>'','loading'=>'lazy','decoding'=>'async'));
-        $out.='<h3><a href="'.esc_url($url).'">'.esc_html($title).'</a></h3>';
-        $p=get_post($id);
-        if($p && $p->post_excerpt!=='') $out.='<p>'.esc_html(wp_trim_words(wp_strip_all_tags($p->post_excerpt),26)).'</p>';
-        $out.='<a class="pdbhub-card-link" href="'.esc_url($url).'" aria-label="'.esc_attr('Consulta: '.$title).'">Consulta la scheda →</a></article>';
+        if($cover && get_post_status($cover)==='publish' && has_post_thumbnail($cover)) $out.=get_the_post_thumbnail($cover,'medium',array('alt'=>'','loading'=>'lazy','decoding'=>'async'));
+        $out.='<h3><a href="'.esc_url(get_permalink($id)).'">'.esc_html($hub['title']).'</a></h3><p>'.esc_html($hub['description']).'</p></article>';
     }
     return $out===''?'':'<div class="pdbhub-grid">'.$out.'</div>';
 }
+add_shortcode('pdb_hub_index','pdbhub_render_index');
+add_shortcode('pdb_hub_related',static function(){ return pdbhub_render_related(get_the_ID()); });
 add_shortcode('pdb_hub_cards',static function(){
-    $id=get_the_ID(); if(!pdbhub_is_hub($id)) return '';
-    return pdbhub_render_cards(get_post_meta($id,'_pdbhub_member',false),pdbhub_member_types());
-});
-function pdbhub_public_hubs($member=0) {
-    $meta=array(array('key'=>'_pdbhub_enabled','value'=>'1'));
-    if($member) $meta[]=array('key'=>'_pdbhub_member','value'=>(int)$member,'compare'=>'=','type'=>'NUMERIC');
-    return get_posts(array('post_type'=>'page','post_status'=>'publish','has_password'=>false,'numberposts'=>100,'fields'=>'ids','orderby'=>array('menu_order'=>'ASC','title'=>'ASC'),'meta_query'=>$meta,'suppress_filters'=>false));
-}
-add_shortcode('pdb_hub_index',static function(){
-    return pdbhub_render_cards(pdbhub_public_hubs(),array('page'));
-});
-add_shortcode('pdb_hub_related',static function(){
-    $id=get_the_ID(); if(!in_array(get_post_type($id),pdbhub_member_types(),true)||get_post_status($id)!=='publish') return '';
-    $links=''; foreach(pdbhub_public_hubs($id) as $hub){
-        if(!pdbhub_is_hub($hub)||get_post_status($hub)!=='publish'||post_password_required($hub)) continue;
-        $links.='<li><a href="'.esc_url(get_permalink($hub)).'">'.esc_html(get_the_title($hub)).'</a></li>';
+    $id=get_the_ID(); $out='';
+    foreach(pdbhub_public_rows() as $hub){
+        if((int)$hub['id']!==(int)$id) continue;
+        foreach($hub['members'] as $member){
+            $target=pdbhub_resolve_member($member); if(!$target) continue;
+            $out.='<li><a href="'.esc_url(get_permalink($target)).'">'.esc_html(get_the_title($target)).'</a></li>';
+        }
+        break;
     }
-    return $links===''?'':'<section class="pdbhub-related"><h2>Percorsi tematici correlati</h2><ul>'.$links.'</ul></section>';
+    return $out===''?'':'<ul class="pdbhub-member-list">'.$out.'</ul>';
 });
+add_action('wp_enqueue_scripts',static function(){
+    if(is_singular(array_merge(array('page'),pdbhub_member_types()))) wp_enqueue_style('pdbhub-core',plugins_url('hub.css',__FILE__),array(),'0.2.0');
+});
+add_action('admin_menu',static function(){
+    add_management_page('Diagnostica percorsi Atlante','Percorsi Atlante','manage_options','pdbhub-diagnostic','pdbhub_diagnostic');
+});
+function pdbhub_diagnostic(){
+    if(!current_user_can('manage_options')) return;
+    echo '<div class="wrap"><h1>Diagnostica percorsi Atlante</h1><p>Controllo in sola lettura. Non modifica schede, metadati o relazioni scientifiche.</p>';
+    foreach(pdbhub_manifest()['hubs'] as $hub){
+        $id=(int)$hub['id'];$page=get_post($id);$valid=$page&&$page->post_type==='page'&&pdbhub_slug_key($page->post_name)===pdbhub_slug_key($hub['slug']);
+        echo '<h2>'.esc_html($hub['title']).' (#'.esc_html((string)$id).')</h2><p>Pagina: '.esc_html($valid?$page->post_status:'ID/slug non corrispondenti').'</p>';
+        $missing=array();$ok=0;
+        foreach($hub['members'] as $member){if(pdbhub_resolve_member($member)) $ok++; else $missing[]=$member['type'].' / '.$member['slug'];}
+        echo '<p>'.esc_html((string)$ok).' / '.esc_html((string)count($hub['members'])).' destinazioni pubbliche risolte.</p>';
+        if($missing){echo '<ul>';foreach($missing as $item) echo '<li>'.esc_html($item).'</li>';echo '</ul>';}
+    }
+    echo '</div>';
+}
