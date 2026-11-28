@@ -5,3 +5,6 @@ Menu #3, sei radici: Atlante #131; Piante, Bibbia, Medicina, Nomi antichi, Fonti
 
 ## Proposta provvisoria
 Home → Atlante (ricerca e filtri), Percorsi tematici (indice), Bibbia e nomi (accessi distinti), Medicina storica, Fonti e metodo. Mantieni accessi ai cinque CPT e URL canonici esistenti, in particolare /atlante/, /sette-piante-terra-promessa-bibbia/, /fonti-e-metodologia-dellatlante-delle-piante-della-bibbia/. Footer: metodologia, bibliografia, informazioni editoriali e accessi essenziali. Percorsi editoriali → monografie canoniche → relazioni documentate; nessuna duplicazione. Proposta da consolidare dopo test pubblici e sorgenti. Nessuna modifica live.
+
+## Lotto 4 — 28 novembre 2026
+Implementata in bozza navigazione su due fasce, ricerca rapida globale, menu mobile nativo details, collegamenti ai percorsi e metodologia. Footer quattro gruppi: identità, consulta, percorsi, progetto. Percorsi punta provvisoriamente ad ancora homepage, da sostituire con indice editoriale quando pubblicato.
