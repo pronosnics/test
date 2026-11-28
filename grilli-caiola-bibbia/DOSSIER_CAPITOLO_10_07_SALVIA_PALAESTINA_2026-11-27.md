@@ -8,3 +8,7 @@ Kew POWO 456871-1, IPNI 456871-1, WFO-0000301828: nome pubblicato da Bentham, La
 Miski et al. 1983, J. Nat. Prod. 46:874–875 DOI 10.1021/np50030a007, abstract: foglie, 10 agliconi e 6 glicosidi, risultati scarsi o nulli per la maggioranza dei composti, cirsimaritina attiva in vitro. Al-Jaber et al. 2012, 14:618–625, DOI 10.1080/10286020.2012.682151: triterpenoide condiviso con S. syriaca. H. I. Al-Jaber, DOI 10.1080/14786419.2010.543901: oli di materiale fresco/essiccato, 52,66%/65,98% idrocarburi sesquiterpenici. Abstract, non verifica di voucher, metodi completi o efficacia umana. Fonti #8682/8684/8686 e relazioni #6358–6363 rilette; identificazione controversa #695, Es 37 e lemma #3192. SEO salvata per entrambe.
 
 Tavola originale #8681 confrontata con foto fig. 107 e diagnosi di Post: corolla bilabiata chiara, disposizione dei gruppi fiorali, portamento e foglie lirate. Esemplare illustrativo, non tavola del tipo. WebP trasferito in segmenti; SHA-256 dfb37944391e8f9b3eca53e355c87fd3ff125c650e64fdb9a3aa56d2f433dba3 verificato; featured=plate=8681. HTTP esterno non verificato (CONNECT 403); resa locale ispezionata. Audit locale 6 pagine.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+P. 218/PDF 214, voce 198, Salvia judaica. Il collegamento con Es 37,17–18 appartiene alla discussione su questa specie. Nessuna attribuzione della stessa voce a S. palaestina.

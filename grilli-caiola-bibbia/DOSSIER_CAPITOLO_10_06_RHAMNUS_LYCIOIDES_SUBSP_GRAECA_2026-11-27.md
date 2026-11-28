@@ -6,3 +6,7 @@ Moldenke voce 176, pp. 202–203 e supplemento p. 287 (traduzione di lavoro), ag
 Jamous et al., BMC Veterinary Research 13:308, DOI 10.1186/s12917-017-1237-7, PDF p. 3 tab. 1, foglie BERC-BX-C-0150, fenoli 126,85 e tannini 86,6 mg GAE/g; inibizione 89% a 60 min, IC50 0,22 mg/mL. Controllo PBS, miscela di nematodi, saggio in vitro. Non attribuire i valori del vicino R. alaternus. Testo tabellare originale consultato, campione di erbario non riesaminato.
 
 WP #2619/#2620 aggiornate e rilette, fonte #8673, relazioni 6356, 6357. Foto/illustrazione #2627 e featured coincidenti, frutti a maturazione successiva; nessuna sostituzione. Audit locale tre pagine. Gradi di identificazione preesistenti conservati.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+Pp. 202–203/PDF 198–199, voce 176, Rhamnus palaestina. P. 287/PDF 283, aggiunta Sal 118,12 sulle spine che bruciano e osservazione di Oppenheimer sulla distinzione fra il ramno deciduo e R. punctata sempreverde. Il nome e la circoscrizione storici non sono automaticamente quelli attuali.

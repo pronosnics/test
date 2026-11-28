@@ -231,3 +231,7 @@ Integrate #1990 e #8701, due studi discordanti e quattro relazioni. [Dossier del
 
 ### 10.11a — Iconografia
 Aloe #8704, Zygophyllum #8706 e Gundelia #8705 assegnate e rilette sia come tavola sia come immagine in evidenza. Tre SHA-256 verificati. Salvia conserva #8681. Le altre sei tavole restano associate agli allegati censiti.
+
+
+### 10.11b — Facsimile e apparati
+Controllato l’esemplare originale di Moldenke di 324 pagine digitali. Integrati dieci dossier, con limiti espliciti per le ricerche negative. Il numero della pagina PDF diverge dal numero a stampa dopo alcune lacune. Verificati i richiami alle note supplementari sul cisto, sul ramno e sul giuggiolo.

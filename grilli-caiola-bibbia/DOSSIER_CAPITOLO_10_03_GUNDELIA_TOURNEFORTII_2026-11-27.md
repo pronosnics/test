@@ -62,3 +62,7 @@
 
 ### Tavola riletta il 28 novembre 2026
 Ramo fiorito, foglie, brattee e infiorescenza composta. La tavola esclude la ricostruzione non verificabile dell’unità fruttifera. Scheda #1807, precedente allegato #1808, nuova tavola e immagine in evidenza #8705. WebP di 354770 byte. SHA-256 del file locale e di quello memorizzato da WordPress: `7b1c9bcfe56b3ccb0f26f94d152d64b918a02a2e07465b3aff1172ae9834b9b2`. L’allegato precedente resta disponibile. Il riscontro riguarda il file memorizzato e il renderer, non la cache pubblica.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+Pp. 38–39/PDF 38–39: confronto fra Anastatica e Gundelia per il movimento al vento, con discussione di osservazioni altrui; p. 108/PDF 104, ulteriore confronto. La grafia del nome nel testo digitalizzato richiede confronto con il facsimile.

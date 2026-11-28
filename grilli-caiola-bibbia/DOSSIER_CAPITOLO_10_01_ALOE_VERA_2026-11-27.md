@@ -50,3 +50,7 @@ Monografia EMA/HMPC/625788/2015 adottata 22/11/2016, PDF ufficiale 9 pp letto in
 
 ### Tavola riletta il 28 novembre 2026
 Rosetta e racemo illustrati; rimosso il cartiglio della precedente tavola. Scheda #666, precedente allegato #676, nuova tavola e immagine in evidenza #8704. WebP di 141450 byte. SHA-256 del file locale e di quello memorizzato da WordPress: `262fc105c1b0fb77740db4c0cb8c7cd34f16f16cda78260cfc079248f80080ed`. L’allegato precedente resta disponibile. Il riscontro riguarda il file memorizzato e il renderer, non la cache pubblica.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+P. 35/PDF 35, voce 27: gli autori discutono Aloe succotrina per Giovanni e distinguono gli aromi dell’Antico Testamento. Attribuzione storica da tenere distinta dalla delimitazione odierna di Aloe vera.

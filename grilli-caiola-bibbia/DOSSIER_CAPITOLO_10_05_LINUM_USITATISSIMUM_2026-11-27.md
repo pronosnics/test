@@ -14,3 +14,7 @@ Grilli p. 162/PDF 164 fig. 105, foto del fiore di A. Travaglini. Il titolo del c
 | Sindone | Damon et al. Nature 337:611–615 (1989), DOI 10.1038/337611a0. Casabianca et al., DOI 10.1111/arcm.12467, abstract. Esame di due frammenti nel 2026, DOI 10.1038/s40494-026-02530-7, sintesi editoriale indicizzata. |
 
 WordPress #1976 e nuova medicina #8670, fonte EMA #8668, relazioni 6352, 6353, 6354, 6355. SEO medicina riletta. Tavola #1977, file 1024×1536 verificato sul suo SHA-256; cinque petali, capsule, tessuto e semi; gli inserti schematici non danno misure anatomiche. Legacy ATL-0134; codice nel nome/caption tavola ATL-0131, da distinguere. Nessun permalink modificato. Audit locale di tre pagine. Approfondimenti residui: ulteriore collazione clinica, monumenti tessili, apparato filologico e Hepper.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+Pp. 129–133/PDF 125–129, voce 129 su Linum usitatissimum; figura del lino a p. 135/PDF 131, nella pagina che conclude la voce Lycium. La figura non rappresenta il licio.

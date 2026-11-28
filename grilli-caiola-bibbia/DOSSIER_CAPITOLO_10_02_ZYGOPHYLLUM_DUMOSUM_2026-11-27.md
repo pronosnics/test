@@ -43,3 +43,7 @@ WP #3937 preesistente, 9 relazioni iniziali #3995–4000,5101,5191,5202, già fo
 
 ### Tavola riletta il 28 novembre 2026
 Ramo in fioritura, confrontato con la fotografia regionale. La vecchia capsula globosa è stata rimossa; questa tavola non documenta il frutto. Per il carattere delle cinque ali si usa la descrizione botanica. Scheda #3937, precedente allegato #3941, nuova tavola e immagine in evidenza #8706. WebP di 172364 byte. SHA-256 del file locale e di quello memorizzato da WordPress: `be255f4c4a8650869b094b6caaa39e59fcd9495d20180078e7230b13aafa41a8`. L’allegato precedente resta disponibile. Il riscontro riguarda il file memorizzato e il renderer, non la cache pubblica.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+Nella sezione geografica (PDF 13) compare il genere Zygophyllum nella vegetazione saharo-sindica. L’indagine sul testo interrogabile non ha identificato una monografia per Z. dumosum. Questa occorrenza generica non dimostra un’attestazione a Elim.

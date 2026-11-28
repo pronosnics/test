@@ -11,3 +11,7 @@ Lentini e Venza (2007), testo integrale, DOI 10.1186/1746-4269-3-15: testimonian
 
 ## Registrazione WordPress
 Botanica #1990, medicina #8701 pubblicata e collegata. Registro storico ATL-0138; il vecchio ATL-0134 riportato per il licio è un codice operativo. Tavola #1992. Fonti #8697 e #8699; relazioni bibliografiche #6370–6373 rilette. Verificati anche la correzione bibliografica degli autori di uno studio sul giuggiolo e il paragrafo su Azeka. Audit locale di #1990, #8701, #8697, #8699 e #2720 con un H1 per pagina e nessun avviso restituito. Verifica HTTP esterna separata.
+
+
+### Collazione del facsimile Moldenke, 28 novembre 2026
+Pp. 134–135/PDF 130–131, voce 131. Rinviato anche a p. 203/PDF 199 in confronto alle siepi di altri arbusti. Verificata la distinzione fra testo del licio e figura del lino sulla stessa pagina stampata.

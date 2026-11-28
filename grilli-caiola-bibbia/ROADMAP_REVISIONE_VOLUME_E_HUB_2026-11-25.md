@@ -1934,3 +1934,6 @@ Capitolo 10, lotto 10.10. Pubblicata la medicina del licio #8701 e aggiornata la
 
 
 Cap. 10, controllo iconografico: tre tavole sostituite con verifica del file e della doppia assegnazione. Restano separati il riscontro HTTP e le cautele diagnostiche sulle tavole.
+
+
+Cap. 10, collazione del facsimile di Plants of the Bible e dei supplementi, con addenda nei dieci dossier. Fra i riscontri, la fig. di p. 135 è il lino e la proposta di Linneo per la corona non coincide con la preferenza dei Moldenke.

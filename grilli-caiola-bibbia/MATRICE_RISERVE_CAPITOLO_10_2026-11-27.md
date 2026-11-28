@@ -63,3 +63,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **Esito 10.11a, 28 novembre.** Risolte le P3 di sostituzione per #676, #3941 e #1808. Le sigle delle vecchie tavole nei paragrafi precedenti descrivono la cronologia. I nuovi allegati sono #8704, #8706 e #8705. Il frutto dello zigofillo e le unità fruttifere di Gundelia non sono raffigurati nelle nuove vedute di rami in fiore. Restano la cautela sulla capsula di Cistus e la verifica da rete pubblica.
+
+
+**Esito 10.11b.** Superata P2-A per la disponibilità del facsimile Moldenke e per le voci e note puntualmente localizzate nei dieci dossier. Il PDF non riproduce integralmente alcune pagine della paginazione a stampa. Restano P2-D i passi non localizzati con sicurezza e P1-L l’attribuzione a una specie dei lemmi collettivi.
