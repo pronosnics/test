@@ -34,3 +34,6 @@ Creata solo bozza #8774. Nessuna modifica alle monografie, lemmi, identificazion
 
 ## Lotto 13 — 28 novembre 2026
 Creata solo bozza #8775. Nessuna modifica a monografie, lemmi, identificazioni, indice, tema o plugin attivi.
+
+## Lotto 14 — 28 novembre 2026
+Creata solo bozza #8776; nessuna modifica alle schede medicinali, identificazioni, indice, tema o plugin attivi.
