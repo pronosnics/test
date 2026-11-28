@@ -99,3 +99,15 @@ Livelli vuoti: #6562, #1369. Campi essenziali vuoti: #6562 pdb_contraindications
 
 
 **A.3 — medicinali, terzo gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 37/105. 71 relazioni bibliografiche, 71 coppie scheda–fonte distinte; nessun gruppo duplicato segnalato. 5 livelli evidenza vuoti (#1279,1480,1068,6562,1369); 6 schede con campi sicurezza vuoti (#1279,1480,1068,6562,1369,639). Cichorium endivia #1057→medicina #1068 e C. pumilum #6551→#6562 distinti, associazione uno-a-uno confermata. Cicuta #1369: riletto testo e 7 relazioni, avvertenze esplicite su tossicità potenzialmente fatale, urgenza, nessun uso domestico o indicazione terapeutica dimostrata; fonte #7553 Ucar 2026 con limite conferma analitica assente, come da relazione. Metadati evidence_level e interactions vuoti: riserva di allineamento, non assenza di cautele. Henné #7808: testo e 10 relazioni riletti, metadati essenziali completi; G6PD/emolisi, PPD, limiti clinici, sicurezza gravidanza/allattamento e interazioni non definite documentati; fonti #7794,7796,7798,7800,7802,5166 pertinenti secondo localizzatori registrati. Nessuna nuova collazione integrale delle fonti originali, nessuna modifica WP. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo quarto gruppo, 68 candidati residui e 94 non candidati; riserve precedenti mantenute.
+
+
+## Quarto gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 1264 | 1257 | 1257 | publish | non valorizzato | pdb_side_effects, pdb_contraindications, pdb_interactions | 3 | 3 |
+| 1241 | 1227 | 1227 | publish | non valorizzato | pdb_interactions | 7 | 7 |
+| 1391 | 1383 | 1383 | publish | non valorizzato | pdb_contraindications | 7 | 7 |
+| 1795 | 1791 | 1791 | publish | non valorizzato | pdb_tradition, pdb_interactions | 4 | 4 |
+| 1493 | 1485 | 1485 | publish | non valorizzato | pdb_contraindications | 5 | 5 |
+Livelli vuoti: #1264, #1241, #1391, #1795, #1493. Campi essenziali vuoti: #1264 pdb_side_effects, pdb_contraindications, pdb_interactions; #1241 pdb_interactions; #1391 pdb_contraindications; #1795 pdb_tradition, pdb_interactions; #1493 pdb_contraindications. Relazioni complessive: 26; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 42/105.
