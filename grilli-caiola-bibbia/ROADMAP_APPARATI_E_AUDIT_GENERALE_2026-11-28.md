@@ -15,3 +15,5 @@ Tre refusi confermati con CEI2008: p171 1Cr11,12 anziché 1Cr10,12 (https://www.
 
 
 **Apparati A.1–A.2, secondo passaggio (28/11/2026):** pp171–175 testo nativo riletto; facsimile 174–175 errore interno. #3789/#2691/#2692/#1115/#529/#525/#666/#775 già coerenti per i punti controllati; #534 integrata CEI2008 Ester2:7/15 (parentela) e distinzione Assuero/Artaserse, riletta. Tab2: 77/29 righe, 21 intersezione letterale, 22 dopo assimilazione Giglio/Giglio bianco contro 23 dichiarati; unione 84 dopo assimilazione, non 83. Tab3 27 voci aggregate in sette gruppi, non 27 categorie. Riserve: altri antroponimi A.1, facsimile/corsivi e matching lemmi A.2, aloe e libri A.5; HTTP e audit locale #534 da verificare. [Dossier](APPARATI_A1_A2_2026-11-28.md). Prossimo: completare A.1 onomastica e A.2 corrispondenze con lemmi; non avviare indiscriminatamente nuove schede.
+
+**Addendum audit locale:** 8/8 (#534,#3789,#2691,#2692,#529,#1115,#666,#775), H1 unico, zero note candidate, ALT mancanti e warning. HTTP/head SEO non verificati. [Matrice riserve apparati](MATRICE_RISERVE_APPARATI_2026-11-28.md).
