@@ -31,3 +31,6 @@ Creata bozza #8774 identificazioni-botaniche-controverse-bibbia. Letti metodolog
 
 ## Lotto 13 — 28 novembre 2026
 Creata bozza #8775 nomi-lingue-antiche-piante-bibbia. Letti concordanza A.2 e inventario live completo 100+89 = 189 record publish (non necessariamente lemmi distinti né fitonimi). Selezione 32 schede effettivamente consultate, 18 ebraiche/14 greche, quattro gruppi 11/9/7/5. Distinti pianta, frutto, prodotto, materiale, nome proprio, forma flessa e codice. Aramaico/latino inquadrati senza dichiarare repertori autonomi completi. Sorgente lotto-13-nomi-lingue-antiche/nomi-lingue-antiche.html.
+
+## Lotto 14 — 28 novembre 2026
+Creata bozza #8776 medicina-storica-piante-bibbia. Letti audit A.3 e matrice riserve; censimento live 100+98=198 schede medicinali pubblicate. Selezione 16 schede consultate in tre gruppi 4/5/7: storia, evidenze, tossicologia. Distinti riferimento biblico, tradizione, preclinica, clinica, valutazione regolatoria. Verificati riscontri esterni indicizzati Dafni–Böck 2019 e EMA Vitis/Myrrha. Sorgente lotto-14-medicina-storica/medicina-storica.html.
