@@ -72,3 +72,15 @@ Livelli vuoti: #2095, #998, #1116, #1040. Campi essenziali vuoti: #998 pdb_side_
 
 
 **A.3 — medicinali, secondo gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 27/105. 87 relazioni bibliografiche, 84 coppie scheda–fonte distinte; 8 livelli evidenza vuoti (#1589,2251,1147,895,2095,998,1116,1040), 5 schede con campi sicurezza vuoti (#1589,2251,998,1116,1040). Cardo mariano #3483: 19 relazioni/16 fonti; tre gruppi candidati duplicati #3459 (2662/6215), #3461 (2663/6210), #3462 (2664/6211), riletti localizzatori e claim: generali vs approfondimenti specifici OMS, Cochrane e Nutrients, non cancellare. Cassia #1116: testo live contiene già avvertenze cumarina/BfR, gravidanza, fegato e farmaci, mentre metadati controindicazioni/interazioni vuoti: riserva di allineamento, non assenza di cautele; priorità successiva verifica originale. Nessuna modifica WP né nuova collazione integrale fonti. Tentativi di gruppo più ampio superavano limite chiamate, ripetuti in due sottogruppi da cinque con salvataggio separato; nessun risultato non registrato conteggiato. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo da #1279, 78 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Terzo gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 1279 | 1271 | 1271 | publish | non valorizzato | pdb_contraindications, pdb_interactions | 5 | 5 |
+| 268 | 266 | 266 | publish | traditional | nessuno | 10 | 10 |
+| 946 | 942 | 942 | publish | insufficient | nessuno | 13 | 13 |
+| 1480 | 1477 | 1477 | publish | non valorizzato | pdb_contraindications, pdb_interactions | 3 | 3 |
+| 1068 | 1057, 6551 | 1057 | publish | non valorizzato | pdb_side_effects, pdb_contraindications, pdb_interactions | 6 | 6 |
+Livelli vuoti: #1279, #1480, #1068. Campi essenziali vuoti: #1279 pdb_contraindications, pdb_interactions; #1480 pdb_contraindications, pdb_interactions; #1068 pdb_side_effects, pdb_contraindications, pdb_interactions. Relazioni complessive: 37; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 32/105.
