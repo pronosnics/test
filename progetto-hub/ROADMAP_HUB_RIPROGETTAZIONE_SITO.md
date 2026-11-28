@@ -37,6 +37,8 @@
 | 15D.5 | Copertina alberi da frutto | #8790→#8773 draft, 23 blocchi, 529952 byte, SHA identico, metadati verificati; ponte rimosso. 5/8 completate. | 15D.6 identificazioni controverse. |
 | 15D.6 | Copertina identificazioni controverse | #8791→#8774 draft, 18 blocchi, 420188 byte, SHA identico, ALT/didascalia/titolo verificati, sei monografie confrontate, ponte rimosso; 6/8 completate. | 15D.7 nomi e lingue antiche. |
 | 15D.7 | Copertina nomi biblici e lingue antiche | #8792→#8775 draft, 21 blocchi, 494514 byte, SHA identico, titolo/ALT/didascalia verificati, ponte rimosso; composizione botanico-filologica senza pseudo-iscrizioni; 7/8 completate. | 15D.8 medicina storica. |
+| 15D.8 | Copertina medicina storica | #8793→#8776 draft, 23 blocchi, 534160 byte, SHA identico, titolo/ALT/didascalia verificati, sei monografie confrontate, ponte rimosso. | Audit chiusura 15D. |
+| 15D-chiusura | Otto copertine associate | 8/8 rilettura live positiva; #778 publish, sette hub draft; sei upload automatici, 125 blocchi e SHA verificati. Prime due didascalie da rileggere, SHA remoto non verificato; QA frontend e residui DB pendenti. | 15E integrazione grafica controllata, nessuna pubblicazione anticipata. |
 
 ## Registri
 
