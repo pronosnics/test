@@ -7,3 +7,6 @@ WPVibe site_info conferma tema Erbario Biblico 1.0.3 e plugin attivi incluso Upd
 
 ## Lotto 4 — 28 novembre 2026
 Bozza WPVibe: header.php, footer.php e assets/editorial-shell.css aggiornati; mantenuti hook, wp_head/wp_footer e condizione landmark del plugin. Menu WP #3 invariato; aggiunta voce percorsi via template e accesso metodo. Sorgenti salvati in prototipo-home. Nessuna attivazione.
+
+## Lotto 5 — 28 novembre 2026
+Modificati solo front-page.php e assets/home-atlas.css nella bozza WPVibe; versione CSS 1.1.0-draft3. Sorgenti aggiornati in prototipo-home. Nessun aggiornamento tema live.
