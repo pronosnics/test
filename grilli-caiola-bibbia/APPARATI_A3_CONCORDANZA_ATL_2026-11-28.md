@@ -1,5 +1,5 @@
 # A.3 — Concordanza ATL parziale, 28/11/2026
-Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":100,"operational":11,"unresolved":13,"conflicts":[]}.
+Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":101,"operational":12,"unresolved":12,"conflicts":[]}.
 
 | WP | Legacy attestato | Operativo attestato | Fonte |
 |---|---|---|---|
@@ -46,7 +46,7 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 1704 | ATL-0095 | non accertato | roadmap cap.7 |
 | 1819 | ATL-0110 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 6177 | non accertato | non accertato | registro storico; legacy null |
-| 4117 | non accertato | non accertato | da verificare |
+| 4117 | non accertato | ATL-0274 | dossier ATL-0274_VICIA_FABA_DOSSIER_2026-11-23.md, ID esplicito; legacy non presente nel JSON |
 | 152 | ATL-0105 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 3953 | ATL-0260 | non accertato | registro storico |
 | 1756 | ATL-0104 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
@@ -112,7 +112,7 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 5690 | ATL-0135 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 3749 | ATL-0250 | non accertato | roadmap cap.7 |
 | 2291 | ATL-0175 | ATL-0159 | registro storico; roadmap cap.7 |
-| 3962 | non accertato | non accertato | da verificare |
+| 3962 | ATL-0263 | non accertato | registro storico Tulipa sharonensis; sinonimia POWO, match nominale distinto da ATL-0262/0264 |
 | 143 | ATL-0276 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 1432 | ATL-0082 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 1981 | ATL-0136 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
@@ -183,3 +183,7 @@ Nove associazioni legacy confermate tramite rilettura di sei dossier/verbali; 4 
 Riletto registro storico JSON, 246 record vs 245 dichiarati; confronto con i 16 ID non accertati. Due corrispondenze nominali/sinonimiche univoche, senza attestazione ID nel registro storico: #4774 ATL-0027 Anthemis palaestina → Cota palaestina (POWO https://powo.science.kew.org/taxon/198398-1); #807 ATL-0047 Brassica nigra → Mutarda nigra (POWO https://powo.science.kew.org/taxon/279422-1). Nessuna collisione con righe esistenti. #2689 Rubia tinctorum: candidato ATL-0201, grafia storica Rubia tinctorium da confermare in dossier/voce Duke, non assegnato in questo passaggio. #3962 Tulipa agenensis: candidato ATL-0263 Tulipa sharonensis, ma registro contiene anche ATL-0262 Tulipa montana e ATL-0264 Tulipa spp.; non unificare automaticamente. #6177 codice null esplicito, #5747 e #6254 non assimilabili a frumento tenero ATL-0260. #6551 Cichorium pumilum non assimilato a C. endivia o C. intybus; #6599 Mandragora autumnalis distinta da M. officinarum; #6332 Malus sylvestris distinta da M. domestica; #8330 Typha latifolia distinta dal record T. angustata; #8677 Salvia palaestina distinta da S. judaica. #6979, #4117, #3984 e #3996 nessun record omonimo nel registro consultato. Cumulativo 99/113 legacy, 11/113 operativi, residui 14: #6979, #6551, #6177, #4117, #5747, #8330, #6599, #6332, #3984, #3996, #2689, #8677, #6254, #3962. Nessuna modifica WP.
 
 **Integrazione immediata al quarto passaggio:** il registro QA moldenke-bible-plants/QA_REGISTRO_ANTI_RIPETIZIONI_2026-11-24.md, sezione 25/11, attesta esplicitamente ATL-0201 = WP #2689, Rubia tinctorum (grafia legacy Rubia tinctorium), tavola #2696. Riserva precedente risolta. Totale 100/113, operativi 11/113, residui 13: #6979, #6551, #6177, #4117, #5747, #8330, #6599, #6332, #3984, #3996, #8677, #6254, #3962.
+
+
+## Quinto passaggio — dossier e sinonimia Tulipa (28/11/2026)
+Dossier moldenke-bible-plants/ATL-0274_VICIA_FABA_DOSSIER_2026-11-23.md letto: codice di lavoro ATL-0274, WP #4117, medicina #4118, lemma #4120. Il JSON storico non contiene una riga legacy Vicia faba né ATL-0274: registrato come operativo attestato dal dossier, non promosso a legacy. POWO https://powo.science.kew.org/taxon/542811-1 conferma Tulipa sharonensis Dinsm. sinonimo eterotipico di T. agenensis Redouté; anche https://powo.science.kew.org/taxon/952529-1 (subsp. sharonensis) è sinonimo. T. montana Lindl. accettata distinta https://powo.science.kew.org/taxon/543008-1; matrice Danin distingue #3957 (T. montana), #3962 (T. agenensis, sin. sharonensis), #3966 (Tulipa genere). Legacy #3962 ATL-0263 per corrispondenza nominale/sinonimica univoca secondo POWO, non ID attestato nel JSON; mantenuta riserva tassonomie alternative e senza fusione di schede. Ricerca dossier mirata per Ulmus, Urtica, Amomum, Cichorium: cap.7 esplicitamente ATL di Ulmus da riscontrare; Moldenke p237 tratta quattro Urtica ma traduzione non attesta codice, indice Duke distinto; audit cap.6 attesta Amomum #6979 senza codice; dossier Cichorium endivia ATL-0063 conferma C. pumilum separata, non trasferire il codice. Riserve degli altri ID mantenute. Totale 101/113 legacy, 12/113 operativi, residui 12: #6979, #6551, #6177, #4117, #5747, #8330, #6599, #6332, #3984, #3996, #8677, #6254. Nessuna modifica WP.
