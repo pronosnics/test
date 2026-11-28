@@ -30,6 +30,7 @@
 | 15D.2-associazione | Copertina Sukkot associata e preflight upload base64 | Attachment #8783 verificato su #8770, bozza conservata, ALT/titolo verificati, didascalia scritta non riletta. Test atlas-media-start su #8771 respinto; protocollo base64 prioritario, estensione pagine da predisporre. | Collaudare upload base64 per pagine senza modificare monografie, poi 15D.3 cereali e legumi. |
 | 15D-media | Estensione base64 per pagine hub | Modulo autonomo PDB Hub Media 0.1.0, 4 ability, sorgenti e test GitHub; lint PHP e 22/22 fixture OK; ZIP in Libreria. Plugin scientifico e tema invariati. | Installare modulo, verificare discovery e start/abort live, poi 15D.3 e primo upload reale con blocchi da 24000 byte. |
 | 15D-media.1 | Primo collaudo live e correzione | Modulo 0.1.0 attivo, quattro ability rilevate; start #8771 respinto per permessi directory temporanea non privati, nessuna sessione/media creata. Patch 0.1.1: invalidazione stat cache, umask 0077, fallback directory WordPress solo fuori webroot, diagnostica modo; lint e 22/22 fixture OK. | Installare 0.1.1 e ripetere start/abort; non aggiornare core per questo test. |
+| 15D-media.2 | Compatibilità hosting: staging database | 0.1.1 attiva ma start #8771 respinto per permessi 0775. Modulo 0.1.2 con staging DB e checksum, lint e 24/24 fixture OK; sorgenti/test e ZIP archiviati. Nessuna modifica a contenuti/tema. | Installare 0.1.2, preflight live; poi 15D.3 e trasferimento reale. |
 
 ## Registri
 
