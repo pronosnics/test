@@ -13,3 +13,6 @@ Indice generale creato come pagina WordPress #8767, slug percorsi-tematici, stat
 
 ## Lotto 7 — 28 novembre 2026
 Pagina esistente #778 aggiornata conservando 7 righe della tabella, 8 monografie principali (due frumenti nella stessa voce), dicocco e spelta come confronto, non voci aggiuntive. Link a H2406 #5750 e H3698 #6178. Fonti riprese dal dossier 25/11 e dalle monografie #5747/#3953/#6177/#6254; non nuova collazione integrale dei facsimili. Mantenuta distinzione miele/datteri. Nessun nuovo duplicato.
+
+## Lotto 8 — 28 novembre 2026
+Creata bozza WordPress #8770, slug quattro-specie-sukkot-piante-festa-capanne; testo in lotto-08-sukkot/sukkot-revisione.html. Riletti estratti pertinenti di nove monografie (cedro agrume, mirto, palma, cinque Salix e Populus euphratica), due citazioni #316/#319, tre lemmi #1274/#528/#2408, fonti #360/#1276/#6036/#775/#1554. Distinti Lv 23:40, Ne 8:15, tradizione rituale e identificazione a specie. Conferma esterna Sefaria e record accademici Langgut 2015/2013; non nuova collazione integrale facsimili. Tabella quattro elementi, otto sezioni, simbolismo attribuito alla lettura midrashica.
