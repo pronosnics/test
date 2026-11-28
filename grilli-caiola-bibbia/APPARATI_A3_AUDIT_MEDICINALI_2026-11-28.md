@@ -126,3 +126,15 @@ Livelli vuoti: #1823, #1759. Campi essenziali vuoti: nessuno. Relazioni compless
 
 
 **A.3 — medicinali, quarto gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 47/105. 60 relazioni bibliografiche, 59 coppie scheda–fonte distinte; un gruppo candidato duplicato fico #156, fonte Duke #136 relazioni #18 pp.187–190 (usi/rischi) e #27 p.191 (ricerca preliminare), localizzatori e claim differenti: conservare. 7 livelli evidenza vuoti (#1264,1241,1391,1795,1493,1823,1759); 5 schede con campi sicurezza vuoti (#1264,1241,1391,1795,1493), inoltre #1795 tradizione vuota. Riletti estratti dei testi live: coloquintide #1241 tossicità grave e divieto automedicazione, metanalisi 2022 e rassegna 2026 riportate con limiti; cotone #1795 gossipolo, ipokaliemia, rischi riproduttivi, distinzione olio raffinato/semi e dati LactMed/EFSA con ambito distinto; edera #1823 EMA/HMPC/325716/2017 rev.2, preparazioni definite e cautele, livello evidenza da allineare dopo ricollazione; fava #4118 G6PD/favismo, allattamento e levodopa, campi essenziali presenti. Galbano #1759 metadati sicurezza presenti, evidenza non valorizzata; studio combinato non prova del solo galbano secondo meta. Nessuna modifica WordPress, nessuna nuova collazione integrale fonti originali. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo quinto gruppo, 58 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Quinto gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 1810 | 1807 | 1807 | publish | traditional | nessuno | 11 | 11 |
+| 6583 | 1966 | 1966 | publish | non valorizzato | pdb_contraindications, pdb_interactions | 7 | 7 |
+| 2612 | 2610 | 2610 | publish | traditional | nessuno | 13 | 13 |
+| 3330 | 3329 | 3329 | publish | insufficient | nessuno | 9 | 9 |
+| 767 | 760 | 760 | publish | traditional | nessuno | 7 | 7 |
+Livelli vuoti: #6583. Campi essenziali vuoti: #6583 pdb_contraindications, pdb_interactions. Relazioni complessive: 47; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 52/105.
