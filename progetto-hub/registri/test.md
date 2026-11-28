@@ -38,3 +38,6 @@ Rilettura #8772 draft, HTML identico GitHub 10867 caratteri, 9 H2 aperti/chiusi,
 
 ## Lotto 11 — 28 novembre 2026
 Rilettura #8773 draft, HTML identico GitHub 10762 caratteri, 9 H2 aperti/chiusi, 3 tabelle 5/6/4 righe, 32 URL interni, Yoast dedicato conferma title/description. Featured media 0; rendering non verificato.
+
+## Lotto 12 — 28 novembre 2026
+Rilettura #8774 draft, HTML identico GitHub 12343 caratteri, 7 H2 bilanciati, quattro tabelle 6/7/8/5 righe, 35 URL distinti; Yoast dedicato conferma title/description. Featured media 0, rendering non verificato.
