@@ -6,3 +6,5 @@ Complementare alle matrici dei capitoli 1–10, che restano in vigore.
 - P2-D A.5: aloe 9/6, 47/26 contro canone CEI 46/27; ricostruire perimetro delle tabelle, non confondere frequenze e citazioni Atlas.
 - P3: audit locale 8/8 (#534,#3789,#2691,#2692,#529,#1115,#666,#775) positivo, un H1 ciascuno, zero note candidate, ALT mancanti e warning. HTTP, head SEO, risorse remote non verificati.
 - A.3–A.8 da svolgere secondo roadmap. Nessuna riserva pregressa soppressa.
+
+**A.1 terzo passaggio (28/11):** nove nomi residui p173 riesaminati, Dikla Gn10:27, Oren 1Cr2:25, Bet-Zait toponimo, Lot/Keturà/Basmat/Tamar/Allon/Susanna distinti dai fitonimi; 7 schede #310/#563/#5476/#140/#1176/#760/#1307 integrate e rilette, audit locale8/8 (+#1859), nessuna nuova entità/relazione. Riserve: H438 BDB cache miss, CEI 1Mac7 apertura 429 (nota indicizzata e USCCB consultate), passi ambientali p171, A.2 facsimile/matching, A.5 conteggi. HTTP/head non verificati. [Dossier](APPARATI_A1_A2_2026-11-28.md). Prossimo: passi ambientali p171 e completamento A.1, poi A.2.
