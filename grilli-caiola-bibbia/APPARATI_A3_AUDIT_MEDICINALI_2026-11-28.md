@@ -165,3 +165,15 @@ Livelli vuoti: #2152, #1177, #8670. Campi essenziali vuoti: #604 pdb_interaction
 | 8338 | 2114, 2129, 2134 | 2134 | publish | non valorizzato | pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions | 2 | 2 |
 | 7188 | 2000 | 2000 | publish | non valorizzato | pdb_side_effects, pdb_interactions | 5 | 5 |
 Livelli vuoti: #8332, #2125, #8342, #8338, #7188. Campi essenziali vuoti: #8332 pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions; #8342 pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions; #8338 pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions; #7188 pdb_side_effects, pdb_interactions. Relazioni complessive: 11; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 62/105.
+
+
+## Sesto gruppo metadati e relazioni, parte B (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 469 | 467 | 467 | publish | traditional | nessuno | 4 | 4 |
+| 6600 | 6599 | 6599 | publish | non valorizzato | pdb_contraindications, pdb_interactions | 12 | 12 |
+| 213 | 212 | 212 | publish | traditional | nessuno | 9 | 9 |
+| 7199 | 2006 | 2006 | publish | non valorizzato | nessuno | 6 | 6 |
+| 2220 | 2206 | 2206 | publish | non valorizzato | pdb_side_effects, pdb_contraindications, pdb_interactions | 3 | 3 |
+Livelli vuoti: #6600, #7199, #2220. Campi essenziali vuoti: #6600 pdb_contraindications, pdb_interactions; #2220 pdb_side_effects, pdb_contraindications, pdb_interactions. Relazioni complessive: 34; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 67/105.
