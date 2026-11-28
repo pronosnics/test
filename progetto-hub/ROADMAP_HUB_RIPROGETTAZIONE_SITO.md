@@ -5,6 +5,7 @@
 | Lotto | Operazione | Esito verificato | Passaggio successivo |
 |---|---|---|---|
 | 1 | Recupero delle fonti e censimento | Letti roadmap volume, roadmap apparati, registro A.3, concordanza, audit medicinali e matrice riserve al commit 5c89e2c. Recuperati i pacchetti corrispondenti alle versioni attive e la specifica del 16 novembre. Letture WordPress in produzione. Nessuna scrittura sul sito. | Confrontare i file attivi, esaminare il rendering e testare i percorsi di ricerca. |
+| 2 | Audit struttura e rendering locale, candidati primi percorsi | Riletti menu, impostazioni, tre pagine pubblicate; confermata versione plugin e tema attivo; main locale #8677 verificato. Individuati testi obsoleti #131 e #778 e candidati Sukkot. Test HTTP e sitemap bloccati (403 tunnel). Registri test, architettura e hub aggiornati. Nessuna modifica WordPress. | Completare confronto sorgenti, benchmark e test pubblici quando accessibili; preparare prototipo architettura/home e collazione frumento/Sukkot senza alterare URL. |
 
 ## Registri
 
