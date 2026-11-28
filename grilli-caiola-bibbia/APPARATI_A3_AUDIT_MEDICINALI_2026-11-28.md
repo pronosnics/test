@@ -261,3 +261,14 @@ Livelli vuoti: #8679. Campi essenziali vuoti: #8679 pdb_tradition. Relazioni com
 
 
 **A.3 — medicinali, nono gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 97/105. 89 relazioni bibliografiche, 89 coppie scheda–fonte distinte; nessun gruppo duplicato segnalato. 1 livello evidenza vuoto (#8679), 5 valori narrativi (#2640,2690,2678,2709,2450) da uniformare dopo verifica vocabolario; #3017 insufficient da valutare per preparazione e indicazione, non innalzare automaticamente. Nessun campo sicurezza vuoto; #8679 tradizione vuota, da verificare senza inventare usi; tutte date revisione valorizzate. Riletti estratti live ricino #2640 (olio farmaceutico EMA distinto dai semi, ricina distinta da ricinina, divieto rimedi domestici), robbia #2690 (IARC gruppo 3 non prova innocuità, segnali genotossici e limiti animale/uomo), ruta #2768 (fototossicità, intossicazioni e gravidanza), salice #3017 (Salicis cortex multisp., preparati standardizzati, rischi salicilati), sandalo rosso #2450 (non trasferire attribuzioni P. indicus, distinto da Santalum album). Nessuna nuova collazione integrale fonti originali, nessuna modifica WordPress. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo ultimo gruppo da #4271, 8 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Decimo gruppo metadati e relazioni, parte A (28/11/2026)
+4/4 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 4271 | 4269 | 4269 | publish | clinical | nessuno | 7 | 7 |
+| 8701 | 1990 | 1990 | publish | preclinical | nessuno | 3 | 3 |
+| 3253 | 3252 | 3252 | publish | insufficient | nessuno | 15 | 15 |
+| 7293 | 5690 | 5690 | publish | non valorizzato | pdb_interactions | 5 | 5 |
+Livelli vuoti: #7293. Campi essenziali vuoti: #7293 pdb_interactions. Relazioni complessive: 30; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 101/105.
