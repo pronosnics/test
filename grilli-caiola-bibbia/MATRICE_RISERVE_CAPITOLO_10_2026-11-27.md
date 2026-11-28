@@ -78,3 +78,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.11f.** Giuggiolo: esplicitata discrepanza dell'abstract Shakiba (80/105/68), risultato e limiti di co-terapia; aggiornate e rilette #4271/#8693, audit 3/3. P2-A testo integrale ancora 403, protocollo non reperito; P2-D flusso, effetti assoluti, abbandoni e voucher non risolti, P1-L sicurezza a lungo termine e monoterapia non stabilite. Nessuna promozione del grado o modifica del piano pendente.
+
+
+**10.11g.** Risolta riserva amministrativa del piano 30/30 applicate e rilette, #4156 assorbita; doppio H1534 come entità separata ancora aperto. Aloe: recuperati passi pertinenti assessment EMA 2016 e addendum 2022; riserva ridotta, non integrale collazione report, facsimile addendum 429; cautela genotossicologica invariata. #670/#8553 aggiornate e rilette. RCT Gundelia abstract riconfermato ma integrale ancora 403, voucher e sicurezza non risolti. Audit locale 9/9; HTTP non verificato, Huang integrale e Hepper ancora aperti. Nessuna promozione dei gradi.
