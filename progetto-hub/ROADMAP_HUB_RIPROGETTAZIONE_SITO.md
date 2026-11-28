@@ -14,6 +14,7 @@
 | 8 | Sukkot: quattro specie e festa delle Capanne | Creata bozza #8770, nove monografie collazionate per i passi pertinenti, due citazioni, tre lemmi, fonti e riscontro Sefaria/Langgut. 4 righe, 8 H2, 24 URL, SEO Yoast verificato. Sorgente e sei registri salvati. Non pubblicata. | Tavola originale e collaudo grafico/indice; lotto 9 cereali e legumi sulla base delle monografie revisionate. |
 | 9 | Cereali e legumi: colture, nomi e alimentazione | Creata bozza #8771; 11 monografie e 16 citazioni/lemmi consultati, dossier cap. 3 riutilizzato; 7 gruppi alimentari, loglio separato, 8 H2, 33 URL, SEO verificato. Sorgente e sei registri salvati. Non pubblicata. | Lotto 10: spezie, aromi e resine; tavole originali, collaudo grafico e integrazione indice/modulo restano aperti. |
 | 10 | Spezie, aromi e resine: piante, profumi e commerci | Creata bozza #8772; 26 monografie pubblicate selezionate in tre gruppi (8/7/11), 9 H2, 36 URL interni, SEO verificato; riutilizzati dossier e riserve cap.6. Sorgente e sei registri salvati. Non pubblicata. | Lotto 11: alberi da frutto; tavole originali, collaudo grafico e integrazione indice/modulo restano aperti. |
+| 11 | Alberi da frutto: frutteti, colture e identificazioni | Creata bozza #8773; 15 monografie pubblicate in tre gruppi (5/6/4), 9 H2, 32 URL interni, SEO verificato; dossier cap.4 riutilizzati con riserve. Sorgente e sei registri salvati. Non pubblicata. | Lotto 12: identificazioni controverse; tavole originali, collaudo grafico e integrazione indice/modulo restano aperti. |
 
 ## Registri
 
