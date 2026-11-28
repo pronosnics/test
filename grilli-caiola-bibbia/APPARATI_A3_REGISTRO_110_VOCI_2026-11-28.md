@@ -397,3 +397,26 @@ Rilettura live atlas-media-info full su 15 ID; tutti presenti e coerenti. Regist
 | 152 | 188 | 1086×1448 | 538932 | image/webp | 375d61024d92d55a2fbe8e13e984200e4843b81f46a8f04ee22334169c21bdca |
 
 **A.3 — terzo gruppo media e concordanza nominale (28/11/2026):** 15/15 file locali effettivi, featured=plate=attachment, ALT nonvuoti e SHA-256, 12 WebP/3 JPEG; #1258 anguria larghezza733 da valutare. Nessuna modifica WP; non verifica visiva né HTTP. [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md) aggiornata con 29 corrispondenze nominali univoche, non attestazioni esplicite ID nel registro storico. Conteggio righe effettive dopo integrazione precedente dei dossier: 97/113 legacy (68 attestati in passaggi precedenti, 29 nominali), 11/113 operativi, 16 legacy ancora da accertare; non assimilare namespace o taxa infraspecifici. Verifica cumulativa media da conteggiare sulle righe effettive del registro; riserve precedenti, APG V, medicina e controllo iconografico aperti.
+
+
+## A.3 — quarto gruppo media (28/11/2026)
+Rilettura live atlas-media-info full per 15 ID, 15 conformi ai controlli file locale, featured=plate=attachment, ALT nonvuoto, dimensioni e SHA-256. 0 corrispondenze SHA con i gruppi precedenti; 15 SHA distinti nel gruppo. Non verifica visiva né HTTP. Nessuna modifica WordPress.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 3953 | 3954 | 1216×1293 | 243020 | image/webp | e1968b148e79546d036af9e56dea8efd1355bc74f0e9bd0d48850129f9b73085 |
+| 1756 | 1757 | 1086×1448 | 305738 | image/webp | a3e4b70fa6dd93d86549734d81cc21399ca82299b28bf1c8f33912494b7ed983 |
+| 1807 | 8705 | 1064×1478 | 354770 | image/webp | 7b1c9bcfe56b3ccb0f26f94d152d64b918a02a2e07465b3aff1172ae9834b9b2 |
+| 2011 | 2013 | 1024×1536 | 587412 | image/webp | 34a69bc2e353c37b794772259260445110fae7cd7f2e87c7022998bbad33738c |
+| 1966 | 6739 | 1024×1536 | 306512 | image/webp | 24a31b4e34a3c097022fff84ee699c8f35e15321aea1547006ebf1e257752334 |
+| 2610 | 2613 | 1024×1536 | 528788 | image/webp | 64d0177a0ec7bf83b5210ed8c6a29f03e504c7479d763d675964b945f820e571 |
+| 3329 | 3337 | 1024×1536 | 129754 | image/webp | b9b46573d1173b1a6ce9fe79d87766bc14b9ae4015f4c40a666bff25253fd2da |
+| 5747 | 5762 | 1086×1448 | 2602814 | image/png | ad16505922c18d443ffc6e45c6af8848daf87b5a1037f0bffd0327783abaac53 |
+| 760 | 806 | 1086×1448 | 451954 | image/webp | d54f3c37d64400d3cd81316273e4c424a24895bec8721e4fdc71ee7b68eb2e0c |
+| 2140 | 7456 | 1000×1362 | 218722 | image/webp | 5346b4ab2ef1168d75b0660a81f41862a4bcfa36ad41648706d24c7b4f1b21e2 |
+| 1167 | 7394 | 1086×1448 | 336110 | image/webp | c6a215b8d4aec36b55f3bfc568ad9289ca89252a6b15e4757baaeb9732b1fa0a |
+| 2525 | 2530 | 1024×1536 | 630258 | image/webp | 22b3a195823d561b550bdcee6544947a2253dae23be734fd48f3387778291e25 |
+| 1961 | 1962 | 1024×1536 | 495112 | image/webp | a04a1afc4fe0b785ee8dab9f0158dcfcd4f2490534ee92a4ca7c6e6747785ad0 |
+| 597 | 609 | 1086×1448 | 509488 | image/webp | 0cf339de26d158a3a2c24e1dce15a05fb9d826195331277bdd5acdf816cbc7ec |
+| 1976 | 1977 | 1024×1536 | 513110 | image/webp | 727813b1ede91e87730948cc36b98619959eaab798905dadbf678932834e8d39 |
+
+Cumulativo 60/113 ID tecnicamente verificati. Eventuali errori: nessuno.
