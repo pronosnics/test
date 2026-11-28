@@ -66,3 +66,7 @@ Ramo fiorito, foglie, brattee e infiorescenza composta. La tavola esclude la ric
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 Pp. 38–39/PDF 38–39: confronto fra Anastatica e Gundelia per il movimento al vento, con discussione di osservazioni altrui; p. 108/PDF 104, ulteriore confronto. La grafia del nome nel testo digitalizzato richiede confronto con il facsimile.
+
+
+### 10.11g — Ricontrollo RCT e riconciliazione, 28 novembre 2026
+Abstract AGRIS https://agris.fao.org/search/es/records/65dfba584c5aef494fe4b40d riletto, dati 38 arruolati, 8 settimane, colesterolo/LDL, HDL/TG, TAC e apporto energetico coerenti con testo #1810. Editore 403, nessun integrale o registro del trial recuperato. Non modificato grado né attribuzione tassonomica. Piano e57ab427-21b0-475f-aeb5-fa3beef396c9 applicato 07:32:45 GMT, relazioni #252/#253 con lemma #672, fusione #4156→#1002 verificata, 30 relazioni bibliografiche della botanica dopo fusione. Il doppio CPT H1534 rimane riserva tecnica distinta. Audit locale positivo.
