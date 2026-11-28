@@ -114,7 +114,7 @@ Fonte #775, Grilli Caiola et al. 2013, tabelle 4–5 pp176–181 (PDF178–183),
 | 178 | 180 | 63 | zizzania — Lolium temulentum L. — Poaceae | 1981 | non emersa | #4661 p. 63 |
 
 ## Risultato preliminare
-110/110 voci con almeno un candidato botanico; 113 schede candidate distinte (Nymphaea più specie, Cichorium due specie), non 110 specie certe. 9 voci senza medicina candidata nel titolo; verificare relazioni e necessità, non creare automaticamente. 0 voci senza relazione botanica #775; 59 voci con relazione #775 ma pagina monografica non individuata da semplice confronto numerico (controllo manuale necessario).
+110/110 voci con almeno un candidato botanico; 113 schede candidate distinte (Nymphaea più specie, Cichorium due specie), non 110 specie certe. 9 voci senza medicina candidata nel titolo; verificare relazioni e necessità, non creare automaticamente. 0 voci senza relazione botanica #775; 14 voci con relazione #775 ma pagina monografica non individuata dopo normalizzazione di numeri e intervalli (controllo manuale necessario).
 ### Medicina da verificare
 - p55: #6177 farro                     Triticum dicoccum Schrank              Poaceae          55
 - p57: #3953 frumento (grano tenero)   Triticum aestivum L.                   Poaceae          57
@@ -128,64 +128,19 @@ Fonte #775, Grilli Caiola et al. 2013, tabelle 4–5 pp176–181 (PDF178–183),
 ### Fonte #775 assente
 Nessuna
 ### Localizzatori da ricontrollare
-- p49: #628 aglio                       Allium sativum L.                                    Alliaceae                 49
-- p85: #700 agallocco aloe legnosa      Aquilaria malaccensis Lam.                           Thymelaeaceae             85
-- p86: #6979 amòmo                       Amomum subulatum Roxb.                               Zingiberaceae             86
-- p87: #4727 aneto                       Anethum graveolens L.                                Apiaceae                  87
-- p88: #4836 assenzio                    Artemisia herba-alba Asso                            Asteraceae                88
-- p89: #4914 astragalo (gomma adragante) Astracantha gummifera (Labill.) Podlech              Fabaceae                  89
-- p116: #1307 balsamo                     Commiphora gileadensis (L.) C.Chr.                   Burseraceae              116
-- p90: #1583 canna aromatica             Cymbopogon martinii Stapf.                           Poaceae                   90
-- p91: #1133 cannella                    Cinnamomum zeylanicum Nees                           Lauraceae                 91
-- p117: #992 carrubo                     Ceratonia siliqua L.                                 Caesalpiniaceae          117
-- p92: #1104 cassia                      Cinnamomum aromaticum Nees                           Lauraceae                 92
-- p50: #1031 cece                        Cicer arietinum L.                                   Fabaceae                  50
-- p43: #1271 cedro                       Citrus medica L.                                     Rutaceae                  43
-- p51: #1477 cetriolo                    Cucumis sativus L.                                   Cucurbitaceae             51
-- p93: #1358 cicuta maggiore             Conium maculatum L.                                  Apiaceae                  93
-- p52: #627 cipolla                     Allium cepa L.                                       Alliaceae                 52
-- p53: #1257 cocomero                    Citrullus lanatus (Thumb.) Mats et Nakai             Cucurbitaceae             53
-- p94: #1227 coloquìntide                Citrullus colocynthis (L.) Schrad.                   Cucurbitaceae             94
-- p95: #1383 coriandolo                  Coriandrum sativum L.                                Apiaceae                  95
-- p54: #1791 cotone                      Gossypium herbaceum L.                               Malvaceae                 54
-- p96: #1485 cumino                    Cuminum cyminum L.                     Apiaceae         96
-- p97: #1819 edera                     Hedera helix L.                        Araliaceae       97
-- p55: #6177 farro                     Triticum dicoccum Schrank              Poaceae          55
-- p56: #4117 fava                      Vicia faba L.                          Fabaceae         56
-- p33: #152 fico                      Ficus carica L.                        Moraceae         33
-- p57: #3953 frumento (grano tenero)   Triticum aestivum L.                   Poaceae          57
-- p98: #1756 gàlbano o ferula          Ferula galbaniflua Boiss. et Buhse     Apiaceae         98
-- p77: #1966 giglio bianco             Lilium candidum L.                     Liliaceae        77
-- p99: #2140 issòpo                    Majorana syriaca (L.) Rafin.           Lamiaceae        99
-- p161: #1167 làdano, cisto cretico     Cistus creticus L.                     Cistaceae       161
-- p58: #1961 lenticchia                Lens culinaris Medik.                  Fabaceae         58
-- p100: #2000 malva                     Malva sylvestris L.                    Malvaceae       100
-- p68: #467 mandorlo                  Amygdalus communis L.                  Rosaceae         68
-- p78: #6599 mandràgora                Mandragora autumnalis L.               Solanaceae       78
-- p101: #2006 menta                     Mentha longifolia (L.) Huds.           Lamiaceae       101
-- p59: #2206 miglio                    Panicum miliaceum L.                   Poaceae          59
-- p102: #1326 mirra                     Commiphora myrrha (Nees) Engl.         Burseraceae     102
-- p44: #525 mirto                     Myrtus communis L.                     Myrtaceae        44
-- p79: #2016 narciso                   Narcissus tazetta L. subsp. tazetta    Alliaceae        79
-- p103: #2022 nardo                     Nardostachys jatamansi (D. Don) D.C.   Valerianaceae   103
-- p70: #1901 noce                      Juglans regia L.                       Juglandaceae     70
-- p126: #3984 olmo                      Ulmus canescens Melville               Ulmaceae        126
-- p80: #3996 ortica                    Urtica pilulifera L.                   Urticaceae       80
-- p38: #308 palma da datteri          Phoenix dactylifera L.                 Arecaceae        38
-- p81: #2585 ranuncolo asiatico      Ranunculus asiaticus Thunb                                Ranunculaceae     81
-- p104: #2639 ricino                  Ricinus communis L.                                       Euphorbiaceae    104
-- p105: #2689 robbia                  Rubia tinctorum L.                                        Rubiaceae        105
-- p131: #2677 rosa                    Rosa phoenicia Boiss.                                     Rosaceae         131
-- p106: #2766 ruta                    Ruta chalepensis L.                                       Rutaceae         106
-- p45: #3016 salice                  Salix alba L.                                             Salicaceae        45
-- p132: #2441 sandalo                 Pterocarpus santalinus L.                                 Fabaceae         132
-- p107: #807 senape                  Brassica nigra (L. ) Koch                                 Brassicaceae     107
-- p133: #367 sicomòro                Ficus sycomorus L.                                        Moraceae         133
-- p108: #5690 stòrace                 Liquidambar orientalis Mill.                              Altingiciaceae   108
-- p134: #3749 tamerice                Tamarix aphylla (L.) H. Karst.                            Tamaricaceae     134
-- p135: #2291 terebinto               Pistacia atlantica Desf.                                  Anacardiaceae    135
-- p82: #3962 tulipano                Tulipa agenensis Redouté                                  Liliaceae         82
-- p39: #143 vite                    Vitis vinifera L.                                         Vitaceae          39
-- p109: #1432 zafferano               Crocus sativus L.                                         Iridaceae        109
+- p158: #666; localizzatori Grilli Caiola et al., PDF 160, fig. 101
+- p118: #266; localizzatori Cap.7 fig.70; tab.7 p.183; tab.8 p.184; tab.11 p.188; tab.12 p.190
+- p119: #1551; localizzatori Grilli Caiola e colleghi2013, fig71; tabelle7–8 pp183–184
+- p120: #1955; localizzatori Grilli Caiola e colleghi2013, fig72; tabelle7–8
+- p121: #1704; localizzatori Grilli Caiola, Guarrera e Travaglini2013, fig.73
+- p57: #3953; localizzatori Voce Grano (grano duro), confronto con frumento tenero
+- p34: #5747; localizzatori Voce Grano (grano duro)
+- p37: #1834; localizzatori Orzo; apparati pp. 183, 188, 191
+- p38: #308; localizzatori 183; pp.41–42, Sukkot
+- p146: #427; localizzatori PDF p. 140, introduzione cap. 8; PDF p. 148, fig. 95; Tabelle 7 e 8, PDF pp. 185–187; Tabella 12, PDF p. 193
+- p147: #2336; localizzatori PDF p.149, fig.96; Tabelle 7–8; Tabelle 11–12
+- p62: #6254; localizzatori Spelta
+- p166: #4269; localizzatori Cap. 10, fig. 109, PDF 168
+- p165: #3252; localizzatori Cap. 10, fig. 108, PDF 167
 ## Controlli mirati (metadati/HTML)
 #4409 Vachellia tortilis: A. raddiana sinonimo della subsp. raddiana, non dell'intera specie; #4774 Cota palaestina da Anthemis palaestina; #1057/#6551 Cichorium endivia e C. pumilum distinte secondo Kew, non sinonimi come tabella; #2464 Quercus coccifera con Q. calliprinos sinonimo Kew, differente trattamento regionale; #2708 Rubus creticus (R. sanguineus sinonimo, riserva nomenclaturale nom. rej. e proposta 3118); #1756 Ferula gummosa da F. galbaniflua; #2619 Rhamnus lycioides subsp. graeca; #8330 Typha latifolia; #2016 Narcissus tazetta (tabella subsp. tazetta), famiglia Amaryllidaceae non Alliaceae. Tutte 10 con pdb_plate_media_id valorizzato (non prova immagine in evidenza). #1057/#6551 editorial_status vuoto: verificare workflow, non confondere con assenza di revisione. Fonti Kew registrate in WP, non aperte direttamente in questo passaggio. Resta verifica ATL legacy/operativo, metadati, immagini in evidenza, famiglie correnti e relazioni medicina per ciascuna. A.3 aperto.
