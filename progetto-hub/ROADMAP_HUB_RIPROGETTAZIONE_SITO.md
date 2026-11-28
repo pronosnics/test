@@ -35,6 +35,7 @@
 | 15D.3 | Copertina cereali e legumi + collaudo end-to-end | #8788 associata a #8771 draft, 20 blocchi base64, 477892 byte, SHA256 identico, ALT/didascalia/titolo verificati, ponte rimosso; monografia #4117 immutata. PDB Hub Media 0.1.2 collaudato live. | 15D.4 spezie, aromi e resine; protocollo base64 prioritario. |
 | 15D.4 | Copertina spezie, aromi e resine | #8789→#8772 draft, 20 blocchi, 479350 byte, SHA identico, metadati verificati; ponte rimosso; riserve morfologiche registrate. | 15D.5 |
 | 15D.5 | Copertina alberi da frutto | #8790→#8773 draft, 23 blocchi, 529952 byte, SHA identico, metadati verificati; ponte rimosso. 5/8 completate. | 15D.6 identificazioni controverse. |
+| 15D.6 | Copertina identificazioni controverse | #8791→#8774 draft, 18 blocchi, 420188 byte, SHA identico, ALT/didascalia/titolo verificati, sei monografie confrontate, ponte rimosso; 6/8 completate. | 15D.7 nomi e lingue antiche. |
 
 ## Registri
 
