@@ -11,3 +11,6 @@ ZIP installabile in Libreria privata /PIANTE DELLA BIBBIA/pdb-hub-media-0.1.0.zi
 
 ## 0.1.2 — 28 novembre 2026
 0.1.1 installata, preflight live #8771 fallito: permessi directory temporanea 0775. Nessun upload/sessione creata. Nuova architettura: opzioni DB non autoload, un record per blocco, lock MySQL GET_LOCK/RELEASE_LOCK, manifest con scadenza, sweep su start e WP-Cron, pulizia su abort/finish. Ricostruzione e SHA-256 prima del normale file temporaneo WordPress per sideload. Nessuna directory di staging persistente. PHP lint e 24/24 fixture passate (DB simulato, non prova lock MySQL o upload reale). ZIP SHA256 b83a1d19d2bfea2ddaf72e1eb6d4f6918dd9b01611d1dca3e9c9e259980c49bf. Necessario installare e ripetere start/abort live. Nessun aggiornamento core.
+
+## Collaudo live riuscito 28 novembre 2026
+0.1.2: start/abort su #8771 riusciti; trasferimento reale 20 blocchi (19×24000 +21892), 477892 byte, SHA256 c49b0f8a5cba2e01f2cf5905ea02a3724d425250b93dc7eb84021516c5366dc5 identico server. Media #8788 assigned a #8771, stato draft preservato. ALT/didascalia restituiti, titolo aggiornato e riletto. Ponte Libreria spostato nel cestino, monografia #4117 featured #4119 invariata. Metodo operativo per prossime copertine. Non è stato svolto audit indipendente dei record residui DB né collaudo grafico del frontend.
