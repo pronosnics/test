@@ -8,3 +8,6 @@ Home → Atlante (ricerca e filtri), Percorsi tematici (indice), Bibbia e nomi (
 
 ## Lotto 4 — 28 novembre 2026
 Implementata in bozza navigazione su due fasce, ricerca rapida globale, menu mobile nativo details, collegamenti ai percorsi e metodologia. Footer quattro gruppi: identità, consulta, percorsi, progetto. Percorsi punta provvisoriamente ad ancora homepage, da sostituire con indice editoriale quando pubblicato.
+
+## Lotto 6 — 28 novembre 2026
+Adottate pagine native WordPress come hub, con metadati ripetuti _pdbhub_member e flag _pdbhub_enabled; indice gestito da shortcode con soli hub pubblicati, card di schede pubbliche, relazioni inverse tramite shortcode esplicito (non inserito automaticamente). Indice #8767 in bozza: link di navigazione ancora all'ancora home per evitare collegamenti pubblici a bozze. Logica nel modulo companion, stile nel tema; possibile integrazione futura in pdb-atlante dopo collaudo.
