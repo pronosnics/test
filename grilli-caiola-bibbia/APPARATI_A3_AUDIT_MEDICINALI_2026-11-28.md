@@ -234,3 +234,15 @@ Livelli vuoti: #4633. Campi essenziali vuoti: nessuno. Relazioni complessive: 40
 
 
 **A.3 — medicinali, ottavo gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 87/105. 66 relazioni bibliografiche, 63 coppie scheda–fonte distinte; tre gruppi di ripetizioni esaminati. Palma #309 Duke #136, relazioni #112 pp.325–329 e #144 pp.327–329: sovrapposizione parziale con dettaglio allergenicità e confronto in vitro distinto; eventuale consolidamento conservativo da valutare, non cancellare. Ranuncolo #2587: Duke #136 relazioni #1662 p.369 e #1663 pp.370–371 distinguono specie propria da OTHER BUTTERCUPS; Dafni–Böck #2069 relazioni #1669 pp.1–2 e #4983 p.9 distinguono metodologia ed esclusione di Ranunculus sp.; conservare tutte. 1 livello evidenza vuoto (#4633), 4 valori narrativi da verificare rispetto a vocabolario controllato (#2396,2327,2357,2620); #2587 traditional da riesaminare perché il testo non attesta uso medico specifico. Nessun campo essenziale dei sei controllati vuoto, nessuna data revisione vuota. Riletti estratti live #2587 protoanemonina e limiti di specie; #2548 e #2476 voucher e tabelle Jaradat2016 discordanti, nessuna efficacia clinica; #2357 allergeni/irritazione e limiti sperimentali. Nessuna modifica WordPress né nuova collazione integrale fonti originali. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo nono gruppo da #2640, 18 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Nono gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 2640 | 2639 | 2639 | publish | farmacologico-clinico su olio farmaceutico; molte tradizioni altre non validate; elevato rischio tossicologico dei semi | nessuno | 8 | 8 |
+| 2690 | 2689 | 2689 | publish | documentazione etnobotanica; dati tossicologici sperimentali di rilievo; evidenza clinica insufficiente | nessuno | 15 | 15 |
+| 2678 | 2677 | 2677 | publish | sperimentale in vitro su estratti fogliari; clinica e sicurezza specie-specifiche non stabilite | nessuno | 8 | 8 |
+| 2709 | 2708 | 2708 | publish | alimentare tradizionale; fitochimico analitico; preclinico su animali; non studi clinici umani validati | nessuno | 13 | 13 |
+| 2768 | 2766 | 2766 | publish | preclinical | nessuno | 12 | 12 |
+Livelli vuoti: nessuno. Campi essenziali vuoti: nessuno. Relazioni complessive: 56; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 92/105.
