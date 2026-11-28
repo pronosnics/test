@@ -272,3 +272,14 @@ Livelli vuoti: #8679. Campi essenziali vuoti: #8679 pdb_tradition. Relazioni com
 | 3253 | 3252 | 3252 | publish | insufficient | nessuno | 15 | 15 |
 | 7293 | 5690 | 5690 | publish | non valorizzato | pdb_interactions | 5 | 5 |
 Livelli vuoti: #7293. Campi essenziali vuoti: #7293 pdb_interactions. Relazioni complessive: 30; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 101/105.
+
+
+## Decimo gruppo metadati e relazioni, parte B (28/11/2026)
+4/4 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 3750 | 3749 | 3749 | publish | insufficient | nessuno | 9 | 9 |
+| 2301 | 2291 | 2291 | publish | insufficient | nessuno | 22 | 22 |
+| 146 | 143 | 143 | publish | established | nessuno | 3 | 3 |
+| 1439 | 1432 | 1432 | publish | non valorizzato | nessuno | 8 | 8 |
+Livelli vuoti: #1439. Campi essenziali vuoti: nessuno. Relazioni complessive: 42; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 105/105.
