@@ -22,3 +22,6 @@ Preservate tutte le riserve degli apparati e dei capitoli; nessun cambio di stat
 
 ## Lotto 13 — 28 novembre 2026
 189 record non equivalgono a 189 lemmi distinti o specie. Corrispondenze A.2 nominali non equivalenze tassonomiche; preservati duplicati/lacune da verificare nel flusso A.7. Amomo variante testuale e codici diversi; Hadassah antroponimo; tessuto sindon non identifica un manufatto conservato. Nessuna nuova collazione facsimili. Restano tavola, collaudo grafico RTL/mobile, HTTP, integrazione indice/modulo.
+
+## Lotto 14 — 28 novembre 2026
+Audit A.3 105 candidati/104 piante, 51 evidence_level vuoti, 9 narrativi, 37 schede con almeno un campo sicurezza vuoto; non certificazione scientifica. Non estendere il risultato EMA a specie/parti/preparazioni diverse. 198 schede non equivalgono a rimedi biblici o terapie validate. Nessuna prescrizione, dose, ricetta o suggerimento terapeutico. Nessuna nuova collazione integrale facsimili. Restano tavola, collaudo grafico, HTTP, integrazione indice/modulo e revisione scientifica P1 separata.
