@@ -13,3 +13,6 @@ Non equiparare ḥiṭṭāh a taxon, kussemeṯ a spelta certa, dōḥan a migl
 
 ## Lotto 10 — 28 novembre 2026
 Chiusura editoriale cap.6 con riserve documentate, non nuova collazione facsimili. Le piante soprattutto tintorie/tossiche o di altri usi non sono incluse nella selezione principale; ruta inclusa per la decima con avvertenza. Restano tavola originale, controllo grafico, HTTP, integrazione indice e modulo. Conservare matrice riserve cap.6 (Cultrera e altri).
+
+## Lotto 11 — 28 novembre 2026
+Non equiparare tappûaḥ a specie certa; Genesi 3 non nomina il frutto. Boṭnîm controverso, noce del Cantico distinto. Dati archeobotanici riutilizzati dai dossier; non nuova collazione facsimili. Restano tavola originale, controllo grafico, HTTP, integrazione indice e modulo.
