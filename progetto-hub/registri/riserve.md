@@ -19,3 +19,6 @@ Non equiparare tappûaḥ a specie certa; Genesi 3 non nomina il frutto. Boṭn�
 
 ## Lotto 12 — 28 novembre 2026
 Preservate tutte le riserve degli apparati e dei capitoli; nessun cambio di status delle identificazioni. Distinguere validità tassonomica, grado di evidenza per singolo passo e tradizione rituale; mĕnōrāh non fitonimo, galgal possibile metafora, ḥāmîṣ aggettivo; non usare papiro/platano come emblemi certi. Duplicati H1534/H5488 e piano #170 demandati al flusso scientifico, non verificato qui stato corrente del piano. Nessuna nuova collazione facsimili. Restano tavola originale, controllo grafico, HTTP, integrazione indice/modulo.
+
+## Lotto 13 — 28 novembre 2026
+189 record non equivalgono a 189 lemmi distinti o specie. Corrispondenze A.2 nominali non equivalenze tassonomiche; preservati duplicati/lacune da verificare nel flusso A.7. Amomo variante testuale e codici diversi; Hadassah antroponimo; tessuto sindon non identifica un manufatto conservato. Nessuna nuova collazione facsimili. Restano tavola, collaudo grafico RTL/mobile, HTTP, integrazione indice/modulo.
