@@ -27,6 +27,7 @@
 | 15D.1-associazione | Caricamento e associazione prima copertina | Attachment #8782 verificato, featured #778 aggiornato e riletto; titolo e ALT verificati, didascalia scritta ma non riletta. Media #972 conservato. | 15D.2 Sukkot; collaudo grafico e didascalia in 15E. |
 | 15D.2-preflight | Copertina Sukkot | Bozza #8770 e cinque monografie rilette; selezione botanica e riserve documentate. | Generazione, revisione, ottimizzazione e associazione. |
 | 15D.2-tavola | Generazione e ottimizzazione Sukkot | PNG e WebP 1024×1536, WebP 368934 byte; revisione visiva e hash registrati. PUT bloccato da DNS. | Upload da browser e associazione #8770, poi 15D.3. |
+| 15D.2-associazione | Copertina Sukkot associata e preflight upload base64 | Attachment #8783 verificato su #8770, bozza conservata, ALT/titolo verificati, didascalia scritta non riletta. Test atlas-media-start su #8771 respinto; protocollo base64 prioritario, estensione pagine da predisporre. | Collaudare upload base64 per pagine senza modificare monografie, poi 15D.3 cereali e legumi. |
 
 ## Registri
 
