@@ -57,3 +57,15 @@ Prossimo: restanti 88 candidati, quindi metadati dei 94 medicinali non candidati
 | 895 | 889 | 889 | publish | non valorizzato | nessuno | 14 | 14 |
 | 8583 | 3937 | 3937 | publish | traditional | nessuno | 4 | 4 |
 Livelli vuoti: #1589, #2251, #1147, #895. Campi essenziali vuoti: #1589 pdb_contraindications; #2251 pdb_contraindications, pdb_interactions. Relazioni complessive: 40; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 22/105.
+
+
+## Secondo gruppo metadati e relazioni, parte B (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 3483 | 3482 | 3482 | publish | insufficient | nessuno | 19 | 16 |
+| 2095 | 2080 | 2080 | publish | non valorizzato | nessuno | 5 | 5 |
+| 998 | 992 | 992 | publish | non valorizzato | pdb_side_effects, pdb_contraindications, pdb_interactions | 10 | 10 |
+| 1116 | 1104 | 1104 | publish | non valorizzato | pdb_contraindications, pdb_interactions | 9 | 9 |
+| 1040 | 1031 | 1031 | publish | non valorizzato | pdb_interactions | 4 | 4 |
+Livelli vuoti: #2095, #998, #1116, #1040. Campi essenziali vuoti: #998 pdb_side_effects, pdb_contraindications, pdb_interactions; #1116 pdb_contraindications, pdb_interactions; #1040 pdb_interactions. Relazioni complessive: 47; possibili duplicati API: #3483 (3). Nessuna modifica WordPress. Cumulativo 27/105.
