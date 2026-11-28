@@ -375,3 +375,25 @@ Atlas-media-info full per 15 schede, tutti i file locali presenti, featured=plat
 | 1057 | 1069 | 1086×1448 | 382724 | image/webp | ae0f840ce8f240367e1502fdf4f8cbf95126bd5c4703166de77d2dd0ff9a9495 |
 
 **A.3 undicesimo passaggio (28/11):** secondo gruppo media 15/15 full locali, featured=plate=attachment, ALT nonvuoti, SHA-256 distinti, 14 WebP/1 JPEG, larghezza >=900. Cumulativo 30/113 verificati a livello file, non visivo né HTTP. #942/#943 Centaurea: verbale cap.9 conferma sostituzione grafica ancora in coda, mitigazione testuale non equivale a sostituzione; fingerprint live registrato, non confrontare direttamente con fingerprint metadati senza tipo. Concordanza ATL riletta e ricontata: 64 righe legacy già valorizzate (header precedente 43 obsoleto), nove associazioni confermate da sei dossier, quattro nuove righe legacy, operativo #2243 ATL-0155; totale 68/113 legacy riportati, 11/113 operativi, 45 legacy non accertati. Altre righe già presenti non tutte ricollazionate in questo passaggio. Esclusi falsi match infraspecifici Triticum. Nessuna modifica WP. [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md). A.3 aperto, riserve precedenti conservate.
+
+## A.3 — terzo gruppo media e ATL (28/11/2026)
+Rilettura live atlas-media-info full su 15 ID; tutti presenti e coerenti. Registro media: 45/113 ID distinti dopo integrazione, 15 nuove righe; eventuali record già presenti riletti senza duplicazione.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 6551 | 6571 | 1086×1448 | 304646 | image/webp | 24567492c0f3b53f1fcc88895e79a70c67ff9814b72f9d0f6b2a512d8e8e7234 |
+| 1358 | 1359 | 900×1350 | 312959 | image/jpeg | 0f4cbdc7d21387c484256644ec2e5138f10aa59db9364f77232380bb1766fe53 |
+| 627 | 629 | 1086×1448 | 384150 | image/webp | 154c3e455a601d79ed95e693040cb31375ccda64b1aa4b433b3cf5b41e7740cc |
+| 1551 | 1553 | 1024×1536 | 333574 | image/webp | 8628903aec0cb78b9fd64f70bd177046e1e7564a0dc9d0132f9300911311c4d0 |
+| 1955 | 7791 | 1024×1536 | 437454 | image/webp | 14389b2fd4b95c7e10dcbd9d286a151e01c1e8730b1fb71b822de0b3064834f5 |
+| 1257 | 1258 | 733×1100 | 112046 | image/jpeg | ba1d0e5177cdbb5d3a29db2201094c420b380a6e2db325a9600e306bd9638cc8 |
+| 1227 | 1228 | 1086×1448 | 339460 | image/webp | becf0e76896ff525b647f4fe4b6eaabc5b836a3aab1f1147a89dab295c299602 |
+| 1383 | 1384 | 900×1350 | 233883 | image/jpeg | dd3aa22d5d36bc90c976886db97d577f150c9fd1ae4206670979154d74cb5ee6 |
+| 1791 | 1792 | 1024×1536 | 258698 | image/webp | 4c67f681c63e8e709e22a6570768ef6ff57fa0802f867481f7922697a8135e3d |
+| 1485 | 1487 | 1024×1536 | 288298 | image/webp | da35c1f48814f8e7a9db9997071343c21e004f1c39b545a3a31d555af2a82f69 |
+| 1704 | 7833 | 1200×1311 | 473084 | image/webp | 731f9fbefad70954092051f8327b29ae12f02f43e3ce850dcc03893f9a0a63ce |
+| 1819 | 1820 | 1086×1448 | 348830 | image/webp | 244eeb49003ec51b02aeb9c1c9bec177a31954124b7bc2ff2b8236309aa1faca |
+| 6177 | 6192 | 1080×1440 | 178740 | image/webp | 87ca9cd0c7d8ca3bf6d40083c42bc647363a52b1a9fca9cc56a1a0cced9949c8 |
+| 4117 | 4119 | 1024×1536 | 296116 | image/webp | a5432b3b427953c04f33b74346b4f60e21440e5bb3845c7c28c2eba496ca890a |
+| 152 | 188 | 1086×1448 | 538932 | image/webp | 375d61024d92d55a2fbe8e13e984200e4843b81f46a8f04ee22334169c21bdca |
+
+**A.3 — terzo gruppo media e concordanza nominale (28/11/2026):** 15/15 file locali effettivi, featured=plate=attachment, ALT nonvuoti e SHA-256, 12 WebP/3 JPEG; #1258 anguria larghezza733 da valutare. Nessuna modifica WP; non verifica visiva né HTTP. [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md) aggiornata con 29 corrispondenze nominali univoche, non attestazioni esplicite ID nel registro storico. Conteggio righe effettive dopo integrazione precedente dei dossier: 97/113 legacy (68 attestati in passaggi precedenti, 29 nominali), 11/113 operativi, 16 legacy ancora da accertare; non assimilare namespace o taxa infraspecifici. Verifica cumulativa media da conteggiare sulle righe effettive del registro; riserve precedenti, APG V, medicina e controllo iconografico aperti.
