@@ -38,7 +38,10 @@ add_action('save_post_page',static function($id){
     if(!isset($_POST['pdbhub_members'])||!is_string($_POST['pdbhub_members'])) return;
     $raw=wp_unslash($_POST['pdbhub_members']);
     if(strlen($raw)>4000) return;
-    $ids=pdbhub_valid_members(pdbhub_ids($raw));
+    $requested=pdbhub_ids($raw);
+    $ids=pdbhub_valid_members($requested);
+    // Reject invalid IDs without altering the existing associations.
+    if($ids!==$requested) return;
     update_post_meta($id,'_pdbhub_enabled',isset($_POST['pdbhub_enabled'])&&$_POST['pdbhub_enabled']==='1'?'1':'0');
     delete_post_meta($id,'_pdbhub_member');
     foreach($ids as $member) add_post_meta($id,'_pdbhub_member',$member,false);
