@@ -1,0 +1,474 @@
+[
+  {
+    "type": "pdb_plant",
+    "slug": "triticum-turgidum-subsp-durum-desf-husn-grano-duro-nella-bibbia",
+    "found": true,
+    "id": 5747,
+    "url": "https://piantedellabibbia.altervista.org/piante/triticum-turgidum-subsp-durum-desf-husn-grano-duro-nella-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "triticum-aestivum-l-frumento-tenero-e-identificazione-del-grano-biblico",
+    "found": true,
+    "id": 3953,
+    "url": "https://piantedellabibbia.altervista.org/piante/triticum-aestivum-l-frumento-tenero-e-identificazione-del-grano-biblico/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "orzo-hordeum-vulgare-l-bibbia-mietitura-e-spighe-a-due-o-sei-file",
+    "found": true,
+    "id": 1834,
+    "url": "https://piantedellabibbia.altervista.org/piante/orzo-hordeum-vulgare-l-bibbia-mietitura-e-spighe-a-due-o-sei-file/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "vite-vitis-vinifera",
+    "found": true,
+    "id": 143,
+    "url": "https://piantedellabibbia.altervista.org/piante/vite-vitis-vinifera/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "fico-ficus-carica",
+    "found": true,
+    "id": 152,
+    "url": "https://piantedellabibbia.altervista.org/piante/fico-ficus-carica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "melograno-punica-granatum",
+    "found": true,
+    "id": 212,
+    "url": "https://piantedellabibbia.altervista.org/piante/melograno-punica-granatum/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "olivo-olea-europaea-l-botanica-bibbia-e-usi-tradizionali",
+    "found": true,
+    "id": 129,
+    "url": "https://piantedellabibbia.altervista.org/piante/olivo-olea-europaea-l-botanica-bibbia-e-usi-tradizionali/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "palma-da-dattero-phoenix-dactylifera",
+    "found": true,
+    "id": 308,
+    "url": "https://piantedellabibbia.altervista.org/piante/palma-da-dattero-phoenix-dactylifera/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "triticum-turgidum-subsp-dicoccum-schrank-ex-schubl-thell-farro-dicocco",
+    "found": true,
+    "id": 6177,
+    "url": "https://piantedellabibbia.altervista.org/piante/triticum-turgidum-subsp-dicoccum-schrank-ex-schubl-thell-farro-dicocco/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "triticum-aestivum-subsp-spelta-l-thell-spelta-o-farro-grande",
+    "found": true,
+    "id": 6254,
+    "url": "https://piantedellabibbia.altervista.org/piante/triticum-aestivum-subsp-spelta-l-thell-spelta-o-farro-grande/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cedro-agrume-citrus-medica-etrog-bibbia",
+    "found": true,
+    "id": 1271,
+    "url": "https://piantedellabibbia.altervista.org/piante/cedro-agrume-citrus-medica-etrog-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "mirto-myrtus-communis",
+    "found": true,
+    "id": 525,
+    "url": "https://piantedellabibbia.altervista.org/piante/mirto-myrtus-communis/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "salix-alba-salice-bianco-bibbia",
+    "found": true,
+    "id": 3016,
+    "url": "https://piantedellabibbia.altervista.org/piante/salix-alba-salice-bianco-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "salix-acmophylla-salice-orientale-bibbia",
+    "found": true,
+    "id": 2976,
+    "url": "https://piantedellabibbia.altervista.org/piante/salix-acmophylla-salice-orientale-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "salix-babylonica-salice-piangente-bibbia",
+    "found": true,
+    "id": 3028,
+    "url": "https://piantedellabibbia.altervista.org/piante/salix-babylonica-salice-piangente-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "salix-x-fragilis-salice-fragile-ibrido-bibbia",
+    "found": true,
+    "id": 3050,
+    "url": "https://piantedellabibbia.altervista.org/piante/salix-x-fragilis-salice-fragile-ibrido-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "salix-mucronata-salice-safsaf-bibbia",
+    "found": true,
+    "id": 3073,
+    "url": "https://piantedellabibbia.altervista.org/piante/salix-mucronata-salice-safsaf-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "pioppo-delleufrate-populus-euphratica-olivier-i-salici-di-babilonia-e-le-identificazioni-bibliche",
+    "found": true,
+    "id": 2402,
+    "url": "https://piantedellabibbia.altervista.org/piante/pioppo-delleufrate-populus-euphratica-olivier-i-salici-di-babilonia-e-le-identificazioni-bibliche/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "miglio-comune-panicum-miliaceum-ezechiele-dohan-bibbia",
+    "found": true,
+    "id": 2206,
+    "url": "https://piantedellabibbia.altervista.org/piante/miglio-comune-panicum-miliaceum-ezechiele-dohan-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "sorghum-bicolor-l-moench-sorgo-do%e1%b8%a5an-e-bibbia",
+    "found": true,
+    "id": 3561,
+    "url": "https://piantedellabibbia.altervista.org/piante/sorghum-bicolor-l-moench-sorgo-do%e1%b8%a5an-e-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "vicia-faba-l-fava-biblica-pol-samuele-ezechiele",
+    "found": true,
+    "id": 4117,
+    "url": "https://piantedellabibbia.altervista.org/piante/vicia-faba-l-fava-biblica-pol-samuele-ezechiele/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "lenticchia-lens-culinaris-genesi-esau-bibbia-botanica",
+    "found": true,
+    "id": 1961,
+    "url": "https://piantedellabibbia.altervista.org/piante/lenticchia-lens-culinaris-genesi-esau-bibbia-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cece-cicer-arietinum-bibbia-isaia-30-24",
+    "found": true,
+    "id": 1031,
+    "url": "https://piantedellabibbia.altervista.org/piante/cece-cicer-arietinum-bibbia-isaia-30-24/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "loglio-ubriacante-lolium-temulentum-zizzanie-matteo-13-bibbia",
+    "found": true,
+    "id": 1981,
+    "url": "https://piantedellabibbia.altervista.org/piante/loglio-ubriacante-lolium-temulentum-zizzanie-matteo-13-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "anethum-graveolens-aneto-matteo-23-23-anice",
+    "found": true,
+    "id": 4727,
+    "url": "https://piantedellabibbia.altervista.org/piante/anethum-graveolens-aneto-matteo-23-23-anice/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "coriandolo-coriandrum-sativum-manna-bibbia",
+    "found": true,
+    "id": 1383,
+    "url": "https://piantedellabibbia.altervista.org/piante/coriandolo-coriandrum-sativum-manna-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cumino-cuminum-cyminum-l-isaia-28-matteo-2323-e-botanica",
+    "found": true,
+    "id": 1485,
+    "url": "https://piantedellabibbia.altervista.org/piante/cumino-cuminum-cyminum-l-isaia-28-matteo-2323-e-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cumino-nero-nigella-sativa-l-qe%e1%b9%a3a%e1%b8%a5-di-isaia-28-botanica-e-semi",
+    "found": true,
+    "id": 2063,
+    "url": "https://piantedellabibbia.altervista.org/piante/cumino-nero-nigella-sativa-l-qe%e1%b9%a3a%e1%b8%a5-di-isaia-28-botanica-e-semi/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "menta-selvatica-mentha-longifolia-bibbia",
+    "found": true,
+    "id": 2006,
+    "url": "https://piantedellabibbia.altervista.org/piante/menta-selvatica-mentha-longifolia-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "senape-nera-brassica-nigra-mutarda-nigra-nella-bibbia",
+    "found": true,
+    "id": 807,
+    "url": "https://piantedellabibbia.altervista.org/piante/senape-nera-brassica-nigra-mutarda-nigra-nella-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "origano-siriaco-origanum-syriacum-zaatar-e-ezov-biblico",
+    "found": true,
+    "id": 2140,
+    "url": "https://piantedellabibbia.altervista.org/piante/origano-siriaco-origanum-syriacum-zaatar-e-ezov-biblico/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "ruta-chalepensis-ruta-aleppo-luca-11-42",
+    "found": true,
+    "id": 2766,
+    "url": "https://piantedellabibbia.altervista.org/piante/ruta-chalepensis-ruta-aleppo-luca-11-42/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cannella-vera-cinnamomum-verum-bibbia-aromi",
+    "found": true,
+    "id": 1133,
+    "url": "https://piantedellabibbia.altervista.org/piante/cannella-vera-cinnamomum-verum-bibbia-aromi/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cassia-cinnamomum-aromaticum-bibbia-olio-sacro",
+    "found": true,
+    "id": 1104,
+    "url": "https://piantedellabibbia.altervista.org/piante/cassia-cinnamomum-aromaticum-bibbia-olio-sacro/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "zafferano-crocus-sativus-cantico-bibbia",
+    "found": true,
+    "id": 1432,
+    "url": "https://piantedellabibbia.altervista.org/piante/zafferano-crocus-sativus-cantico-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "amomum-subulatum-amomo-cardamomo-nero-bibbia",
+    "found": true,
+    "id": 6979,
+    "url": "https://piantedellabibbia.altervista.org/piante/amomum-subulatum-amomo-cardamomo-nero-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "nardo-nardostachys-jatamansi-bibbia-profumo",
+    "found": true,
+    "id": 2022,
+    "url": "https://piantedellabibbia.altervista.org/piante/nardo-nardostachys-jatamansi-bibbia-profumo/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "palmarosa-cymbopogon-martini-canna-aromatica-nella-bibbia-e-botanica",
+    "found": true,
+    "id": 1583,
+    "url": "https://piantedellabibbia.altervista.org/piante/palmarosa-cymbopogon-martini-canna-aromatica-nella-bibbia-e-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "legno-dagar-aquilaria-malaccensis-lam-sin-aquilaria-agallocha",
+    "found": true,
+    "id": 700,
+    "url": "https://piantedellabibbia.altervista.org/piante/legno-dagar-aquilaria-malaccensis-lam-sin-aquilaria-agallocha/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "mirra-commiphora-myrrha-bibbia-botanica",
+    "found": true,
+    "id": 1326,
+    "url": "https://piantedellabibbia.altervista.org/piante/mirra-commiphora-myrrha-bibbia-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "balsamo-di-galaad-commiphora-gileadensis-bibbia",
+    "found": true,
+    "id": 1307,
+    "url": "https://piantedellabibbia.altervista.org/piante/balsamo-di-galaad-commiphora-gileadensis-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "incenso-boswellia-sacra-fluck-bibbia-resina-e-botanica",
+    "found": true,
+    "id": 760,
+    "url": "https://piantedellabibbia.altervista.org/piante/incenso-boswellia-sacra-fluck-bibbia-resina-e-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "boswellia-papyrifera-incenso-africano-bibbia",
+    "found": true,
+    "id": 5662,
+    "url": "https://piantedellabibbia.altervista.org/piante/boswellia-papyrifera-incenso-africano-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "boswellia-serrata-incenso-indiano-bibbia",
+    "found": true,
+    "id": 5669,
+    "url": "https://piantedellabibbia.altervista.org/piante/boswellia-serrata-incenso-indiano-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "galbano-ferula-gummosa-boiss-resina-esodo-3034-e-botanica",
+    "found": true,
+    "id": 1756,
+    "url": "https://piantedellabibbia.altervista.org/piante/galbano-ferula-gummosa-boiss-resina-esodo-3034-e-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "astragalus-gummifer-adragante-nekot-genesi",
+    "found": true,
+    "id": 4914,
+    "url": "https://piantedellabibbia.altervista.org/piante/astragalus-gummifer-adragante-nekot-genesi/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cisto-di-creta-cistus-creticus-ladano-bibbia",
+    "found": true,
+    "id": 1167,
+    "url": "https://piantedellabibbia.altervista.org/piante/cisto-di-creta-cistus-creticus-ladano-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "cisto-a-foglie-di-salvia-cistus-salviifolius-bibbia",
+    "found": true,
+    "id": 1198,
+    "url": "https://piantedellabibbia.altervista.org/piante/cisto-a-foglie-di-salvia-cistus-salviifolius-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "liquidambar-orientalis-storace-orientale-balsamo-bibbia",
+    "found": true,
+    "id": 5690,
+    "url": "https://piantedellabibbia.altervista.org/piante/liquidambar-orientalis-storace-orientale-balsamo-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "styrax-benzoin-dryand-benzoino-di-sumatra-e-onice-biblico",
+    "found": true,
+    "id": 3630,
+    "url": "https://piantedellabibbia.altervista.org/piante/styrax-benzoin-dryand-benzoino-di-sumatra-e-onice-biblico/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "mandorlo-prunus-amygdalus",
+    "found": true,
+    "id": 467,
+    "url": "https://piantedellabibbia.altervista.org/piante/mandorlo-prunus-amygdalus/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "noce-comune-juglans-regia-l-il-giardino-dei-noci-nel-cantico-611",
+    "found": true,
+    "id": 1901,
+    "url": "https://piantedellabibbia.altervista.org/piante/noce-comune-juglans-regia-l-il-giardino-dei-noci-nel-cantico-611/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "pistacchio-vero-pistacia-vera-l-bo%e1%b9%adnim-genesi-4311-e-botanica",
+    "found": true,
+    "id": 2312,
+    "url": "https://piantedellabibbia.altervista.org/piante/pistacchio-vero-pistacia-vera-l-bo%e1%b9%adnim-genesi-4311-e-botanica/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "gelso-nero-morus-nigra-sicamino-bibbia",
+    "found": true,
+    "id": 2011,
+    "url": "https://piantedellabibbia.altervista.org/piante/gelso-nero-morus-nigra-sicamino-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "sicomoro-ficus-sycomorus",
+    "found": true,
+    "id": 367,
+    "url": "https://piantedellabibbia.altervista.org/piante/sicomoro-ficus-sycomorus/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "carrubo-ceratonia-siliqua-bibbia-baccelli",
+    "found": true,
+    "id": 992,
+    "url": "https://piantedellabibbia.altervista.org/piante/carrubo-ceratonia-siliqua-bibbia-baccelli/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "melo-malus-domestica-tappuah-bibbia",
+    "found": true,
+    "id": 1995,
+    "url": "https://piantedellabibbia.altervista.org/piante/melo-malus-domestica-tappuah-bibbia/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "malus-sylvestris-l-mill-melo-selvatico-e-lipotesi-del-tappua%e1%b8%a5",
+    "found": true,
+    "id": 6332,
+    "url": "https://piantedellabibbia.altervista.org/piante/malus-sylvestris-l-mill-melo-selvatico-e-lipotesi-del-tappua%e1%b8%a5/",
+    "status": "publish"
+  },
+  {
+    "type": "pdb_plant",
+    "slug": "albicocco-prunus-armeniaca-l-il-tappua%e1%b8%a5-biblico-tra-tradizione-e-archeobotanica",
+    "found": true,
+    "id": 2420,
+    "url": "https://piantedellabibbia.altervista.org/piante/albicocco-prunus-armeniaca-l-il-tappua%e1%b8%a5-biblico-tra-tradizione-e-archeobotanica/",
+    "status": "publish"
+  }
+]
