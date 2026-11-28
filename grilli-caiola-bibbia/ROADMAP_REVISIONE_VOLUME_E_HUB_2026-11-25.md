@@ -1952,3 +1952,6 @@ Cap. 10, filologia e medicina: sette passi e nove lemmi aggiunti, quattordici re
 
 
 - Cap.10 lotto 10.11g: EMA 2016 assessment e 2022 addendum consultati nelle sezioni pertinenti, #670/#8553 aggiornate/rilette; RCT Gundelia abstract confermato, integrale 403. Piano 30/30 applicato 07:32:45 GMT e verificato campo per campo, #4156 assorbita, 239 relazioni attese post-fusione, gradi invariati. Audit locale 9/9; dossier/matrice aggiornati, residui bibliografici e tecnici conservati. Chiusura definitiva non dichiarata.
+
+
+- Cap.10 lotto 10.11h: fonti EMA #8752/#8754 pubblicate e rilette con rel #6381/#6382; censimento live 241 relazioni (169 botaniche/72 medicinali), 21 identificazioni con lemma e gradi invariati, audit locale finale 22/22, 10/10 tavole sincronizzate. [Verbale conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_10_2026-11-28.md) e matrice aggiornati. Ciclo scientifico-editoriale completato con riserve, non chiusura scientifica assoluta; residui documentali e tecnici conservati, cap11 non avviato.
