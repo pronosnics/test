@@ -58,3 +58,7 @@
 
 ### Esito prima proposta iconografica
 - Generata proposta digitale revisionata, non pubblicata. Controllo visivo: unità dispersive più corte e con corona di spine erette, ma sinflorescenze ancora troppo simili a un singolo capolino di cardo, con corolle prevalentemente tubulari erette anziché lobi espansi come nelle foto di Vitek et al. 2017 fig.2. Non approvata come sostituzione definitiva; #1808 conservata senza modifica. Ulteriore revisione necessaria sulla struttura delle sinflorescenze. Nessuna attestazione di fedeltà diagnostica.
+
+
+### Tavola riletta il 28 novembre 2026
+Ramo fiorito, foglie, brattee e infiorescenza composta. La tavola esclude la ricostruzione non verificabile dell’unità fruttifera. Scheda #1807, precedente allegato #1808, nuova tavola e immagine in evidenza #8705. WebP di 354770 byte. SHA-256 del file locale e di quello memorizzato da WordPress: `7b1c9bcfe56b3ccb0f26f94d152d64b918a02a2e07465b3aff1172ae9834b9b2`. L’allegato precedente resta disponibile. Il riscontro riguarda il file memorizzato e il renderer, non la cache pubblica.

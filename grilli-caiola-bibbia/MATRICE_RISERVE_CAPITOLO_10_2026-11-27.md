@@ -60,3 +60,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.10** P1-L Azeka, ʾāṭād e corona richiedono valutazioni distinte. P2-A Hepper e integrali dei singoli esperimenti non verificati; P2-D voucher, differenze fra estratti e condizioni di saggio. P3 HTTP. Medicina #8701.
+
+
+**Esito 10.11a, 28 novembre.** Risolte le P3 di sostituzione per #676, #3941 e #1808. Le sigle delle vecchie tavole nei paragrafi precedenti descrivono la cronologia. I nuovi allegati sono #8704, #8706 e #8705. Il frutto dello zigofillo e le unità fruttifere di Gundelia non sono raffigurati nelle nuove vedute di rami in fiore. Restano la cautela sulla capsula di Cistus e la verifica da rete pubblica.

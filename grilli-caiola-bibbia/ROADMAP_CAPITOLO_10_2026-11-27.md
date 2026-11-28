@@ -227,3 +227,7 @@ Aggiornate #4269 e #4271 con etnobotanica e trial topico aggiuntivo alla clindam
 
 ### 10.10 — Lycium europaeum
 Integrate #1990 e #8701, due studi discordanti e quattro relazioni. [Dossier del licio](DOSSIER_CAPITOLO_10_10_LYCIUM_EUROPAEUM_2026-11-27.md). Il censimento comprende ora dieci dossier. Prossimo passaggio 10.11, facsimile Moldenke, apparati, tavole e audit trasversale.
+
+
+### 10.11a — Iconografia
+Aloe #8704, Zygophyllum #8706 e Gundelia #8705 assegnate e rilette sia come tavola sia come immagine in evidenza. Tre SHA-256 verificati. Salvia conserva #8681. Le altre sei tavole restano associate agli allegati censiti.
