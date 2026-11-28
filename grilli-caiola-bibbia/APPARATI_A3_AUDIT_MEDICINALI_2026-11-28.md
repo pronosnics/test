@@ -246,3 +246,15 @@ Livelli vuoti: #4633. Campi essenziali vuoti: nessuno. Relazioni complessive: 40
 | 2709 | 2708 | 2708 | publish | alimentare tradizionale; fitochimico analitico; preclinico su animali; non studi clinici umani validati | nessuno | 13 | 13 |
 | 2768 | 2766 | 2766 | publish | preclinical | nessuno | 12 | 12 |
 Livelli vuoti: nessuno. Campi essenziali vuoti: nessuno. Relazioni complessive: 56; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 92/105.
+
+
+## Nono gruppo metadati e relazioni, parte B (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 3017 | 3016 | 3016 | publish | insufficient | nessuno | 15 | 15 |
+| 8679 | 8677 | 8677 | publish | non valorizzato | pdb_tradition | 3 | 3 |
+| 2450 | 2441 | 2441 | publish | Etnobotanica storica, dati sperimentali preclinici/non controllati e fonte confusa con Pterocarpus indicus; nessuna prova clinica applicabile ai versetti. | nessuno | 5 | 5 |
+| 368 | 367 | 367 | publish | traditional | nessuno | 4 | 4 |
+| 3563 | 3561 | 3561 | publish | insufficient | nessuno | 6 | 6 |
+Livelli vuoti: #8679. Campi essenziali vuoti: #8679 pdb_tradition. Relazioni complessive: 33; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 97/105.
