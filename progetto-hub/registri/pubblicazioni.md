@@ -43,3 +43,6 @@ Solo bozza tema e pagina indice #8767 draft modificate. Modulo 0.2.0 archiviato,
 
 ## Lotto 15B — 28 novembre 2026
 Solo bozze #8771/#8774/#8775 aggiornate nei permalink; nessuna pubblicazione o attivazione. Pacchetto ZIP predisposto, istruzioni in README-0.2.0. Nessuna modifica alle singole schede.
+
+## Lotto 15C.1 — 28 novembre 2026
+Lotto 15C.1 — utente conferma attivazione, verificata via API. Tema attivo piante-della-bibbia-theme, nessuna nuova pubblicazione. Backup effettivo non confermato. Nessuna scrittura WordPress da parte dell'assistente in questo checkpoint.
