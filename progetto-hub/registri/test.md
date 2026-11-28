@@ -26,3 +26,6 @@ Rilettura MCP #8767: draft e slug corretti; Yoast aggiornato con esito positivo 
 
 ## Lotto 7 — 28 novembre 2026
 Rilettura API #778 pubblicata, identità e URL invariati, contenuto uguale alla revisione GitHub, 7 righe e 6 H2 bilanciati, indicazione obsoleta eliminata, SEO preesistente conservata. Tutte le 12 destinazioni indicate nel registro collegamenti sono pubblicate e URL confrontati; nessun controllo HTTP indipendente in questa sessione.
+
+## Lotto 8 — 28 novembre 2026
+Rilettura #8770: draft, slug confermato, HTML identico al sorgente GitHub (8852 caratteri), 8 H2 aperti/chiusi, 4 righe tabella, 24 URL distinti. Yoast get-post-seo-data conferma titolo e descrizione; get-content manager non li espone. Nessuna tavola in evidenza (0), nessun rendering pubblico o mobile verificato.
