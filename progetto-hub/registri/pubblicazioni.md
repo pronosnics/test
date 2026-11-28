@@ -46,3 +46,6 @@ Solo bozze #8771/#8774/#8775 aggiornate nei permalink; nessuna pubblicazione o a
 
 ## Lotto 15C.1 — 28 novembre 2026
 Lotto 15C.1 — utente conferma attivazione, verificata via API. Tema attivo piante-della-bibbia-theme, nessuna nuova pubblicazione. Backup effettivo non confermato. Nessuna scrittura WordPress da parte dell'assistente in questo checkpoint.
+
+## Lotto 15C.2 — 28 novembre 2026
+Lotto 15C.2 — screenshot conferma #778 publish e sette hub draft; nessuna nuova pubblicazione. Backup pre-installazione confermato dall'utente. Prossimi passi: anteprima shortcode e rimandi inversi con tema bozza, tavole tematiche, collaudo grafico e pubblicazione graduale.
