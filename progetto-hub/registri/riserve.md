@@ -25,3 +25,6 @@ Preservate tutte le riserve degli apparati e dei capitoli; nessun cambio di stat
 
 ## Lotto 14 — 28 novembre 2026
 Audit A.3 105 candidati/104 piante, 51 evidence_level vuoti, 9 narrativi, 37 schede con almeno un campo sicurezza vuoto; non certificazione scientifica. Non estendere il risultato EMA a specie/parti/preparazioni diverse. 198 schede non equivalgono a rimedi biblici o terapie validate. Nessuna prescrizione, dose, ricetta o suggerimento terapeutico. Nessuna nuova collazione integrale facsimili. Restano tavola, collaudo grafico, HTTP, integrazione indice/modulo e revisione scientifica P1 separata.
+
+## Lotto 15A — 28 novembre 2026
+Tavole originali non realizzate, nessuna nuova certificazione scientifica. 168 destinazioni distinte da risolvere e controllare HTTP prima di pubblicare. Modulo non installato; 15 test simulati non equivalgono a collaudo WP. WPVibe quota esaurita; backup, mobile, tastiera, canonical, sitemap e rollback da verificare. Pacchetto 0.2.0 ancora da assemblare, non usare 0.1.0.
