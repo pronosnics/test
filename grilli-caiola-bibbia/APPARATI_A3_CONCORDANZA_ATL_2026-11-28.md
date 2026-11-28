@@ -1,5 +1,5 @@
 # A.3 — Concordanza ATL parziale, 28/11/2026
-Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":99,"operational":11,"unresolved":14,"conflicts":[]}.
+Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":100,"operational":11,"unresolved":13,"conflicts":[]}.
 
 | WP | Legacy attestato | Operativo attestato | Fonte |
 |---|---|---|---|
@@ -95,7 +95,7 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 2619 | ATL-0195 | non accertato | roadmap cap.10 + registro storico (nome) |
 | 2585 | ATL-0193 | ATL-0173-RA | registro storico |
 | 2639 | ATL-0196 | non accertato | registro storico |
-| 2689 | non accertato | non accertato | da verificare |
+| 2689 | ATL-0201 | non accertato | moldenke-bible-plants/QA_REGISTRO_ANTI_RIPETIZIONI_2026-11-24.md, 25/11, ID esplicito |
 | 2677 | ATL-0200 | non accertato | roadmap cap.7 |
 | 2708 | ATL-0202 | non accertato | grilli-caiola-bibbia/VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_9_2026-11-27.md |
 | 2766 | ATL-0206 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
@@ -181,3 +181,5 @@ Nove associazioni legacy confermate tramite rilettura di sei dossier/verbali; 4 
 
 ## Quarto passaggio — sinonimie e screening residuo (28/11/2026)
 Riletto registro storico JSON, 246 record vs 245 dichiarati; confronto con i 16 ID non accertati. Due corrispondenze nominali/sinonimiche univoche, senza attestazione ID nel registro storico: #4774 ATL-0027 Anthemis palaestina → Cota palaestina (POWO https://powo.science.kew.org/taxon/198398-1); #807 ATL-0047 Brassica nigra → Mutarda nigra (POWO https://powo.science.kew.org/taxon/279422-1). Nessuna collisione con righe esistenti. #2689 Rubia tinctorum: candidato ATL-0201, grafia storica Rubia tinctorium da confermare in dossier/voce Duke, non assegnato in questo passaggio. #3962 Tulipa agenensis: candidato ATL-0263 Tulipa sharonensis, ma registro contiene anche ATL-0262 Tulipa montana e ATL-0264 Tulipa spp.; non unificare automaticamente. #6177 codice null esplicito, #5747 e #6254 non assimilabili a frumento tenero ATL-0260. #6551 Cichorium pumilum non assimilato a C. endivia o C. intybus; #6599 Mandragora autumnalis distinta da M. officinarum; #6332 Malus sylvestris distinta da M. domestica; #8330 Typha latifolia distinta dal record T. angustata; #8677 Salvia palaestina distinta da S. judaica. #6979, #4117, #3984 e #3996 nessun record omonimo nel registro consultato. Cumulativo 99/113 legacy, 11/113 operativi, residui 14: #6979, #6551, #6177, #4117, #5747, #8330, #6599, #6332, #3984, #3996, #2689, #8677, #6254, #3962. Nessuna modifica WP.
+
+**Integrazione immediata al quarto passaggio:** il registro QA moldenke-bible-plants/QA_REGISTRO_ANTI_RIPETIZIONI_2026-11-24.md, sezione 25/11, attesta esplicitamente ATL-0201 = WP #2689, Rubia tinctorum (grafia legacy Rubia tinctorium), tavola #2696. Riserva precedente risolta. Totale 100/113, operativi 11/113, residui 13: #6979, #6551, #6177, #4117, #5747, #8330, #6599, #6332, #3984, #3996, #8677, #6254, #3962.
