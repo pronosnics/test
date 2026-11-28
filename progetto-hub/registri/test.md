@@ -29,3 +29,6 @@ Rilettura API #778 pubblicata, identità e URL invariati, contenuto uguale alla 
 
 ## Lotto 8 — 28 novembre 2026
 Rilettura #8770: draft, slug confermato, HTML identico al sorgente GitHub (8852 caratteri), 8 H2 aperti/chiusi, 4 righe tabella, 24 URL distinti. Yoast get-post-seo-data conferma titolo e descrizione; get-content manager non li espone. Nessuna tavola in evidenza (0), nessun rendering pubblico o mobile verificato.
+
+## Lotto 9 — 28 novembre 2026
+Rilettura #8771 draft, HTML identico GitHub 9637 caratteri, 8 H2 bilanciati, 7 righe tabella, 33 URL distinti, Yoast dedicato conferma titolo e descrizione. Featured media 0; rendering non verificato.
