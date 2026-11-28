@@ -28,3 +28,6 @@ Creata bozza #8773 alberi-da-frutto-bibbia. 15 monografie in tre gruppi (5/6/4),
 
 ## Lotto 12 — 28 novembre 2026
 Creata bozza #8774 identificazioni-botaniche-controverse-bibbia. Letti metodologia #2035, matrice riserve apparati e dossier lessicali pertinenti. 26 casi in quattro gruppi (6/7/8/5), con contesto, interpretazioni e limite di determinazione; non 26 identificazioni formalmente controverse (inclusi casi probabili, non determinati e termini non botanici). Definizioni editoriali coerenti con le quattro categorie della metodologia. Sorgente lotto-12-identificazioni-controverse/identificazioni-controverse.html.
+
+## Lotto 13 — 28 novembre 2026
+Creata bozza #8775 nomi-lingue-antiche-piante-bibbia. Letti concordanza A.2 e inventario live completo 100+89 = 189 record publish (non necessariamente lemmi distinti né fitonimi). Selezione 32 schede effettivamente consultate, 18 ebraiche/14 greche, quattro gruppi 11/9/7/5. Distinti pianta, frutto, prodotto, materiale, nome proprio, forma flessa e codice. Aramaico/latino inquadrati senza dichiarare repertori autonomi completi. Sorgente lotto-13-nomi-lingue-antiche/nomi-lingue-antiche.html.
