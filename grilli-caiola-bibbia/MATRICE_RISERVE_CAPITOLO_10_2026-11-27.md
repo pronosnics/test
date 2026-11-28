@@ -75,3 +75,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.11e.** Verificati 14/14 collegamenti filologici #461–474 e audit locale 18/18 sui passi/lemmi coinvolti; piano G173/G174 ancora pending. Hepper localizzato bibliograficamente, non letto in originale; Włodarczyk 2007 consultata solo come testimonianza secondaria, non risolve P2-A. Registro legacy consultato: nove taxa rintracciati inclusi Tetraena dumosa e Rhamnus palaestinas; Salvia palaestina non ha voce autonoma, distinta da S. judaica. Codici operativi residui non dedotti né modificati. Restano aperte le precedenti riserve scientifiche, tecniche e amministrative.
+
+
+**10.11f.** Giuggiolo: esplicitata discrepanza dell'abstract Shakiba (80/105/68), risultato e limiti di co-terapia; aggiornate e rilette #4271/#8693, audit 3/3. P2-A testo integrale ancora 403, protocollo non reperito; P2-D flusso, effetti assoluti, abbandoni e voucher non risolti, P1-L sicurezza a lungo termine e monoterapia non stabilite. Nessuna promozione del grado o modifica del piano pendente.
