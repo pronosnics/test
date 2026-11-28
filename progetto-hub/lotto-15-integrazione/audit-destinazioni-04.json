@@ -1,0 +1,234 @@
+[
+  {
+    "type": "pdb_term",
+    "slug": "qaneh-%d7%a7%d6%b8%d7%a0%d6%b6%d7%94-h7070-canna-aromatica-e-specie-candidate",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/qaneh-%d7%a7%d6%b8%d7%a0%d6%b6%d7%94-h7070-canna-aromatica-e-specie-candidate/",
+    "found": true,
+    "id": 1586,
+    "returned": [
+      [
+        1586,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/qaneh-%d7%a7%d6%b8%d7%a0%d6%b6%d7%94-h7070-canna-aromatica-e-specie-candidate/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "ezov-issopo-biblico-origanum-syriacum",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/ezov-issopo-biblico-origanum-syriacum/",
+    "found": true,
+    "id": 2142,
+    "returned": [
+      [
+        2142,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/ezov-issopo-biblico-origanum-syriacum/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "chavatzelet-h2261-fiore-cantico-isaia",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/chavatzelet-h2261-fiore-cantico-isaia/",
+    "found": true,
+    "id": 2193,
+    "returned": [
+      [
+        2193,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/chavatzelet-h2261-fiore-cantico-isaia/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "shoshanah-%d7%a9%d7%81%d7%95%d6%b9%d7%a9%d7%81%d6%b7%d7%a0%d6%b8%d6%bc%d7%94-il-giglio-biblico-non-identificato-con-certezza",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/shoshanah-%d7%a9%d7%81%d7%95%d6%b9%d7%a9%d7%81%d6%b7%d7%a0%d6%b8%d6%bc%d7%94-il-giglio-biblico-non-identificato-con-certezza/",
+    "found": false,
+    "error": "INVALID_ARGUMENT: Error code: INVALID_ARGUMENT; Error: RuntimeException: Error calling MCP tool: [TextContent(type='text', text=\"Non è stato possibile trovare alcun articolo con l'identificatore specificato.\", annotations=None, meta=None)]"
+  },
+  {
+    "type": "pdb_term",
+    "slug": "krinon-%ce%ba%cf%81%ce%af%ce%bd%ce%bf%ce%bd-g2918-il-giglio-dei-campi-nei-vangeli",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/krinon-%ce%ba%cf%81%ce%af%ce%bd%ce%bf%ce%bd-g2918-il-giglio-dei-campi-nei-vangeli/",
+    "found": true,
+    "id": 708,
+    "returned": [
+      [
+        708,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/krinon-%ce%ba%cf%81%ce%af%ce%bd%ce%bf%ce%bd-g2918-il-giglio-dei-campi-nei-vangeli/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "rhodon-%e1%bf%a5%cf%8c%ce%b4%ce%bf%ce%bd-rosa-del-siracide-e-identificazioni-botaniche",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/rhodon-%e1%bf%a5%cf%8c%ce%b4%ce%bf%ce%bd-rosa-del-siracide-e-identificazioni-botaniche/",
+    "found": true,
+    "id": 2054,
+    "returned": [
+      [
+        2054,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/rhodon-%e1%bf%a5%cf%8c%ce%b4%ce%bf%ce%bd-rosa-del-siracide-e-identificazioni-botaniche/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "b%c9%99ros-%d7%91%d6%b0%d6%bc%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h1265-cipresso-abete-o-ginepro",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/b%c9%99ros-%d7%91%d6%b0%d6%bc%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h1265-cipresso-abete-o-ginepro/",
+    "found": true,
+    "id": 1556,
+    "returned": [
+      [
+        1556,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/b%c9%99ros-%d7%91%d6%b0%d6%bc%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h1265-cipresso-abete-o-ginepro/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "%ca%bfarmon-%d7%a2%d6%b7%d7%a8%d6%b0%d7%9e%d7%95%d6%b9%d7%9f-il-platano-non-il-castagno-nella-bibbia",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/%ca%bfarmon-%d7%a2%d6%b7%d7%a8%d6%b0%d7%9e%d7%95%d6%b9%d7%9f-il-platano-non-il-castagno-nella-bibbia/",
+    "found": true,
+    "id": 2351,
+    "returned": [
+      [
+        2351,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/%ca%bfarmon-%d7%a2%d6%b7%d7%a8%d6%b0%d7%9e%d7%95%d6%b9%d7%9f-il-platano-non-il-castagno-nella-bibbia/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "suf-%d7%a1%d7%95%d6%bc%d7%a3-h5488-canne-e-vegetazione-marina-nei-testi-biblici",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/suf-%d7%a1%d7%95%d6%bc%d7%a3-h5488-canne-e-vegetazione-marina-nei-testi-biblici/",
+    "found": true,
+    "id": 4318,
+    "returned": [
+      [
+        4318,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/suf-%d7%a1%d7%95%d6%bc%d7%a3-h5488-canne-e-vegetazione-marina-nei-testi-biblici/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "galgal-%d7%92%d6%b7%d6%bc%d7%9c%d6%b0%d7%92%d6%b7%d6%bc%d7%9c-h1534-ruota-turbine-e-pianta-rotolante",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/galgal-%d7%92%d6%b7%d6%bc%d7%9c%d6%b0%d7%92%d6%b7%d6%bc%d7%9c-h1534-ruota-turbine-e-pianta-rotolante/",
+    "found": true,
+    "id": 1809,
+    "returned": [
+      [
+        1809,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/galgal-%d7%92%d6%b7%d6%bc%d7%9c%d6%b0%d7%92%d6%b7%d6%bc%d7%9c-h1534-ruota-turbine-e-pianta-rotolante/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "ro%ca%bes-%d7%a8%d6%b9%d7%90%d7%a9%d7%81-%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h7219-veleno-erba-amara-o-cicuta",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/ro%ca%bes-%d7%a8%d6%b9%d7%90%d7%a9%d7%81-%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h7219-veleno-erba-amara-o-cicuta/",
+    "found": true,
+    "id": 1364,
+    "returned": [
+      [
+        1364,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/ro%ca%bes-%d7%a8%d6%b9%d7%90%d7%a9%d7%81-%d7%a8%d7%95%d6%b9%d7%a9%d7%81-h7219-veleno-erba-amara-o-cicuta/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "dudaim-h1736-mandragole-bibliche",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/dudaim-h1736-mandragole-bibliche/",
+    "found": true,
+    "id": 5710,
+    "returned": [
+      [
+        5710,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/dudaim-h1736-mandragole-bibliche/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "qiqayon-h7021-giona-ricino-zucca",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/qiqayon-h7021-giona-ricino-zucca/",
+    "found": true,
+    "id": 2641,
+    "returned": [
+      [
+        2641,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/qiqayon-h7021-giona-ricino-zucca/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "menorah-h4501-candelabro-ebreo",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/menorah-h4501-candelabro-ebreo/",
+    "found": true,
+    "id": 3192,
+    "returned": [
+      [
+        3192,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/menorah-h4501-candelabro-ebreo/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "gefen-vite-nome-ebraico",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/gefen-vite-nome-ebraico/",
+    "found": true,
+    "id": 190,
+    "returned": [
+      [
+        190,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/gefen-vite-nome-ebraico/"
+      ]
+    ]
+  },
+  {
+    "type": "pdb_term",
+    "slug": "ampelos-vite-greco",
+    "url": "https://piantedellabibbia.altervista.org/nomi-biblici/ampelos-vite-greco/",
+    "found": true,
+    "id": 145,
+    "returned": [
+      [
+        145,
+        "pdb_term",
+        "publish",
+        "https://piantedellabibbia.altervista.org/nomi-biblici/ampelos-vite-greco/"
+      ]
+    ]
+  }
+]
