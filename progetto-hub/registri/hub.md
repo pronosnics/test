@@ -10,3 +10,6 @@
 
 ## Lotto 6 — 28 novembre 2026
 Indice generale creato come pagina WordPress #8767, slug percorsi-tematici, stato draft verificato. Contenuto originale con collegamenti #778, #2035 e cinque aree esistenti. Modulo separato pdb-hub 0.1.0: metabox per associazioni editoriali esplicite tramite ID e shortcode pdb_hub_cards, pdb_hub_index, pdb_hub_related. Nessun nuovo CPT, nessuna tabella, nessun collegamento inferito automaticamente; limite 100 schede per hub. Modulo non installato né attivato. Prossimo: verificare frumento e aggiornare #778 come primo hub pilota.
+
+## Lotto 7 — 28 novembre 2026
+Pagina esistente #778 aggiornata conservando 7 righe della tabella, 8 monografie principali (due frumenti nella stessa voce), dicocco e spelta come confronto, non voci aggiuntive. Link a H2406 #5750 e H3698 #6178. Fonti riprese dal dossier 25/11 e dalle monografie #5747/#3953/#6177/#6254; non nuova collazione integrale dei facsimili. Mantenuta distinzione miele/datteri. Nessun nuovo duplicato.
