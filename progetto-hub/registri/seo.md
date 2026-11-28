@@ -7,3 +7,6 @@ Letto search-seo.php attivo: ricerca con ranking per titolo/metadati e normalizz
 
 ## Lotto 6 — 28 novembre 2026
 Configurati su #8767 titolo Percorsi tematici | Piante della Bibbia, descrizione originale, schema CollectionPage; canonical predefinito, nessuna modifica a URL esistenti. Verifica SEO pubblica rinviata alla pubblicazione.
+
+## Lotto 8 — 28 novembre 2026
+#8770: title e description Yoast confermati dalla lettura dedicata, schema WebPage, canonical personalizzato non impostato, focus non impostato; permalink temporaneo ?page_id=8770 finché bozza. Canonical e indicizzazione da verificare dopo pubblicazione.
