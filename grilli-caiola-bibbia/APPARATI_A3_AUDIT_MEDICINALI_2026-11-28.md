@@ -180,3 +180,15 @@ Livelli vuoti: #6600, #7199, #2220. Campi essenziali vuoti: #6600 pdb_contraindi
 
 
 **A.3 — medicinali, sesto gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 67/105. 45 relazioni bibliografiche, 45 coppie scheda–fonte distinte; nessun gruppo duplicato segnalato. 8 livelli evidenza vuoti (#8332,2125,8342,8338,7188,6600,7199,2220); 6 schede con campi sicurezza vuoti (#8332,8342,8338,7188,6600,2220). #8332 tradizione vuota; #8342 e #8338 parte e tradizione vuote; #2125 data revisione vuota. Ninfee: #2114→#2125, #2129→#8342, #2134→#8338, tre associazioni distinte; riletti testi live, Duke White Waterlily pp.303–306 non trasferibile indiscriminatamente, serie clinica di 5 casi su prodotti commerciali blue lotus non certifica taxon, studio animale N. lotus non dimostra sicurezza umana; 1/1/2 relazioni rispettivamente, priorità approfondimento bibliografico e allineamento metadati. Mandragora #6600: testo live con intossicazioni Piccillo 2002, alcaloidi tropanici, assenza prove fertilità e divieto rimedi domestici; controindicazioni/interazioni e livello da allineare. Mentha #7199: testo live distingue trial limitati, rischi pulegone/mentofurano e oli concentrati; mandorlo #469 metadati distinguono semi dolci/amari, cianogenicità, allergenicità e limiti terapeutici. Nessuna modifica WordPress, nessuna nuova collazione integrale fonti originali. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo settimo gruppo da #1338, 38 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Settimo gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 1338 | 1326 | 1326 | publish | non valorizzato | pdb_interactions | 5 | 5 |
+| 530 | 525 | 525 | publish | traditional | pdb_interactions | 6 | 5 |
+| 6642 | 2016 | 2016 | publish | non valorizzato | pdb_contraindications, pdb_interactions | 6 | 6 |
+| 7225 | 2022 | 2022 | publish | non valorizzato | nessuno | 6 | 6 |
+| 6365 | 1901 | 1901 | publish | traditional | pdb_contraindications, pdb_interactions | 6 | 6 |
+Livelli vuoti: #1338, #6642, #7225. Campi essenziali vuoti: #1338 pdb_interactions; #530 pdb_interactions; #6642 pdb_contraindications, pdb_interactions; #6365 pdb_contraindications, pdb_interactions. Relazioni complessive: 29; possibili duplicati API: #530 (1). Nessuna modifica WordPress. Cumulativo 72/105.
