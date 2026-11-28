@@ -10,3 +10,6 @@ Nessuna modifica live. Tre file di tema in bozza, salvati su GitHub.
 
 ## Lotto 5 — 28 novembre 2026
 Nessuna pubblicazione WordPress; due file aggiornati nella bozza del tema.
+
+## Lotto 6 — 28 novembre 2026
+Nessuna nuova pagina pubblicata e nessun tema o plugin attivato. Creato #8767 in draft; metadati SEO aggiornati solo su tale bozza. Aggiunti tre file alla bozza tema. Modulo prototipo predisposto separatamente.
