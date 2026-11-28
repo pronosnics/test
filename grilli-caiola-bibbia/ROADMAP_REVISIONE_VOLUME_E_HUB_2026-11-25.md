@@ -1955,3 +1955,6 @@ Cap. 10, filologia e medicina: sette passi e nove lemmi aggiunti, quattordici re
 
 
 - Cap.10 lotto 10.11h: fonti EMA #8752/#8754 pubblicate e rilette con rel #6381/#6382; censimento live 241 relazioni (169 botaniche/72 medicinali), 21 identificazioni con lemma e gradi invariati, audit locale finale 22/22, 10/10 tavole sincronizzate. [Verbale conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_10_2026-11-28.md) e matrice aggiornati. Ciclo scientifico-editoriale completato con riserve, non chiusura scientifica assoluta; residui documentali e tecnici conservati, cap11 non avviato.
+
+
+- 28/11: verificato sommario originale, cap10 ultimo capitolo delle monografie; nessun cap11. Avviata [revisione apparati e audit generale](ROADMAP_APPARATI_E_AUDIT_GENERALE_2026-11-28.md), A.1 note pp171–173 e tab2 lette in testo nativo, tre refusi verificati CEI2008, nessuna modifica WP. Prossimo: confronto WP dei passi/antroponimi e A.2, poi registri 110/113 e apparati. Riserve precedenti mantenute.
