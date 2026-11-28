@@ -7,3 +7,6 @@
 - #2035 Fonti e metodologia: conservare contenuto, rendere più raggiungibile.
 - Altri prioritari: cereali e legumi, spezie/aromi/resine, alberi da frutto, identificazioni controverse, nomi ebraici e greci. Medicina storica subordinata alle riserve.
 - Implementazione proposta: pagine editoriali con associazioni strutturate e card dinamiche dal plugin; non introdurre CPT o schema relazionale prima di confronto codice e test. Nessuna pubblicazione.
+
+## Lotto 6 — 28 novembre 2026
+Indice generale creato come pagina WordPress #8767, slug percorsi-tematici, stato draft verificato. Contenuto originale con collegamenti #778, #2035 e cinque aree esistenti. Modulo separato pdb-hub 0.1.0: metabox per associazioni editoriali esplicite tramite ID e shortcode pdb_hub_cards, pdb_hub_index, pdb_hub_related. Nessun nuovo CPT, nessuna tabella, nessun collegamento inferito automaticamente; limite 100 schede per hub. Modulo non installato né attivato. Prossimo: verificare frumento e aggiornare #778 come primo hub pilota.
