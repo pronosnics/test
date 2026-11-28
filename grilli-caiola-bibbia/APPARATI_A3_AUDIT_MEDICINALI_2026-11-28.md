@@ -283,3 +283,18 @@ Livelli vuoti: #7293. Campi essenziali vuoti: #7293 pdb_interactions. Relazioni 
 | 146 | 143 | 143 | publish | established | nessuno | 3 | 3 |
 | 1439 | 1432 | 1432 | publish | non valorizzato | nessuno | 8 | 8 |
 Livelli vuoti: #1439. Campi essenziali vuoti: nessuno. Relazioni complessive: 42; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 105/105.
+
+
+## Completamento conteggi bibliografici primo gruppo — parte A
+| Medicina | Relazioni | Fonti distinte |
+|---|---|---|
+| 4329 | 7 | 7 |
+| 4418 | 6 | 6 |
+| 640 | 6 | 6 |
+| 7680 | 8 | 8 |
+| 670 | 11 | 11 |
+| 711 | 6 | 6 |
+| 7002 | 5 | 5 |
+| 710 | 3 | 3 |
+| 4728 | 8 | 8 |
+Ripetizioni per fonte: []. Nessuna cancellazione automatica; localizzatori/claim preservati per riconciliazione.
