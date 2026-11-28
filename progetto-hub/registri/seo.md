@@ -10,3 +10,6 @@ Configurati su #8767 titolo Percorsi tematici | Piante della Bibbia, descrizione
 
 ## Lotto 8 — 28 novembre 2026
 #8770: title e description Yoast confermati dalla lettura dedicata, schema WebPage, canonical personalizzato non impostato, focus non impostato; permalink temporaneo ?page_id=8770 finché bozza. Canonical e indicizzazione da verificare dopo pubblicazione.
+
+## Lotto 9 — 28 novembre 2026
+#8771 Yoast title/description e WebPage impostati, verificata lettura dedicata; canonical personalizzato non impostato, focus non impostato; verificare permalink/canonical dopo pubblicazione.
