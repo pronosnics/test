@@ -423,3 +423,26 @@ Cumulativo 60/113 ID tecnicamente verificati. Eventuali errori: nessuno.
 
 
 **A.3 — quarto gruppo media e ATL (28/11/2026):** 15/15 file locali verificati, featured=plate=attachment, ALT nonvuoti, SHA-256 distinti anche dai precedenti gruppi; 14 WebP/1 PNG, larghezza 1000–1216. Cumulativo 60/113 (53,1%); 53 restano. PNG #5762 grano duro 2.602.814 byte, possibile ottimizzazione; didascalia vuota #5762 e #6739 giglio, non ALT mancante. Nessuna modifica WP né verifica visiva/HTTP. Concordanza ATL 100/113 (due nuove corrispondenze sinonimiche nominali Cota #4774 ATL-0027 e Mutarda #807 ATL-0047, una attestazione ID esplicita Rubia #2689 ATL-0201 da QA 25/11); 11 operativi, 13 legacy residui. Tulipa non unificata automaticamente; codice null #6177 confermato. Prossimo quinto gruppo media e ricerca dossier mirata per residui; APG V, medicina, facsimile, piano #170, HTTP e altre riserve conservati. [Registro A.3](APPARATI_A3_REGISTRO_110_VOCI_2026-11-28.md), [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md).
+
+
+## A.3 — quinto gruppo media (28/11/2026)
+Rilettura live atlas-media-info full per 15 ID, 15 conformi per file locale, featured=plate=attachment, ALT, dimensioni e SHA-256. 0 corrispondenze SHA con i gruppi precedenti; 15 SHA distinti nel gruppo. Non verifica visiva né HTTP. Nessuna modifica WordPress.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 8330 | 8331 | 1024×1536 | 179272 | image/webp | 160e6096df1d5667a074ef8671c0ec307ce45e6b8d1081f4c2b8b709bf8ca39d |
+| 2114 | 2115 | 960×1440 | 213238 | image/webp | f2eea54e05b04f014939bb552efcf1ecee3a949fbd77a40737c3fb46376bb322 |
+| 2129 | 2130 | 1242×1266 | 501016 | image/webp | 1650c67bae4698a4554bad3e5a628cc12611cb3806db584d369e03077450cf2b |
+| 2134 | 2135 | 1199×1312 | 392736 | image/webp | e6c38f0bed5a706f6af0e85c3c47022a45e02cf5a3ecca38f2ef47be6a3b819e |
+| 2000 | 7395 | 1086×1448 | 341380 | image/webp | 23b02fab3c47652e2d63912edd022f23b02b72d48a35d14fb570d6fc73238c17 |
+| 467 | 523 | 1086×1448 | 274258 | image/webp | 61bc8c50109d0f6c9037d195f3634f77411219027ae558d45986e3ad6dac85c0 |
+| 6599 | 6605 | 1080×1440 | 257830 | image/webp | 36cb0fbb5d8e3c873ebe172ddf6f32f40eee0519493d18c0a3ea49f0756f1e35 |
+| 6332 | 6337 | 1024×1536 | 364070 | image/webp | 8f658641a560846115ecc59e2d77829a401b77b1c87752aa5948dc40df6b6ca7 |
+| 212 | 238 | 1086×1448 | 431716 | image/webp | 32e645cb00301c89cf7aab3b7e48f820be3530f51f22f37d1a14036275502cd3 |
+| 2006 | 2008 | 1024×1536 | 492358 | image/webp | 9cb302a1bc31408fc4abb7db567fdca391a1cfba458ae984f27278ed99c6deed |
+| 2206 | 2207 | 1055×1491 | 344722 | image/webp | 380790902087b534008633e0390ad124282d897a5484db2d066461c2ce9b640b |
+| 1326 | 1327 | 900×1350 | 238980 | image/jpeg | 774b9f3ce4f2d932f7f0e62b64127e3e20e4b19342e3f64bfa3bca6635c2bbac |
+| 525 | 547 | 1086×1448 | 343784 | image/webp | fa2199337be55327274a2a3e71d22c87f88ee77baa054a1c5d068be9f2bd3e78 |
+| 2016 | 2018 | 1024×1536 | 446832 | image/webp | 7c4c3d9882bdada0c9c7aec23b4c1cde0d2aae829b529af269f7d4509af764d8 |
+| 2022 | 7397 | 582×1000 | 64181 | image/jpeg | 6b48d70bfb84b2e8f6a43a2c679973e76888de8f0bee1570b2a74d160a644edd |
+Riserve tecniche: #6599/#6605: didascalia vuota; #6332/#6337: didascalia vuota; #2022/#7397: larghezza 582.
+Cumulativo 75/113 ID tecnicamente verificati. Errori: nessuno.
