@@ -14,3 +14,6 @@ Prossimo test: confronto sorgenti, verifica degli URL di ricerca da browser e de
 
 ## Lotto 3 — verifiche prototipo e sito
 WPVibe get_page_html: homepage bozza .pdbh renderizzata con H1, form atlas_q, atlas_area=all, tre tavole, sei contatori (243 botaniche, 363 citazioni, 189 nomi, 198 medicinali, 2057 fonti, 70 famiglie con schede), sei ingressi, due percorsi esistenti, quattro piante dinamiche. Head bozza contiene assets/home-atlas.css?ver=1.1.0-draft1 e canonical homepage. Query HTTP del sito tramite WPVibe /atlante/?atlas_q=Olea%20europaea&atlas_area=pdb_plant, selettore #contenuto: campo valorizzato, risultati per Olea europaea, scheda #129 presente. Sito live H1 invariato. La lettura anonima tramite web e sitemap ancora bloccata; WPVibe DOM accessibile, non equivale a screenshot o misure performance. Non testati invio form da preview (token può perdersi su GET), altri filtri, tastiera, viewport o asset HTTP. PHP accettato da write_file. Nessun contenuto WP modificato.
+
+## Lotto 4 — 28 novembre 2026
+DOM anteprima: header e footer presenti, menu #3 e collegamenti alle cinque aree, form atlas_q, collegamenti #percorsi, #approfondimenti, #il-progetto, pagine #778/#2035; foglio editorial-shell.css presente nel head. Non verificati screenshot, tastiera, invio form, viewport o regressione su tutti i CPT.
