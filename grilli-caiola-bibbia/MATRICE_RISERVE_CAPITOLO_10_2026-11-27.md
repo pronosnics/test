@@ -69,3 +69,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.11c.** Risolte le lacune di navigazione per le pericopi principali del capitolo e l’associazione di Pr 22,5. Per il lino risolta la lettura di Soltanian e Janghorbani 2018; persistono i limiti propri del trial. La correzione di collegamenti preesistenti G173/G174 che richiedono riconciliazione va distinta dalle nuove relazioni passo–lemma già attive.
+
+
+**10.11d — 28 novembre.** Audit locale 20/20, SEO memorizzata 20/20, featured=plate 10/10; risolto controllo amministrativo di presenza/associazione, non certificazione visiva o diagnostica. Nuovi HTTP #4269/#1990 ancora CONNECT403. P3 riconciliazione e57ab427-21b0-475f-aeb5-fa3beef396c9 pending (30 operazioni), da approvare e rileggere: tre term_id nulli e correzione G173/G174, traduzioni e fusione #4156→#1002. #5191/#5202 conservate per loci e claim distinti. 240 relazioni bibliografiche prima della fusione, 21 identificazioni con gradi invariati. P2-A/P2-D anteriori non risolte dal solo audit; Hepper diretto, integrali/figure residue, registro ATL e doppio H1534 da trattare separatamente. P1-L invariati. Nessuna modifica WP effettuata in 10.11d.
