@@ -19,3 +19,6 @@ Configurati su #8767 titolo Percorsi tematici | Piante della Bibbia, descrizione
 
 ## Lotto 11 — 28 novembre 2026
 #8773 title/description Yoast e schema WebPage impostati, title e description verificati tramite lettura dedicata. Canonical personalizzato non impostato; verifica pubblica futura.
+
+## Lotto 12 — 28 novembre 2026
+#8774 title/description Yoast e schema WebPage impostati, title e description verificati tramite lettura dedicata; canonical personalizzato non impostato.
