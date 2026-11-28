@@ -215,3 +215,24 @@ Nota: URL Quercus #2464 sopra è il record del sinonimo storico Q. calliprinos, 
 | 2134 | Nymphaea lotus L. | Nymphaeaceae (#13) | 2135 | https://powo.science.kew.org/taxon/605604-1 |
 Correzioni storiche già recepite: autorialità Diospyros, Centaurea, Notobasis, Retama, Mentha, Pterocarpus, Citrullus; Majorana syriaca (L.) Raf. sinonimo omotipico di Origanum syriacum L. (449806-1); Brassica nigra (L.) W.D.J.Koch sinonimo di Mutarda nigra (287192-1; sinonimo 279422-1), trattamento alternativo Brassica mantenuto. Ranunculus asiaticus Thunb. (712246-1) omonimo illegittimo posteriore, sinonimo di R. acris subsp. acris: non confondere col nome linneano; #2585 distingue. Amomum subulatum accettato, non prova del fitonimo biblico.
 Riletta monografia loto p144 PDF146 fig93 (testo nativo): Nymphaea sp. pl., testo nomina N. lotus, N. caerulea, N. alba, Nuphar lutea; figura indicata solo a genere. #2114/#2129/#2134 trattamenti separati, N. caerulea sinonimo di N. nouchali var. caerulea (605514-1). Nuphar lutea (L.) Sm. distinto genere e specie accettata (https://powo.science.kew.org/taxon/30385379-2, Palestina/Libano-Siria nell'areale nativo POWO); ricerca WP per Nuphar lutea e Nymphaea lutea ritorna soltanto le tre ninfee già pubblicate, nessuna scheda autonoma emersa. Verificata Tab.6 p182 PDF184: Nuphar lutea compare con rinvio p144. Registrare lacuna candidata in A.4, non aggiungere al totale delle 110 voci illustrate, non creare ora. #6979/#2114 editorial_status vuoto: riserva workflow. 15/15 famiglie coerenti, 15/15 featured nonzero; non certificano contenuto dell'immagine, facsimile o HTTP. Nessuna modifica WP. Cumulativo 45/113 (39,8%), 68 ID rimanenti. A.3 aperto.
+
+## A.3 sesto passaggio — tassonomia quarto gruppo (28/11/2026)
+15 ulteriori record live pdb/get-content verificati (scientific_name, pdb_family, featured_media); 7 atlas-get all (#4328/#266/#700/#1307/#2243/#889/#1031) per autorialità, sinonimia e testo iniziale. POWO risultati specifici indicizzati per tutte le 15 specie, ciascuna accettata; non aperte integralmente le pagine in questo passaggio. Riferimenti storici dal registro tab4/5, facsimile non riletto.
+| WP | Nome accettato | Famiglia assegnata | Featured ID | POWO |
+|---|---|---|---|---|
+| 4328 | Abies cilicica (Antoine & Kotschy) Carrière | Pinaceae (#20) | 4330 | https://powo.science.kew.org/taxon/261491-1 |
+| 1949 | Laurus nobilis L. | Lauraceae (#63) | 1950 | https://powo.science.kew.org/taxon/465049-1 |
+| 700 | Aquilaria malaccensis Lam. | Thymelaeaceae (#37) | 7455 | https://powo.science.kew.org/taxon/830835-1 |
+| 699 | Anemone coronaria L. | Ranunculaceae (#11) | 6790 | https://powo.science.kew.org/taxon/708314-1 |
+| 4727 | Anethum graveolens L. | Apiaceae (#54) | 4730 | https://powo.science.kew.org/taxon/837530-1 |
+| 4836 | Artemisia herba-alba Asso | Asteraceae (#12) | 4841 | https://powo.science.kew.org/taxon/179584-1 |
+| 4940 | Atriplex halimus L. | Amaranthaceae (#32) | 8321 | https://powo.science.kew.org/taxon/163845-1 |
+| 1307 | Commiphora gileadensis (L.) C.Chr. | Burseraceae (#55) | 1308 | https://powo.science.kew.org/taxon/127663-1 |
+| 4880 | Arundo donax L. | Poaceae (#18) | 4889 | https://powo.science.kew.org/taxon/390837-1 |
+| 2243 | Phragmites australis (Cav.) Trin. ex Steud. | Poaceae (#18) | 2244 | https://powo.science.kew.org/taxon/30337627-2 |
+| 889 | Capparis spinosa L. | Capparaceae (#57) | 890 | https://powo.science.kew.org/taxon/146789-1 |
+| 3482 | Silybum marianum (L.) Gaertn. | Asteraceae (#12) | 3485 | https://powo.science.kew.org/taxon/249211-1 |
+| 1031 | Cicer arietinum L. | Fabaceae (#25) | 1043 | https://powo.science.kew.org/taxon/486336-1 |
+| 1271 | Citrus medica L. | Rutaceae (#30) | 1272 | https://powo.science.kew.org/taxon/59603-2 |
+| 266 | Cedrus libani A.Rich. | Pinaceae (#20) | 7737 | https://powo.science.kew.org/taxon/676705-1 |
+Nessun cambio di famiglia o binomio necessario. Controlli mirati: Cedrus libani A.Rich. già distinto da Citrus medica; #700 Aquilaria agallocha sinonimo registrato e distinzione dal gel Aloe; #1307 Commiphora opobalsamum sinonimo registrato, identificazione balsamo controversa; #2243 separa Phragmites da Arundo e limita la sinonimia storica; #889 Capparis sicula ricondotto a var. canescens, non rango specifico (varietà accettata POWO https://powo.science.kew.org/taxon/60443497-2); #1031 cece distinto da identificazioni bibliche incerte. #700/#1031 editorial_status vuoto: riserva workflow. 15/15 famiglie coerenti e featured_media nonzero; non verifica file/qualità iconografica/HTTP. Nessuna modifica WordPress. Cumulativo 60/113 (53,1%), 53 ID rimanenti. A.3 aperto: prossimo gruppo dei taxa rimanenti, poi ATL, immagini, medicine; tutte le riserve precedenti mantenute.
