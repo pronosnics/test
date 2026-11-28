@@ -18,3 +18,9 @@ WordPress #1976 e nuova medicina #8670, fonte EMA #8668, relazioni 6352, 6353, 6
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 Pp. 129–133/PDF 125–129, voce 129 su Linum usitatissimum; figura del lino a p. 135/PDF 131, nella pagina che conclude la voce Lycium. La figura non rappresenta il licio.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+Luca 16,19 #8730, Marco 15,46 #8732 e Giosuè 2,6 #8740 sono pubblicati. Distinti βύσσος G1040 #8712, σινδών G4616 #8714, ὀθόνιον G3608 #8716 e le voci ebraiche H6593 #8724 / H6594 #8726. A Gs 2,6 corrispondono steli, a Es 9,31 piante nel campo, a Lc 16,19 un tessuto di pregio. Fonti: [testo di Gs 2,6](https://biblehub.com/text/joshua/2-6.htm), [Es 9,31](https://biblehub.com/text/exodus/9-31.htm), [Thayer](https://biblehub.com/greek/1040.htm), [Vulgata di Luca](https://www.biblegateway.com/passage/?search=Lucas%2016%3A19&version=VULGATE).
+
+Medicina #8670, fonte #8707, relazione #6374. [Soltanian e Janghorbani 2018, testo originale](https://doi.org/10.1186/s12986-018-0273-z), disegno e figura 1, tabelle 2–3, risultati e discussione: 54 randomizzati, 53 valutati (26/27), variazione 2,46 contro 0,41, p = 0,008. Risposta almeno +2: 11/26 contro 2/27. Campione monocentrico, singolo cieco, squilibrio iniziale e assunzione di alimenti/liquidi non misurata. Nei risultati la differenza per colesterolo totale non raggiunge la soglia statistica (p = 0,085), diversamente da quanto suggerisce il riassunto. Anche la descrizione della quantità di seme nei biscotti è internamente discordante: non proposta come posologia.

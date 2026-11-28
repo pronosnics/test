@@ -10,3 +10,7 @@ WP #2619/#2620 aggiornate e rilette, fonte #8673, relazioni 6356, 6357. Foto/ill
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 Pp. 202–203/PDF 198–199, voce 176, Rhamnus palaestina. P. 287/PDF 283, aggiunta Sal 118,12 sulle spine che bruciano e osservazione di Oppenheimer sulla distinzione fra il ramno deciduo e R. punctata sempreverde. Il nome e la circoscrizione storici non sono automaticamente quelli attuali.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+Nuova scheda Genesi 50,10–11 #8734, collegata ad Atad #2712. La Vulgata conserva aream Atad. Il nome dell’aia nel lutto per Giacobbe e la pianta che parla in Giudici sono contesti distinti.

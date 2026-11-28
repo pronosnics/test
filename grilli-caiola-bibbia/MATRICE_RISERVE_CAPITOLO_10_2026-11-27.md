@@ -66,3 +66,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **Esito 10.11b.** Superata P2-A per la disponibilità del facsimile Moldenke e per le voci e note puntualmente localizzate nei dieci dossier. Il PDF non riproduce integralmente alcune pagine della paginazione a stampa. Restano P2-D i passi non localizzati con sicurezza e P1-L l’attribuzione a una specie dei lemmi collettivi.
+
+
+**10.11c.** Risolte le lacune di navigazione per le pericopi principali del capitolo e l’associazione di Pr 22,5. Per il lino risolta la lettura di Soltanian e Janghorbani 2018; persistono i limiti propri del trial. La correzione di collegamenti preesistenti G173/G174 che richiedono riconciliazione va distinta dalle nuove relazioni passo–lemma già attive.

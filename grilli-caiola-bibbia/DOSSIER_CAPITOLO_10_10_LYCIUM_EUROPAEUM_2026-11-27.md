@@ -15,3 +15,7 @@ Botanica #1990, medicina #8701 pubblicata e collegata. Registro storico ATL-0138
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 Pp. 134–135/PDF 130–131, voce 131. Rinviato anche a p. 203/PDF 199 in confronto alle siepi di altri arbusti. Verificata la distinzione fra testo del licio e figura del lino sulla stessa pagina stampata.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+1 Samuele 17,1 #8738 e Azekà H5825 #8720 collegati. Le sette occorrenze (Gs 10,10.11; 15,35; 1 Sam 17,1; 2 Cr 11,9; Ne 11,30; Ger 34,7) sono toponimiche. [Concordanza H5825 e BDB](https://www.studybible.info/strongs/H5825).

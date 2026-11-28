@@ -8,3 +8,7 @@ Shakiba et al. 2021 (online 2019) pp. 197–202, DOI 10.1080/09546634.2019.16921
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 P. 248/PDF 244 e supplemento p. 289/PDF 285. Oppenheimer osserva che il giuggiolo supera quindici piedi. Il supplemento riporta l’ipotesi di Linneo e Schwerin per la corona e la distingue dalla preferenza degli autori per Paliurus.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+Titolo SEO, descrizione e frase chiave riletti per #4269 e #4271. La distinzione fra G173 e G174 è registrata nei versetti pertinenti.

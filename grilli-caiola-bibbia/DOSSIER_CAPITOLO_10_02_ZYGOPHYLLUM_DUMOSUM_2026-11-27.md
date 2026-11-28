@@ -47,3 +47,7 @@ Ramo in fioritura, confrontato con la fotografia regionale. La vecchia capsula g
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 Nella sezione geografica (PDF 13) compare il genere Zygophyllum nella vegetazione saharo-sindica. L’indagine sul testo interrogabile non ha identificato una monografia per Z. dumosum. Questa occorrenza generica non dimostra un’attestazione a Elim.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+Numeri 33,9–10 #8728 e il parallelo Esodo 15,27 #315 sono collegati al toponimo Elìm H362 #8718. I settanta alberi sono esplicitamente palme. Il confronto con lo zigofillo è ambientale. La relazione alla specie resta contestuale.

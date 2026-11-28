@@ -235,3 +235,7 @@ Aloe #8704, Zygophyllum #8706 e Gundelia #8705 assegnate e rilette sia come tavo
 
 ### 10.11b — Facsimile e apparati
 Controllato l’esemplare originale di Moldenke di 324 pagine digitali. Integrati dieci dossier, con limiti espliciti per le ricerche negative. Il numero della pagina PDF diverge dal numero a stampa dopo alcune lacune. Verificati i richiami alle note supplementari sul cisto, sul ramno e sul giuggiolo.
+
+
+### 10.11c — Passi, lessico e controllo clinico
+Sette schede di passi e nove voci lessicali pubblicate dopo controllo di 356 passi e 180 lemmi. Quattordici relazioni passo–termine #461–474, sei relazioni bibliografiche #6375–6380 e tre identificazioni graduate #696–698. Nessuna identificazione di specie aggiunta per Elìm, Azekà o l’aia di Atad. Verificato il collegamento alla botanica nelle dieci schede medicinali; SEO completata per giuggiolo e nuove schede filologiche. Lino #8670: integrato il trial clinico #8707.

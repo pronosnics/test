@@ -8,3 +8,7 @@ WordPress #3252/#3253 rilette, campi descrittivi della medicina tradotti e nota 
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 Nel testo interrogabile dell’esemplare non è emersa una voce autonoma cercando Sarcopoterium e Poterium. Le lacune materiali di alcune pagine e la qualità dell’OCR limitano la ricerca negativa. Per la citazione botanica positiva di Poterium spinosum si veda Post pp. 307–308.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+Corrette quattro schede di passi (#3248, #3249, #3250, #3251) e il lemma #3247. Proverbi 22,5 #2724 è stato collegato al lemma ṣinnîm H6791 #8722. Il racconto della corona usa G174 in Mc 15,17 e Gv 19,5, G173 in Mt 27,29 e Gv 19,2. Nuovo lemma G174 #8710. La distinzione fra le due forme non dà un nome alla specie.

@@ -12,3 +12,7 @@ Tavola originale #8681 confrontata con foto fig. 107 e diagnosi di Post: corolla
 
 ### Collazione del facsimile Moldenke, 28 novembre 2026
 P. 218/PDF 214, voce 198, Salvia judaica. Il collegamento con Es 37,17–18 appartiene alla discussione su questa specie. Nessuna attribuzione della stessa voce a S. palaestina.
+
+
+### Verifica filologica e aggiornamento del 28 novembre
+1 Re 7,48–49 #8736 collegato al lemma mĕnōrāh #3192. Il plurale dei candelabri è distinto dai bracci di un singolo candelabro in Esodo. Relazione iconografica #698, grado controverso. Corrette le note redazionali di #3193 e #475.

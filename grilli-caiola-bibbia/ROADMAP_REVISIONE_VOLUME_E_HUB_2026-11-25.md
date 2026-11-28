@@ -1937,3 +1937,6 @@ Cap. 10, controllo iconografico: tre tavole sostituite con verifica del file e d
 
 
 Cap. 10, collazione del facsimile di Plants of the Bible e dei supplementi, con addenda nei dieci dossier. Fra i riscontri, la fig. di p. 135 è il lino e la proposta di Linneo per la corona non coincide con la preferenza dei Moldenke.
+
+
+Cap. 10, filologia e medicina: sette passi e nove lemmi aggiunti, quattordici relazioni passo–termine verificate. Il trial 2018 sul lino è stato controllato sul testo dell’editore, con esiti positivi e nulli distinti.
