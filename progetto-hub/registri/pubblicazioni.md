@@ -13,3 +13,6 @@ Nessuna pubblicazione WordPress; due file aggiornati nella bozza del tema.
 
 ## Lotto 6 — 28 novembre 2026
 Nessuna nuova pagina pubblicata e nessun tema o plugin attivato. Creato #8767 in draft; metadati SEO aggiornati solo su tale bozza. Aggiunti tre file alla bozza tema. Modulo prototipo predisposto separatamente.
+
+## Lotto 7 — 28 novembre 2026
+Aggiornata esclusivamente la pagina pubblica #778 (contenuto, non stato/slug/SEO); modificata GMT 2026-11-28 14:46:09. Versioni prima/dopo in lotto-07-terra-promessa, ripristino possibile usando il contenuto precedente con verifica versione. Nessuna pubblicazione della nuova pagina indice e nessuna attivazione tema/modulo.
