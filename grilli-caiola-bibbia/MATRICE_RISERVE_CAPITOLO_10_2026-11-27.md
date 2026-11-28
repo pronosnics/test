@@ -81,3 +81,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.11g.** Risolta riserva amministrativa del piano 30/30 applicate e rilette, #4156 assorbita; doppio H1534 come entità separata ancora aperto. Aloe: recuperati passi pertinenti assessment EMA 2016 e addendum 2022; riserva ridotta, non integrale collazione report, facsimile addendum 429; cautela genotossicologica invariata. #670/#8553 aggiornate e rilette. RCT Gundelia abstract riconfermato ma integrale ancora 403, voucher e sicurezza non risolti. Audit locale 9/9; HTTP non verificato, Huang integrale e Hepper ancora aperti. Nessuna promozione dei gradi.
+
+
+**10.11h — Esito conclusivo.** Registrate autonomamente le fonti EMA #8752/#8754 con relazioni #6381/#6382; audit finale 22/22, 241 relazioni bibliografiche, 21 identificazioni tutte con lemma, gradi invariati, 30/30 operazioni amministrative verificate. Completato il ciclo editoriale con riserve. Il [verbale conclusivo](VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_10_2026-11-28.md) distingue P1-L (limiti intrinseci), P2-A/P2-D (fonti, integrali, figure, voucher, dati ancora da collazionare) e P3 (H1534 doppio CPT, registro, HTTP e limiti iconografici). Le riserve pregresse restano valide salvo esplicita risoluzione nei lotti: non dichiarare chiusura scientifica definitiva o azzerare la coda.
