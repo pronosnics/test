@@ -2,7 +2,7 @@
 /**
  * Plugin Name: PDB Hub Media
  * Description: Trasferimento MCP a blocchi delle copertine degli otto percorsi dell'Atlante, separato dalle monografie.
- * Version: 0.1.1
+ * Version: 0.1.2
  * Requires PHP: 7.4
  */
 if (!defined('ABSPATH')) exit;
@@ -18,133 +18,112 @@ final class PDB_Hub_Media {
     static function permission($input=null) {
         return is_user_logged_in() && current_user_can('manage_options') && current_user_can('upload_files');
     }
-    static function root() {
-        // Never place upload fragments in public wp-content/uploads.
-        $suffix='pdbhub-media-'.substr(hash_hmac('sha256',ABSPATH,wp_salt('auth')),0,32);
-        $candidates=[sys_get_temp_dir()];
-        if(function_exists('get_temp_dir')) $candidates[]=get_temp_dir();
-        $webroots=[];
-        foreach([ABSPATH,$_SERVER['DOCUMENT_ROOT']??''] as $public) {
-            $web=$public!==''?realpath($public):false;
-            if($web) $webroots[]=rtrim($web,DIRECTORY_SEPARATOR);
-        }
-        $last='Directory temporanea privata indisponibile.';
-        foreach(array_unique($candidates) as $candidate) {
-            $parent=realpath($candidate);
-            if(!$parent || !is_dir($parent) || !is_writable($parent)) continue;
-            $root=rtrim($parent,DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR.$suffix;
-            foreach($webroots as $web) if($root===$web || strpos($root,$web.DIRECTORY_SEPARATOR)===0) continue 2;
-            clearstatcache(true,$root);
-            if(is_link($root)) continue;
-            if(!is_dir($root)) {
-                $mask=umask(0077);
-                try { $made=@mkdir($root,0700); } finally { umask($mask); }
-                clearstatcache(true,$root);
-                if(!$made && !is_dir($root)) continue;
-            }
-            if(is_link($root)||!is_dir($root)||!is_writable($root)) continue;
-            $real=realpath($root);
-            if(!$real || $real!==$root) continue;
-            @chmod($root,0700);
-            clearstatcache(true,$root);
-            $perms=@fileperms($root);
-            if($perms===false || ($perms&0077)!==0) {
-                $last='Permessi directory temporanea non privati (modo '.($perms===false?'ignoto':sprintf('%04o',$perms&0777)).').';
-                continue;
-            }
-            return $root;
-        }
-        return self::err($last);
+    // Non-autoloaded private DB options; no public REST exposure or filesystem staging.
+    static function key($t) { return 'pdbhm12_'.$t; }
+    static function lock($t,$fn) {
+        global $wpdb;
+        $name='pdbhm_'.substr(hash('sha256',ABSPATH.'|'.$t),0,48);
+        if ((string)$wpdb->get_var($wpdb->prepare('SELECT GET_LOCK(%s, 2)',$name))!=='1') return self::err('Lock database non disponibile.');
+        try { return $fn(); } finally { $wpdb->get_var($wpdb->prepare('SELECT RELEASE_LOCK(%s)',$name)); }
     }
-    static function sweep($root) {
-        foreach (glob($root.'/*.json') ?: [] as $p) {
-            if (is_link($p) || @filemtime($p)>time()-self::TTL) continue;
-            $h=@fopen($p,'r+'); if (!$h) continue;
-            if (flock($h,LOCK_EX|LOCK_NB)) {
-                $m=json_decode(stream_get_contents($h),true);
-                if (!is_array($m) || ($m['expires']??0)<time()) { @unlink(substr($p,0,-5).'.bin'); @unlink($p); }
-                flock($h,LOCK_UN);
-            } fclose($h);
+    static function clean($key,$m) {
+        // Include possible pending chunk after a failed manifest write.
+        foreach(array_unique(array_merge($m['offsets']??[],[(int)($m['offset']??0)])) as $i) delete_option($key.'_c_'.(int)$i);
+        delete_option($key);
+        return get_option($key,false)===false;
+    }
+    static function sweep() {
+        global $wpdb;
+        $like=$wpdb->esc_like('pdbhm12_').'%';
+        $keys=$wpdb->get_col($wpdb->prepare("SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s AND CHAR_LENGTH(option_name)=40 LIMIT 100",$like));
+        foreach($keys?:[] as $key) {
+            $m=get_option($key,false);
+            if(!is_array($m)||($m['expires']??0)>=time()) continue;
+            $t=substr($key,8);
+            if(!preg_match('/^[a-f0-9]{32}$/D',$t)) continue;
+            self::lock($t,function() use($key) { $m=get_option($key,false); if(is_array($m)&&($m['expires']??0)<time()) self::clean($key,$m); });
         }
     }
     static function start($a) {
         if (!self::permission() || !self::allowed($a['post_id']??0)) return self::err('Pagina hub non autorizzata.');
         $id=(int)$a['post_id']; $size=(int)($a['file_size']??0); $hash=strtolower($a['sha256']??''); $name=$a['filename']??'';
         if ($size<1 || $size>self::MAX || !preg_match('/^[a-f0-9]{64}$/D',$hash) || !preg_match('/^[a-z0-9][a-z0-9_-]{1,140}\.(webp|png|jpg|jpeg)$/D',$name)) return self::err('Manifesto non valido.');
-        $root=self::root(); if(is_wp_error($root)) return $root; self::sweep($root);
-        $token=bin2hex(random_bytes(16)); $base=$root.'/'.$token;
-        $m=['owner'=>get_current_user_id(),'post_id'=>$id,'filename'=>$name,'size'=>$size,'sha256'=>$hash,'offset'=>0,'expires'=>time()+self::TTL,'expected_featured_id'=>(int)get_post_thumbnail_id($id),'alt_text'=>sanitize_text_field($a['alt_text']??''),'caption'=>sanitize_textarea_field($a['caption']??'')];
-        $h=@fopen($base.'.json','x'); if(!$h) return self::err('Sessione non creata.');
-        @chmod($base.'.json',0600); $b=@fopen($base.'.bin','x');
-        if(!$b) { fclose($h); @unlink($base.'.json'); return self::err('File temporaneo non creato.'); }
-        @chmod($base.'.bin',0600); fclose($b);
-        $j=wp_json_encode($m); $ok=is_string($j)&&fwrite($h,$j)===strlen($j); fclose($h);
-        if(!$ok) { @unlink($base.'.json'); @unlink($base.'.bin'); return self::err('Manifesto non salvato.'); }
-        return ['upload_id'=>$token,'next_offset'=>0,'remaining_bytes'=>$size,'max_chunk_bytes'=>self::CHUNK,'expected_featured_id'=>$m['expected_featured_id']];
+        self::sweep();
+        $token=bin2hex(random_bytes(16)); $key=self::key($token);
+        $m=['owner'=>get_current_user_id(),'post_id'=>$id,'filename'=>$name,'size'=>$size,'sha256'=>$hash,'offset'=>0,'offsets'=>[],'expires'=>time()+self::TTL,'expected_featured_id'=>(int)get_post_thumbnail_id($id),'alt_text'=>sanitize_text_field($a['alt_text']??''),'caption'=>sanitize_textarea_field($a['caption']??'')];
+        if(!add_option($key,$m,'',false)) return self::err('Sessione database non creata.');
+        return ['upload_id'=>$token,'next_offset'=>0,'remaining_bytes'=>$size,'max_chunk_bytes'=>self::CHUNK,'expected_featured_id'=>$m['expected_featured_id'],'storage'=>'database'];
     }
     static function session($a,$fn) {
-        if (!self::permission()) return self::err('Permesso negato.');
+        if(!self::permission()) return self::err('Permesso negato.');
         $t=$a['upload_id']??''; if(!preg_match('/^[a-f0-9]{32}$/D',$t)) return self::err('Sessione non valida.');
-        $root=self::root(); if(is_wp_error($root)) return $root; $base=$root.'/'.$t;
-        if(is_link($base.'.json')||is_link($base.'.bin')) return self::err('Sessione non sicura.');
-        $h=@fopen($base.'.json','r+'); if(!$h) return self::err('Sessione assente.');
-        if(!flock($h,LOCK_EX)) { fclose($h); return self::err('Lock non acquisito.'); }
-        try {
-            clearstatcache(true,$base.'.json');
-            $m=json_decode(stream_get_contents($h),true);
-            if(!is_file($base.'.json') || !is_array($m) || ($m['owner']??0)!==get_current_user_id() || ($m['expires']??0)<time() || !self::allowed($m['post_id']??0)) return self::err('Sessione scaduta o non autorizzata.');
-            return $fn($m,$base,$h);
-        } finally { flock($h,LOCK_UN); fclose($h); }
+        $key=self::key($t);
+        return self::lock($t,function() use($key,$fn) {
+            $m=get_option($key,false);
+            if(!is_array($m)||($m['owner']??0)!==get_current_user_id()||($m['expires']??0)<time()||!self::allowed($m['post_id']??0)) return self::err('Sessione scaduta o non autorizzata.');
+            return $fn($m,$key);
+        });
     }
     static function chunk($a) {
-        return self::session($a,function($m,$base,$h) use($a) {
-            $raw=base64_decode($a['base64_chunk']??'',true); $offset=(int)($a['offset']??-1);
-            if($raw===false || strlen($raw)<1 || strlen($raw)>self::CHUNK || base64_encode($raw)!==($a['base64_chunk']??'')) return self::err('Blocco base64 non valido.');
-            clearstatcache(true,$base.'.bin'); $actual=@filesize($base.'.bin');
-            if($actual===false || $actual>$m['size']) return self::err('File temporaneo non coerente.');
-            // File length is authoritative; exact retransmissions are safe.
-            if($offset<0 || $offset>$actual || $offset+strlen($raw)>$m['size']) return self::err('Offset o dimensione non validi.');
-            $b=@fopen($base.'.bin','r+b'); if(!$b) return self::err('File temporaneo non leggibile.');
+        return self::session($a,function($m,$key) use($a) {
+            $encoded=$a['base64_chunk']??''; $raw=base64_decode($encoded,true); $offset=(int)($a['offset']??-1);
+            if($raw===false||strlen($raw)<1||strlen($raw)>self::CHUNK||base64_encode($raw)!==$encoded) return self::err('Blocco base64 non valido.');
+            $actual=$m['offset'];
+            if($offset<0||$offset>$actual||$offset+strlen($raw)>$m['size']) return self::err('Offset o dimensione non validi.');
+            $ck=$key.'_c_'.$offset; $stored=get_option($ck,false);
             if($offset<$actual) {
-                $ok=$offset+strlen($raw)<=$actual && fseek($b,$offset)===0 && fread($b,strlen($raw))===$raw;
-                fclose($b); if(!$ok) return self::err('Ritrasmissione discordante.');
+                if(!in_array($offset,$m['offsets'],true)||$stored!==$encoded) return self::err('Ritrasmissione discordante.');
             } else {
-                $ok=fseek($b,$actual)===0 && fwrite($b,$raw)===strlen($raw) && fflush($b);
-                if(!$ok) { ftruncate($b,$actual); fclose($b); return self::err('Scrittura blocco incompleta.'); }
-                fclose($b); $actual+=strlen($raw);
+                if(count($m['offsets'])>=1024) return self::err('Troppi blocchi.');
+                if($stored===false) { if(!add_option($ck,$encoded,'',false)) return self::err('Blocco database non salvato.'); }
+                elseif($stored!==$encoded) return self::err('Blocco pendente discordante.');
+                $m['offsets'][]=$offset; $m['offset']+=strlen($raw);
+                if(!update_option($key,$m,false)) return self::err('Manifesto non aggiornato: ripetere lo stesso blocco.');
+                $actual=$m['offset'];
             }
             return ['next_offset'=>$actual,'remaining_bytes'=>$m['size']-$actual];
         });
     }
-    static function abort($a) {
-        return self::session($a,function($m,$base,$h) { @unlink($base.'.bin'); @unlink($base.'.json'); return ['aborted'=>!file_exists($base.'.bin')&&!file_exists($base.'.json')]; });
-    }
+    static function abort($a) { return self::session($a,function($m,$key) { return ['aborted'=>self::clean($key,$m)]; }); }
     static function finish($a) {
-        return self::session($a,function($m,$base,$h) use($a) {
-            $id=$m['post_id']; $file=$base.'.bin'; clearstatcache(true,$file);
-            if(!is_file($file)||filesize($file)!==$m['size']||!hash_equals($m['sha256'],hash_file('sha256',$file))) return self::err('Dimensione o SHA-256 non corrispondenti.');
+        return self::session($a,function($m,$key) use($a) {
+            $id=$m['post_id'];
+            if($m['offset']!==$m['size']) return self::err('Dimensione incompleta.');
             $old=(int)get_post_thumbnail_id($id);
-            if($old!==$m['expected_featured_id'] || ($old>0 && empty($a['replace_featured']))) return self::err('Immagine in evidenza cambiata o sostituzione non autorizzata.');
+            if($old!==$m['expected_featured_id']||($old>0&&empty($a['replace_featured']))) return self::err('Immagine in evidenza cambiata o sostituzione non autorizzata.');
+            $bytes='';
+            foreach($m['offsets'] as $i) {
+                $encoded=get_option($key.'_c_'.$i,false);
+                if(!is_string($encoded)||strlen($bytes)!==$i) return self::err('Sequenza database non coerente.');
+                $raw=base64_decode($encoded,true); if($raw===false||strlen($bytes)+strlen($raw)>self::MAX) return self::err('Blocco database non valido.');
+                $bytes.=$raw;
+            }
+            if(strlen($bytes)!==$m['size']||!hash_equals($m['sha256'],hash('sha256',$bytes))) return self::err('Dimensione o SHA-256 non corrispondenti.');
             $ext=pathinfo($m['filename'],PATHINFO_EXTENSION); $mime=['webp'=>'image/webp','png'=>'image/png','jpg'=>'image/jpeg','jpeg'=>'image/jpeg'][$ext]??'';
-            $dim=@getimagesize($file);
-            if(!$dim || ($dim['mime']??'')!==$mime || $dim[0]<300 || $dim[1]<300 || $dim[0]>4096 || $dim[1]>4096 || $dim[0]*$dim[1]>12000000) return self::err('Formato o dimensioni immagine non ammessi.');
+            $dim=@getimagesizefromstring($bytes);
+            if(!$dim||($dim['mime']??'')!==$mime||$dim[0]<300||$dim[1]<300||$dim[0]>4096||$dim[1]>4096||$dim[0]*$dim[1]>12000000) return self::err('Formato o dimensioni immagine non ammessi.');
             require_once ABSPATH.'wp-admin/includes/file.php'; require_once ABSPATH.'wp-admin/includes/media.php'; require_once ABSPATH.'wp-admin/includes/image.php';
-            $check=wp_check_filetype_and_ext($file,$m['filename']); if(($check['type']??'')!==$mime) return self::err('MIME WordPress non ammesso.');
-            $tmp=wp_tempnam($m['filename']); if(!$tmp || !copy($file,$tmp)) { if($tmp) @unlink($tmp); return self::err('Copia temporanea non disponibile.'); }
-            // Consume session before import to prevent duplicate imports after a retry.
-            if(!@unlink($base.'.json')) { @unlink($tmp); return self::err('Sessione non consumata.'); }
-            @unlink($file);
-            $media=media_handle_sideload(['name'=>$m['filename'],'tmp_name'=>$tmp],$id,null,['post_excerpt'=>$m['caption']]);
-            if(is_wp_error($media)) { @unlink($tmp); return $media; }
-            $media=(int)$media; update_post_meta($media,'_wp_attachment_image_alt',$m['alt_text']);
-            $original=function_exists('wp_get_original_image_path')?wp_get_original_image_path($media):get_attached_file($media);
-            $server_hash=$original && is_file($original)?hash_file('sha256',$original):'';
-            $out=['attachment_id'=>$media,'post_id'=>$id,'sha256'=>$server_hash,'width'=>$dim[0],'height'=>$dim[1],'url'=>wp_get_attachment_url($media),'featured_image_id'=>(int)get_post_thumbnail_id($id),'alt_text'=>get_post_meta($media,'_wp_attachment_image_alt',true),'caption'=>wp_get_attachment_caption($media),'status'=>'imported_not_assigned'];
-            if(!hash_equals($m['sha256'],$server_hash)) { $out['reason']='SHA-256 originale WordPress non corrispondente; allegato non associato.'; return $out; }
-            if((int)get_post_thumbnail_id($id)!==$old || !self::allowed($id)) { $out['reason']='Destinazione cambiata; allegato non associato.'; return $out; }
-            set_post_thumbnail($id,$media); $out['featured_image_id']=(int)get_post_thumbnail_id($id);
-            if($out['featured_image_id']===$media) $out['status']='assigned';
-            return $out;
+            // Standard WordPress temporary file only during final import, never between requests.
+            $tmp=wp_tempnam($m['filename']);
+            if(!$tmp||is_link($tmp)||file_put_contents($tmp,$bytes,LOCK_EX)!==strlen($bytes)) { if($tmp) @unlink($tmp); return self::err('File temporaneo WordPress non disponibile.'); }
+            unset($bytes);
+            try {
+                $check=wp_check_filetype_and_ext($tmp,$m['filename']); if(($check['type']??'')!==$mime) return self::err('MIME WordPress non ammesso.');
+                if(!hash_equals($m['sha256'],hash_file('sha256',$tmp))) return self::err('SHA-256 temporaneo non corrispondente.');
+                // Consume before import to prevent duplicate imports after a retry.
+                if(!self::clean($key,$m)) return self::err('Sessione non consumata.');
+                $media=media_handle_sideload(['name'=>$m['filename'],'tmp_name'=>$tmp],$id,null,['post_excerpt'=>$m['caption']]);
+                if(is_wp_error($media)) return $media;
+                $media=(int)$media; update_post_meta($media,'_wp_attachment_image_alt',$m['alt_text']);
+                $original=function_exists('wp_get_original_image_path')?wp_get_original_image_path($media):get_attached_file($media);
+                $server_hash=$original&&is_file($original)?hash_file('sha256',$original):'';
+                $out=['attachment_id'=>$media,'post_id'=>$id,'sha256'=>$server_hash,'width'=>$dim[0],'height'=>$dim[1],'url'=>wp_get_attachment_url($media),'featured_image_id'=>(int)get_post_thumbnail_id($id),'alt_text'=>get_post_meta($media,'_wp_attachment_image_alt',true),'caption'=>wp_get_attachment_caption($media),'status'=>'imported_not_assigned'];
+                if(!hash_equals($m['sha256'],$server_hash)) { $out['reason']='SHA-256 originale WordPress non corrispondente; allegato non associato.'; return $out; }
+                if((int)get_post_thumbnail_id($id)!==$old||!self::allowed($id)) { $out['reason']='Destinazione cambiata; allegato non associato.'; return $out; }
+                set_post_thumbnail($id,$media); $out['featured_image_id']=(int)get_post_thumbnail_id($id);
+                if($out['featured_image_id']===$media) $out['status']='assigned';
+                return $out;
+            } finally { if(is_file($tmp)) @unlink($tmp); }
         });
     }
     static function register() {
@@ -160,3 +139,7 @@ final class PDB_Hub_Media {
     }
 }
 add_action('wp_abilities_api_init',[PDB_Hub_Media::class,'register']);
+
+add_action('pdbhm12_cleanup',[PDB_Hub_Media::class,'sweep']);
+register_activation_hook(__FILE__,function(){ if(!wp_next_scheduled('pdbhm12_cleanup')) wp_schedule_event(time()+300,'hourly','pdbhm12_cleanup'); });
+register_deactivation_hook(__FILE__,function(){ wp_clear_scheduled_hook('pdbhm12_cleanup'); });
