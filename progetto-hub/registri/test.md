@@ -23,3 +23,6 @@ Rendering WPVibe della bozza: .pdbh-library 6 link (quattro fonti, bibliografia,
 
 ## Lotto 6 — 28 novembre 2026
 Rilettura MCP #8767: draft e slug corretti; Yoast aggiornato con esito positivo (titolo, description, CollectionPage). Tentativo anteprima anonima della pagina draft restituisce 404: rendering effettivo del template hub non verificato. Modulo PHP: php -l OK; otto test con stub WordPress OK (normalizzazione/deduplica, cap, tipi/stati, esclusione protetti e duplicati, registrazione shortcode, nonce, rifiuto ID non pubblicato, salvataggio). ZIP test integrità OK, git blob locale bbf287329f6cc71a130189bce7fa4baafcfa36ff uguale al sorgente GitHub. Test integrazione WP, UI metabox, input malformato, errori salvataggio e associazioni inverse restano aperti.
+
+## Lotto 7 — 28 novembre 2026
+Rilettura API #778 pubblicata, identità e URL invariati, contenuto uguale alla revisione GitHub, 7 righe e 6 H2 bilanciati, indicazione obsoleta eliminata, SEO preesistente conservata. Tutte le 12 destinazioni indicate nel registro collegamenti sono pubblicate e URL confrontati; nessun controllo HTTP indipendente in questa sessione.
