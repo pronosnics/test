@@ -236,3 +236,24 @@ Riletta monografia loto p144 PDF146 fig93 (testo nativo): Nymphaea sp. pl., test
 | 1271 | Citrus medica L. | Rutaceae (#30) | 1272 | https://powo.science.kew.org/taxon/59603-2 |
 | 266 | Cedrus libani A.Rich. | Pinaceae (#20) | 7737 | https://powo.science.kew.org/taxon/676705-1 |
 Nessun cambio di famiglia o binomio necessario. Controlli mirati: Cedrus libani A.Rich. già distinto da Citrus medica; #700 Aquilaria agallocha sinonimo registrato e distinzione dal gel Aloe; #1307 Commiphora opobalsamum sinonimo registrato, identificazione balsamo controversa; #2243 separa Phragmites da Arundo e limita la sinonimia storica; #889 Capparis sicula ricondotto a var. canescens, non rango specifico (varietà accettata POWO https://powo.science.kew.org/taxon/60443497-2); #1031 cece distinto da identificazioni bibliche incerte. #700/#1031 editorial_status vuoto: riserva workflow. 15/15 famiglie coerenti e featured_media nonzero; non verifica file/qualità iconografica/HTTP. Nessuna modifica WordPress. Cumulativo 60/113 (53,1%), 53 ID rimanenti. A.3 aperto: prossimo gruppo dei taxa rimanenti, poi ATL, immagini, medicine; tutte le riserve precedenti mantenute.
+
+## A.3 settimo passaggio — tassonomia quinto gruppo (28/11/2026)
+15 ulteriori record live pdb/get-content verificati (scientific_name, pdb_family, featured_media); 7 atlas-get all (#1477/#1358/#1227/#1791/#1807/#760/#2011) per autorialità, sinonimia e testo iniziale; editorial_status revisionata per tutti e sette. POWO risultati specifici per tutte le 15 specie accettate; aperte tre pagine tassonomiche (Boswellia, Gundelia, Gossypium, snapshot rispettivamente più vecchi dei risultati indicizzati), consultato anche il record di genere Gundelia. Nomi storici dal registro, facsimile non riletto.
+| WP | Nome accettato | Famiglia assegnata | Featured ID | POWO |
+|---|---|---|---|---|
+| 1477 | Cucumis sativus L. | Cucurbitaceae (#64) | 1479 | https://powo.science.kew.org/taxon/292296-1 |
+| 1358 | Conium maculatum L. | Apiaceae (#54) | 1359 | https://powo.science.kew.org/taxon/840668-1 |
+| 1551 | Cupressus sempervirens L. | Cupressaceae (#65) | 1553 | https://powo.science.kew.org/taxon/261974-1 |
+| 1955 | Lawsonia inermis L. | Lythraceae (#62) | 7791 | https://powo.science.kew.org/taxon/553638-1 |
+| 1227 | Citrullus colocynthis (L.) Schrad. | Cucurbitaceae (#64) | 1228 | https://powo.science.kew.org/taxon/291930-1 |
+| 1383 | Coriandrum sativum L. | Apiaceae (#54) | 1384 | https://powo.science.kew.org/taxon/840760-1 |
+| 1791 | Gossypium herbaceum L. | Malvaceae (#53) | 1792 | https://powo.science.kew.org/taxon/559730-1 |
+| 1485 | Cuminum cyminum L. | Apiaceae (#54) | 1487 | https://powo.science.kew.org/taxon/840882-1 |
+| 1819 | Hedera helix L. | Araliaceae (#68) | 1820 | https://powo.science.kew.org/taxon/90723-1 |
+| 4117 | Vicia faba L. | Fabaceae (#25) | 4119 | https://powo.science.kew.org/taxon/524737-1 |
+| 152 | Ficus carica L. | Moraceae (#7) | 188 | https://powo.science.kew.org/taxon/852556-1 |
+| 1807 | Gundelia tournefortii L. | Asteraceae (#12) | 8705 | https://powo.science.kew.org/taxon/210758-1 |
+| 2011 | Morus nigra L. | Moraceae (#7) | 2013 | https://powo.science.kew.org/taxon/854688-1 |
+| 1966 | Lilium candidum L. | Liliaceae (#38) | 6739 | https://powo.science.kew.org/taxon/537512-1 |
+| 760 | Boswellia sacra Flück. | Burseraceae (#55) | 806 | https://powo.science.kew.org/taxon/127065-1 |
+Nessun cambio di famiglia o binomio necessario. Controlli mirati: Cucumis sativus distinto da C. melo, antica identificazione dei cetrioli non certa; Conium maculatum distinto dalle specie del genere Cicuta, tossicità e indeterminatezza di rōʾš; Citrullus colocynthis distinto da C. lanatus, tossicità esplicita; Gossypium herbaceum due sottospecie (africanum e herbaceum) confermate dalla pagina POWO, non due specie bibliche; Gundelia genere non monospecifico (17 specie accettate nel risultato POWO https://powo.science.kew.org/taxon/9129-1), distinzione da Anastatica e riserva galgal preservate; Morus nigra distinto da M. alba e Ficus sycomorus; Boswellia sacra: POWO sezione sinonimi conferma B. carteri omotipico nom. superfl. e B. bhaw-dajiana eterotipico, nessuna duplicazione, incenso biblico non attribuito esclusivamente a B. sacra. 15/15 famiglie coerenti e featured_media nonzero; non verifica file/qualità iconografica/HTTP. Nessuna modifica WP. Cumulativo 75/113 (66,4%), 38 ID rimanenti. A.3 aperto; restano ATL, immagini, medicine e riserve precedenti.
