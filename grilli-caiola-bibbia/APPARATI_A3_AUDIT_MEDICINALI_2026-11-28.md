@@ -219,3 +219,15 @@ Livelli vuoti: #2055, #6659, #1840. Campi essenziali vuoti: #7984 pdb_interactio
 | 2327 | 2312 | 2312 | publish | Usi etnobotanici + dati fitochimici e in vitro + studi nutrizionali clinici limitati; non prova clinica di trattamenti per patologie specifiche. | nessuno | 7 | 7 |
 | 2357 | 2336 | 2336 | publish | Etnobotanica + in vitro/in vivo preclinici + un trial pilota umano (30 partecipanti, doppio cieco, placebo con miglioramento simile): evidenza clinica debole/insufficiente per terapia consolidata. | nessuno | 5 | 5 |
 Livelli vuoti: nessuno. Campi essenziali vuoti: nessuno. Relazioni complessive: 26; possibili duplicati API: #309 (1). Nessuna modifica WordPress. Cumulativo 82/105.
+
+
+## Ottavo gruppo metadati e relazioni, parte B (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 4633 | 4632 | 4632 | publish | non valorizzato | nessuno | 7 | 7 |
+| 2548 | 2540 | 2540 | publish | traditional | nessuno | 7 | 7 |
+| 2476 | 2464 | 2464 | publish | traditional | nessuno | 8 | 8 |
+| 2620 | 2619 | 2619 | publish | non dimostrato per taxon specifico | nessuno | 6 | 6 |
+| 2587 | 2585 | 2585 | publish | traditional | nessuno | 12 | 10 |
+Livelli vuoti: #4633. Campi essenziali vuoti: nessuno. Relazioni complessive: 40; possibili duplicati API: #2587 (2). Nessuna modifica WordPress. Cumulativo 87/105.
