@@ -1,5 +1,5 @@
 # A.3 — Concordanza ATL parziale, 28/11/2026
-Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato: {"ids":113,"legacy":43,"operational":10,"unresolved":70,"conflicts":[]}.
+Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":68,"operational":11,"unresolved":45,"conflicts":[]}.
 
 | WP | Legacy attestato | Operativo attestato | Fonte |
 |---|---|---|---|
@@ -18,21 +18,21 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 4940 | ATL-0037 | non accertato | roadmap cap.8 + registro storico (nome) |
 | 1307 | ATL-0074 | non accertato | roadmap cap.7 |
 | 4880 | ATL-0033 | non accertato | roadmap cap.8 + registro storico (nome) |
-| 1583 | non accertato | non accertato | da verificare |
-| 2243 | ATL-0171 | non accertato | roadmap cap.8 + registro storico (nome) |
-| 1133 | non accertato | non accertato | da verificare |
+| 1583 | ATL-0091 | non accertato | moldenke-bible-plants/ATL-0091_CYMBOPOGON_MARTINI_DOSSIER_2026-11-19.md |
+| 2243 | ATL-0171 | ATL-0155 | moldenke-bible-plants/STATO_ATLANTE_CODICI_OPERATIVI_2026-11-21_ATL0155.md |
+| 1133 | ATL-0066 | non accertato | moldenke-bible-plants/ATL-0066_CINNAMOMUM_VERUM_DOSSIER_2026-11-18.md |
 | 889 | non accertato | non accertato | da verificare |
 | 3937 | ATL-0255 | non accertato | roadmap cap.10 + registro storico (nome) |
-| 3482 | ATL-0235 | non accertato | roadmap cap.9 + registro storico (nome) |
-| 2080 | ATL-0157 | non accertato | roadmap cap.9 + registro storico (nome) |
+| 3482 | ATL-0235 | non accertato | grilli-caiola-bibbia/VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_9_2026-11-27.md |
+| 2080 | ATL-0157 | non accertato | grilli-caiola-bibbia/VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_9_2026-11-27.md |
 | 992 | ATL-0060 | non accertato | roadmap cap.7 |
-| 1104 | non accertato | non accertato | da verificare |
+| 1104 | ATL-0065 | non accertato | moldenke-bible-plants/ATL-0065_CINNAMOMUM_AROMATICUM_DOSSIER_2026-11-18.md |
 | 1031 | ATL-0062 | non accertato | registro storico |
 | 1271 | ATL-0072 | non accertato | registro storico |
 | 266 | ATL-0055 | non accertato | roadmap cap.7 |
-| 942 | ATL-0057 | non accertato | roadmap cap.9 + registro storico (nome) |
+| 942 | ATL-0057 | non accertato | grilli-caiola-bibbia/VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_9_2026-11-27.md |
 | 1477 | ATL-0087 | non accertato | registro storico |
-| 1057 | non accertato | non accertato | da verificare |
+| 1057 | ATL-0063 | non accertato | moldenke-bible-plants/ATL-0063_CICHORIUM_ENDIVIA_DOSSIER_2026-11-18.md |
 | 6551 | non accertato | non accertato | da verificare |
 | 1358 | non accertato | non accertato | da verificare |
 | 627 | ATL-0015 | non accertato | registro storico |
@@ -97,7 +97,7 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 2639 | ATL-0196 | non accertato | registro storico |
 | 2689 | non accertato | non accertato | da verificare |
 | 2677 | ATL-0200 | non accertato | roadmap cap.7 |
-| 2708 | ATL-0202 | non accertato | roadmap cap.9 + registro storico (nome) |
+| 2708 | ATL-0202 | non accertato | grilli-caiola-bibbia/VERBALE_AUDIT_CONCLUSIVO_CAPITOLO_9_2026-11-27.md |
 | 2766 | non accertato | non accertato | da verificare |
 | 3016 | ATL-0215 | non accertato | registro storico |
 | 8677 | non accertato | non accertato | da verificare |
@@ -142,3 +142,6 @@ Riletti inventari e annotazioni finali delle tre roadmap, verificati i codici co
 - #3252: ATL-0224, cap.10; registro: Sarcopoterium spinosum (verificato).
 - #4269: ATL-0280, cap.10; registro: Ziziphus spina-christi (verificato).
 - #1990: ATL-0138, cap.10; registro: Lycium europaeum (verificato).
+
+## Secondo passaggio — 28/11/2026
+Nove associazioni legacy confermate tramite rilettura di sei dossier/verbali; 4 aggiunte alle righe effettivamente presenti, le altre già riportate nella copia riletta. Phragmites #2243 operativo ATL-0155 confermato; codici nel nome file di Notobasis ATL-0144, Silybum ATL-0207 e Rubus ATL-0180 non promossi automaticamente a operativo (il verbale cap.9 li qualifica come filename). Rubus legacy ATL-0202 è Rubus sanctus nel registro storico, ricondotto a R. creticus. Screening nominale delle righe mancanti effettuato sul registro storico: le associazioni prive di ID/dossier esplicito restano candidate; in particolare non attribuire il codice Triticum aestivum #3953 alla spelta #6254, né il record dicoccum #6177 al duro #5747. Non confondere namespace legacy e operativo. Cumulativo (conteggio effettivo righe) 68/113 legacy, 11/113 operativi attestati, 45 legacy non accertati; le altre associazioni presenti non ricollazionate tutte in questo passaggio.
