@@ -28,3 +28,6 @@ Creata solo bozza #8772, nessuna modifica alle monografie, all'indice, al tema a
 
 ## Lotto 11 — 28 novembre 2026
 Creata solo bozza #8773; nessuna modifica alle monografie, all'indice o al tema/plugin attivi.
+
+## Lotto 12 — 28 novembre 2026
+Creata solo bozza #8774. Nessuna modifica alle monografie, lemmi, identificazioni, indice, tema o plugin attivi.
