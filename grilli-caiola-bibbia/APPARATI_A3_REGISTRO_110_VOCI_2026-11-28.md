@@ -449,3 +449,26 @@ Cumulativo 75/113 ID tecnicamente verificati. Errori: nessuno.
 
 
 **A.3 — quinto gruppo media e ATL (28/11/2026):** 15/15 file locali verificati, featured=plate=attachment, ALT nonvuoti, SHA-256 distinti anche dai gruppi precedenti; 13 WebP/2 JPEG. Cumulativo 75/113 (66,4%), 38 restanti. Riserva qualità #7397 Nardostachys (582×1000, tavola storica Curtis 1881 n.6564), didascalie vuote #6605 Mandragora autumnalis e #6337 Malus sylvestris. Nessuna modifica WP né verifica visiva/HTTP. Concordanza 101/113 legacy, 12/113 operativi, 12 legacy residui: #3962 ATL-0263 per sinonimia POWO Tulipa sharonensis → T. agenensis, distinto da T. montana e genere; #4117 ATL-0274 operativo attestato da dossier 23/11, legacy non attestato nel JSON. Ricerca dossier Ulmus/Urtica/Amomum/Cichorium senza nuovo codice certo, riserve mantenute. Prossimo sesto gruppo media; medicine, controllo iconografico, facsimile, piano #170, HTTP e altre riserve precedenti aperti. [Registro](APPARATI_A3_REGISTRO_110_VOCI_2026-11-28.md), [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md).
+
+
+## A.3 — sesto gruppo media (28/11/2026)
+Rilettura live atlas-media-info full per 15 ID, 15 conformi per file locale, featured=plate=attachment, ALT, dimensioni e SHA-256. 0 corrispondenze SHA con i gruppi precedenti; 15 SHA distinti nel gruppo. Non verifica visiva né HTTP. Nessuna modifica WordPress.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 1901 | 1904 | 1024×1536 | 375396 | image/webp | c3125d1a78b9e454d72e9ab77b900f89c4127b5a1db9d1d6af99c5851f2e01c0 |
+| 2038 | 2040 | 768×1152 | 129914 | image/webp | 122e1765ffc7083edefe15f6e5bd86663f39548c9b91d64759b481278dc24aef |
+| 129 | 186 | 1024×1536 | 509646 | image/webp | 8355976ef8cbe586f09917440bff9bab7ba518fa05839a5cb7e522afbcf2c97c |
+| 3984 | 3985 | 1122×1402 | 281234 | image/webp | ff79e1b4c31f3860da9214e4c8193afe189c2b7a4a2158a3e78d31c296967f06 |
+| 3996 | 3998 | 1086×1448 | 287234 | image/webp | 3fd0447e8c5f0f92087e383212a54a83dadfe7c92f6c9d18f4e87be407d62c66 |
+| 1834 | 1835 | 1086×1448 | 321970 | image/webp | 8438a5bafbf272dab2ebc38103bdb983eb1d2a2ec984633b72f1e7ab7f6fb9ec |
+| 308 | 344 | 1086×1448 | 354720 | image/webp | b83f3ffc85c997dd06b6efa85bc3b90131f70f7c1c8efe029bc91462c854e550 |
+| 427 | 493 | 1086×1448 | 531300 | image/webp | eb866259ddd650dd4bfef87a08eb84ad36aa258e711063a6008c4e376253fa1b |
+| 2391 | 2397 | 1024×1536 | 496048 | image/webp | 811c2d11d97770a82aad690b6481f517416c687b783e562be0412de6c567870c |
+| 2312 | 8047 | 1024×1536 | 541224 | image/webp | 5563ddc20bcdb7d0fea28ed4bb332108c665eecc5410ae687601b08393fa406d |
+| 2336 | 2337 | 1024×1536 | 291438 | image/webp | b9d1240da84716d357cba100ede7cc9df2979d3c197012341398306146cee0b4 |
+| 4632 | 4660 | 1086×1448 | 247958 | image/webp | f325accd7ac4b83ccf4054c25443a2dc9b682a0c9d414b7f33c3e2ccc8cfc831 |
+| 2540 | 2541 | 1024×1536 | 536666 | image/webp | ea0ebf74b46b6908f6d09ad50a5fdcd0e13f62d4f4823fae94b871fd9a8bd100 |
+| 2464 | 2494 | 1536×1024 | 593926 | image/webp | 74a2fd96dfd12ff79f166406883830c6f61adbff3e1723f3f861aa4a1425487e |
+| 2619 | 2627 | 1024×1536 | 409940 | image/webp | 17d9cf5e52e3c3a3c01783bd33e8f3fcdcd324bd804b4c990ba58963edf4e8d9 |
+Riserve tecniche: #2038/#2040: larghezza 768.
+Cumulativo 90/113 ID tecnicamente verificati. Errori: nessuno.
