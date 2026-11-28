@@ -13,3 +13,6 @@ Modificati solo front-page.php e assets/home-atlas.css nella bozza WPVibe; versi
 
 ## Lotto 6 — 28 novembre 2026
 Creati in bozza WPVibe page-templates/hub.php, page-percorsi-tematici.php, assets/hub-editorial.css; sorgenti archiviati in prototipo-home/. Template editoriale riutilizzabile per pagine, header/footer conservati. Nessun cambiamento tema pubblico.
+
+## Lotto 15A — 28 novembre 2026
+WPVibe bozza front-page.php draft5: card dinamiche per 8 hub, status gate, accesso indice quando pubblicato, navigazione per famiglie pubbliche. Footer predisposto per rimandi inversi prima chiusura landmark. Entrambi sorgenti su GitHub. Nessuna attivazione. WPVibe 5 chiamate residue utilizzate, reset non speso.
