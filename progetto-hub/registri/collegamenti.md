@@ -19,3 +19,6 @@ Bozza #8770: 24 URL distinti (22 interni, 2 esterni); destinazioni principali ri
 
 ## Lotto 12 — 28 novembre 2026
 35 URL interni distinti: 26 schede dei nomi/espressioni, 4 opere, metodologia, 3 aree Atlante, #778. Schede lessicali di destinazione lette via API e URL ripresi dalle risposte; non verifica HTTP individuale. Nessun collegamento da pagine pubbliche verso bozza, nessuna duplicazione dei lemmi H1534/H5488; usato un record di consultazione per ciascun lemma, senza accorpamenti.
+
+## Lotto 13 — 28 novembre 2026
+40 URL interni distinti: 32 schede lessicali, 4 opere, metodologia, 3 aree Atlante. Destinazioni lessicali lette via API, URL ripresi dalle risposte; non test HTTP individuale. Nessuna modifica alle relazioni o ai lemmi, nessun backlink da pubblicati verso bozza.
