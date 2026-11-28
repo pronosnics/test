@@ -13,3 +13,6 @@ Bozza #8770: 24 URL distinti (22 interni, 2 esterni); destinazioni principali ri
 
 ## Lotto 10 — 28 novembre 2026
 36 URL interni distinti, 26 monografie, 7 citazioni e 3 pagine/fonti di riferimento. Destinazioni botaniche e citazioni consultate tramite API; nessun controllo HTTP individuale. Nessun collegamento da pagine pubblicate verso bozza.
+
+## Lotto 11 — 28 novembre 2026
+32 URL interni distinti: 15 monografie, 9 citazioni, 1 lemma, 5 fonti, 2 pagine editoriali. Destinazioni censite e URL confrontati via API, non test HTTP individuale. Nessun backlink da pubblicati verso bozza.
