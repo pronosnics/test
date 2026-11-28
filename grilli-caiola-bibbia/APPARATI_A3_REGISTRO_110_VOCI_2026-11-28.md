@@ -498,3 +498,19 @@ Rilettura live atlas-media-info full per 15 ID, 15 conformi per file locale, fea
 | 1990 | 1992 | 1024×1536 | 262620 | image/webp | 83b42c82124ad16ec483e4165ee94b53623556aeea4be275d9b08ff1bceb8c00 |
 Riserve tecniche: nessuna rilevata.
 Cumulativo 105/113 ID tecnicamente verificati. Errori: nessuno.
+
+
+## A.3 — ottavo gruppo media (28/11/2026)
+Rilettura live atlas-media-info full per 8 ID, 8 conformi per file locale, featured=plate=attachment, ALT, dimensioni e SHA-256. 0 corrispondenze SHA con i gruppi precedenti; 8 SHA distinti nel gruppo. Non verifica visiva né HTTP. Nessuna modifica WordPress.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 3252 | 3275 | 1024×1536 | 576366 | image/webp | 56260179ee030c94b31698862325f6f9b6e6fa7a170ef6e7df82cde1a1376531 |
+| 5690 | 7402 | 476×592 | 176590 | image/jpeg | 62bc2f3cd3e8b9780d93b4438eca3fe8259a4142821915e703b0c006dd764f0b |
+| 3749 | 3768 | 1024×1536 | 475284 | image/webp | 61645e24b35b407e3de0a2536f4e709850c621bfd6650b79a601c42293586104 |
+| 2291 | 2292 | 1086×1448 | 493274 | image/webp | d2ff8d5bbd9f08806e20c7c9ced378e93bb7c09829fec88071331b8ab838e147 |
+| 3962 | 6785 | 1199×1312 | 276990 | image/webp | 7afea0be52126c5bf78dfd04442aabc044b41aec5e10d4b86649edb7b7a8d55c |
+| 143 | 187 | 1024×1536 | 543488 | image/webp | 5b207b7a7c5b8162893049ea31edd57a54b3ab54ddf0bef83da840b3b8769cf2 |
+| 1432 | 1433 | 900×1350 | 249263 | image/jpeg | 1a3281eddaf1889dfcc8040c6fabda916235420ebd487ebe8c3322e07c4a22cc |
+| 1981 | 1984 | 1024×1536 | 346408 | image/webp | 50fd5d3c90ac3b68a5efeb589391d88a08e0c7838e6fdf8e85ad6394552efb27 |
+Riserve tecniche: #5690/#7402: larghezza 476; #3962/#6785: didascalia vuota.
+Cumulativo 113/113 ID tecnicamente verificati. Errori: nessuno.
