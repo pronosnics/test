@@ -32,3 +32,6 @@ Rilettura #8770: draft, slug confermato, HTML identico al sorgente GitHub (8852 
 
 ## Lotto 9 — 28 novembre 2026
 Rilettura #8771 draft, HTML identico GitHub 9637 caratteri, 8 H2 bilanciati, 7 righe tabella, 33 URL distinti, Yoast dedicato conferma titolo e descrizione. Featured media 0; rendering non verificato.
+
+## Lotto 10 — 28 novembre 2026
+Rilettura #8772 draft, HTML identico GitHub 10867 caratteri, 9 H2 aperti/chiusi, 3 tabelle con 8/7/11 righe, 36 URL distinti, Yoast dedicato conferma title/description. Featured media 0; rendering non verificato.
