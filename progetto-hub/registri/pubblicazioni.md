@@ -22,3 +22,6 @@ Creata esclusivamente bozza #8770, non pubblicata. Nessun cambio a tema, plugin,
 
 ## Lotto 9 — 28 novembre 2026
 Creata solo bozza #8771; nessuna modifica a monografie, indice, tema o plugin pubblici.
+
+## Lotto 10 — 28 novembre 2026
+Creata solo bozza #8772, nessuna modifica alle monografie, all'indice, al tema attivo o al plugin.
