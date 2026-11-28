@@ -25,3 +25,6 @@ Bozza #8770: 24 URL distinti (22 interni, 2 esterni); destinazioni principali ri
 
 ## Lotto 14 — 28 novembre 2026
 28 URL distinti (24 interni, 4 esterni), 16 schede medicinali; destinazioni principali rilette via API. Nessun test HTTP individuale, nessun backlink da pubblicati verso bozza.
+
+## Lotto 15A — 28 novembre 2026
+Modulo pdb-hub 0.2.0: matrice JSON versionata, risoluzione per tipo/slug esatto, esclusione draft/protetti, URL via get_permalink, rimandi inversi e diagnostica admin. 10 destinazioni campionate corrispondenti; #672/#434 alternative non incluse e preservate. 189 candidati, non 189 link HTTP certificati. Nessuna alterazione relazioni scientifiche. Footer bozza predisposto per modulo attivo.
