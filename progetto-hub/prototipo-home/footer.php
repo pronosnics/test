@@ -1,6 +1,7 @@
 <?php if(!defined('ABSPATH')) exit; $opts=pdb_theme_settings();
 $atlas=get_post_status(131)==='publish'?get_permalink(131):pdb_theme_archive_url();
 ?>
+<?php if(function_exists('pdbhub_render_related') && is_singular(pdbhub_member_types())) echo pdbhub_render_related(get_queried_object_id()); ?>
 <?php if(pdb_theme_atlas_owns_main()): ?></div><?php else: ?></main><?php endif; ?>
 <footer class="site-footer pdb-shell-footer"><div class="container footer-grid">
 <div><div class="footer-title">❦ <?php bloginfo('name'); ?></div><p><?php echo esc_html($opts['footer_text']??'Un progetto di studio botanico e biblico.'); ?></p><p>Le identificazioni botaniche sono discusse alla luce delle fonti. Gli usi medicinali sono documentati a fini storici e scientifici.</p></div>
