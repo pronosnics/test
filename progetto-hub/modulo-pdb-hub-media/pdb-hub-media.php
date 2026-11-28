@@ -2,7 +2,7 @@
 /**
  * Plugin Name: PDB Hub Media
  * Description: Trasferimento MCP a blocchi delle copertine degli otto percorsi dell'Atlante, separato dalle monografie.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Requires PHP: 7.4
  */
 if (!defined('ABSPATH')) exit;
@@ -20,17 +20,41 @@ final class PDB_Hub_Media {
     }
     static function root() {
         // Never place upload fragments in public wp-content/uploads.
-        $root = rtrim(sys_get_temp_dir(),'/\\').'/pdbhub-media-'.substr(hash_hmac('sha256',ABSPATH,wp_salt('auth')),0,32);
-        if (!is_dir($root) && !@mkdir($root,0700) && !is_dir($root)) return self::err('Directory temporanea privata indisponibile.');
-        if (is_link($root) || !is_dir($root) || !is_writable($root)) return self::err('Directory temporanea non sicura.');
-        @chmod($root,0700);
-        $real=realpath($root);
-        foreach ([ABSPATH,$_SERVER['DOCUMENT_ROOT']??''] as $public) {
+        $suffix='pdbhub-media-'.substr(hash_hmac('sha256',ABSPATH,wp_salt('auth')),0,32);
+        $candidates=[sys_get_temp_dir()];
+        if(function_exists('get_temp_dir')) $candidates[]=get_temp_dir();
+        $webroots=[];
+        foreach([ABSPATH,$_SERVER['DOCUMENT_ROOT']??''] as $public) {
             $web=$public!==''?realpath($public):false;
-            if ($web && $real && ($real===$web || strpos($real,rtrim($web,DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR)===0)) return self::err('Directory temporanea dentro il percorso pubblico.');
+            if($web) $webroots[]=rtrim($web,DIRECTORY_SEPARATOR);
         }
-        if ((fileperms($root)&0077)!==0) return self::err('Permessi directory temporanea non privati.');
-        return $root;
+        $last='Directory temporanea privata indisponibile.';
+        foreach(array_unique($candidates) as $candidate) {
+            $parent=realpath($candidate);
+            if(!$parent || !is_dir($parent) || !is_writable($parent)) continue;
+            $root=rtrim($parent,DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR.$suffix;
+            foreach($webroots as $web) if($root===$web || strpos($root,$web.DIRECTORY_SEPARATOR)===0) continue 2;
+            clearstatcache(true,$root);
+            if(is_link($root)) continue;
+            if(!is_dir($root)) {
+                $mask=umask(0077);
+                try { $made=@mkdir($root,0700); } finally { umask($mask); }
+                clearstatcache(true,$root);
+                if(!$made && !is_dir($root)) continue;
+            }
+            if(is_link($root)||!is_dir($root)||!is_writable($root)) continue;
+            $real=realpath($root);
+            if(!$real || $real!==$root) continue;
+            @chmod($root,0700);
+            clearstatcache(true,$root);
+            $perms=@fileperms($root);
+            if($perms===false || ($perms&0077)!==0) {
+                $last='Permessi directory temporanea non privati (modo '.($perms===false?'ignoto':sprintf('%04o',$perms&0777)).').';
+                continue;
+            }
+            return $root;
+        }
+        return self::err($last);
     }
     static function sweep($root) {
         foreach (glob($root.'/*.json') ?: [] as $p) {
