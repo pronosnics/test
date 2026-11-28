@@ -22,3 +22,6 @@ Creata bozza #8771 cereali-legumi-bibbia. Riletti estratti pertinenti 11 monogra
 
 ## Lotto 10 — 28 novembre 2026
 Creata bozza #8772 spezie-aromi-resine-bibbia. Selezione tematica di 26 monografie pubblicate, 22 del corpus cap.6 e 4 di confronto (Boswellia sacra, papyrifera, serrata; Styrax benzoin). Tre gruppi editoriali 8/7/11; non riproduce integralmente le 29 botaniche del capitolo. Riletti estratti pertinenti e dossier di chiusura 27/11 con riserve. Distinti olio dell'unzione e incenso sacro, fitonimo e merce, cumino/nigella, aneto/anice, aloe/agar, lōṭ/mirra, issopo/origano. Sorgente lotto-10-spezie-aromi-resine/spezie-aromi-resine.html.
+
+## Lotto 11 — 28 novembre 2026
+Creata bozza #8773 alberi-da-frutto-bibbia. 15 monografie in tre gruppi (5/6/4), incluse vite lianosa e palma monocotiledone arborea; selezione tematica non replica cap.4. Riletti dossier Grilli cap.4 e estratti di tutte le 15 monografie pubblicate; distinti tappûaḥ, boṭnîm, ʾegōz, gelso/sicomoro, carrubo/locuste, etrog/frutto originario, miele/datteri. Sorgente lotto-11-alberi-da-frutto/alberi-da-frutto.html.
