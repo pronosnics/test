@@ -1943,3 +1943,6 @@ Cap. 10, filologia e medicina: sette passi e nove lemmi aggiunti, quattordici re
 
 
 - Cap.10 lotto 10.11d (28/11): audit live locale e SEO memorizzata 20/20, featured=plate 10/10, 240 relazioni bibliografiche (170 botaniche/70 medicinali), 21 identificazioni (18 controverse, 2 consolidate, 1 probabile). Bailey-Danin #5191/#5202 distinti e conservati. Piano pending e57ab427-21b0-475f-aeb5-fa3beef396c9, 30 operazioni inclusa fusione #4156→#1002, non applicato. HTTP anonimo #4269/#1990 ancora CONNECT403; fallback locale positivo. Matrice aggiornata, nessuna modifica WP in questo lotto. Prossimo 10.11e, verifica post-approvazione e riserve residue, poi verbale conclusivo; cap11 non avviato.
+
+
+- Cap.10 lotto 10.11e: riletti 14/14 passi–lemmi #461–474, audit locale 18/18; Hepper reperito in cataloghi ma non in originale consultabile, testimonianza Włodarczyk 2007 distinta. Nove codici legacy verificati, Salvia palaestina assente come voce autonoma (non confondere con S. judaica); non rinumerato. Piano 30 operazioni ancora pending, nessuna modifica WP. Roadmap specifica e matrice aggiornate; riserve aperte.
