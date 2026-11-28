@@ -298,3 +298,17 @@ Livelli vuoti: #1439. Campi essenziali vuoti: nessuno. Relazioni complessive: 42
 | 710 | 3 | 3 |
 | 4728 | 8 | 8 |
 Ripetizioni per fonte: []. Nessuna cancellazione automatica; localizzatori/claim preservati per riconciliazione.
+
+
+## Completamento conteggi bibliografici primo gruppo — parte B
+| Medicina | Relazioni | Fonti distinte |
+|---|---|---|
+| 4775 | 5 | 5 |
+| 4837 | 14 | 14 |
+| 4916 | 8 | 8 |
+| 4941 | 6 | 6 |
+| 1313 | 10 | 10 |
+| 4881 | 3 | 3 |
+| 812 | 3 | 3 |
+| 4986 | 9 | 9 |
+Ripetizioni per fonte: []. Nessuna cancellazione automatica; localizzatori/claim preservati per riconciliazione.
