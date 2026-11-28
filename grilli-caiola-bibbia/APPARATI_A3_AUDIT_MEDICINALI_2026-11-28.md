@@ -207,3 +207,15 @@ Livelli vuoti: #2055, #6659, #1840. Campi essenziali vuoti: #7984 pdb_interactio
 
 
 **A.3 — medicinali, settimo gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 77/105. 51 relazioni bibliografiche, 50 coppie scheda–fonte distinte; un gruppo candidato duplicato mirto #530, Duke #136, relazioni #254/#274 entrambe pp.281–283 con claim sostanzialmente equivalenti: proposta di riconciliazione da verificare, conservare #254 come candidato canonico previa verifica e approvazione del piano; nessuna cancellazione. 6 livelli evidenza vuoti (#1338,6642,7225,2055,6659,1840); 7 schede con campi sicurezza vuoti (#1338,530,6642,6365,7984,6659,1840); #2055 data revisione vuota. Riletti estratti live oleandro #2055 (tossicità cardiaca grave e divieto rimedi domestici, soltanto 2 relazioni: approfondimento bibliografico prioritario), narciso #6642 (galantamina purificata distinta dalla pianta, casi di intossicazione, controindicazioni/interazioni da allineare), nardo #7225 (pubblicazioni 2025/2026 dello stesso trial, non campioni indipendenti, limiti sicurezza e conservazione), olivo #141 (uso tradizionale EMA distinto da studi clinici discordanti), ortica romana #6659 (non trasferire monografie EMA di U. dioica/U. urens). Nessuna nuova collazione integrale fonti originali, nessuna modifica WordPress. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo ottavo gruppo da #309, 28 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Ottavo gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 309 | 308 | 308 | publish | traditional | nessuno | 5 | 4 |
+| 432 | 427 | 427 | publish | traditional | nessuno | 3 | 3 |
+| 2396 | 2391 | 2391 | publish | Etnobotanica e descrizione fitochimica; nessuna prova clinica umana specifica verificata per questa specie. | nessuno | 6 | 6 |
+| 2327 | 2312 | 2312 | publish | Usi etnobotanici + dati fitochimici e in vitro + studi nutrizionali clinici limitati; non prova clinica di trattamenti per patologie specifiche. | nessuno | 7 | 7 |
+| 2357 | 2336 | 2336 | publish | Etnobotanica + in vitro/in vivo preclinici + un trial pilota umano (30 partecipanti, doppio cieco, placebo con miglioramento simile): evidenza clinica debole/insufficiente per terapia consolidata. | nessuno | 5 | 5 |
+Livelli vuoti: nessuno. Campi essenziali vuoti: nessuno. Relazioni complessive: 26; possibili duplicati API: #309 (1). Nessuna modifica WordPress. Cumulativo 82/105.
