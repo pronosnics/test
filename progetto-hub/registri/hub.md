@@ -19,3 +19,6 @@ Creata bozza WordPress #8770, slug quattro-specie-sukkot-piante-festa-capanne; t
 
 ## Lotto 9 — 28 novembre 2026
 Creata bozza #8771 cereali-legumi-bibbia. Riletti estratti pertinenti 11 monografie #1031,4117,1961,2206,3561,1981,1834,5747,3953,6177,6254 e dossier capitolo 3 del 25/11. Distinti 7 gruppi alimentari, loglio infestante, ploidia/vestitura, attestazioni consolidate e controverse, Ezechiele 4:9 non prescrizione. Riletti 16 contenuti di lessico e citazioni; non nuova collazione facsimili. Sorgente lotto-09-cereali-legumi/cereali-legumi.html.
+
+## Lotto 10 — 28 novembre 2026
+Creata bozza #8772 spezie-aromi-resine-bibbia. Selezione tematica di 26 monografie pubblicate, 22 del corpus cap.6 e 4 di confronto (Boswellia sacra, papyrifera, serrata; Styrax benzoin). Tre gruppi editoriali 8/7/11; non riproduce integralmente le 29 botaniche del capitolo. Riletti estratti pertinenti e dossier di chiusura 27/11 con riserve. Distinti olio dell'unzione e incenso sacro, fitonimo e merce, cumino/nigella, aneto/anice, aloe/agar, lōṭ/mirra, issopo/origano. Sorgente lotto-10-spezie-aromi-resine/spezie-aromi-resine.html.
