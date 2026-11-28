@@ -420,3 +420,6 @@ Rilettura live atlas-media-info full per 15 ID, 15 conformi ai controlli file lo
 | 1976 | 1977 | 1024×1536 | 513110 | image/webp | 727813b1ede91e87730948cc36b98619959eaab798905dadbf678932834e8d39 |
 
 Cumulativo 60/113 ID tecnicamente verificati. Eventuali errori: nessuno.
+
+
+**A.3 — quarto gruppo media e ATL (28/11/2026):** 15/15 file locali verificati, featured=plate=attachment, ALT nonvuoti, SHA-256 distinti anche dai precedenti gruppi; 14 WebP/1 PNG, larghezza 1000–1216. Cumulativo 60/113 (53,1%); 53 restano. PNG #5762 grano duro 2.602.814 byte, possibile ottimizzazione; didascalia vuota #5762 e #6739 giglio, non ALT mancante. Nessuna modifica WP né verifica visiva/HTTP. Concordanza ATL 100/113 (due nuove corrispondenze sinonimiche nominali Cota #4774 ATL-0027 e Mutarda #807 ATL-0047, una attestazione ID esplicita Rubia #2689 ATL-0201 da QA 25/11); 11 operativi, 13 legacy residui. Tulipa non unificata automaticamente; codice null #6177 confermato. Prossimo quinto gruppo media e ricerca dossier mirata per residui; APG V, medicina, facsimile, piano #170, HTTP e altre riserve conservati. [Registro A.3](APPARATI_A3_REGISTRO_110_VOCI_2026-11-28.md), [Concordanza ATL](APPARATI_A3_CONCORDANZA_ATL_2026-11-28.md).
