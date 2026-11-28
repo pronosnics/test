@@ -4,6 +4,13 @@ define('ABSPATH',__DIR__.'/stub-wp/');
 class WP_Error { public $message; function __construct($code,$msg){$this->message=$msg;} }
 function is_wp_error($x){return $x instanceof WP_Error;}
 function add_action(...$a){}
+function register_activation_hook(...$a){} function register_deactivation_hook(...$a){}
+class DBStub { public $options='wp_options'; function prepare($sql,...$a){return $sql;} function get_var($sql){return '1';} function esc_like($s){return $s;} function get_col($sql){return array_values(array_filter(array_keys($GLOBALS['opts']??[]),function($k){return strlen($k)===40;}));} }
+$wpdb=new DBStub; $opts=[];
+function add_option($k,$v,$d='',$autoload=false){if(array_key_exists($k,$GLOBALS['opts']))return false;$GLOBALS['opts'][$k]=$v;return true;}
+function get_option($k,$default=false){return $GLOBALS['opts'][$k]??$default;}
+function update_option($k,$v,$autoload=false){if(($GLOBALS['opts'][$k]??null)===$v)return false;$GLOBALS['opts'][$k]=$v;return true;}
+function delete_option($k){unset($GLOBALS['opts'][$k]);return true;}
 function wp_salt($x){return 'fixture-only-'.getmypid();}
 function get_post_type($id){return $id===129?'pdb_plant':'page';}
 function get_post_status($id){return 'draft';}
@@ -49,4 +56,6 @@ ok($f['alt_text']==='ALT'&&$f['caption']==='Didascalia','metadata readback');ok(
 $s=PDB_Hub_Media::start($a);ok(is_wp_error(PDB_Hub_Media::finish(['upload_id'=>$s['upload_id']])),'empty session finish denied');ok(PDB_Hub_Media::abort(['upload_id'=>$s['upload_id']])['aborted'],'abort cleans session');
 $s=PDB_Hub_Media::start(array_replace($a,['file_size'=>3,'sha256'=>str_repeat('0',64)]));$t=$s['upload_id'];PDB_Hub_Media::chunk(['upload_id'=>$t,'offset'=>0,'base64_chunk'=>base64_encode('abc')]);ok(is_wp_error(PDB_Hub_Media::finish(['upload_id'=>$t])),'bad checksum rejected');PDB_Hub_Media::abort(['upload_id'=>$t]);
 $s=PDB_Hub_Media::start(array_replace($a,['file_size'=>3,'sha256'=>hash('sha256','abc')]));$t=$s['upload_id'];PDB_Hub_Media::chunk(['upload_id'=>$t,'offset'=>0,'base64_chunk'=>base64_encode('abc')]);ok(is_wp_error(PDB_Hub_Media::finish(['upload_id'=>$t,'replace_featured'=>true])),'non-image rejected');PDB_Hub_Media::abort(['upload_id'=>$t]);
-@rmdir(PDB_Hub_Media::root());echo "$count tests passed (fixture only)\n";
+ok(count($opts)===0,'database staging empty after finish and abort');
+$s=PDB_Hub_Media::start($a);$t=$s['upload_id'];$key=PDB_Hub_Media::key($t);$opts[$key]['expires']=time()-1;PDB_Hub_Media::sweep();ok(!isset($opts[$key]),'expired session sweep');
+echo "$count tests passed (fixture only)\n";
