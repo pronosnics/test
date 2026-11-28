@@ -1,5 +1,5 @@
 # A.3 — Concordanza ATL parziale, 28/11/2026
-Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":68,"operational":11,"unresolved":45,"conflicts":[]}.
+Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo updated 25/11) e ROADMAP_CAPITOLO_7_2026-11-27.md. Match esplicito per ID WordPress, non per filename media o per somiglianza del nome. Non si presume che codice operativo assente coincida con legacy. Il registro storico contiene 246 record vs count dichiarato 245, da verificare separatamente. #6177 record con codice null: non inventare codice. Sono da incrociare gli altri dossier e roadmap. Risultato aggiornato (conteggio righe): {"ids":113,"legacy":99,"operational":11,"unresolved":14,"conflicts":[]}.
 
 | WP | Legacy attestato | Operativo attestato | Fonte |
 |---|---|---|---|
@@ -12,7 +12,7 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 6979 | non accertato | non accertato | da verificare |
 | 699 | ATL-0024 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 4727 | ATL-0025 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
-| 4774 | non accertato | non accertato | da verificare |
+| 4774 | ATL-0027 | non accertato | registro storico, sinonimia POWO (Anthemis palaestina → Cota palaestina), match nominale |
 | 4836 | ATL-0031 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 4914 | ATL-0034 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 4940 | ATL-0037 | non accertato | roadmap cap.8 + registro storico (nome) |
@@ -102,7 +102,7 @@ Fonti: moldenke-bible-plants/ATLANTE_REGISTRO_TAXA_2026-11-21.json (campo update
 | 3016 | ATL-0215 | non accertato | registro storico |
 | 8677 | non accertato | non accertato | da verificare |
 | 2441 | ATL-0185 | ATL-0166 | registro storico; roadmap cap.7 |
-| 807 | non accertato | non accertato | da verificare |
+| 807 | ATL-0047 | non accertato | registro storico, sinonimia POWO (Brassica nigra → Mutarda nigra), match nominale |
 | 367 | ATL-0106 | non accertato | roadmap cap.7 |
 | 3561 | ATL-0239 | non accertato | registro storico: concordanza nominale univoca, ID non esplicito |
 | 6254 | non accertato | non accertato | da verificare |
@@ -177,3 +177,7 @@ Nove associazioni legacy confermate tramite rilettura di sei dossier/verbali; 4 
 - #143 — ATL-0276 — Vitis vinifera
 - #1432 — ATL-0082 — Crocus sativus
 - #1981 — ATL-0136 — Lolium temulentum
+
+
+## Quarto passaggio — sinonimie e screening residuo (28/11/2026)
+Riletto registro storico JSON, 246 record vs 245 dichiarati; confronto con i 16 ID non accertati. Due corrispondenze nominali/sinonimiche univoche, senza attestazione ID nel registro storico: #4774 ATL-0027 Anthemis palaestina → Cota palaestina (POWO https://powo.science.kew.org/taxon/198398-1); #807 ATL-0047 Brassica nigra → Mutarda nigra (POWO https://powo.science.kew.org/taxon/279422-1). Nessuna collisione con righe esistenti. #2689 Rubia tinctorum: candidato ATL-0201, grafia storica Rubia tinctorium da confermare in dossier/voce Duke, non assegnato in questo passaggio. #3962 Tulipa agenensis: candidato ATL-0263 Tulipa sharonensis, ma registro contiene anche ATL-0262 Tulipa montana e ATL-0264 Tulipa spp.; non unificare automaticamente. #6177 codice null esplicito, #5747 e #6254 non assimilabili a frumento tenero ATL-0260. #6551 Cichorium pumilum non assimilato a C. endivia o C. intybus; #6599 Mandragora autumnalis distinta da M. officinarum; #6332 Malus sylvestris distinta da M. domestica; #8330 Typha latifolia distinta dal record T. angustata; #8677 Salvia palaestina distinta da S. judaica. #6979, #4117, #3984 e #3996 nessun record omonimo nel registro consultato. Cumulativo 99/113 legacy, 11/113 operativi, residui 14: #6979, #6551, #6177, #4117, #5747, #8330, #6599, #6332, #3984, #3996, #2689, #8677, #6254, #3962. Nessuna modifica WP.
