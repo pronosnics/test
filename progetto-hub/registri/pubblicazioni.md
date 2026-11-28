@@ -40,3 +40,6 @@ Creata solo bozza #8776; nessuna modifica alle schede medicinali, identificazion
 
 ## Lotto 15A — 28 novembre 2026
 Solo bozza tema e pagina indice #8767 draft modificate. Modulo 0.2.0 archiviato, non attivato. Nessuna nuova pubblicazione. Backup effettivo non verificato; procedura di collaudo e rollback in modulo-pdb-hub/README-0.2.0.md.
+
+## Lotto 15B — 28 novembre 2026
+Solo bozze #8771/#8774/#8775 aggiornate nei permalink; nessuna pubblicazione o attivazione. Pacchetto ZIP predisposto, istruzioni in README-0.2.0. Nessuna modifica alle singole schede.
