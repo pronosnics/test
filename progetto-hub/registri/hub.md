@@ -25,3 +25,6 @@ Creata bozza #8772 spezie-aromi-resine-bibbia. Selezione tematica di 26 monograf
 
 ## Lotto 11 — 28 novembre 2026
 Creata bozza #8773 alberi-da-frutto-bibbia. 15 monografie in tre gruppi (5/6/4), incluse vite lianosa e palma monocotiledone arborea; selezione tematica non replica cap.4. Riletti dossier Grilli cap.4 e estratti di tutte le 15 monografie pubblicate; distinti tappûaḥ, boṭnîm, ʾegōz, gelso/sicomoro, carrubo/locuste, etrog/frutto originario, miele/datteri. Sorgente lotto-11-alberi-da-frutto/alberi-da-frutto.html.
+
+## Lotto 12 — 28 novembre 2026
+Creata bozza #8774 identificazioni-botaniche-controverse-bibbia. Letti metodologia #2035, matrice riserve apparati e dossier lessicali pertinenti. 26 casi in quattro gruppi (6/7/8/5), con contesto, interpretazioni e limite di determinazione; non 26 identificazioni formalmente controverse (inclusi casi probabili, non determinati e termini non botanici). Definizioni editoriali coerenti con le quattro categorie della metodologia. Sorgente lotto-12-identificazioni-controverse/identificazioni-controverse.html.
