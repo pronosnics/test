@@ -40,3 +40,8 @@ Nessuna nuova scheda creata: prima verificare tutti i metadati e fonti specifich
 | 812 | 807 | 807 | publish | traditional | pdb_interactions |
 | 4986 | 807 | 807 | publish | non valorizzato | nessuno |
 Controllo strutturale, non certificazione scientifica del livello di evidenza. Nessuna modifica WordPress. Prossimo gruppo: candidati successivi e riconciliazione di eventuali duplicati.
+
+## Riscontro primo gruppo e doppia scheda senape
+17/17 pubblicate, plant_id effettivi conformi al candidato; 9 livelli evidenza vuoti (#7680,4728,4775,4837,4916,4941,1313,4881,4986). 5 schede con campi di sicurezza vuoti: #711 controindicazioni/interazioni, #7002 controindicazioni, #710 interazioni, #1313 controindicazioni, #812 interazioni. Non equiparare metadato vuoto ad assenza nel testo né riempire senza fonte.
+Senape #812 e #4986 entrambe pubblicate, plant_id=807. Riletti i due testi e tutte le relazioni: #812 3 relazioni (#450 Duke, #456 Kew, #5515 caso clinico), #4986 9 relazioni (#3927–3931, #5511–5514), 2 fonti identiche (#808 Kew, #4979 caso clinico) e due record Duke distinti (#136/#4976 da riconciliare in audit fonti). #812 è approfondimento circoscritto alle ustioni, #4986 monografia generale con sezione ustioni e collegamenti reciproci nel testo. Sovrapposizione tematica, non doppione automaticamente eliminabile; conservare entrambe per ora, valutare differenziazione esplicita e canonical/SEO. Nessun trasferimento o cancellazione. Fonti citate rilette dai record, non ricollazionate integralmente in originale in questo lotto.
+Prossimo: restanti 88 candidati, quindi metadati dei 94 medicinali non candidati per escludere collegamenti non emersi da titolo; fonti e sicurezza P1/P2, riserve iconografiche ancora aperte.
