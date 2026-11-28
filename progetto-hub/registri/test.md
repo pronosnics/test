@@ -47,3 +47,6 @@ Rilettura #8775 draft, HTML identico GitHub 11522 caratteri, 7 H2 bilanciati, qu
 
 ## Lotto 14 — 28 novembre 2026
 Rilettura #8776 draft, HTML identico GitHub 9789 caratteri, 8 H2 bilanciati, 3 tabelle 4/5/7 righe, 28 URL distinti; Yoast dedicato conferma title/description. Featured media 0, rendering non verificato.
+
+## Lotto 15A — 28 novembre 2026
+DOM homepage bozza 32239 caratteri: sezione percorsi, sette specie, nessun link a Sukkot/cereali draft, sezione famiglie e contatore 70; URL famiglie presenti, non test HTTP. PHP 8.4.24 lint OK su copia con hash Git identico 62c3b556; 15 test simulati OK. Indice rilettura API identica; 10 destinazioni campionate corrispondenti. Footer modificato dopo verifica DOM. Plugin non installato, diagnostica reale e risoluzione completa non effettuate.
