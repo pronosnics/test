@@ -1949,3 +1949,6 @@ Cap. 10, filologia e medicina: sette passi e nove lemmi aggiunti, quattordici re
 
 
 - Cap.10 lotto 10.11f: abstract Shakiba sul giuggiolo ricollazionato; precisati 80/105/68 soggetti e limiti della co-terapia. #4271/#8693 aggiornate e rilette, #6368 conservata, audit 3/3. PDF 403, riserve integrale/protocollo/abbandoni mantenute; dossier, matrice e roadmap aggiornati. Piano amministrativo ancora pending; capitolo non chiuso.
+
+
+- Cap.10 lotto 10.11g: EMA 2016 assessment e 2022 addendum consultati nelle sezioni pertinenti, #670/#8553 aggiornate/rilette; RCT Gundelia abstract confermato, integrale 403. Piano 30/30 applicato 07:32:45 GMT e verificato campo per campo, #4156 assorbita, 239 relazioni attese post-fusione, gradi invariati. Audit locale 9/9; dossier/matrice aggiornati, residui bibliografici e tecnici conservati. Chiusura definitiva non dichiarata.
