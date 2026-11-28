@@ -28,3 +28,6 @@ Audit A.3 105 candidati/104 piante, 51 evidence_level vuoti, 9 narrativi, 37 sch
 
 ## Lotto 15A — 28 novembre 2026
 Tavole originali non realizzate, nessuna nuova certificazione scientifica. 168 destinazioni distinte da risolvere e controllare HTTP prima di pubblicare. Modulo non installato; 15 test simulati non equivalgono a collaudo WP. WPVibe quota esaurita; backup, mobile, tastiera, canonical, sitemap e rollback da verificare. Pacchetto 0.2.0 ancora da assemblare, non usare 0.1.0.
+
+## Lotto 15B — 28 novembre 2026
+Risolti i 3 errori di codifica, non riserve scientifiche. Tutti i 167 membri e 8 fonti distinte risolti via API, non HTTP pubblico. Backup reale, installazione, diagnostica WP, tavole tematiche, grafica e SEO/sitemap restano da collaudare. Nessun reset WPVibe consumato.
