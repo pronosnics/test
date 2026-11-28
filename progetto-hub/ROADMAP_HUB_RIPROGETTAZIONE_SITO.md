@@ -28,6 +28,7 @@
 | 15D.2-preflight | Copertina Sukkot | Bozza #8770 e cinque monografie rilette; selezione botanica e riserve documentate. | Generazione, revisione, ottimizzazione e associazione. |
 | 15D.2-tavola | Generazione e ottimizzazione Sukkot | PNG e WebP 1024×1536, WebP 368934 byte; revisione visiva e hash registrati. PUT bloccato da DNS. | Upload da browser e associazione #8770, poi 15D.3. |
 | 15D.2-associazione | Copertina Sukkot associata e preflight upload base64 | Attachment #8783 verificato su #8770, bozza conservata, ALT/titolo verificati, didascalia scritta non riletta. Test atlas-media-start su #8771 respinto; protocollo base64 prioritario, estensione pagine da predisporre. | Collaudare upload base64 per pagine senza modificare monografie, poi 15D.3 cereali e legumi. |
+| 15D-media | Estensione base64 per pagine hub | Modulo autonomo PDB Hub Media 0.1.0, 4 ability, sorgenti e test GitHub; lint PHP e 22/22 fixture OK; ZIP in Libreria. Plugin scientifico e tema invariati. | Installare modulo, verificare discovery e start/abort live, poi 15D.3 e primo upload reale con blocchi da 24000 byte. |
 
 ## Registri
 
