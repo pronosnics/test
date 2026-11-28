@@ -11,7 +11,8 @@ function pdbhub_slug_key($slug) { return strtolower(rawurlencode(rawurldecode((s
 function pdbhub_manifest() {
     static $manifest=null;
     if($manifest!==null) return $manifest;
-    $raw=file_get_contents(__DIR__.'/hub-manifest.json');
+    $file=__DIR__.'/hub-manifest.json';
+    $raw=is_readable($file)?file_get_contents($file):false;
     $parsed=$raw!==false?json_decode($raw,true):null;
     $manifest=is_array($parsed)&&isset($parsed['version'],$parsed['hubs'])&&$parsed['version']===1&&is_array($parsed['hubs'])?$parsed:array('hubs'=>array());
     return $manifest;
@@ -96,3 +97,17 @@ function pdbhub_diagnostic(){
     }
     echo '</div>';
 }
+
+add_filter('template_include',static function($template){
+    if(!is_page()) return $template;
+    $id=(int)get_queried_object_id();
+    $p=get_post($id);
+    if(!$p||$p->post_type!=='page') return $template;
+    $match=$id===(int)(pdbhub_manifest()['index_id']??0)&&$p->post_name==='percorsi-tematici';
+    if(!$match) foreach(pdbhub_manifest()['hubs'] as $hub){
+        if($id===(int)$hub['id']&&pdbhub_slug_key($p->post_name)===pdbhub_slug_key($hub['slug'])) { $match=true;break; }
+    }
+    if(!$match) return $template;
+    $layout=locate_template('page-templates/hub.php',false,false);
+    return $layout?:$template;
+},110);
