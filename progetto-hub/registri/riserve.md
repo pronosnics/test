@@ -4,3 +4,6 @@ Vale la [matrice completa degli apparati](../../grilli-caiola-bibbia/MATRICE_RIS
 
 ## Lotto 7 — 28 novembre 2026
 Non equiparare ḥiṭṭāh a specie/sottospecie esclusiva. Kussemeṯ distinto e controverso; miele/datteri interpretazione tradizionale. Restano riserve della revisione generale, test visuali/pubblici, modulo dinamico non installato e collegamenti inversi non attivi.
+
+## Lotto 8 — 28 novembre 2026
+Sukkot: non datare il significato originario di pərî ʿēṣ hādār dal polline persiano; non identificare salice rituale a specie esclusiva; Populus euphratica resta confronto e non quinta specie rituale; Neemia distinto da Levitico. Riserve delle monografie preservate. Restano tavola originale, test grafico, integrazione indice e modulo, controllo link HTTP prima della pubblicazione.
