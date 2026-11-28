@@ -1946,3 +1946,6 @@ Cap. 10, filologia e medicina: sette passi e nove lemmi aggiunti, quattordici re
 
 
 - Cap.10 lotto 10.11e: riletti 14/14 passi–lemmi #461–474, audit locale 18/18; Hepper reperito in cataloghi ma non in originale consultabile, testimonianza Włodarczyk 2007 distinta. Nove codici legacy verificati, Salvia palaestina assente come voce autonoma (non confondere con S. judaica); non rinumerato. Piano 30 operazioni ancora pending, nessuna modifica WP. Roadmap specifica e matrice aggiornate; riserve aperte.
+
+
+- Cap.10 lotto 10.11f: abstract Shakiba sul giuggiolo ricollazionato; precisati 80/105/68 soggetti e limiti della co-terapia. #4271/#8693 aggiornate e rilette, #6368 conservata, audit 3/3. PDF 403, riserve integrale/protocollo/abbandoni mantenute; dossier, matrice e roadmap aggiornati. Piano amministrativo ancora pending; capitolo non chiuso.
