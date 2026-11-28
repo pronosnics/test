@@ -57,3 +57,6 @@ Le registrazioni 10.3.6–10.4 finali si leggono nella roadmap di capitolo e nei
 
 
 **10.9** P1-L specie della corona indeterminata. P2-A integrale del trial e Hepper; P2-D verifica degli abbandoni, effetti assoluti e sicurezza a lungo termine; P3 HTTP.
+
+
+**10.10** P1-L Azeka, ʾāṭād e corona richiedono valutazioni distinte. P2-A Hepper e integrali dei singoli esperimenti non verificati; P2-D voucher, differenze fra estratti e condizioni di saggio. P3 HTTP. Medicina #8701.

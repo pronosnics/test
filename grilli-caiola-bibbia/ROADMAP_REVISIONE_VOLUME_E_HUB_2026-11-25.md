@@ -1928,3 +1928,6 @@ Capitolo 10.8 — Corrette morfologia e terminologia del frutto in #3252, tradot
 
 
 Capitolo 10.9 — Aggiornate #4269 e #4271 con etnobotanica e trial topico aggiuntivo alla clindamicina. Prossima Lycium.
+
+
+Capitolo 10, lotto 10.10. Pubblicata la medicina del licio #8701 e aggiornata la botanica #1990. Dieci dossier presenti. In corso il controllo trasversale 10.11.
