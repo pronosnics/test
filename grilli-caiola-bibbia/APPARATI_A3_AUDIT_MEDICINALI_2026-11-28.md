@@ -153,3 +153,15 @@ Livelli vuoti: #2152, #1177, #8670. Campi essenziali vuoti: #604 pdb_interaction
 
 
 **A.3 — medicinali, quinto gruppo (28/11/2026):** 10/10 candidati verificati live, tutti pubblicati, plant_id corretto; cumulativo 57/105. 82 relazioni bibliografiche, 82 coppie scheda–fonte distinte; nessun gruppo duplicato segnalato. 4 livelli evidenza vuoti (#6583,2152,1177,8670); 2 schede con campi sicurezza vuoti (#6583 controindicazioni/interazioni, #604 interazioni). Riletti estratti live Retama #2612 (caso Schmid 2006 di intossicazione neonatale, distinzione tossicità/efficacia), Boswellia #767 (non trasferire prove B. serrata), Cistus #1177 (EMA 2025 uso tradizionale delle parti aeree, non resina; dissenso e limiti tossicologici documentati), Pistacia lentiscus #604 (EMA 2016/addendum 2024, distinzione uso tradizionale e consolidato), Linum #8670 (metadati distinguono uso consolidato per stitichezza e tradizionale per lievi disturbi gastrointestinali, rischio ostruzione e ritardo assorbimento; livello da valutare per indicazione). Nessuna nuova collazione integrale delle fonti originali, nessuna modifica WordPress. [Audit medicinali](APPARATI_A3_AUDIT_MEDICINALI_2026-11-28.md). Prossimo sesto gruppo da #8332, 48 candidati residui e 94 non candidati, riserve precedenti mantenute.
+
+
+## Sesto gruppo metadati e relazioni, parte A (28/11/2026)
+5/5 associazioni candidate confermate, pubblicate. Lettura live atlas-get meta e atlas-relations source_citations. Relazioni non equivalgono a fonti distinte né a verifica delle fonti originali.
+| Medicina | Piante candidate nella riga | plant_id effettivo | Stato | Livello registrato | Campi essenziali vuoti | Relazioni | Fonti distinte |
+|---|---|---|---|---|---|---|---|
+| 8332 | 8330 | 8330 | publish | non valorizzato | pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions | 2 | 2 |
+| 2125 | 2114, 2129, 2134 | 2114 | publish | non valorizzato | nessuno | 1 | 1 |
+| 8342 | 2114, 2129, 2134 | 2129 | publish | non valorizzato | pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions | 1 | 1 |
+| 8338 | 2114, 2129, 2134 | 2134 | publish | non valorizzato | pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions | 2 | 2 |
+| 7188 | 2000 | 2000 | publish | non valorizzato | pdb_side_effects, pdb_interactions | 5 | 5 |
+Livelli vuoti: #8332, #2125, #8342, #8338, #7188. Campi essenziali vuoti: #8332 pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions; #8342 pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions; #8338 pdb_part, pdb_tradition, pdb_side_effects, pdb_contraindications, pdb_interactions; #7188 pdb_side_effects, pdb_interactions. Relazioni complessive: 11; possibili duplicati API: nessuno. Nessuna modifica WordPress. Cumulativo 62/105.
