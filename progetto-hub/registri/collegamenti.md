@@ -7,3 +7,6 @@ Rilettura delle destinazioni pubblicate #129,143,152,212,308,1834,5747,3953,6177
 
 ## Lotto 8 — 28 novembre 2026
 Bozza #8770: 24 URL distinti (22 interni, 2 esterni); destinazioni principali rilette via API, non test HTTP individuale. Nessun backlink da schede pubbliche alla bozza; collegamento a #778 e #2035 presente. Associazioni dinamiche da attivare solo dopo collaudo.
+
+## Lotto 9 — 28 novembre 2026
+33 URL distinti (30 interni, 3 DOI). Destinazioni botaniche e lemmi/passaggi riletti via API; nessun test HTTP individuale. Nessun backlink da pubblicati verso bozza. Integrare associazioni dinamiche al collaudo.
