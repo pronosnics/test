@@ -475,3 +475,26 @@ Cumulativo 90/113 ID tecnicamente verificati. Errori: nessuno.
 
 
 **A.3 — sesto gruppo media (28/11/2026):** 15/15 file locali verificati, tutti WebP, featured=plate=attachment, ALT e didascalia nonvuoti, SHA-256 distinti anche dai precedenti gruppi; cumulativo 90/113 (79,6%), 23 restanti. Riserva qualità #2040 oleandro 768×1152; #2494 Quercus coccifera orientamento orizzontale 1536×1024, valutare uniformità grafica senza sostituzione automatica. Riletta roadmap cap.8: papiro #427/#493 e platano #2336/#2337 già giudicati non conformi iconograficamente per scritte; le stesse immagini risultano tuttora attive, quindi sostituzioni in coda NON risolte dal controllo tecnico. Nessuna nuova verifica visiva né HTTP. Riletti QA, matrici Danin/Bailey e roadmap cap.7 per #3984 Ulmus e #3996 Urtica: nessun nuovo codice ATL esplicito; non inventare. Concordanza invariata 101/113 legacy, 12/113 operativi. Nessuna modifica WordPress. Prossimo gruppo di 15 e ultimo di 8, poi medicinali, iconografia e riserve. [Registro A.3](APPARATI_A3_REGISTRO_110_VOCI_2026-11-28.md). Piano #170, facsimile e altre riserve precedenti conservati.
+
+
+## A.3 — settimo gruppo media (28/11/2026)
+Rilettura live atlas-media-info full per 15 ID, 15 conformi per file locale, featured=plate=attachment, ALT, dimensioni e SHA-256. 0 corrispondenze SHA con i gruppi precedenti; 15 SHA distinti nel gruppo. Non verifica visiva né HTTP. Nessuna modifica WordPress.
+| WP | Media | Dimensioni | Byte | MIME | SHA256 |
+|---|---|---|---|---|---|
+| 2585 | 2588 | 1024×1536 | 507196 | image/webp | df805e94164f9ac04a3ac04c4b13717bc6d6f73df47b8334ed852fccc9742b29 |
+| 2639 | 2643 | 1024×1536 | 434888 | image/webp | 62275f8e782969175da33e464ef4676088f83495e05803ea8929a728e766358f |
+| 2689 | 2696 | 1024×1536 | 451564 | image/webp | ffd8c9db42fa2a408c7e61f6724a77ed9c49e85a0fe2c08d32540d5647cdf94a |
+| 2677 | 2679 | 1024×1536 | 453442 | image/webp | 55cb2c3639eb003dd97a551de583504015c14261340a32c7108bec4724546e52 |
+| 2708 | 2721 | 1024×1536 | 451384 | image/webp | bf0a03dbbef15e71dcc41d4893c04eca5dc896b52f3f8732e803395392018596 |
+| 2766 | 7398 | 1378×2560 | 536765 | image/jpeg | 82d103fd27abf7b56e0de73a6e1d0a029ac10099ea4c204697e7e50ae9fede84 |
+| 3016 | 3018 | 1024×1536 | 407772 | image/webp | 97aa157af013fa62ed4d232151dca69f4d25149a4b34aaac12e2470e97747988 |
+| 8677 | 8681 | 1024×1536 | 261312 | image/webp | dfb37944391e8f9b3eca53e355c87fd3ff125c650e64fdb9a3aa56d2f433dba3 |
+| 2441 | 2442 | 1024×1536 | 404626 | image/webp | 34c095c30fca98fd9344ca245a0be91278a6faa46a14d71d9f852bb18c58f63b |
+| 807 | 7391 | 1086×1448 | 268498 | image/webp | 9a695bc4860d9fab1fe40d06d4282feff336b9fde61730657ad8848ae3f45442 |
+| 367 | 8092 | 1024×1536 | 647540 | image/webp | 35f5a90cc2f54ade9f7c9524966e25955157a3168ddea07b046edb204fc129a0 |
+| 3561 | 3562 | 1024×1536 | 310284 | image/webp | 05baead75467c3f152081659ad7128dd721d2e9b8e77849551e96d63e8171df5 |
+| 6254 | 6256 | 960×1440 | 166634 | image/webp | 49ad2aaec1a9e47ebbf3ec581dabec4f24f3f8cbfcc695f6c5694f41fc724dcb |
+| 4269 | 4270 | 1024×1536 | 297336 | image/webp | c53655d8df0598b1b5eeafda46fc43abc505e41cc3a7d5c26a9f361e19302a7a |
+| 1990 | 1992 | 1024×1536 | 262620 | image/webp | 83b42c82124ad16ec483e4165ee94b53623556aeea4be275d9b08ff1bceb8c00 |
+Riserve tecniche: nessuna rilevata.
+Cumulativo 105/113 ID tecnicamente verificati. Errori: nessuno.
