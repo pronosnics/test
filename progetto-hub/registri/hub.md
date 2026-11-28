@@ -34,3 +34,6 @@ Creata bozza #8775 nomi-lingue-antiche-piante-bibbia. Letti concordanza A.2 e in
 
 ## Lotto 14 — 28 novembre 2026
 Creata bozza #8776 medicina-storica-piante-bibbia. Letti audit A.3 e matrice riserve; censimento live 100+98=198 schede medicinali pubblicate. Selezione 16 schede consultate in tre gruppi 4/5/7: storia, evidenze, tossicologia. Distinti riferimento biblico, tradizione, preclinica, clinica, valutazione regolatoria. Verificati riscontri esterni indicizzati Dafni–Böck 2019 e EMA Vitis/Myrrha. Sorgente lotto-14-medicina-storica/medicina-storica.html.
+
+## Lotto 15A — 28 novembre 2026
+Lotto 15A: manifesto esplicito 8 hub, 189 associazioni su 168 coppie tipo/slug distinte, derivato dagli href dei corpi effettivi. ID e slug pagine verificati via API. Indice #8767 aggiornato in draft con [pdb_hub_index]; copie prima/dopo in lotto-15-integrazione. Non pubblicato.
