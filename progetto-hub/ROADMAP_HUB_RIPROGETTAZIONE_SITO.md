@@ -32,6 +32,7 @@
 | 15D-media.1 | Primo collaudo live e correzione | Modulo 0.1.0 attivo, quattro ability rilevate; start #8771 respinto per permessi directory temporanea non privati, nessuna sessione/media creata. Patch 0.1.1: invalidazione stat cache, umask 0077, fallback directory WordPress solo fuori webroot, diagnostica modo; lint e 22/22 fixture OK. | Installare 0.1.1 e ripetere start/abort; non aggiornare core per questo test. |
 | 15D-media.2 | Compatibilità hosting: staging database | 0.1.1 attiva ma start #8771 respinto per permessi 0775. Modulo 0.1.2 con staging DB e checksum, lint e 24/24 fixture OK; sorgenti/test e ZIP archiviati. Nessuna modifica a contenuti/tema. | Installare 0.1.2, preflight live; poi 15D.3 e trasferimento reale. |
 | 15D-media.3 | Collaudo live 0.1.2 | Start #8771 riuscito, storage database, offset 0, remaining 368934, max chunk 49152, featured atteso 0; abort=true. Nessun allegato di prova. | 15D.3: generare e trasferire WebP reale, verifica SHA e featured. |
+| 15D.3 | Copertina cereali e legumi + collaudo end-to-end | #8788 associata a #8771 draft, 20 blocchi base64, 477892 byte, SHA256 identico, ALT/didascalia/titolo verificati, ponte rimosso; monografia #4117 immutata. PDB Hub Media 0.1.2 collaudato live. | 15D.4 spezie, aromi e resine; protocollo base64 prioritario. |
 
 ## Registri
 
