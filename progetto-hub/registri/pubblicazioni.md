@@ -7,3 +7,6 @@ Nessuna pubblicazione WordPress. Creata copia isolata WPVibe del tema attivo e s
 
 ## Lotto 4 — 28 novembre 2026
 Nessuna modifica live. Tre file di tema in bozza, salvati su GitHub.
+
+## Lotto 5 — 28 novembre 2026
+Nessuna pubblicazione WordPress; due file aggiornati nella bozza del tema.
