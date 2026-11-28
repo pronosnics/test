@@ -19,3 +19,6 @@ Aggiornata esclusivamente la pagina pubblica #778 (contenuto, non stato/slug/SEO
 
 ## Lotto 8 — 28 novembre 2026
 Creata esclusivamente bozza #8770, non pubblicata. Nessun cambio a tema, plugin, indice o monografie pubbliche.
+
+## Lotto 9 — 28 novembre 2026
+Creata solo bozza #8771; nessuna modifica a monografie, indice, tema o plugin pubblici.
