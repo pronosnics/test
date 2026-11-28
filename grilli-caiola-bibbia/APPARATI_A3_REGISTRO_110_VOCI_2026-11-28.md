@@ -472,3 +472,6 @@ Rilettura live atlas-media-info full per 15 ID, 15 conformi per file locale, fea
 | 2619 | 2627 | 1024×1536 | 409940 | image/webp | 17d9cf5e52e3c3a3c01783bd33e8f3fcdcd324bd804b4c990ba58963edf4e8d9 |
 Riserve tecniche: #2038/#2040: larghezza 768.
 Cumulativo 90/113 ID tecnicamente verificati. Errori: nessuno.
+
+
+**A.3 — sesto gruppo media (28/11/2026):** 15/15 file locali verificati, tutti WebP, featured=plate=attachment, ALT e didascalia nonvuoti, SHA-256 distinti anche dai precedenti gruppi; cumulativo 90/113 (79,6%), 23 restanti. Riserva qualità #2040 oleandro 768×1152; #2494 Quercus coccifera orientamento orizzontale 1536×1024, valutare uniformità grafica senza sostituzione automatica. Riletta roadmap cap.8: papiro #427/#493 e platano #2336/#2337 già giudicati non conformi iconograficamente per scritte; le stesse immagini risultano tuttora attive, quindi sostituzioni in coda NON risolte dal controllo tecnico. Nessuna nuova verifica visiva né HTTP. Riletti QA, matrici Danin/Bailey e roadmap cap.7 per #3984 Ulmus e #3996 Urtica: nessun nuovo codice ATL esplicito; non inventare. Concordanza invariata 101/113 legacy, 12/113 operativi. Nessuna modifica WordPress. Prossimo gruppo di 15 e ultimo di 8, poi medicinali, iconografia e riserve. [Registro A.3](APPARATI_A3_REGISTRO_110_VOCI_2026-11-28.md). Piano #170, facsimile e altre riserve precedenti conservati.
