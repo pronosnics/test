@@ -12,3 +12,7 @@ P. 248/PDF 244 e supplemento p. 289/PDF 285. Oppenheimer osserva che il giuggiol
 
 ### Verifica filologica e aggiornamento del 28 novembre
 Titolo SEO, descrizione e frase chiave riletti per #4269 e #4271. La distinzione fra G173 e G174 è registrata nei versetti pertinenti.
+
+
+### 10.11f — Verifica clinica differenziale, 28 novembre 2026
+Riletto abstract originale dell'editore https://www.tandfonline.com/doi/full/10.1080/09546634.2019.1692125 e PubMed PMID31760846. Metodi: 80 pazienti, 15–45 anni; risultati: 105 soggetti menzionati, 68 completamenti (33/35). Non dedurre 37 abbandoni né 105 randomizzati. ASI e TLC inferiori nel gruppo sperimentale alle settimane 6 e 8, p<0,001; nessun evento grave segnalato nell'abstract. Entrambi i gruppi ricevevano clindamicina 1%, nessuna prova di monoterapia o sicurezza prolungata. PDF editore 403, protocollo/registro non recuperati; integrale, effetti assoluti, flusso, abbandoni, voucher e sicurezza rimangono riserve. Aggiornate #4271 (contenuto, evidence_summary e data revisione) e #8693 (contenuto), readback positivo. Relazione #6368 riletta e conservata, nessuna duplicazione. Audit locale #4269/#4271/#8693 3/3 H1 unico, zero note candidate, ALT mancanti e warning. Nessun nuovo HTTP anonimo né cambio grado.
