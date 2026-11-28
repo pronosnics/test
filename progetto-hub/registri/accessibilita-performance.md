@@ -7,3 +7,6 @@ CSS homepage isolato, breakpoint 850/480px, focus visibile, form con label espli
 
 ## Lotto 4 — 28 novembre 2026
 Aggiunto tabindex=-1 al target skip link, label ricerca, menu mobile details, focus visibile, CSS responsive 1020/600px; verifica effettiva da completare.
+
+## Lotto 5 — 28 novembre 2026
+Icone SVG decorative aria-hidden, link contatori espliciti, immagini hero con sizes responsive, nessuna libreria aggiuntiva. Focus preesistente conservato. Verifica visiva reale della nuova revisione, tastiera e performance non completate.
